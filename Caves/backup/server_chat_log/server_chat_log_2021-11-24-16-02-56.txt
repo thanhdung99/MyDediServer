@@ -1,0 +1,1265 @@
+[00:30:22]: [Join Announcement] Momiji
+[00:33:15]: [Join Announcement] UTD
+[00:35:09]: [Say] (KU_hjXTct1p) UTD: má
+[00:35:18]: [Say] (KU_hjXTct1p) UTD: chắc qua wormwood trồng quá
+[00:35:28]: [Say] (KU_hjXTct1p) UTD: mà thôi
+[00:35:35]: [Say] (KU_hjXTct1p) UTD: xuân đổi sau
+[00:37:26]: [Join Announcement] 󰀉Potato󰀉
+[00:39:17]: [Say] (KU_hjXTct1p) UTD: sao m k chỉnh mod dũng
+[00:40:02]: [Say] (KU_hjXTct1p) UTD: s
+[00:40:49]: [Say] (KU_hjXTct1p) UTD: dunxg
+[00:40:56]: [Say] (KU_hjXTct1p) UTD: chỉnh thêm add bảng vào tủ lạnh đi
+[00:41:02]: [Say] (KU_hjXTctx_) Momiji: hết cà chua rồi
+[00:41:21]: [Say] (KU_hjXTct1p) UTD: m nghe t ns k đấy
+[00:41:29]: [Say] (KU_hjXTct1p) UTD: add vào còn dễ lựa hạt
+[00:41:32]: [Say] (KU_hjXTctx_) Momiji: lat chỉnh
+[00:41:42]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀐w
+[00:45:57]: [Say] (KU_hjXTctx_) Momiji: deff
+[00:46:57]: [Say] (KU_hjXTct1p) UTD: nấu ăn
+[00:47:06]: [Say] (KU_hjXTct1p) UTD: t def cho
+[00:47:11]: [Say] (KU_hjXTct1p) UTD:  (Hunger: 24/175) Time will catch up to me quickly if I don't eat right now!
+[00:47:39]: [Say] (KU_hjXTct1p) UTD: chó
+[00:48:00]: [Say] (KU_hjXTct1p) UTD: ychó lwar
+[00:48:02]: [Say] (KU_hjXTct1p) UTD: lua
+[00:49:11]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: choi reskin dau anh
+[00:49:14]: [Say] (KU_hjXTct1p) UTD:  I have a clean sweeper.
+[00:50:30]: [Say] (KU_hjXTct1p) UTD: ghê khum
+[00:50:36]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: dua choi dei
+[00:50:51]: [Say] (KU_hjXTct1p) UTD: đó
+[00:51:26]: [Say] (KU_hjXTctx_) Momiji: lấy hat giống giúp mình nha mấy bạn
+[00:51:36]: [Say] (KU_hjXTctx_) Momiji: thiếu một hat thanh long
+[00:51:41]: [Say] (KU_hjXTct1p) UTD: y=)))
+[00:52:08]: [Say] (KU_hjXTct1p) UTD: ykhoai iu
+[00:52:11]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j
+[00:52:14]: [Say] (KU_hjXTct1p) UTD: nấu cho anh gì ăn với
+[00:52:16]: [Say] (KU_hjXTct1p) UTD: đói ẻ
+[00:52:23]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: wet goop nhe
+[00:52:27]: [Say] (KU_hjXTct1p) UTD: -.-
+[00:52:29]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀍
+[00:52:37]: [Say] (KU_hjXTct1p) UTD: 󰀑
+[00:53:17]: [Say] (KU_hjXTct1p) UTD: làm farm là dễ
+[00:53:20]: [Say] (KU_hjXTct1p) UTD: ._.
+[00:53:27]: [Say] (KU_hjXTctx_) Momiji: bị 2 cây naỳh
+[00:53:35]: [Say] (KU_hjXTct1p) UTD: yko sao dau
+[00:53:38]: [Say] (KU_hjXTct1p) UTD: tin t
+[00:54:30]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: do an ne
+[00:54:40]: [Say] (KU_hjXTct1p) UTD: 󰀍
+[00:54:55]: [Say] (KU_hjXTct1p) UTD: đâu?
+[00:54:57]: [Say] (KU_hjXTct1p) UTD: ăn em hả
+[00:55:03]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ben kia duong
+[00:55:55]: [Say] (KU_hjXTct1p) UTD: yclm
+[00:55:58]: [Say] (KU_hjXTct1p) UTD: cái gì đây
+[00:56:05]: [Say] (KU_hjXTct1p) UTD: cc gì đây
+[00:56:10]: [Say] (KU_hjXTct1p) UTD: ystress 2?
+[00:56:17]: [Say] (KU_hjXTctx_) Momiji: thiếu phân
+[00:56:20]: [Say] (KU_hjXTct1p) UTD: ystress 3 ne`
+[00:56:37]: [Say] (KU_hjXTct1p) UTD: phân glom kìa
+[00:56:38]: [Say] (KU_hjXTct1p) UTD: k bón
+[00:56:54]: [Say] (KU_hjXTct1p) UTD: yhết trống
+[00:57:12]: [Say] (KU_hjXTct1p) UTD: t mượn cái trống
+[00:57:24]: [Say] (KU_hjXTct1p) UTD: ychơi trống chỗ này tí
+[00:57:37]: [Say] (KU_hjXTct1p) UTD: yokr
+[00:57:39]: [Say] (KU_hjXTct1p) UTD: ok r
+[00:57:43]: [Say] (KU_hjXTct1p) UTD: t check thooi
+[00:57:51]: [Say] (KU_hjXTct1p) UTD: t trồng mà k giant t nghỉ trồng
+[00:57:53]: [Say] (KU_hjXTct1p) UTD: =)))
+[00:58:15]: [Say] (KU_hjXTct1p) UTD: sao ở HA
+[00:58:22]: [Say] (KU_hjXTct1p) UTD: anh k thấy ai trồng kiểu này như anh
+[00:58:27]: [Say] (KU_hjXTctx_) Momiji: làm sao tắt cái đặt tượng9 á
+[00:58:33]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: phim R
+[00:58:37]: [Say] (KU_hjXTct1p) UTD: =)))
+[01:00:29]: [Say] (KU_hjXTctx_) Momiji: thu nha
+[01:00:37]: [Say] (KU_hjXTct1p) UTD: ok
+[01:01:03]: [Say] (KU_hjXTctx_) Momiji: thu hộ luon đi
+[01:01:22]: [Say] (KU_hjXTct1p) UTD: xong t dẫn khoai đi farm thịt đã
+[01:01:24]: [Say] (KU_hjXTct1p) UTD: hết thịt
+[01:01:28]: [Say] (KU_hjXTct1p) UTD: ăn chay quài mệt quá
+[01:01:51]: [Say] (KU_hjXTctx_) Momiji: xuống bò đi
+[01:02:00]: [Say] (KU_hjXTct1p) UTD: do bị già ba ơi
+[01:02:09]: [Say] (KU_hjXTct1p) UTD: già k làm việc nặng được
+[01:02:58]: [Say] (KU_hjXTct1p) UTD: khoai sang worm anh ping nef
+[01:03:03]: [Say] (KU_hjXTct1p) UTD: nhảy qua
+[01:03:08]: [Say] (KU_hjXTct1p) UTD: chiều farm nhện
+[01:03:18]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: oekw
+[01:03:45]: [Say] (KU_hjXTct1p) UTD: cái farm nhện anh ping đỏ
+[01:03:49]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: em bik rui
+[01:03:58]: [Say] (KU_hjXTct1p) UTD: 󰀍
+[01:04:00]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chieu em qua
+[01:04:15]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ve nha lay em cho cai hoa tang voi hach nhen dc k
+[01:04:21]: [Say] (KU_hjXTct1p) UTD: lấy đi
+[01:04:23]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: yem farm buom xiu
+[01:04:27]: [Say] (KU_hjXTct1p) UTD: yoke
+[01:04:48]: [Say] (KU_hjXTct1p) UTD: đưứg xa farm nhện đen thôi
+[01:04:50]: [Say] (KU_hjXTct1p) UTD: 25 ô
+[01:04:52]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: oek
+[01:04:56]: [Say] (KU_hjXTct1p) UTD: farm warrior k dc dau
+[01:06:03]: [Say] (KU_hjXTct1p) UTD: ne` em
+[01:08:34]: [Say] (KU_hjXTct1p) UTD: xin búa
+[01:08:34]: [Death Announcement] 󰀉Potato󰀉 was killed by Darkness. She became a spooky ghost!
+[01:08:45]: [Say] (KU_hjXTct1p) UTD: ơ kìa em
+[01:08:56]: [Resurrect Announcement] 󰀉Potato󰀉 was resurrected by Second Chance Watch.
+[01:09:15]: [Leave Announcement] 󰀉Potato󰀉
+[01:09:18]: [Say] (KU_hjXTct1p) UTD: -.-
+[01:09:24]: [Say] (KU_hjXTct1p) UTD: hết búa
+[01:09:35]: [Say] (KU_hjXTctx_) Momiji: bên trên
+[01:09:36]: [Say] (KU_hjXTct1p) UTD: cho cây búa
+[01:11:03]: [Say] (KU_hjXTct1p) UTD: thu hoạch 3 ngày
+[01:11:06]: [Say] (KU_hjXTct1p) UTD: =))) clm
+[01:11:14]: [Join Announcement] 󰀉Potato󰀉
+[01:11:28]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: duma
+[01:11:35]: [Say] (KU_hjXTct1p) UTD: em ms chết
+[01:11:38]: [Say] (KU_hjXTct1p) UTD: anh vừa cứu lên
+[01:11:47]: [Death Announcement] 󰀉Potato󰀉 was killed by Beefalo. She became a spooky ghost!
+[01:11:50]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: dkm
+[01:11:53]: [Say] (KU_hjXTct1p) UTD: =))) clm
+[01:12:02]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: anh dat nhieu to nhen qua may em lag =)))
+[01:12:03]: [Say] (KU_hjXTct1p) UTD: đợi tí
+[01:12:11]: [Say] (KU_hjXTct1p) UTD: ơ kìa =)))
+[01:12:17]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: clm khoc luon =))
+[01:12:44]: [Say] (KU_hjXTct1p) UTD: thôi k farm nữa =)))
+[01:12:52]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: dat gi ma dat lam =)))
+[01:12:57]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: thay gom
+[01:12:57]: [Say] (KU_hjXTct1p) UTD: 25 ổ
+[01:13:13]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chiu
+[01:13:19]: [Say] (KU_hjXTct1p) UTD: dũng dọn tí
+[01:13:20]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: bo tay
+[01:13:23]: [Say] (KU_hjXTct1p) UTD: t qua cứu khoai
+[01:13:24]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: hoi cham luon
+[01:14:27]: [Resurrect Announcement] 󰀉Potato󰀉 was resurrected by Second Chance Watch.
+[01:15:28]: [Say] (KU_hjXTct1p) UTD: yabi
+[01:15:46]: [Say] (KU_hjXTct1p) UTD: cho nó dữ lên
+[01:15:53]: [Say] (KU_hjXTct1p) UTD: chạy vô câu r chạy ra
+[01:15:56]: [Say] (KU_hjXTct1p) UTD: là xong :v
+[01:16:25]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: lag tiep r do :)))
+[01:16:34]: [Say] (KU_hjXTct1p) UTD: snág là hết
+[01:16:35]: [Say] (KU_hjXTct1p) UTD: =)))
+[01:16:53]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: dat farm nhen duoi hang di
+[01:16:57]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cho mat dat do lag
+[01:17:02]: [Say] (KU_hjXTct1p) UTD: =))) có lag đâu
+[01:17:03]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: anh tho bao la phai chia deu tai nguyen
+[01:17:07]: [Say] (KU_hjXTct1p) UTD: do em trụ k nổi á
+[01:17:12]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: bay gio chua lag nma sau nay no lag
+[01:17:19]: [Say] (KU_hjXTct1p) UTD: lúc đó anh dọn cho
+[01:17:21]: [Say] (KU_hjXTct1p) UTD: :v
+[01:17:21]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: loading mat dat no lau
+[01:17:36]: [Say] (KU_hjXTct1p) UTD: dưới đó cũng có farm
+[01:17:38]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: anh co grass k
+[01:17:41]: [Say] (KU_hjXTct1p) UTD:  I have a cut grass.
+[01:17:43]: [Say] (KU_hjXTct1p) UTD: :v
+[01:18:12]: [Say] (KU_hjXTct1p) UTD:  I have 86 monster meats, and this one has 82% freshness.
+[01:18:14]: [Say] (KU_hjXTct1p) UTD: hehe
+[01:18:24]: [Say] (KU_hjXTctx_) Momiji: kiếm vàng đi
+[01:18:28]: [Say] (KU_hjXTct1p) UTD: chest
+[01:18:41]: [Say] (KU_hjXTct1p) UTD: đá nhiệt kìa em
+[01:19:00]: [Say] (KU_hjXTct1p) UTD: lên rider rồi à
+[01:19:03]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ye
+[01:19:10]: [Say] (KU_hjXTct1p) UTD: dnũg
+[01:19:16]: [Say] (KU_hjXTct1p) UTD: sau cho clear hạch nhện nha
+[01:19:19]: [Say] (KU_hjXTct1p) UTD: farm ra đầy
+[01:20:36]: [Say] (KU_hjXTct1p) UTD: grass ne` em
+[01:20:42]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: oki
+[01:20:47]: [Say] (KU_hjXTct1p) UTD: chest ngoai` nay` nhiu`
+[01:25:43]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: klaus o day nha
+[01:25:50]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: o ben nay
+[01:25:53]: [Say] (KU_hjXTct1p) UTD: dau
+[01:26:01]: [Say] (KU_hjXTct1p) UTD: bên nhện hả
+[01:26:03]: [Say] (KU_hjXTct1p) UTD: vl
+[01:26:03]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: yeah
+[01:26:06]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: a ko
+[01:26:08]: [Say] (KU_hjXTct1p) UTD: ảo
+[01:26:09]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: o ben canh
+[01:26:12]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chu k phai o nhen
+[01:26:13]: [Say] (KU_hjXTct1p) UTD: a`
+[01:27:35]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: klaus o cho em ping
+[01:27:39]: [Say] (KU_hjXTct1p) UTD: oke em
+[01:27:42]: [Say] (KU_hjXTct1p) UTD: tí anh đánh
+[01:27:54]: [Say] (KU_hjXTct1p) UTD: dg tìm lại công thức nấu kem khoai
+[01:28:44]: [Say] (KU_hjXTct1p) UTD: xin 1 stack tỏi
+[01:29:09]: [Say] (KU_hjXTct1p) UTD: thôi
+[01:29:14]: [Say] (KU_hjXTct1p) UTD: hết tủ lạnh r :((
+[01:29:19]: [Say] (KU_hjXTct1p) UTD: đừng trồng nữa
+[01:29:29]: [Say] (KU_hjXTct1p) UTD: trồng tỏi đi
+[01:29:35]: [Say] (KU_hjXTct1p) UTD: t nấu kem khoai ăn
+[01:31:15]: [Say] (KU_hjXTctx_) Momiji: ăn bí ngô nữa không
+[01:31:21]: [Say] (KU_hjXTct1p) UTD: có
+[01:31:26]: [Say] (KU_hjXTct1p) UTD: lấy nuôi bò
+[01:31:28]: [Say] (KU_hjXTct1p) UTD: đỡ tốn
+[01:33:44]: [Say] (KU_hjXTctx_) Momiji: còn thối không
+[01:35:47]: [Say] (KU_hjXTctx_) Momiji: làm giúp cây kiếm bóng tối
+[01:35:57]: [Say] (KU_hjXTct1p) UTD: làm đi
+[01:36:02]: [Say] (KU_hjXTct1p) UTD: t i đánh klaus
+[01:36:08]: [Say] (KU_hjXTctx_) Momiji: khong có night mar
+[01:36:16]: [Say] (KU_hjXTct1p) UTD: nef
+[01:36:17]: [Say] (KU_hjXTct1p) UTD: ne`
+[01:36:20]: [Say] (KU_hjXTct1p) UTD: chest
+[01:36:54]: [Say] (KU_hjXTct1p) UTD: quên sáo r
+[01:37:00]: [Say] (KU_hjXTct1p) UTD: có gì qua hốt xác t
+[01:39:00]: [Join Announcement] 󰀉Rosé󰀈
+[01:39:10]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: hi rose iu
+[01:39:16]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hii khoai iuu
+[01:39:18]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀮 󰀍
+[01:40:24]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[01:40:25]: [Say] (KU_hjXTct1p) UTD: huhu
+[01:40:27]: [Say] (KU_hjXTct1p) UTD: cứu anh i
+[01:40:37]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: anh co grass kq
+[01:40:41]: [Say] (KU_hjXTct1p) UTD: co;
+[01:40:44]: [Say] (KU_hjXTct1p) UTD: co'
+[01:40:54]: [Say] (KU_hjXTct1p) UTD: sữa học xong chưa đó
+[01:41:02]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: dang dc giải lao nàa
+[01:41:21]: [Say] (KU_hjXTct1p) UTD: đổi bò anh tame cho đoạn k nà
+[01:41:29]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: khogg
+[01:41:40]: [Resurrect Announcement] UTD was resurrected by 󰀉Potato󰀉.
+[01:41:40]: [Say] (KU_hjXTct1p) UTD: đánh xong con đía nai húc chết
+[01:42:12]: [Say] (KU_hjXTct1p) UTD: k ra cmj
+[01:42:16]: [Say] (KU_hjXTct1p) UTD: như kít
+[01:42:36]: [Say] (KU_hjXTct1p) UTD: sữa iu
+[01:42:39]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: sao á
+[01:42:44]: [Say] (KU_hjXTct1p) UTD: anh có quà cho em nà
+[01:42:55]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: dìi ?;
+[01:43:31]: [Say] (KU_hjXTct1p) UTD: xịn k
+[01:43:38]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: khumm
+[01:43:42]: [Say] (KU_hjXTct1p) UTD: -.-
+[01:43:45]: [Say] (KU_hjXTct1p) UTD: nấu mệt lắm á
+[01:44:02]: [Say] (KU_hjXTct1p) UTD: rile up di khoai
+[01:44:09]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: farm tusk chưa á anh
+[01:44:16]: [Say] (KU_hjXTct1p) UTD: chua
+[01:44:28]: [Say] (KU_hjXTct1p) UTD: đánh đi em
+[01:44:59]: [Say] (KU_hjXTct1p) UTD: dũng
+[01:45:18]: [Say] (KU_hjXTct1p) UTD: mua` xuân trồng t ít tỏi nha
+[01:45:22]: [Say] (KU_hjXTct1p) UTD: t nấu kem khoai nă
+[01:45:26]: [Say] (KU_hjXTct1p) UTD: hồi sanity
+[01:49:09]: [Say] (KU_hjXTct1p) UTD:  We have 264 potatos in this ice box, and this one has 96% freshness.
+[01:49:17]: [Say] (KU_hjXTct1p) UTD: uar
+[01:49:20]: [Say] (KU_hjXTct1p) UTD: ủa
+[01:49:28]: [Say] (KU_hjXTct1p) UTD: ai lấy khoai của utb rồi
+[01:49:32]: [Say] (KU_hjXTct1p) UTD: 1 tủ mà >.<
+[01:51:22]: [Say] (KU_hjXTct1p) UTD: còn hạt k
+[01:51:28]: [Say] (KU_hjXTct1p) UTD: t phụ thêm ruộng nè
+[01:51:47]: [Say] (KU_hjXTct1p) UTD: t qua ww trồng luôn cho lẹ
+[01:52:53]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: anh oi
+[01:52:56]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cho xun vo choi nha
+[01:52:56]: [Say] (KU_hjXTct1p) UTD: ơi
+[01:52:59]: [Say] (KU_hjXTct1p) UTD: oki
+[01:53:51]: [Say] (KU_hjXTct1p) UTD: team mình dễ dãi mà
+[01:54:02]: [Say] (KU_hjXTct1p) UTD: k phá là cho hết =)))
+[01:54:08]: [Say] (KU_hjXTct1p) UTD: nai với chou vô phát cơm còn cho
+[01:54:16]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: nghi farm 1 hom di kiem hoa tang
+[01:54:23]: [Say] (KU_hjXTct1p) UTD: oki na`
+[01:54:29]: [Say] (KU_hjXTct1p) UTD: dũng
+[01:54:32]: [Say] (KU_hjXTct1p) UTD: còn hạt k
+[01:55:48]: [Join Announcement] Punchline Thanh Xuân
+[01:56:01]: [Say] (KU_hjXTct1p) UTD: tên dài ẻ chãi :v
+[01:56:05]: [Skin Announcement] 󰀉Potato󰀉 body_flannel_blue_snowbird
+[01:56:07]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀐
+[01:56:08]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: hi
+[01:56:11]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: híi
+[01:56:12]: [Say] (KU_hjXTct1p) UTD: hai xun
+[01:56:13]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ko
+[01:56:22]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀐
+[01:56:24]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀑
+[01:57:27]: [Say] (KU_hjXTct1p) UTD: clm
+[01:57:36]: [Say] (KU_hjXTct1p) UTD: xúc đâu r
+[02:01:06]: [Leave Announcement] 󰀉Rosé󰀈
+[02:01:11]: [Say] (KU_hjXTct1p) UTD: cj xun champ ruột wortox a`
+[02:01:24]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: moi con nay co skin dep =))
+[02:01:32]: [Say] (KU_hjXTct1p) UTD: =))))
+[02:01:34]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀐
+[02:01:36]: [Say] (KU_hjXTct1p) UTD: utd full skin wt
+[02:01:41]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ko phai khoe
+[02:01:43]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: im i
+[02:01:48]: [Say] (KU_hjXTct1p) UTD: champ guột
+[02:02:14]: [Say] (KU_hjXTctx_) Momiji: đợt này không có ruồi nên không cần def
+[02:02:21]: [Say] (KU_hjXTct1p) UTD: =)))
+[02:02:30]: [Say] (KU_hjXTct1p) UTD: nhìn t giống tính defhả
+[02:02:37]: [Say] (KU_hjXTct1p) UTD: t chỉ trồng phụ thôi
+[02:03:26]: [Say] (KU_hjXTct1p) UTD: k có phân trồng full bí ngô
+[02:03:28]: [Say] (KU_hjXTct1p) UTD: nuôi bò
+[02:03:45]: [Say] (KU_hjXTctx_) Momiji: bí ngô thì đi kiếm lọ đi
+[02:03:48]: [Say] (KU_hjXTct1p) UTD: trồng như này ít quá
+[02:03:57]: [Say] (KU_hjXTct1p) UTD: lười đi biển lắm
+[02:04:57]: [Say] (KU_hjXTctx_) Momiji: bên này bị 1 cây bí ngô
+[02:05:12]: [Say] (KU_hjXTct1p) UTD: do m trồng muộn
+[02:05:13]: [Say] (KU_hjXTctx_) Momiji: trồng sai cahc1
+[02:05:20]: [Say] (KU_hjXTct1p) UTD: nên tạch
+[02:05:48]: [Say] (KU_hjXTct1p) UTD: gosu làm vườn mà hồi vừa rồi bị 2 cây r nha
+[02:08:58]: [Say] (KU_hjXTct1p) UTD: ai thấy hạt giống nhặt với nha
+[02:09:04]: [Say] (KU_hjXTct1p) UTD: chưa ra hạt thanh long nữa :v
+[02:11:24]: [Skin Announcement] Punchline Thanh Xuân legs_shorts_black_scribble
+[02:11:44]: [Say] (KU_hjXTct1p) UTD: kệ cây kia đi
+[02:11:49]: [Say] (KU_hjXTct1p) UTD: mới phase 2
+[02:11:51]: [Say] (KU_hjXTct1p) UTD: bỏ
+[02:12:00]: [Say] (KU_hjXTct1p) UTD: tốn thời gian
+[02:12:37]: [Say] (KU_hjXTct1p) UTD: bỏ qua mấy tủ này
+[02:12:44]: [Say] (KU_hjXTct1p) UTD: bí ngô ấy
+[02:12:45]: [Say] (KU_hjXTct1p) UTD:  We have 17 pumpkins in this ice box, and this one has 100% freshness.
+[02:12:51]: [Say] (KU_hjXTct1p) UTD: base full tủ r
+[02:13:43]: [Say] (KU_hjXTct1p) UTD: base full tủ lạnh rồi
+[02:13:50]: [Say] (KU_hjXTct1p) UTD: lấy bí ngô cất ngoài này đi
+[02:13:53]: [Say] (KU_hjXTct1p) UTD: ai tame bò
+[02:13:56]: [Say] (KU_hjXTct1p) UTD: thì ra lấy sau
+[02:14:04]: [Say] (KU_hjXTct1p) UTD: bí ngô đâu ai ăn đâu mà
+[02:15:56]: [Say] (KU_hjXTct1p) UTD: á chết
+[02:16:01]: [Say] (KU_hjXTct1p) UTD: k ai farm tusk
+[02:16:50]: [Say] (KU_hjXTct1p) UTD: cj xun k theo khoai lấy soul
+[02:17:04]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: thoi soul nay du dung r
+[02:17:09]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: con 3 cai
+[02:17:16]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 3 cai ma du dung ha =))
+[02:17:17]: [Say] (KU_hjXTct1p) UTD: =)))
+[02:19:15]: [Say] (KU_hjXTct1p) UTD:  I have a tam o' shanter with 100% durability.
+[02:19:19]: [Say] (KU_hjXTct1p) UTD: ehehe
+[02:20:13]: [Leave Announcement] UTD
+[02:23:58]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: vl co con varg o day ha
+[02:24:03]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =))
+[02:24:06]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: em moi kiem do
+[02:24:14]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: a dan no ve base nhe
+[02:24:18]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chi z
+[02:24:23]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: bi khung ha
+[02:24:28]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: de giet =))
+[02:24:34]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =)) de em chay ra
+[02:24:35]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cho em ti
+[02:24:37]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: dung do diw
+[02:28:34]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: con nay de qua
+[02:28:38]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =))
+[02:36:01]: [Join Announcement] 󰀉Rosé󰀈
+[02:37:06]: [Join Announcement] UTD
+[02:38:28]: [Say] (KU_hjXTct1p) UTD: cj xun ơi
+[02:38:32]: [Say] (KU_hjXTct1p) UTD:  (󰀍 37/150) Help, friends!
+[02:38:47]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: khoai iu có cane chưaa
+[02:38:51]: [Say] (KU_hjXTctx_) Momiji: con này hơi khó hoio26 máu
+[02:38:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: khoai chua
+[02:39:04]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ca map co moi 1 nha tusk thoi ha
+[02:39:07]: [Say] (KU_hjXTct1p) UTD: ye
+[02:39:11]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀐
+[02:39:15]: [Say] (KU_hjXTct1p) UTD: xun ơi
+[02:39:20]: [Say] (KU_hjXTct1p) UTD: bơm cho utd i
+[02:39:21]: [Say] (KU_hjXTct1p) UTD:  (󰀍 37/150) Help, friends!
+[02:39:28]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: lay spider gland heal di =))
+[02:39:31]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: nha du vl
+[02:39:32]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =))
+[02:39:33]: [Say] (KU_hjXTct1p) UTD: =)))
+[02:39:34]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: nau an di
+[02:39:38]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: nha thua do an luon
+[02:39:41]: [Say] (KU_hjXTct1p) UTD: xun buff nhanh hơn
+[02:39:43]: [Say] (KU_hjXTct1p) UTD: á
+[02:39:47]: [Say] (KU_hjXTct1p) UTD: tusk
+[02:39:56]: [Say] (KU_hjXTct1p) UTD: =))) làm tele wanda cho r
+[02:40:11]: [Leave Announcement] Momiji
+[02:42:41]: [Death Announcement] Punchline Thanh Xuân was killed by Freezing. He became a spooky ghost!
+[02:42:45]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: goy song
+[02:42:48]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j z tr
+[02:42:53]: [Say] (KU_hjXTct1p) UTD: =)))
+[02:43:07]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: xun  afk ha
+[02:43:08]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =))
+[02:43:28]: [Say] (KU_hjXTct1p) UTD: bí ngô dũng bỏ đâu ta
+[02:43:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉:  There are 453 Spider Glands in the area.
+[02:44:07]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉:  There are 284 Silks in the area.
+[02:44:11]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: thay gum'
+[02:44:15]: [Say] (KU_hjXTct1p) UTD: y=)))
+[02:45:48]: [Leave Announcement] 󰀉Potato󰀉
+[02:46:02]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: damn dau bung qua phai chay =))
+[02:46:06]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: quen mat chua out
+[02:46:07]: [Say] (KU_hjXTct1p) UTD: =))) gớm
+[02:46:26]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: mn co bi tru nao  k =))
+[02:46:34]: [Say] (KU_hjXTct1p) UTD:  I have a tam o' shanter with 98% durability.
+[02:46:36]: [Say] (KU_hjXTct1p) UTD: =)))
+[02:47:17]: [Resurrect Announcement] Punchline Thanh Xuân was resurrected by Life Giving Amulet.
+[02:47:28]: [Leave Announcement] 󰀉Rosé󰀈
+[02:49:18]: [Join Announcement] 󰀉Rosé󰀈
+[02:49:43]: [Say] (KU_hjXTct1p) UTD: 68 ùi nà
+[02:49:59]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: sắp xuân luôn rr
+[02:50:08]: [Say] (KU_hjXTct1p) UTD: qua xuân là chắc
+[02:50:12]: [Say] (KU_hjXTct1p) UTD: làm mũ i
+[02:50:18]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: có ùi
+[02:50:37]: [Say] (KU_hjXTct1p) UTD: cute k
+[02:50:41]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: khumm
+[02:50:48]: [Say] (KU_hjXTct1p) UTD: cute mà
+[02:50:58]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: gúmmm
+[02:51:32]: [Say] (KU_hjXTct1p) UTD:  We have 100 pumpkins in this ice box, and this one has 88% freshness.
+[02:54:32]: [Say] (KU_hjXTct1p) UTD: cj xun đánh boss mới k?
+[02:54:44]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: k biết đánh =)))
+[02:54:56]: [Say] (KU_hjXTct1p) UTD: đánh con 5k hui
+[02:55:02]: [Say] (KU_hjXTct1p) UTD: làm quen :v
+[02:55:04]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ok choi
+[02:55:06]: [Say] (KU_hjXTct1p) UTD: rồi sau đánh con 10k
+[02:55:09]: [Say] (KU_hjXTct1p) UTD: oki tối đánh
+[02:56:45]: [Join Announcement] Thỏ Nâu
+[02:57:28]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko ca nha
+[02:57:32]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: híii
+[02:57:33]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: hekko
+[02:57:33]: [Say] (KU_hjXTct1p) UTD: k hello
+[02:57:44]: [Say] (KU_LI3oE69O) Thỏ Nâu: ?
+[02:58:03]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: utd ru di danh boss
+[02:58:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: quánh nhao hả
+[02:58:24]: [Say] (KU_hjXTct1p) UTD: tối ra đây quánh
+[02:58:30]: [Say] (KU_LI3oE69O) Thỏ Nâu: để lấu há cẻo
+[02:58:31]: [Say] (KU_LI3oE69O) Thỏ Nâu: bye
+[02:58:36]: [Say] (KU_hjXTct1p) UTD: ơ kìa
+[02:58:43]: [Say] (KU_hjXTct1p) UTD: nó triệu hồi trong nhà đó
+[02:58:45]: [Say] (KU_hjXTct1p) UTD: =)))
+[02:58:47]: [Say] (KU_hjXTct1p) UTD: ra đây i
+[02:58:49]: [Say] (KU_LI3oE69O) Thỏ Nâu: clgv
+[02:59:01]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ra day cho cai giap
+[02:59:15]: [Say] (KU_LI3oE69O) Thỏ Nâu: ua
+[02:59:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: xu ?
+[02:59:26]: [Say] (KU_hjXTct1p) UTD: ye
+[02:59:29]: [Say] (KU_LI3oE69O) Thỏ Nâu: vkl
+[02:59:37]: [Say] (KU_hjXTct1p) UTD: mở lên i xun
+[02:59:48]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cj xun soloo
+[02:59:51]: [Say] (KU_hjXTct1p) UTD: xun solo :v
+[02:59:53]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ok
+[02:59:57]: [Say] (KU_LI3oE69O) Thỏ Nâu: xu muon nam
+[03:00:00]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: con nay dap chac 3 cai
+[03:00:01]: [Announcement] You feel an evil presence watching you...
+[03:00:11]: [Announcement] The Eye of Terror turns its gaze toward Punchline Thanh Xuân
+[03:00:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: hóa ga cục đó là terra hả
+[03:00:40]: [Say] (KU_hjXTct1p) UTD: ye
+[03:00:49]: [Say] (KU_LI3oE69O) Thỏ Nâu: bữa thấy hay hay bấm zô
+[03:01:33]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ua 2 ng kia
+[03:01:36]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: danh cung coi
+[03:01:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: chị em toy chỉ việc đẹp th
+[03:01:58]: [Say] (KU_LI3oE69O) Thỏ Nâu: mấy ông lo i
+[03:02:04]: [Say] (KU_hjXTct1p) UTD: =)))
+[03:02:08]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: zui
+[03:02:10]: [Say] (KU_hjXTct1p) UTD: cho xun á
+[03:02:15]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: uay
+[03:02:17]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: cam on
+[03:02:24]: [Say] (KU_hjXTct1p) UTD: biết xài r chứ
+[03:02:26]: [Say] (KU_hjXTct1p) UTD: :v
+[03:02:36]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: uầy nhìn ngầu z
+[03:02:43]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: xài sao =))
+[03:02:50]: [Say] (KU_hjXTct1p) UTD: Như mũ da lợn
+[03:02:57]: [Say] (KU_hjXTct1p) UTD: nhưng xài dồ ăn
+[03:03:00]: [Say] (KU_hjXTct1p) UTD: Feed dc
+[03:03:05]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ywow
+[03:03:07]: [Say] (KU_hjXTct1p) UTD: kiểu giáp xương nạp nf
+[03:03:16]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: xịn xịn
+[03:03:27]: [Say] (KU_hjXTct1p) UTD: yhết % nó vẫn vỡ nha :v
+[03:03:37]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: oke
+[03:03:49]: [Say] (KU_hjXTct1p) UTD: rose iu
+[03:03:53]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 81 r kh cho ăn nữa hãa
+[03:03:53]: [Say] (KU_hjXTct1p) UTD: đánh tusk i
+[03:03:56]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em đánh r
+[03:03:57]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: nấu món mì ý đi thỏ
+[03:04:04]: [Say] (KU_hjXTct1p) UTD: cho ăn nhưng k cho quá 100
+[03:04:21]: [Say] (KU_hjXTct1p) UTD: cho nhiều quá nó lố ngày nó thành bò béo á
+[03:04:28]: [Say] (KU_LI3oE69O) Thỏ Nâu: doi ti dang nau thit de em mang di an
+[03:04:32]: [Say] (KU_hjXTct1p) UTD: cứ cho ăn tầm 50
+[03:04:36]: [Say] (KU_hjXTct1p) UTD: giữ hunger nó 50
+[03:04:40]: [Say] (KU_hjXTct1p) UTD: cho mau lên tame
+[03:04:57]: [Say] (KU_LI3oE69O) Thỏ Nâu: mi y nau nnao
+[03:05:18]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: cà chua, thịt bò
+[03:05:23]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: mua mì chưa?
+[03:05:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: clgv sao deerclop lai o day
+[03:06:28]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ơ hay
+[03:06:47]: [Say] (KU_hjXTct1p) UTD: vl xun :v
+[03:06:56]: [Say] (KU_hjXTct1p) UTD: mất mũ giaá r
+[03:07:00]: [Say] (KU_hjXTct1p) UTD: xài 1 ngày =)))
+[03:07:04]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ơ vl =))
+[03:07:10]: [Say] (KU_LI3oE69O) Thỏ Nâu: ngu'
+[03:07:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: em muon di farm cai gi qua
+[03:07:23]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: vỡ nhanh tekk
+[03:07:24]: [Say] (KU_LI3oE69O) Thỏ Nâu: can gi k
+[03:07:28]: [Say] (KU_hjXTct1p) UTD: ngang mũ da lợn
+[03:07:30]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: xây lại tủ lạnh nè anh ;
+[03:07:36]: [Say] (KU_hjXTct1p) UTD: xun tank 6-7 hit deer
+[03:07:40]: [Say] (KU_hjXTct1p) UTD: lại chả vỡ
+[03:07:46]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: móa quen tay
+[03:07:53]: [Say] (KU_hjXTct1p) UTD: ơ kè
+[03:07:57]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: bth xây 2 cái trại lửa rồi cứ thế đập =))
+[03:08:01]: [Say] (KU_hjXTct1p) UTD: dọn đồ ăn ra i
+[03:09:38]: [Say] (KU_hjXTct1p) UTD: r xong
+[03:09:41]: [Say] (KU_hjXTct1p) UTD: lo đánh boss
+[03:09:47]: [Say] (KU_hjXTct1p) UTD: quên chơi nhạc
+[03:09:53]: [Say] (KU_hjXTct1p) UTD: teo mất 1 line r
+[03:10:38]: [Say] (KU_hjXTct1p) UTD: xong mùa xuân vẫn k có hạt thanh long nào
+[03:10:42]: [Say] (KU_hjXTct1p) UTD: ye =)))
+[03:11:32]: [Join Announcement] Momiji
+[03:11:45]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: lam gi z tr
+[03:11:49]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: tame bò ;
+[03:11:57]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: oh =))
+[03:11:57]: [Say] (KU_hjXTctx_) Momiji: cho nó thành bò chiến ấy
+[03:12:02]: [Say] (KU_hjXTct1p) UTD: ko
+[03:12:09]: [Say] (KU_hjXTct1p) UTD: đang trung hòa lại nó
+[03:12:18]: [Say] (KU_hjXTct1p) UTD: nó dg theo huớng rider
+[03:12:29]: [Say] (KU_hjXTct1p) UTD: giờ cho nó đánh để trung hòa lại
+[03:13:06]: [Say] (KU_hjXTct1p) UTD: tame nhanh còn đi clear ruins
+[03:13:10]: [Say] (KU_hjXTct1p) UTD: tủ lạnh thiếu thốn
+[03:13:20]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: oki dc ùii
+[03:13:32]: [Say] (KU_hjXTct1p) UTD: giờ cứ cho ăn 50 hunger
+[03:13:35]: [Say] (KU_hjXTct1p) UTD: rồi chải lông
+[03:13:52]: [Say] (KU_LI3oE69O) Thỏ Nâu: dot cay kieu gi
+[03:13:58]: [Say] (KU_hjXTct1p) UTD: làm đuốc
+[03:14:02]: [Say] (KU_LI3oE69O) Thỏ Nâu: ỷ
+[03:14:03]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: con bò kiểu thấy mình ra húc 1 cái r chạy
+[03:14:07]: [Say] (KU_LI3oE69O) Thỏ Nâu: r
+[03:14:12]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: rất ngứa đòn
+[03:14:19]: [Say] (KU_hjXTct1p) UTD: =)))
+[03:14:23]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nó đang tới mùa r ;
+[03:14:27]: [Say] (KU_hjXTct1p) UTD: để xây 1 khu cho dân tame bò
+[03:14:34]: [Say] (KU_hjXTct1p) UTD: bỏ mỗi bí ngô trong tủ lạnh
+[03:15:03]: [Say] (KU_hjXTct1p) UTD: trồng tỏi i
+[03:15:47]: [Say] (KU_hjXTct1p) UTD: bỏ tạm tủ ngoài
+[03:15:51]: [Say] (KU_hjXTct1p) UTD: tủ nào trống thì bỏ vô
+[03:15:55]: [Say] (KU_hjXTct1p) UTD: chứ trong kia full r
+[03:16:16]: [Say] (KU_hjXTct1p) UTD: hạt thừa vứt đây làm rot
+[03:16:18]: [Say] (KU_hjXTctx_) Momiji: bỏ đó cho thành rot
+[03:17:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: còn da lợn k a
+[03:17:19]: [Say] (KU_hjXTct1p) UTD: con`
+[03:17:32]: [Say] (KU_hjXTctx_) Momiji: đặt sao ngay chỗ này có bị cháy không
+[03:17:45]: [Say] (KU_hjXTct1p) UTD: ym phải đặt sát cột thu lôi
+[03:17:54]: [Say] (KU_LI3oE69O) Thỏ Nâu: em xin miếng với sắp chếc ướt r
+[03:18:01]: [Say] (KU_hjXTct1p) UTD: chó nè
+[03:18:17]: [Say] (KU_hjXTct1p) UTD: leo lnê
+[03:18:23]: [Say] (KU_hjXTct1p) UTD: r keu abi ra
+[03:20:01]: [Say] (KU_hjXTct1p) UTD: có mất máu đâu
+[03:20:06]: [Say] (KU_LI3oE69O) Thỏ Nâu: uot qua
+[03:20:07]: [Say] (KU_LI3oE69O) Thỏ Nâu: dkm
+[03:20:11]: [Say] (KU_hjXTct1p) UTD: ô nè
+[03:20:18]: [Say] (KU_hjXTct1p) UTD: chou ngu'
+[03:20:26]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: cái máy chề đố đâu nhỉ
+[03:20:34]: [Say] (KU_hjXTct1p) UTD: ne`
+[03:20:47]: [Skin Announcement] Punchline Thanh Xuân body_tshirt_blue_cerulean
+[03:21:00]: [Say] (KU_hjXTct1p) UTD: chou
+[03:21:10]: [Say] (KU_hjXTct1p) UTD: ăn cái này đi
+[03:21:37]: [Say] (KU_hjXTct1p) UTD: cái này
+[03:21:41]: [Say] (KU_hjXTct1p) UTD: ăn vào
+[03:21:49]: [Say] (KU_hjXTct1p) UTD: dưới chân em
+[03:22:04]: [Say] (KU_hjXTct1p) UTD: đội cái này
+[03:22:08]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ra ngôi sao đứng hồi não này
+[03:22:17]: [Say] (KU_LI3oE69O) Thỏ Nâu: ngoi sao nao
+[03:22:18]: [Say] (KU_hjXTct1p) UTD: đội vào
+[03:22:42]: [Say] (KU_hjXTct1p) UTD: xây bếp đây momi
+[03:22:43]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: dang gan vao
+[03:22:52]: [Say] (KU_LI3oE69O) Thỏ Nâu: ê sao con bò của em nhảy xuống là nó chạy  chuồng v
+[03:23:08]: [Say] (KU_hjXTct1p) UTD: em k mang chuông nó theo trong ng
+[03:23:37]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: soul con này nó ko hồi máu cho bò à
+[03:23:41]: [Say] (KU_hjXTct1p) UTD: ko :v
+[03:23:47]: [Say] (KU_hjXTct1p) UTD: lấy cà chua nướng lên cho bò ăn
+[03:23:56]: [Say] (KU_hjXTct1p) UTD: 15 trái là full
+[03:24:02]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: ai cũng cưỡi bò thế này t phế à =))
+[03:24:09]: [Say] (KU_hjXTct1p) UTD: =)))
+[03:24:11]: [Say] (KU_hjXTct1p) UTD: đâu
+[03:24:16]: [Say] (KU_hjXTct1p) UTD: utd tí chơi con khác
+[03:24:22]: [Say] (KU_hjXTct1p) UTD: wanda =))) xun vẫn phế
+[03:24:25]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: #restart
+[03:24:35]: [Say] (KU_hjXTct1p) UTD: thì xun đổi nv đi
+[03:24:38]: [Say] (KU_hjXTct1p) UTD: =)))
+[03:24:40]: [Join Announcement] UTB
+[03:24:42]: [Say] (KU_hjXTctx_) Momiji: het thang
+[03:24:44]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: =))
+[03:24:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: doi ti diem danh da
+[03:24:54]: [Say] (KU_LI3oE69O) Thỏ Nâu: dang hoc
+[03:25:03]: [Say] (KU_hjXTct1p) UTD: đốt cái rừng đang trồng đi momi
+[03:25:22]: [Say] (KU_hjXTct1p) UTD: anh wiona day
+[03:25:28]: [Say] (KU_hjXTct1p) UTD: lam` def cho'
+[03:25:33]: [Say] (KU_hjXTct1p) UTD: à ko
+[03:25:39]: [Say] (KU_hjXTct1p) UTD: farm chó trước
+[03:25:41]: [Say] (KU_hjXTct1p) UTD: =)))
+[03:26:26]: [Say] (KU_LI3oE69O) Thỏ Nâu: chuông là cgi
+[03:26:31]: [Say] (KU_hjXTct1p) UTD: y=)))
+[03:26:31]: [Say] (KU_hjXTct1p) UTD: vl
+[03:26:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: hqua ké bò của rose cũng có chuông
+[03:26:42]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhma con của em là clg
+[03:26:52]: [Say] (KU_hjXTct1p) UTD: xuống xem nó chạy đi đâu
+[03:26:59]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: chế cái chuông r ném vào mặt nó là theo
+[03:27:02]: [Say] (KU_hjXTct1p) UTD: chuông n ósẽ ở đó
+[03:27:08]: [Say] (KU_LI3oE69O) Thỏ Nâu: ok
+[03:27:34]: [Say] (KU_hjXTctx_) Momiji: cần làm bột tỏi không
+[03:27:50]: [Say] (KU_hjXTct1p) UTD: ko
+[03:27:52]: [Say] (KU_hjXTct1p) UTD: à có
+[03:27:54]: [Say] (KU_hjXTct1p) UTD: mà ít thôi
+[03:27:57]: [Say] (KU_hjXTct1p) UTD: ướp kẹo
+[03:28:18]: [Say] (KU_hjXTctx_) Momiji: ướp kẹo thì lấy muối đi
+[03:28:19]: [Say] (KU_cPYKIGZJ) Punchline Thanh Xuân: thoi t out an com
+[03:28:30]: [Say] (KU_hjXTct1p) UTD: oke bai xun
+[03:28:33]: [Say] (KU_hjXTctx_) Momiji: tỏi cho perogi
+[03:28:38]: [Leave Announcement] Punchline Thanh Xuân
+[03:28:39]: [Say] (KU_hjXTct1p) UTD: phí
+[03:28:46]: [Say] (KU_hjXTct1p) UTD: 1 phần tỏi dc nửa ngày
+[03:28:51]: [Say] (KU_hjXTct1p) UTD: cho kẹo ngon hơn
+[03:29:00]: [Say] (KU_LI3oE69O) Thỏ Nâu: đi ra má che cái nồi r sao nấu
+[03:29:03]: [Say] (KU_hjXTct1p) UTD: perogi ăn liên tục mà
+[03:29:18]: [Say] (KU_hjXTct1p) UTD: cc gi` day
+[03:29:25]: [Say] (KU_hjXTctx_) Momiji: vấn đề m dùng stack được 2 món
+[03:29:27]: [Say] (KU_hjXTct1p) UTD: 3 con moose
+[03:29:34]: [Say] (KU_hjXTctx_) Momiji: giảm 60% dame rồi
+[03:29:38]: [Say] (KU_hjXTct1p) UTD: chứ m ăn 1 kẹo
+[03:29:44]: [Say] (KU_hjXTct1p) UTD: ko có ba
+[03:29:51]: [Say] (KU_hjXTct1p) UTD: nó k cộng dồn
+[03:30:05]: [Say] (KU_hjXTctx_) Momiji: ăn kẹo muối rồi perogi tỏi
+[03:30:18]: [Say] (KU_hjXTct1p) UTD: m cứ ướp tỏi kẹo đi
+[03:30:26]: [Say] (KU_hjXTct1p) UTD: wolfgang đi ruins mang theo
+[03:30:31]: [Say] (KU_hjXTct1p) UTD: clear ruins còn dc
+[03:31:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: di cau ca day
+[03:31:50]: [Say] (KU_hjXTct1p) UTD: lại hết đá
+[03:31:52]: [Say] (KU_hjXTct1p) UTD: vl
+[03:32:01]: [Say] (KU_hjXTct1p) UTD: ??? chưa xây đã hết
+[03:32:12]: [Say] (KU_hjXTctx_) Momiji: để lại t với
+[03:32:24]: [Say] (KU_hjXTct1p) UTD: sợ k đủ xây đây này
+[03:32:44]: [Say] (KU_hjXTct1p) UTD: rose
+[03:32:51]: [Leave Announcement] 󰀉Rosé󰀈
+[03:33:03]: [Say] (KU_54sjc_a8) UTB: kiu cai' out luon =))
+[03:33:10]: [Say] (KU_hjXTct1p) UTD: -.-
+[03:33:14]: [Join Announcement] 󰀉Potato󰀉
+[03:33:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko khoi
+[03:33:33]: [Say] (KU_hjXTct1p) UTD: livinglog dau
+[03:33:36]: [Say] (KU_hjXTct1p) UTD: clm
+[03:33:44]: [Say] (KU_LI3oE69O) Thỏ Nâu: hết lai búp r
+[03:33:46]: [Say] (KU_hjXTct1p) UTD: living log đâu r
+[03:33:47]: [Say] (KU_hjXTctx_) Momiji: hình như trên farm
+[03:33:54]: [Say] (KU_LI3oE69O) Thỏ Nâu: trong tủ lạnh k còn
+[03:36:39]: [Say] (KU_hjXTct1p) UTD: utb
+[03:36:44]: [Say] (KU_hjXTct1p) UTD: có vàng k
+[03:36:44]: [Say] (KU_54sjc_a8) UTB: hu?
+[03:36:47]: [Say] (KU_54sjc_a8) UTB: ko
+[03:37:00]: [Say] (KU_hjXTct1p) UTD: lấy giúp 4 vàng i
+[03:37:03]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: lag\
+[03:38:00]: [Leave Announcement] 󰀉Potato󰀉
+[03:40:10]: [Join Announcement] 󰀉Potato󰀉
+[03:40:11]: [Say] (KU_54sjc_a8) UTB: sao co con varg ngay pk day~ =))
+[03:40:16]: [Say] (KU_hjXTct1p) UTD: ngon
+[03:40:20]: [Say] (KU_hjXTct1p) UTD: =)))d
+[03:40:21]: [Say] (KU_hjXTctx_) Momiji: bếp xây ở đâu
+[03:40:22]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: lag cme
+[03:40:34]: [Say] (KU_hjXTct1p) UTD: day ne` momi
+[03:41:25]: [Say] (KU_hjXTctx_) Momiji: xây bếp chỗ nào á
+[03:41:52]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: may cai o dau het r mng
+[03:42:28]: [Say] (KU_54sjc_a8) UTB: ne`
+[03:43:05]: [Say] (KU_hjXTct1p) UTD: đã xây cho tủ lạnh r còn hỏi ba
+[03:43:20]: [Say] (KU_hjXTct1p) UTD: chou lại nấu món mới
+[03:43:23]: [Say] (KU_hjXTct1p) UTD: wetgoop
+[03:43:28]: [Say] (KU_LI3oE69O) Thỏ Nâu: = ))))))))
+[03:43:33]: [Say] (KU_LI3oE69O) Thỏ Nâu: hqua nau r
+[03:43:37]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chou k cai mod du doan do an haq
+[03:43:37]: [Say] (KU_hjXTct1p) UTD: =))
+[03:43:39]: [Say] (KU_LI3oE69O) Thỏ Nâu: ma hnay nau dinh' tiep
+[03:43:42]: [Say] (KU_LI3oE69O) Thỏ Nâu: du ma
+[03:43:46]: [Say] (KU_LI3oE69O) Thỏ Nâu: em co
+[03:43:52]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhma van nau sai = )))
+[03:44:02]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: tat ca la tai utd
+[03:44:10]: [Say] (KU_hjXTct1p) UTD: -.-
+[03:45:52]: [Say] (KU_hjXTctx_) Momiji: như này được khong
+[03:46:07]: [Say] (KU_hjXTctx_) Momiji: t kém design lắm
+[03:46:09]: [Say] (KU_hjXTct1p) UTD: utb
+[03:46:13]: [Say] (KU_hjXTct1p) UTD: varg dau
+[03:46:20]: [Say] (KU_54sjc_a8) UTB: gan` pk a'
+[03:46:21]: [Skin Announcement] 󰀉Potato󰀉 body_tshirt_blue_cerulean
+[03:46:24]: [Say] (KU_hjXTct1p) UTD: ydg pk ne`
+[03:46:27]: [Say] (KU_hjXTct1p) UTD: ping i
+[03:46:43]: [Say] (KU_54sjc_a8) UTB: ping sao
+[03:46:49]: [Say] (KU_hjXTct1p) UTD: alt chuot trai
+[03:46:52]: [Say] (KU_hjXTct1p) UTD: mở map lên
+[03:47:15]: [Say] (KU_54sjc_a8) UTB: dau doan do a'
+[03:47:28]: [Say] (KU_hjXTct1p) UTD: co' r
+[03:47:35]: [Say] (KU_hjXTct1p) UTD: Tìm 2 con nữa nha
+[03:48:06]: [Say] (KU_hjXTct1p) UTD: cả nhà iu ơi
+[03:48:10]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j
+[03:48:11]: [Say] (KU_hjXTct1p) UTD: hết rock =)))
+[03:48:15]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ke anh
+[03:48:20]: [Say] (KU_hjXTct1p) UTD: huhu
+[03:48:25]: [Say] (KU_hjXTctx_) Momiji: còn 24 viên
+[03:48:26]: [Say] (KU_LI3oE69O) Thỏ Nâu: dang cau ca r
+[03:48:32]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉:  I have 7 rocks.
+[03:48:37]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: mua he xuong cave farm
+[03:48:49]: [Say] (KU_LI3oE69O) Thỏ Nâu: nha con mat k
+[03:48:59]: [Say] (KU_hjXTct1p) UTD: mật?
+[03:49:01]: [Say] (KU_hjXTctx_) Momiji: e qua coi cái bếp t xây có fail qua 1khong6
+[03:49:13]: [Say] (KU_LI3oE69O) Thỏ Nâu: uh
+[03:49:21]: [Say] (KU_hjXTct1p) UTD: nhỏ tí v
+[03:49:26]: [Say] (KU_hjXTct1p) UTD: =))
+[03:49:27]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chou
+[03:49:31]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: bo cai mu~ den xuong
+[03:49:43]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: bo xuong dat i
+[03:50:11]: [Join Announcement] 󰀉Rosé󰀈
+[03:50:11]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: roi do
+[03:50:12]: [Say] (KU_hjXTctx_) Momiji: :))
+[03:50:49]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: tame xong ùi nè anh
+[03:51:07]: [Say] (KU_54sjc_a8) UTB: varg ne`
+[03:51:09]: [Say] (KU_hjXTct1p) UTD: eiu đổi skin cho anh luôn i
+[03:51:19]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: anh muốn skin dìi
+[03:51:26]: [Say] (KU_hjXTct1p) UTD: tùy em chọn đó
+[03:52:03]: [Say] (KU_54sjc_a8) UTB: varg cho~ ping a' nhan
+[03:52:08]: [Say] (KU_hjXTct1p) UTD: oke
+[03:52:16]: [Say] (KU_hjXTct1p) UTD: 1 con nua~
+[03:53:53]: [Say] (KU_LI3oE69O) Thỏ Nâu: cai mu~ de thun qua kk tks khoi
+[03:54:00]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: :Heart:
+[03:54:03]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ?
+[03:54:05]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀍
+[03:54:08]: [Say] (KU_hjXTct1p) UTD: ai mượn viết hoa
+[03:54:24]: [Say] (KU_LI3oE69O) Thỏ Nâu: h lam gi ha ca nha
+[03:54:28]: [Say] (KU_LI3oE69O) Thỏ Nâu: can farm gi k
+[03:54:36]: [Say] (KU_hjXTct1p) UTD: lam` này làm kia nè
+[03:54:40]: [Say] (KU_LI3oE69O) Thỏ Nâu: lam cl
+[03:54:45]: [Say] (KU_hjXTct1p) UTD: làm sao ăn hết mớ đồ anh trồng là dc
+[03:55:06]: [Say] (KU_LI3oE69O) Thỏ Nâu: bây h máu em lúc nào cũng full
+[03:55:13]: [Say] (KU_LI3oE69O) Thỏ Nâu: nấu meat ăn cho lẹ
+[03:55:25]: [Say] (KU_hjXTct1p) UTD: s
+[03:55:26]: [Say] (KU_LI3oE69O) Thỏ Nâu: mng có đánh boss thì e nấu há cảo th
+[03:57:21]: [Say] (KU_hjXTctx_) Momiji: cho 1 cái đén gần bếp đi
+[03:57:30]: [Say] (KU_hjXTct1p) UTD: htết da cóc
+[03:57:59]: [Say] (KU_hjXTctx_) Momiji: không thấy xương
+[04:01:24]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: varg nua ne
+[04:01:32]: [Say] (KU_hjXTct1p) UTD: ok nhớ vị trí giúp anh
+[04:01:38]: [Say] (KU_hjXTct1p) UTD: tí anh tele
+[04:01:45]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ping r do
+[04:02:25]: [Say] (KU_hjXTctx_) Momiji:  I have 20 grim galettes, and this one has 85% freshness.
+[04:03:42]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉:  We have 7 steel wools in this chest.
+[04:03:48]: [Say] (KU_hjXTctx_) Momiji:  We have 20 grim galettes in this ice box, and this one has 85% freshness.
+[04:03:56]: [Say] (KU_hjXTctx_) Momiji: cấm ăn cái này nha
+[04:05:45]: [Say] (KU_hjXTct1p) UTD: utb vs khoai hái lightbulb i
+[04:05:50]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: lag lam
+[04:05:52]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: bat di hai
+[04:05:55]: [Say] (KU_hjXTct1p) UTD: anh làm nốt cái farm chó
+[04:05:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: khung ha
+[04:05:57]: [Say] (KU_LI3oE69O) Thỏ Nâu: de em di cho
+[04:06:03]: [Say] (KU_LI3oE69O) Thỏ Nâu: hai not xuong rong da
+[04:06:09]: [Say] (KU_hjXTct1p) UTD: em nhớ cái đồng lightbulb k chou?
+[04:06:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: co
+[04:06:20]: [Say] (KU_LI3oE69O) Thỏ Nâu: ping gium em cho cai hang
+[04:06:22]: [Say] (KU_hjXTct1p) UTD: oki hái nhiều nhiều nha
+[04:06:36]: [Say] (KU_hjXTct1p) UTD: em nhảy worm này
+[04:06:41]: [Say] (KU_hjXTct1p) UTD: là tới cửa hang mà
+[04:06:54]: [Say] (KU_LI3oE69O) Thỏ Nâu: ok hai cactus cai'
+[04:08:45]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: co farm marble chua anh
+[04:08:59]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: utd oi
+[04:09:06]: [Say] (KU_hjXTct1p) UTD: oi
+[04:09:11]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: co farm marble ckua
+[04:09:14]: [Say] (KU_hjXTct1p) UTD: chưa
+[04:09:17]: [Say] (KU_hjXTct1p) UTD: em trồng i
+[04:09:20]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: oek
+[04:12:37]: [Join Announcement] Nai
+[04:12:48]: [Say] (KU_QSHhEiJ2) Nai: hi
+[04:12:53]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko be iu
+[04:12:59]: [Say] (KU_QSHhEiJ2) Nai: hi Thỏ iu
+[04:13:16]: [Say] (KU_QSHhEiJ2) Nai: lại mùa xuân :))))
+[04:13:23]: [Say] (KU_QSHhEiJ2) Nai: thôi làm thịt con bò vậy :))))
+[04:13:27]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ???????????/
+[04:13:52]: [Say] (KU_hjXTctx_) Momiji: lấy mũ bò đội lên nó không húc
+[04:14:05]: [Say] (KU_QSHhEiJ2) Nai: oek
+[04:15:18]: [Say] (KU_hjXTctx_) Momiji: sao con ruồi chết rồi
+[04:15:52]: [Say] (KU_QSHhEiJ2) Nai: ơ Thỏ đang dưới hang r
+[04:18:34]: [Say] (KU_LI3oE69O) Thỏ Nâu: 2 ng dang lam j z
+[04:18:37]: [Say] (KU_hjXTct1p) UTD:  I have a deconstruction staff with 100% durability.
+[04:18:50]: [Say] (KU_hjXTct1p) UTD: craft gay
+[04:19:01]: [Say] (KU_LI3oE69O) Thỏ Nâu: tuong nhat lb chung = )))))))))))))))))
+[04:19:09]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhat bao nhieu z
+[04:19:13]: [Say] (KU_hjXTct1p) UTD: =)))dg làm farm
+[04:19:16]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 1xx
+[04:19:17]: [Say] (KU_hjXTct1p) UTD: tuy` em
+[04:19:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: da
+[04:21:15]: [Say] (KU_54sjc_a8) UTB: cgi day.
+[04:22:22]: [Say] (KU_hjXTctx_) Momiji: mảnh xương đâu hết rồi
+[04:23:14]: [Say] (KU_54sjc_a8) UTB: clmm con bo` =)))
+[04:23:20]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =))))) sin lui~
+[04:23:39]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cay luoc dau rui mng oiw
+[04:23:42]: [Say] (KU_QSHhEiJ2) Nai:  I have a brush with 32% durability.
+[04:23:44]: [Say] (KU_hjXTct1p) UTD: đánh df
+[04:23:48]: [Say] (KU_hjXTct1p) UTD: anh cần vảy rồng
+[04:23:49]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ok nai dung di
+[04:23:57]: [Say] (KU_QSHhEiJ2) Nai: đủ chế cây nữa hok
+[04:24:02]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ko
+[04:24:05]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =)))
+[04:24:08]: [Say] (KU_LI3oE69O) Thỏ Nâu: 40 nhan 4 la bao nhieu
+[04:24:12]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 150
+[04:24:15]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 160
+[04:24:17]: [Say] (KU_LI3oE69O) Thỏ Nâu: tuyet
+[04:24:17]: [Say] (KU_54sjc_a8) UTB: =))))))
+[04:24:26]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cuoi j z cj ponk
+[04:24:31]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chai long ho voi nai oi
+[04:24:34]: [Say] (KU_54sjc_a8) UTB: 150 =))
+[04:24:44]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 550/2= bao nhiu?
+[04:24:46]: [Say] (KU_LI3oE69O) Thỏ Nâu: thien tai toan hoc Khoai Tay
+[04:24:47]: [Say] (KU_QSHhEiJ2) Nai: nuôi bò mùa xuân vui
+[04:24:59]: [Skin Announcement] UTB feet_formal_stilettop_black_scribble
+[04:25:01]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 550/2= bao nhiu?
+[04:25:04]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: utb phen`
+[04:25:11]: [Say] (KU_hjXTct1p) UTD: utb
+[04:25:13]: [Say] (KU_54sjc_a8) UTB: 275
+[04:25:17]: [Say] (KU_hjXTct1p) UTD: df vs t
+[04:25:18]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 225
+[04:25:18]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: utb đi bấm máy r;
+[04:25:19]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: sai roi
+[04:25:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: ua tuong 225
+[04:25:23]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 225 ma
+[04:25:26]: [Say] (KU_LI3oE69O) Thỏ Nâu: tuyet
+[04:25:28]: [Say] (KU_54sjc_a8) UTB: =))))
+[04:25:32]: [Say] (KU_QSHhEiJ2) Nai: :)))0
+[04:25:38]: [Say] (KU_hjXTct1p) UTD: utb di
+[04:25:38]: [Say] (KU_LI3oE69O) Thỏ Nâu: nai cuoi ?
+[04:25:44]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 550/2 là bằng 225 đúng r màa
+[04:25:46]: [Say] (KU_QSHhEiJ2) Nai: Nai khóc
+[04:25:53]: [Say] (KU_QSHhEiJ2) Nai: thế 225x2 bằng bao nhiêu
+[04:25:54]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 550/2=225
+[04:26:03]: [Say] (KU_LI3oE69O) Thỏ Nâu: vl hoc bach khoa ma dot Toan
+[04:26:09]: [Say] (KU_54sjc_a8) UTB: =))
+[04:26:10]: [Say] (KU_LI3oE69O) Thỏ Nâu: li di th
+[04:26:11]: [Say] (KU_QSHhEiJ2) Nai: =550
+[04:26:22]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: vote chia tay
+[04:26:25]: [Say] (KU_QSHhEiJ2) Nai: ec
+[04:26:27]: [Say] (KU_hjXTct1p) UTD: cần giáp k
+[04:26:58]: [Say] (KU_LI3oE69O) Thỏ Nâu: chet me k cam meatball xuong duoi nay
+[04:28:11]: [Say] (KU_hjXTct1p) UTD: lnê đứng trên
+[04:28:20]: [Say] (KU_QSHhEiJ2) Nai: hok hỉu sao chải cái bài chải về 31% lun
+[04:28:25]: [Say] (KU_QSHhEiJ2) Nai: host toàn gõu chăn bò
+[04:28:33]: [Say] (KU_LI3oE69O) Thỏ Nâu: qua khen
+[04:28:37]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: :pig;
+[04:28:41]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀐
+[04:28:42]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 󰀑
+[04:28:47]: [Say] (KU_QSHhEiJ2) Nai: .-.
+[04:28:48]: [Say] (KU_hjXTct1p) UTD: utb lên cao
+[04:29:45]: [Say] (KU_hjXTct1p) UTD: ủa
+[04:29:49]: [Say] (KU_hjXTct1p) UTD: tame con mới à khoai
+[04:29:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: em tame bo` chienw
+[04:30:00]: [Say] (KU_hjXTct1p) UTD: yvl =))d
+[04:30:08]: [Say] (KU_QSHhEiJ2) Nai: nuôi đúng mùa xuân mệt ghê :))))
+[04:30:27]: [Say] (KU_hjXTctx_) Momiji: tui nấu perogi nha
+[04:30:30]: [Say] (KU_hjXTct1p) UTD: ?
+[04:30:39]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =))
+[04:30:39]: [Say] (KU_hjXTct1p) UTD:  (Age: 79/80) The sands of my hourglass are about to run out!
+[04:30:46]: [Say] (KU_hjXTct1p) UTD: chet me r
+[04:30:48]: [Say] (KU_hjXTct1p) UTD: -.-
+[04:30:53]: [Say] (KU_hjXTct1p) UTD: con ĩ này
+[04:30:55]: [Say] (KU_LI3oE69O) Thỏ Nâu: 40 nhan 6 la bao nhieu
+[04:30:56]: [Say] (KU_hjXTct1p) UTD: thịt nó đi
+[04:30:57]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =))))
+[04:31:00]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[04:31:03]: [Say] (KU_hjXTct1p) UTD: xu vl
+[04:31:04]: [Say] (KU_hjXTct1p) UTD: -.-
+[04:31:10]: [Resurrect Announcement] UTD was resurrected by 󰀉Rosé󰀈.
+[04:31:12]: [Say] (KU_hjXTct1p) UTD: chạy r còn bám theo húc
+[04:31:14]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: nai oi chai long bo`
+[04:31:18]: [Say] (KU_QSHhEiJ2) Nai: oek
+[04:31:51]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cane ai đây ;
+[04:32:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: ping duong ve cho em voi dkm
+[04:32:21]: [Say] (KU_54sjc_a8) UTB: ko auto stack cut' bo` a` =))
+[04:32:26]: [Say] (KU_54sjc_a8) UTB: day` nha` the kia
+[04:32:31]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cho utb don
+[04:32:35]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: utb hốt đii
+[04:32:40]: [Say] (KU_54sjc_a8) UTB: o kia` =)))))))
+[04:32:40]: [Say] (KU_hjXTct1p) UTD: rose
+[04:32:42]: [Say] (KU_hjXTct1p) UTD: lót đi
+[04:32:54]: [Say] (KU_hjXTctx_) Momiji: sao không có éch vậy
+[04:33:30]: [Say] (KU_hjXTct1p) UTD: còn k em
+[04:33:34]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hếc rr
+[04:33:40]: [Say] (KU_hjXTct1p) UTD:  I have a scales.
+[04:34:17]: [Say] (KU_hjXTct1p) UTD: có ai chơi woodie hay maxwell k?
+[04:34:28]: [Say] (KU_QSHhEiJ2) Nai: hok
+[04:34:28]: [Say] (KU_hjXTctx_) Momiji: t chơi nha
+[04:35:05]: [Say] (KU_hjXTct1p) UTD: chết cha
+[04:35:07]: [Say] (KU_54sjc_a8) UTB: hoi di ngu?
+[04:35:11]: [Say] (KU_54sjc_a8) UTB: 2h vao` choi =))
+[04:35:14]: [Say] (KU_hjXTct1p) UTD: k đủ fossil làm farm chó
+[04:35:16]: [Say] (KU_hjXTct1p) UTD: ._.
+[04:35:17]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ai cho
+[04:35:23]: [Say] (KU_hjXTct1p) UTD: rose iu
+[04:35:27]: [Say] (KU_hjXTct1p) UTD: mình đi tiếp thôi em
+[04:35:32]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: khumm
+[04:35:32]: [Say] (KU_54sjc_a8) UTB: can` di` ai cho =)))
+[04:35:36]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ai choo
+[04:35:50]: [Say] (KU_54sjc_a8) UTB: tu. cho =)))))
+[04:35:53]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: kow
+[04:35:55]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: tụi nó thành spider queen hếc r ;d
+[04:36:04]: [Say] (KU_hjXTct1p) UTD: đứng xa tí
+[04:36:07]: [Say] (KU_hjXTct1p) UTD: kệ nó đi
+[04:36:14]: [Say] (KU_hjXTct1p) UTD: con nào chui ra thì múc
+[04:36:24]: [Say] (KU_54sjc_a8) UTB: hoi di ngu? chu' sang' h vua` hoc. vua` ngu? buon` ngu? qua' =)))
+[04:36:33]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: vua hoc vua ngu ma con buon ngu
+[04:36:34]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: heo
+[04:36:36]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 󰀐
+[04:36:40]: [Say] (KU_54sjc_a8) UTB: =)))))))))
+[04:36:49]: [Say] (KU_54sjc_a8) UTB: ngu? ko duoc. sau
+[04:36:50]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 2h do choi
+[04:36:51]: [Death Announcement] Thỏ Nâu was killed by Crawling Horror. She became a spooky ghost!
+[04:36:54]: [Say] (KU_54sjc_a8) UTB: nen buon` ngu? =)))
+[04:36:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ai ko do la con cho'
+[04:37:00]: [Say] (KU_LI3oE69O) Thỏ Nâu: ? :D
+[04:37:04]: [Say] (KU_54sjc_a8) UTB: gau gau =))))))))))))))
+[04:37:10]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: :/
+[04:37:12]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: >:(
+[04:37:17]: [Resurrect Announcement] Thỏ Nâu was resurrected by Second Chance Watch.
+[04:37:24]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: utb tồyy 󰀐
+[04:37:29]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: utb heo
+[04:37:33]: [Say] (KU_54sjc_a8) UTB: di` day. choi` =)))
+[04:37:52]: [Say] (KU_hjXTct1p) UTD: ?
+[04:37:59]: [Say] (KU_hjXTct1p) UTD: mẹ mài
+[04:38:02]: [Say] (KU_hjXTct1p) UTD:  I have a beefalo bell.
+[04:38:10]: [Say] (KU_LI3oE69O) Thỏ Nâu: cai cuc ngoi sao hoi` sanity dau nhi
+[04:38:12]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j z
+[04:38:14]: [Say] (KU_QSHhEiJ2) Nai: :))))
+[04:38:35]: [Say] (KU_QSHhEiJ2) Nai: Thỏ iu làm gì thế
+[04:38:41]: [Leave Announcement] UTB
+[04:38:50]: [Say] (KU_hjXTct1p) UTD: di ema
+[04:39:12]: [Say] (KU_hjXTctx_) Momiji: nấu đồ ăn chay ướp bột ớt cho bò không
+[04:39:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: cất lai búp ở đaâ
+[04:39:23]: [Say] (KU_QSHhEiJ2) Nai: tủ lạnh á
+[04:39:30]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: mua xuan tho? ko spawn ha mng
+[04:39:39]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: to su bo
+[04:39:41]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: lu cho
+[04:39:44]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: thoi di ngu
+[04:39:48]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: 2h do
+[04:39:52]: [Say] (KU_hjXTct1p) UTD: ngủ chung?
+[04:39:55]: [Say] (KU_hjXTct1p) UTD: quào
+[04:39:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ?w
+[04:40:08]: [Say] (KU_hjXTct1p) UTD: 2 đứa
+[04:40:11]: [Say] (KU_hjXTct1p) UTD: qua mặt anh
+[04:40:14]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j z tr
+[04:40:59]: [Say] (KU_LI3oE69O) Thỏ Nâu: em out tí nhé có tiết hoc r
+[04:41:02]: [Say] (KU_LI3oE69O) Thỏ Nâu: bye ca nha
+[04:41:02]: [Say] (KU_QSHhEiJ2) Nai: boi boi
+[04:41:06]: [Say] (KU_hjXTct1p) UTD: bai chou
+[04:41:07]: [Say] (KU_LI3oE69O) Thỏ Nâu: bai nai iu
+[04:41:11]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: paiii
+[04:41:15]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: đúng ùii
+[04:41:26]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: í kiến quá 9ii
+[04:41:34]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: lười nắmm
+[04:41:38]: [Say] (KU_LI3oE69O) Thỏ Nâu: ua sao nong z
+[04:41:54]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: năn nỉ đêe gòi làm choo
+[04:42:04]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: khum làm đuâu liu liu
+[04:42:09]: [Say] (KU_QSHhEiJ2) Nai: hoi Nai cũng sủi đây. hjhj
+[04:42:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: moah
+[04:42:17]: [Leave Announcement] 󰀉Potato󰀉
+[04:42:18]: [Say] (KU_hjXTct1p) UTD: o kia`
+[04:42:18]: [Say] (KU_QSHhEiJ2) Nai: moah
+[04:42:30]: [Leave Announcement] Nai
+[04:42:32]: [Leave Announcement] Thỏ Nâu
+[04:48:08]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 12 mảnh
+[04:49:06]: [Say] (KU_hjXTct1p) UTD: momi
+[04:49:11]: [Say] (KU_hjXTctx_) Momiji: ?s
+[04:49:13]: [Say] (KU_hjXTct1p) UTD: hè chơi con maxwell di
+[04:49:18]: [Say] (KU_hjXTct1p) UTD: t farm nf cho farm
+[04:51:46]: [Say] (KU_hjXTctx_) Momiji:  I need 1 more jet feather to make a feather pencil.
+[05:01:04]: [Say] (KU_hjXTct1p) UTD: nhà hết rock
+[05:01:07]: [Say] (KU_hjXTct1p) UTD: đi chơi wig
+[05:01:09]: [Say] (KU_hjXTct1p) UTD: chịu =)))
+[05:07:20]: [Leave Announcement] Momiji
+[05:11:12]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: làm ngư dânn
+[05:14:55]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: anh mà dàa
+[05:15:15]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hong biếcc
+[05:16:26]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nhờ momi maxwell đii
+[05:18:30]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chưa
+[05:19:35]: [Say] (KU_hjXTct1p) UTD:  We have 41 butterfly wings in this ice box, and this one has 96% freshness.
+[05:19:41]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em có 6 con nè
+[05:21:06]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hãa
+[05:21:15]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em hong
+[05:21:32]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 62 con ùi
+[05:23:05]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hnhu tôm sống mới nấu dc hã anh
+[05:25:15]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hnhu thiếu lông cừu à
+[05:25:46]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: mà mùa xuân kh bắt thỏ dc
+[05:27:01]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: anh ăn chưa áa
+[05:27:09]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: ăn trưa chưaa
+[05:27:17]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: ch dkoo
+[05:27:31]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: tin dc khumm
+[05:27:48]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: ai biếc dc anhh
+[05:28:05]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đủ bướm ùi nè
+[05:28:33]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[05:28:41]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cháng ch ;
+[05:28:55]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: vứt ở base ha gì nèe
+[05:31:46]: [Resurrect Announcement] UTD was resurrected by Second Chance Watch.
+[05:33:28]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đèn anh nè
+[05:34:01]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đúng ùi
+[05:42:18]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: xuu ;
+[05:45:06]: [Join Announcement] Thỏ Nâu
+[05:45:24]: [Say] (KU_hjXTct1p) UTD: queo cmă
+[05:45:30]: [Say] (KU_hjXTct1p) UTD: sắp xuống hang
+[05:45:32]: [Say] (KU_hjXTct1p) UTD: ye
+[05:45:40]: [Say] (KU_LI3oE69O) Thỏ Nâu: vl vua vao da mua
+[05:46:54]: [Skin Announcement] Thỏ Nâu legs_shorts_red_firehound
+[05:47:41]: [Say] (KU_LI3oE69O) Thỏ Nâu: alo em xin mieng da lon de lam o
+[05:47:50]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: có ô nèe
+[05:48:08]: [Say] (KU_LI3oE69O) Thỏ Nâu: :heart:
+[05:48:13]: [Say] (KU_hjXTct1p) UTD: =)))
+[05:48:13]: [Say] (KU_LI3oE69O) Thỏ Nâu: clm
+[05:48:18]: [Say] (KU_hjXTct1p) UTD: phải mua ms dc
+[05:49:16]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em mang 30flint
+[05:49:20]: [Join Announcement] Momiji
+[05:49:37]: [Say] (KU_hjXTct1p) UTD: i đổi nv đi
+[05:49:41]: [Say] (KU_hjXTctx_) Momiji: chặt cây hay dào mỏ
+[05:49:44]: [Say] (KU_hjXTct1p) UTD: qua maxwell di
+[05:49:49]: [Say] (KU_hjXTct1p) UTD: cứ đi đi
+[05:49:51]: [Say] (KU_hjXTct1p) UTD: -.-
+[05:49:59]: [Say] (KU_hjXTct1p) UTD: chặt hay đào gì cũng thế
+[05:50:04]: [Say] (KU_hjXTct1p) UTD: nhà 1 đống rìu nè
+[05:50:08]: [Say] (KU_hjXTct1p) UTD: lấy làm ma hết đi
+[05:50:41]: [Say] (KU_hjXTct1p) UTD: cầm 3 rìu
+[05:50:44]: [Say] (KU_hjXTct1p) UTD: 1 xẻng
+[05:51:37]: [Say] (KU_hjXTct1p) UTD: cháy chou ơi
+[05:51:38]: [Death Announcement] Thỏ Nâu was killed by Red Hound. She became a spooky ghost!
+[05:51:42]: [Say] (KU_hjXTct1p) UTD: -.-
+[05:52:01]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[05:52:02]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: có bình tưới ha gì kh ;
+[05:52:39]: [Say] (KU_LI3oE69O) Thỏ Nâu: clm bò của em
+[05:53:30]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chạy vào đây nè chou
+[05:54:07]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: mùa hè với thu có chó lửa làm cháy base áa
+[05:54:22]: [Say] (KU_hjXTct1p) UTD: đổi nv iđ
+[05:54:25]: [Say] (KU_LI3oE69O) Thỏ Nâu: ...
+[05:54:26]: [Say] (KU_hjXTctx_) Momiji: hết gem
+[05:54:48]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: ko ra viên nào ;
+[05:55:17]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em đem về hết rr
+[05:55:40]: [Say] (KU_hjXTct1p) UTD: nè
+[05:55:43]: [Say] (KU_hjXTct1p) UTD: đổi nv i
+[05:55:57]: [Say] (KU_hjXTct1p) UTD: lẹ t tele cả đám xuống luôn
+[05:56:04]: [Say] (KU_LI3oE69O) Thỏ Nâu: cái ngôi sao hồi sanity đâu r mng
+[05:56:38]: [Say] (KU_hjXTct1p) UTD: momi
+[05:56:42]: [Say] (KU_hjXTct1p) UTD: ybò nè
+[05:56:44]: [Say] (KU_hjXTct1p) UTD: cởi lẹ đi
+[05:56:53]: [Say] (KU_hjXTct1p) UTD: chuông
+[05:58:26]: [Say] (KU_hjXTct1p) UTD: chuông
+[05:58:31]: [Say] (KU_hjXTct1p) UTD: xuống bò hết đi
+[05:58:33]: [Say] (KU_hjXTct1p) UTD: anh tele iđ
+[05:58:48]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đội mũ này nè chou
+[05:58:49]: [Say] (KU_hjXTctx_) Momiji: còn marble kia
+[05:59:01]: [Death Announcement] Thỏ Nâu was killed by Terrorbeak. She became a spooky ghost!
+[05:59:10]: [Resurrect Announcement] Thỏ Nâu was resurrected by Second Chance Watch.
+[05:59:32]: [Say] (KU_hjXTctx_) Momiji: xuống farm đá �
+[05:59:35]: [Say] (KU_hjXTct1p) UTD: nhặt đồ xong tele
+[05:59:37]: [Say] (KU_hjXTct1p) UTD: gỗ
+[05:59:48]: [Say] (KU_hjXTct1p) UTD: chou
+[05:59:52]: [Say] (KU_hjXTct1p) UTD: lại đây
+[05:59:55]: [Say] (KU_hjXTct1p) UTD: k cởi bò
+[06:00:06]: [Say] (KU_hjXTct1p) UTD: lại đây anh tạo worm xuống cave
+[06:00:13]: [Say] (KU_hjXTct1p) UTD: chou
+[06:00:23]: [Say] (KU_hjXTctx_) Momiji: thỏ
+[06:00:31]: [Say] (KU_hjXTct1p) UTD: chouu
+[06:00:32]: [Say] (KU_hjXTctx_) Momiji: lại dady69
+[06:00:35]: [Say] (KU_hjXTct1p) UTD: lại đây
+[06:00:48]: [Say] (KU_hjXTct1p) UTD: đọc chat đi
+[06:00:51]: [Say] (KU_hjXTct1p) UTD: xuống bò
+[06:01:59]: [Say] (KU_hjXTctx_) Momiji: famr ở đâu
+[06:02:20]: [Say] (KU_hjXTct1p) UTD: tí dẫn
+[06:02:22]: [Say] (KU_hjXTct1p) UTD: worm
+[06:03:18]: [Death Announcement] Thỏ Nâu was killed by Depths Worm. She became a spooky ghost!
+[06:03:33]: [Say] (KU_LI3oE69O) Thỏ Nâu: clgv chết hoài
+[06:03:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: lag vch
+[06:04:18]: [Resurrect Announcement] Thỏ Nâu was resurrected by Second Chance Watch.
+[06:04:25]: [Say] (KU_hjXTct1p) UTD: theo t
+[06:04:27]: [Say] (KU_hjXTct1p) UTD: dũng
+[06:04:42]: [Say] (KU_hjXTct1p) UTD: yfarm i
+[06:04:48]: [Say] (KU_hjXTct1p) UTD: nf ne`
+[06:04:50]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: con hutch em bỏ ở đâu nhờ
+[06:05:12]: [Say] (KU_hjXTct1p) UTD: 3 rìu 1 xẻng
+[06:05:13]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: okii
+[06:05:24]: [Say] (KU_hjXTct1p) UTD: 1 xẻng
+[06:05:26]: [Say] (KU_hjXTct1p) UTD: clm
+[06:05:32]: [Say] (KU_hjXTct1p) UTD: cho nó xúc gốc luôn
+[06:05:39]: [Say] (KU_hjXTctx_) Momiji: huỷ sao
+[06:05:43]: [Say] (KU_hjXTct1p) UTD: r do'
+[06:06:03]: [Say] (KU_hjXTct1p) UTD: farm i
+[06:06:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: vl sao k out lều dc
+[06:06:33]: [Say] (KU_hjXTct1p) UTD: out r ma`
+[06:07:31]: [Say] (KU_hjXTctx_) Momiji: thân rung
+[06:07:33]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nhầm r anh uii ;
+[06:07:36]: [Say] (KU_hjXTct1p) UTD: ?
+[06:07:45]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: kh có ở đây
+[06:08:48]: [Say] (KU_hjXTctx_) Momiji: đánh thầng rung hô cái
+[06:08:54]: [Say] (KU_hjXTct1p) UTD: ok
+[06:09:36]: [Say] (KU_hjXTctx_) Momiji: đẫu rồi
+[06:09:40]: [Say] (KU_hjXTct1p) UTD: dg ve`
+[06:11:44]: [Say] (KU_hjXTct1p) UTD: chặt xong thu về trồng lại nha
+[06:11:52]: [Say] (KU_hjXTct1p) UTD: có mớ balo trống ở chỗ bếp
+[06:11:56]: [Say] (KU_hjXTct1p) UTD: lấy nhặt vô balo oó
+[06:12:01]: [Say] (KU_hjXTct1p) UTD: t i tìm thêm gear
+[06:12:17]: [Say] (KU_hjXTct1p) UTD: chou lam` gi` v
+[06:12:22]: [Say] (KU_hjXTct1p) UTD: cần việc làm k =)))
+[06:12:29]: [Say] (KU_LI3oE69O) Thỏ Nâu: dang hai lai bup
+[06:13:01]: [Say] (KU_LI3oE69O) Thỏ Nâu: làm gì thì làm nhẹ nhàng hoi tại đang trong tiết
+[06:13:08]: [Say] (KU_hjXTctx_) Momiji: sao nó không ra nữa
+[06:13:09]: [Say] (KU_LI3oE69O) Thỏ Nâu: sợ cô gọi vđ
+[06:13:11]: [Say] (KU_hjXTct1p) UTD: nhặt gỗ thôi
+[06:13:51]: [Say] (KU_hjXTctx_) Momiji: trồng đi
+[06:14:04]: [Say] (KU_hjXTct1p) UTD: trồng đi ba
+[06:14:10]: [Say] (KU_hjXTct1p) UTD: xong t còn đi clear ruins
+[06:15:05]: [Say] (KU_hjXTct1p) UTD: chou thấy 1 đống balo ở gần bếp k
+[06:15:10]: [Say] (KU_hjXTct1p) UTD: đeo balo đó nhặt gỗ
+[06:15:13]: [Say] (KU_hjXTct1p) UTD: rồi về vứt đó
+[06:15:20]: [Say] (KU_hjXTct1p) UTD: sau anh chuyển lên trên sau
+[06:15:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: ok
+[06:15:27]: [Say] (KU_LI3oE69O) Thỏ Nâu: ma ko thich nhat go lam
+[06:15:30]: [Say] (KU_hjXTct1p) UTD: :v
+[06:15:32]: [Say] (KU_LI3oE69O) Thỏ Nâu: toi qua ko thay duong
+[06:15:41]: [Say] (KU_hjXTct1p) UTD: =))) trời sáng khu này sáng lắm
+[06:16:14]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: 3h em off nhóo
+[06:16:24]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: đi nằm nghỉ xíuu
+[06:16:50]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈:  Phase dawn, will end in 00:02
+[06:18:47]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: cho rot cũng dc nè
+[06:18:48]: [Say] (KU_hjXTctx_) Momiji: farm đá chỗ nào
+[06:19:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: chúa tể lai búp
+[06:21:53]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: hnhu AF nè
+[06:21:56]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: 9
+[06:22:17]: [Say] (KU_LI3oE69O) Thỏ Nâu: 2 người làm gì ở ngoài zẫy
+[06:22:21]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: hongg
+[06:22:25]: [Say] (KU_hjXTct1p) UTD: đi tìm gears
+[06:22:25]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đi clear ruin ;
+[06:22:41]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhặt gỗ ở đâu cơ
+[06:22:46]: [Say] (KU_hjXTct1p) UTD: theo momi
+[06:23:04]: [Say] (KU_hjXTctx_) Momiji: đang kiếm chỗ có đá farm
+[06:23:11]: [Say] (KU_hjXTct1p) UTD: gần nhà đấy
+[06:23:17]: [Say] (KU_LI3oE69O) Thỏ Nâu: uhm em quay về lấy balo đã
+[06:23:25]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: rock nè
+[06:23:39]: [Say] (KU_hjXTct1p) UTD: đào đi
+[06:24:04]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: em còn
+[06:24:56]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: em 170 lận
+[06:29:09]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhat da ha momi
+[06:29:28]: [Say] (KU_hjXTctx_) Momiji: cậy
+[06:29:39]: [Say] (KU_hjXTctx_) Momiji: lấy vè
+[06:29:57]: [Say] (KU_hjXTctx_) Momiji: lấy đá ve
+[06:30:47]: [Say] (KU_LI3oE69O) Thỏ Nâu: e nhat cho
+[06:31:22]: [Say] (KU_hjXTctx_) Momiji: hết rồi vè
+[06:31:30]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[06:32:25]: [Resurrect Announcement] UTD was resurrected by 󰀉Rosé󰀈.
+[06:34:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhat go ha
+[06:35:42]: [Say] (KU_LI3oE69O) Thỏ Nâu: doi ti e ve thay balo
+[06:35:46]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: canh em xíuu nhó
+[06:35:51]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: em đi đ'
+[06:37:16]: [Say] (KU_hjXTctx_) Momiji: nhiếu gỗ với đá lắm
+[06:37:31]: [Say] (KU_hjXTct1p) UTD: lightbulb anh để tủ lạnh r
+[06:37:34]: [Say] (KU_hjXTct1p) UTD: cho khỏi hỏng
+[06:37:50]: [Say] (KU_hjXTct1p) UTD: tìm khổ chưa
+[06:38:36]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chạy đi choi oi
+[06:39:33]: [Say] (KU_LI3oE69O) Thỏ Nâu: con gi nhat k
+[06:39:35]: [Say] (KU_hjXTctx_) Momiji: 80 viên
+[06:39:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: balo empty r
+[06:40:37]: [Say] (KU_hjXTctx_) Momiji: giờ đi dau
+[06:40:41]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cóc nè
+[06:40:45]: [Say] (KU_hjXTct1p) UTD: đào thêm hoặc chờ gỗ
+[06:40:48]: [Say] (KU_hjXTct1p) UTD: qua đánh cóc nè
+[06:40:51]: [Say] (KU_hjXTct1p) UTD:  I have 2 fleshy bulbs.
+[06:41:01]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hnhu chưa
+[06:41:25]: [Say] (KU_hjXTctx_) Momiji: hết libt
+[06:41:32]: [Say] (KU_hjXTct1p) UTD: ?
+[06:41:38]: [Say] (KU_hjXTct1p) UTD:  I have 17 light bulbs, and this one has 98% freshness.
+[06:41:41]: [Say] (KU_hjXTct1p) UTD: tu lanh
+[06:41:44]: [Death Announcement] Momiji was killed by Darkness. He became a spooky ghost!
+[06:41:46]: [Say] (KU_LI3oE69O) Thỏ Nâu: tu lanh nhieu lam
+[06:41:47]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đi theo rose ping nè chou uii
+[06:42:01]: [Say] (KU_hjXTct1p) UTD: để anh dẫn đi
+[06:42:25]: [Resurrect Announcement] Momiji was resurrected by Second Chance Watch.
+[06:42:42]: [Say] (KU_hjXTct1p) UTD: anh về lấy đồ đã
+[06:42:48]: [Say] (KU_hjXTct1p) UTD: chạy xuống đồng lb iđ
+[06:42:59]: [Say] (KU_hjXTct1p) UTD: m qua cóc dđ dũng
+[06:43:01]: [Say] (KU_hjXTct1p) UTD: theo t chi
+[06:43:17]: [Say] (KU_hjXTctx_) Momiji: d
+[06:43:26]: [Say] (KU_hjXTctx_) Momiji: không có map
+[06:44:35]: [Say] (KU_hjXTct1p) UTD: di
+[06:44:35]: [Say] (KU_hjXTctx_) Momiji: t qua coc ak
+[06:44:38]: [Say] (KU_hjXTct1p) UTD: uk
+[06:44:51]: [Say] (KU_hjXTct1p) UTD: kêu đàn em chặt cây
+[06:45:29]: [Say] (KU_hjXTct1p) UTD: kêu đàn em iđ
+[06:45:40]: [Say] (KU_LI3oE69O) Thỏ Nâu: biết z mang cần câu xuống = )))
+[06:46:48]: [Say] (KU_hjXTct1p) UTD: chặt
+[06:46:59]: [Say] (KU_hjXTct1p) UTD: chou ra cho~ rose di
+[06:47:09]: [Say] (KU_hjXTct1p) UTD: cất abi
+[06:47:14]: [Say] (KU_hjXTct1p) UTD: chou
+[06:50:19]: [Say] (KU_hjXTct1p) UTD: chou?
+[06:50:22]: [Say] (KU_hjXTct1p) UTD: k danh'
+[06:50:48]: [Say] (KU_hjXTct1p) UTD: ok
+[06:51:04]: [Say] (KU_hjXTct1p) UTD: đánh đi chou
+[06:51:18]: [Say] (KU_hjXTctx_) Momiji: t dói
+[06:52:08]: [Death Announcement] Thỏ Nâu was killed by Crawling Horror. She became a spooky ghost!
+[06:52:18]: [Resurrect Announcement] Thỏ Nâu was resurrected by Second Chance Watch.
+[06:52:55]: [Say] (KU_hjXTctx_) Momiji: xin vu khia
+[06:52:57]: [Join Announcement] 󰀉Potato󰀉
+[06:53:05]: [Say] (KU_hjXTct1p) UTD: k co'
+[06:53:16]: [Say] (KU_hjXTct1p) UTD: lên bò của t
+[06:54:03]: [Say] (KU_hjXTctx_) Momiji: xin cái mu
+[06:54:36]: [Say] (KU_hjXTct1p) UTD: chou sau cứ theo cách rose chơi
+[06:54:43]: [Say] (KU_hjXTct1p) UTD: đừng theo cách anh
+[06:54:48]: [Death Announcement] Momiji was killed by Crawling Horror. He became a spooky ghost!
+[06:54:54]: [Say] (KU_hjXTct1p) UTD: chờ đi
+[06:54:55]: [Say] (KU_hjXTct1p) UTD:  I have a second chance watch with 1m24s until charged (65%).
+[06:55:23]: [Say] (KU_hjXTct1p) UTD: bth đừng rile up abi
+[06:55:33]: [Say] (KU_hjXTct1p) UTD:  I have a second chance watch with 47s until charged (80%).
+[06:55:51]: [Say] (KU_hjXTct1p) UTD: bth để nó smooth thôi
+[06:56:00]: [Leave Announcement] 󰀉Potato󰀉
+[06:56:21]: [Resurrect Announcement] Momiji was resurrected by Second Chance Watch.
+[06:56:47]: [Say] (KU_hjXTct1p) UTD: cho t mảnh xương
+[06:57:25]: [Say] (KU_hjXTctx_) Momiji: mảnh6 xương
+[06:57:48]: [Say] (KU_hjXTct1p) UTD: ôm đá đi
+[06:57:50]: [Say] (KU_hjXTct1p) UTD: hết slot
+[06:58:05]: [Say] (KU_LI3oE69O) Thỏ Nâu: balo em con ne
+[06:58:12]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: uu
+[06:58:29]: [Say] (KU_hjXTct1p) UTD: ve`
+[06:59:39]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: chi áa
+[06:59:54]: [Leave Announcement] 󰀉Potato󰀉
+[07:00:11]: [Say] (KU_hjXTct1p) UTD: ăn heal máu đi chou
+[07:00:20]: [Say] (KU_hjXTct1p) UTD:  We have 4 pierogis in this ice box, and this one has 77% freshness.
+[07:00:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: may vl nãy trc khi đi nấu r :))
+[07:02:04]: [Join Announcement] 󰀉Potato󰀉
+[07:02:26]: [Say] (KU_hjXTctx_) Momiji: ăn kem chuuoi16 hem
+[07:02:45]: [Say] (KU_LI3oE69O) Thỏ Nâu: het chuoi r
+[07:04:01]: [Leave Announcement] 󰀉Potato󰀉
+[07:05:34]: [Say] (KU_hjXTct1p) UTD: chay. chouq
+[07:05:42]: [Death Announcement] Thỏ Nâu was killed by Boulder. She became a spooky ghost!
+[07:06:41]: [Leave Announcement] Momiji
+[07:08:09]: [Join Announcement] Momiji
+[07:08:59]: [Leave Announcement] 󰀉Potato󰀉
+[07:10:12]: [Leave Announcement] UTD
+[07:10:14]: [Leave Announcement] 󰀉Rosé󰀈
+[07:11:52]: [Join Announcement] UTD
+[07:12:22]: [Say] (KU_hjXTctx_) Momiji: con cóc còn sống �
+[07:12:25]: [Join Announcement] 󰀉Rosé󰀈
+[07:12:26]: [Say] (KU_hjXTct1p) UTD: giet r
+[07:12:27]: [Say] (KU_hjXTct1p) UTD:  I have 3 shroom skins.
+[07:13:06]: [Leave Announcement] Thỏ Nâu
+[07:13:31]: [Say] (KU_hjXTct1p) UTD: trả đèn i ba
+[07:14:10]: [Say] (KU_hjXTct1p) UTD: đèn m đâu
+[07:14:21]: [Say] (KU_hjXTctx_) Momiji: đó là đền t ma
+[07:14:28]: [Say] (KU_hjXTct1p) UTD: -.- ?
+[07:14:51]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: anh xem nèe
+[07:15:16]: [Say] (KU_hjXTct1p) UTD: balo
+[07:15:17]: [Say] (KU_hjXTct1p) UTD: -_-
+[07:15:20]: [Say] (KU_hjXTct1p) UTD: đưa balo
+[07:15:36]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: xinh chưa ;
+[07:15:47]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: gđúng v ;
+[07:16:08]: [Say] (KU_hjXTctx_) Momiji: kem chuối
+[07:16:24]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: hay dới em thoii
+[07:16:35]: [Join Announcement] 󰀉Potato󰀉
+[07:17:19]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: a met moi
+[07:17:28]: [Say] (KU_hjXTct1p) UTD: mới rollback
+[07:17:31]: [Leave Announcement] 󰀉Potato󰀉
+[07:18:16]: [Say] (KU_hjXTct1p) UTD: xinh k
+[07:18:23]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: khumm
+[07:18:36]: [Say] (KU_hjXTct1p) UTD: xinh mà
+[07:18:41]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: dàa
+[07:18:50]: [Say] (KU_hjXTct1p) UTD: :(((
+[07:18:53]: [Say] (KU_hjXTct1p) UTD: em chê anh già
+[07:19:22]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: wanda kh dà chứ dìi
+[07:19:30]: [Say] (KU_hjXTct1p) UTD: còn anh?
+[07:19:33]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: dàa
+[07:19:40]: [Say] (KU_hjXTct1p) UTD: -.-
+[07:19:44]: [Say] (KU_hjXTct1p) UTD: ko iu nữa
+[07:19:51]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: gúmm
+[07:20:00]: [Say] (KU_hjXTct1p) UTD: iu mà chê dà
+[07:20:17]: [Say] (KU_hjXTct1p) UTD: xinh chưa
+[07:20:23]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: chưaa
+[07:20:33]: [Say] (KU_hjXTct1p) UTD: xinh ma`
+[07:20:47]: [Say] (KU_hjXTct1p) UTD: chặt gỗ tiếp dũng
+[07:20:51]: [Say] (KU_hjXTct1p) UTD: iđ
+[07:20:57]: [Say] (KU_hjXTct1p) UTD: mũ đèn nè ba
+[07:21:30]: [Join Announcement] 󰀉Potato󰀉
+[07:21:35]: [Say] (KU_hjXTct1p) UTD: hà nó mở nhạc
+[07:21:38]: [Say] (KU_hjXTct1p) UTD: anh đau đầu quá
+[07:21:40]: [Say] (KU_hjXTct1p) UTD: worm
+[07:21:51]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: djt to su cha
+[07:21:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: moi vao ma worm
+[07:22:00]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: thoi out
+[07:22:10]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: worm ra ùi ;
+[07:22:21]: [Death Announcement] 󰀉Potato󰀉 was killed by Depths Worm. She became a spooky ghost!
+[07:23:04]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: oh no no no chet con bo`
+[07:23:06]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chet bo kia anh
+[07:23:09]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: oh no no no no non on ono no o noo
+[07:23:53]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: chet bo kiaaaa
+[07:24:06]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: khoc
+[07:25:00]: [Death Announcement] 󰀉Rosé󰀈 was killed by Depths Worm. She became a spooky ghost!
+[07:25:08]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cháng chưa
+[07:25:10]: [Leave Announcement] 󰀉Potato󰀉
+[07:25:23]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[07:27:37]: [Leave Announcement] UTD
+[07:33:08]: [Join Announcement] UTD
+[07:34:52]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: em off nháa
+[07:34:59]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: pái paiii anh
+[07:35:13]: [Leave Announcement] 󰀉Rosé󰀈
+[07:35:17]: [Leave Announcement] Momiji
+[07:36:20]: [Leave Announcement] UTD
+[07:36:53]: [Join Announcement] 󰀉Potato󰀉
+[07:37:20]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: khoc
+[07:41:53]: [Leave Announcement] 󰀉Potato󰀉

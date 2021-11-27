@@ -1,0 +1,33 @@
+[00:26:41]: [Join Announcement] Thỏ Nâu
+[00:45:58]: [Leave Announcement] Thỏ Nâu
+[00:54:58]: [Join Announcement] Thỏ Nâu
+[00:58:05]: [Join Announcement] 󰀉Potato󰀉
+[01:08:49]: [Say] (KU_LI3oE69O) Thỏ Nâu: khoi con` mu~ den` k
+[01:08:59]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: khoi con`
+[01:09:00]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: sao z
+[01:10:54]: [Say] (KU_LI3oE69O) Thỏ Nâu: e muon di dao` ice
+[01:11:24]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: o bep i'
+[01:11:33]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: c co' den` r
+[01:12:43]: [Join Announcement] 󰀉Rosé󰀈
+[01:12:48]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: hi rose iua
+[01:12:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko rau
+[01:15:51]: [Announcement] 30s until server clean
+[01:15:58]: [Announcement] 30s until server clean
+[01:30:41]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: base mình còn lược hông áa
+[01:30:47]: [Say] (KU_LI3oE69O) Thỏ Nâu: hok
+[01:30:52]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: con o ngoai cho nuoi bo` kia rose
+[01:30:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: con 1x %
+[01:31:02]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: okii
+[01:34:34]: [Skin Announcement] 󰀉Potato󰀉 hand_beltedgloves_red_firehound
+[01:37:22]: [Skin Announcement] 󰀉Rosé󰀈 pitchfork_invisible
+[01:49:43]: [Leave Announcement] Thỏ Nâu
+[01:51:02]: [Announcement] You feel an evil presence watching you...
+[01:55:53]: [Announcement] 30s until server clean
+[01:56:01]: [Announcement] 30s until server clean
+[02:00:56]: [Leave Announcement] 󰀉Potato󰀉
+[02:05:00]: [Join Announcement] 󰀉Potato󰀉
+[02:05:13]: [Leave Announcement] 󰀉Potato󰀉
+[02:07:06]: [Death Announcement] 󰀉Rosé󰀈 was killed by Blue Hound. She became a spooky ghost!
+[02:07:12]: [Resurrect Announcement] 󰀉Rosé󰀈 was resurrected by Life Giving Amulet.
+[02:07:39]: [Death Announcement] 󰀉Rosé󰀈 was killed by Blue Hound. She became a spooky ghost!
+[02:07:51]: [Leave Announcement] 󰀉Rosé󰀈

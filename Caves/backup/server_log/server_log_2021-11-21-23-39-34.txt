@@ -1,0 +1,719 @@
+[00:00:00]: PersistRootStorage is now /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 486838
+[00:00:00]: Current time: Sun Nov 21 23:21:34 2021
+
+[00:00:00]: Don't Starve Together: 486838 OSX
+[00:00:00]: Build Date: 6444
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 2830 -shard Caves 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (13109080064)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11001, 27019)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:4.76
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (13118615552)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'StreamInput' (13120724992)
+[00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: Token retrieved from: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Darwin
+    version                   21.1.0
+    platformSpecific          
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2400
+    name                      Apple M1
+    manufacturer              Apple M1
+    numCores                  8
+    features                  
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    megsOfRam                 0
+    videoModeDescription      
+    name                      
+    driverVersion             
+    driverDate                
+    refreshRate               220960128
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: Could not load modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: bloom_enabled	true	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:02]: 	Load FE	
+[00:00:03]: THREAD - started 'FilesExistAsyncThread' (13124448256)
+[00:00:03]: FilesExistAsyncThread started (18786 files)...
+[00:00:03]: 	Load FE: done	
+[00:00:03]: Check for write access: TRUE
+[00:00:03]: Check for read access: TRUE
+[00:00:03]: Available disk space for save files: 12792740 MB
+[00:00:03]: ModIndex: Load sequence finished successfully.	
+[00:00:03]: Reset() returning
+[00:00:03]: [200] Account Communication Success (6)
+[00:00:03]: Received (KU_hjXTctx_) from TokenPurpose
+[00:00:03]: Starting Dedicated Server Game	
+[00:00:03]: Network tick rate: U=15(2), D=0
+[00:00:03]: About to start a server with the following settings:
+[00:00:03]:   Dedicated: true
+[00:00:03]:   Online: true
+[00:00:03]:   Passworded: true
+[00:00:03]:   ServerPort: 11001
+[00:00:03]:   SteamAuthPort: 8769
+[00:00:03]:   SteamMasterServerPort: 27019
+[00:00:03]:   ClanID: false
+[00:00:03]:   ClanOnly: false
+[00:00:03]:   ClanAdmin: false
+[00:00:03]:   LanOnly: false
+[00:00:03]:   FriendsOnly: false
+[00:00:03]:   EnableAutosaver: true
+[00:00:03]:   EncodeUserPath: false
+[00:00:03]:   PVP: false
+[00:00:03]:   MaxPlayers: 10
+[00:00:03]:   GameMode: endless
+[00:00:03]:   OverridenDNS: 
+[00:00:03]:   PauseWhenEmpty: true
+[00:00:03]:   IdleTimeout: 1800s
+[00:00:03]:   VoteEnabled: true
+[00:00:03]:   InternetBroadcasting: true
+[00:00:03]:   Intent: cooperative
+[00:00:03]: [Shard] No shard id specified, generating a random one...
+[00:00:03]: Online Server Started on port: 11001
+[00:00:04]: SUCCESS: Loaded modoverrides.lua	
+[00:00:04]: Not applying level data overrides.	
+[00:00:04]: Found a worldgen override file with these contents:	
+[00:00:04]: 	K: 	override_enabled	 V: 	true	
+[00:00:04]: 	K: 	preset	 V: 	DST_CAVE	
+[00:00:04]:   sanity-checking worldgenoverride.lua...	
+[00:00:04]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:00:04]:   contained worldgen preset DST_CAVE, loading...	
+[00:00:04]:   contained settings preset DST_CAVE, loading...	
+[00:00:04]: Overwriting savedata with override file.	
+[00:00:04]: Collecting garbage...
+[00:00:04]: lua_gc took 0.03 seconds
+[00:00:04]: ~ShardLuaProxy()
+[00:00:04]: ~cEventLeaderboardProxy()
+[00:00:04]: ~ItemServerLuaProxy()
+[00:00:04]: ~InventoryLuaProxy()
+[00:00:04]: ~NetworkLuaProxy()
+[00:00:04]: ~SimLuaProxy()
+[00:00:04]: FilesExistAsyncThread aborted.
+[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:04]: lua_close took 0.03 seconds
+[00:00:04]: ReleaseAll
+[00:00:04]: ReleaseAll Finished
+[00:00:04]: cGame::StartPlaying
+[00:00:04]: AppVersion::GetArchitecture() x64
+[00:00:04]: LOADING LUA
+[00:00:04]: DoLuaFile scripts/main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/main.lua
+[00:00:04]:   taskgrouplist:	default	Together	
+[00:00:04]:   taskgrouplist:	classic	Classic	
+[00:00:04]:   taskgrouplist:	cave_default	Underground	
+[00:00:04]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:04]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:04]: running main.lua
+	
+[00:00:04]: loaded modindex	
+[00:00:04]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:04]: SUCCESS: Loaded modoverrides.lua	
+[00:00:04]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: SUCCESS: Loaded modoverrides.lua	
+[00:00:04]: Not applying level data overrides.	
+[00:00:04]: Found a worldgen override file with these contents:	
+[00:00:04]: 	K: 	override_enabled	 V: 	true	
+[00:00:04]: 	K: 	preset	 V: 	DST_CAVE	
+[00:00:04]:   sanity-checking worldgenoverride.lua...	
+[00:00:04]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:00:04]:   contained worldgen preset DST_CAVE, loading...	
+[00:00:04]:   contained settings preset DST_CAVE, loading...	
+[00:00:04]: Overwriting savedata with override file.	
+[00:00:04]: WorldSim::SimThread::SimThread()
+[00:00:04]: ABOUT TO INSTALL STACKTRACE
+[00:00:04]: DoLuaFile scripts/stacktrace.lua
+[00:00:04]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:00:04]: INSTALLED STACKTRACE
+[00:00:04]: WorldSim::SimThread::SimThread() complete
+[00:00:04]: THREAD - started 'WorldSim' (13124448256)
+[00:00:04]: WorldSim::SimThread::Main()
+[00:00:04]: DoLuaFile scripts/worldgen_main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:00:04]: Check for write access: TRUE
+[00:00:04]: Check for read access: TRUE
+[00:00:04]: Available disk space for save files: 12793076 MB
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: DLC enabled : 	false	
+[00:00:04]:   taskgrouplist:	default	Together	
+[00:00:04]:   taskgrouplist:	classic	Classic	
+[00:00:04]:   taskgrouplist:	cave_default	Underground	
+[00:00:04]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:04]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:04]: running worldgen_main.lua
+	
+[00:00:04]: SEED = 	1637511698	
+[00:00:04]: Generating world with these parameters:	
+[00:00:04]: level_type	SURVIVAL	
+[00:00:04]: level_data:	
+[00:00:04]: 	K: 	background_node_range	 V: 	table: 0x600007b0e6c0	
+[00:00:04]: 		K: 	1	 V: 	0	
+[00:00:04]: 		K: 	2	 V: 	1	
+[00:00:04]: 	K: 	desc	 V: 	Delve into the caves... together!	
+[00:00:04]: 	K: 	hideminimap	 V: 	false	
+[00:00:04]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:04]: 	K: 	location	 V: 	cave	
+[00:00:04]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:04]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:04]: 	K: 	name	 V: 	The Caves	
+[00:00:04]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:04]: 	K: 	override_level_string	 V: 	false	
+[00:00:04]: 	K: 	overrides	 V: 	table: 0x600007b0ef00	
+[00:00:04]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:04]: 		K: 	roads	 V: 	never	
+[00:00:04]: 		K: 	season_start	 V: 	default	
+[00:00:04]: 		K: 	start_location	 V: 	caves	
+[00:00:04]: 		K: 	task_set	 V: 	cave_default	
+[00:00:04]: 		K: 	world_size	 V: 	default	
+[00:00:04]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:04]: 	K: 	required_prefabs	 V: 	table: 0x600007b0ec80	
+[00:00:04]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:04]: 	K: 	settings_desc	 V: 	Delve into the caves... together!	
+[00:00:04]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:04]: 	K: 	settings_name	 V: 	The Caves	
+[00:00:04]: 	K: 	substitutes	 V: 	table: 0x600007b0e8c0	
+[00:00:04]: 	K: 	version	 V: 	4	
+[00:00:04]: 	K: 	worldgen_desc	 V: 	Delve into the caves... together!	
+[00:00:04]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:04]: 	K: 	worldgen_name	 V: 	The Caves	
+[00:00:04]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:00:04]: Prefab Swap Selection: regular grass	
+[00:00:04]: Prefab Swap Selection: regular twigs	
+[00:00:04]: Prefab Swap Selection: regular berries	
+[00:00:04]: New size:	425	default	
+[00:00:04]: Creating story...	
+[00:00:04]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:04]: [Story Gen] RestrictNodesByKey	
+[00:00:04]: Finding valid start task...	
+[00:00:04]:    ...picked 	CaveExitTask1	
+[00:00:04]: Has start node	SinkholeForest	
+[00:00:04]: Adding Background Nodes	
+[00:00:04]: [Story Gen] Adding Cove Nodes	
+[00:00:04]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:04]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:04]: GenerateVoronoiMap [100]:
+[00:00:06]: ...Done.
+[00:00:06]: ... story created	
+[00:00:06]: Baking map...	425	
+[00:00:06]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:06]: [WorldSimActual::ConvertToTileMap]
+[00:00:06]: [ConvertToTileMap]
+[00:00:06]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:06]: [WorldSimActual::SeparateIslands]
+[00:00:06]: [SeparateIslands]
+[00:00:06]: [WorldSimActual::SeparateIslands] complete
+[00:00:06]: Map Baked!	
+[00:00:06]: [WorldSimActual::ForceConnectivity]
+[00:00:06]: [GenerateLandmasses]
+[00:00:06]: [GenerateLandmasses] islands: 11
+[00:00:06]: [MergeConnectedLandmasses] true
+[00:00:06]: [WorldSimActual::ForceConnectivity] complete
+[00:00:06]: Encoding...	
+[00:00:06]: [WorldSimActual::CreateNodeIdTileMap]
+[00:00:06]: Encoding... DONE	
+[00:00:06]: Checking Tags	
+[00:00:06]: Populating voronoi...	
+[00:00:06]: Warning! Could not find a spot for StraightWall2 in node Residential2:3:Vacant	
+[00:00:06]: Warning! Could not find a spot for StraightWall2 in node Residential2:3:Vacant	
+[00:00:06]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:06]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:06]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:06]: Warning! Could not find a spot for TentaclePillar in node BigBatCave:BG_87:BGBatCaveRoom	
+[00:00:06]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:06]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:06]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:06]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:06]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:06]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:06]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:06]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:06]: Warning! Could not find a spot for RabbitTown in node RabbitTown:0:RabbitTown	
+[00:00:06]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:06]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:06]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:06]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:06]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:06]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:06]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:06]: [ReplaceSingleNonLandTiles] Replaced 45 tiles.
+[00:00:06]: disconnected tiles...	295	
+[00:00:06]: Removing entity on IMPASSABLE	ruins_chair	357.045	100.015	578.18, 0, -449.94	
+[00:00:06]: Removing entity on IMPASSABLE	nightmarelight	390.765	109.2325	713.06, 0, -413.07	
+[00:00:06]: Removing entity on IMPASSABLE	nightmarelight	388.28	111.75	703.12, 0, -403	
+[00:00:06]: Removing entity on IMPASSABLE	nightmarelight	388.28	109.3125	703.12, 0, -412.75	
+[00:00:06]: Removing entity on IMPASSABLE	nightmarelight	390.7025	111.7025	712.81, 0, -403.19	
+[00:00:06]: Removing entity on IMPASSABLE	ruins_rubble_chair	357.905	102	581.62, 0, -442	
+[00:00:06]: Removing entity on IMPASSABLE	pandoraschest	346.5	12.5	536, 0, -800	
+[00:00:06]: Removing entity on IMPASSABLE	pandoraschest	318.5	12.5	424, 0, -800	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	391.4675	108.5	715.87, 0, -416	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	391.4825	112.515	715.93, 0, -399.94	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	387.4825	112.515	699.93, 0, -399.94	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	387.4825	108.5	699.93, 0, -416	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	384.4825	105.4825	687.93, 0, -428.07	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	394.515	105.5	728.06, 0, -428	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	394.4825	115.5	727.93, 0, -388	
+[00:00:06]: Removing entity on IMPASSABLE	pillar_ruins	384.4825	115.4825	687.93, 0, -388.07	
+[00:00:06]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	388.9825	111.25	705.93, 0, -405	
+[00:00:06]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	389.9525	109.67	709.81, 0, -411.32	
+[00:00:06]: Removing entity on IMPASSABLE	chessjunk_spawner	392.515	107.3575	720.06, 0, -420.57	
+[00:00:06]: Removing entity on IMPASSABLE	chessjunk_spawner	386.4825	113.2325	695.93, 0, -397.07	
+[00:00:06]: Removing entity on IMPASSABLE	ancient_altar_spawner	389.515	110.5	708.06, 0, -408	
+[00:00:06]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:06]: Checking Required Prefab archive_orchestrina_main has at least 1 instances (1 found).	
+[00:00:06]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:06]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:06]: Checking Required Prefab sacred_chest has at least 1 instances (0 found).	
+[00:00:06]: PANIC: missing required prefab [sacred_chest]! Expected 1, got 0	
+[00:00:06]: An error occured during world gen we will retry! [was 	1	 of 	5	]	
+[00:00:06]: New size:	425	default	
+[00:00:06]: Creating story...	
+[00:00:06]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:06]: [Story Gen] RestrictNodesByKey	
+[00:00:06]: Finding valid start task...	
+[00:00:06]:    ...picked 	CaveExitTask8	
+[00:00:06]: Has start node	SinkholeCopses	
+[00:00:06]: Adding Background Nodes	
+[00:00:06]: [Story Gen] Adding Cove Nodes	
+[00:00:06]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:06]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:06]: GenerateVoronoiMap [100]:
+[00:00:07]: ...Done.
+[00:00:07]: ... story created	
+[00:00:07]: Baking map...	425	
+[00:00:07]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:07]: [WorldSimActual::ConvertToTileMap]
+[00:00:07]: [ConvertToTileMap]
+[00:00:07]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:07]: [WorldSimActual::SeparateIslands]
+[00:00:07]: [SeparateIslands]
+[00:00:07]: [WorldSimActual::SeparateIslands] complete
+[00:00:07]: Map Baked!	
+[00:00:07]: [WorldSimActual::ForceConnectivity]
+[00:00:07]: [GenerateLandmasses]
+[00:00:07]: [GenerateLandmasses] islands: 10
+[00:00:07]: [MergeConnectedLandmasses] true
+[00:00:07]: [WorldSimActual::ForceConnectivity] complete
+[00:00:07]: Encoding...	
+[00:00:07]: [WorldSimActual::CreateNodeIdTileMap]
+[00:00:07]: Encoding... DONE	
+[00:00:07]: Checking Tags	
+[00:00:07]: Populating voronoi...	
+[00:00:07]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:07]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:07]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:07]: Warning! Could not find a spot for PondSinkhole in node CaveExitTask7:0:SinkholeOasis	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:07]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:07]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:07]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:07]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:07]: Warning! Could not find a spot for GrassySinkhole in node PleasantSinkhole:5:GrasslandSinkhole	
+[00:00:07]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:07]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:07]: Warning! Could not find a spot for RabbitTown in node RabbitTown:0:RabbitTown	
+[00:00:07]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:07]: [ReplaceSingleNonLandTiles] Replaced 42 tiles.
+[00:00:07]: disconnected tiles...	619	
+[00:00:08]: Removing entity on IMPASSABLE	nightmarelight	290.2325	72.2325	310.93, 0, -561.07	
+[00:00:08]: Removing entity on IMPASSABLE	nightmarelight	292.7175	74.75	320.87, 0, -551	
+[00:00:08]: Removing entity on IMPASSABLE	nightmarelight	292.7175	72.3125	320.87, 0, -560.75	
+[00:00:08]: Removing entity on IMPASSABLE	nightmarelight	290.295	74.7025	311.18, 0, -551.19	
+[00:00:08]: Removing entity on IMPASSABLE	pandoraschest	409.5	122.5	788, 0, -360	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	289.53	71.5	308.12, 0, -564	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	289.515	75.515	308.06, 0, -547.94	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	293.515	75.515	324.06, 0, -547.94	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	293.515	71.5	324.06, 0, -564	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	296.515	68.4825	336.06, 0, -576.07	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	286.4825	68.5	295.93, 0, -576	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	286.515	78.5	296.06, 0, -536	
+[00:00:08]: Removing entity on IMPASSABLE	pillar_ruins	296.515	78.4825	336.06, 0, -536.07	
+[00:00:08]: Removing entity on IMPASSABLE	wall_ruins	319.5	110.265	428, 0, -408.94	
+[00:00:08]: Removing entity on IMPASSABLE	wall_ruins	367.265	205.5	619.06, 0, -28	
+[00:00:08]: Removing entity on IMPASSABLE	ancient_altar_spawner	291.4825	73.5	315.93, 0, -556	
+[00:00:08]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	292.015	74.25	318.06, 0, -553	
+[00:00:08]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	291.045	72.67	314.18, 0, -559.32	
+[00:00:08]: Removing entity on IMPASSABLE	chessjunk_spawner	288.4825	70.3575	303.93, 0, -568.57	
+[00:00:08]: Removing entity on IMPASSABLE	chessjunk_spawner	294.515	76.2325	328.06, 0, -545.07	
+[00:00:08]: Removing entity on IMPASSABLE	sacred_chest	293.25	73.5	323, 0, -556	
+[00:00:08]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:08]: Checking Required Prefab archive_orchestrina_main has at least 1 instances (1 found).	
+[00:00:08]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:08]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:08]: Checking Required Prefab sacred_chest has at least 1 instances (0 found).	
+[00:00:08]: PANIC: missing required prefab [sacred_chest]! Expected 1, got 0	
+[00:00:08]: An error occured during world gen we will retry! [was 	2	 of 	5	]	
+[00:00:08]: New size:	425	default	
+[00:00:08]: Creating story...	
+[00:00:08]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:08]: [Story Gen] RestrictNodesByKey	
+[00:00:08]: Finding valid start task...	
+[00:00:08]:    ...picked 	CaveExitTask5	
+[00:00:08]: Has start node	GreenMushRabbits	
+[00:00:08]: Adding Background Nodes	
+[00:00:08]: [Story Gen] Adding Cove Nodes	
+[00:00:08]: Warning! Couldn't find a spot in BatCloister for TentaclePillar	
+[00:00:08]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:08]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:08]: GenerateVoronoiMap [100]:
+[00:00:09]: ...Done.
+[00:00:09]: ... story created	
+[00:00:09]: Baking map...	425	
+[00:00:09]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:09]: [WorldSimActual::ConvertToTileMap]
+[00:00:09]: [ConvertToTileMap]
+[00:00:09]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:09]: [WorldSimActual::SeparateIslands]
+[00:00:09]: [SeparateIslands]
+[00:00:09]: [WorldSimActual::SeparateIslands] complete
+[00:00:09]: Map Baked!	
+[00:00:09]: [WorldSimActual::ForceConnectivity]
+[00:00:09]: [GenerateLandmasses]
+[00:00:09]: [GenerateLandmasses] islands: 7
+[00:00:09]: [MergeConnectedLandmasses] true
+[00:00:09]: [WorldSimActual::ForceConnectivity] complete
+[00:00:09]: Encoding...	
+[00:00:09]: [WorldSimActual::CreateNodeIdTileMap]
+[00:00:09]: Encoding... DONE	
+[00:00:09]: Checking Tags	
+[00:00:09]: Populating voronoi...	
+[00:00:09]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:09]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:09]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for RabbitTown in node CaveExitTask2:0:RabbitTown	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:09]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:09]: Warning! Could not find a spot for RabbitTown in node RabbitTown:0:RabbitTown	
+[00:00:09]: Warning! Could not find a spot for CornerWall in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:09]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:09]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:09]: [ReplaceSingleNonLandTiles] Replaced 44 tiles.
+[00:00:09]: disconnected tiles...	805	
+[00:00:09]: Removing entity on IMPASSABLE		395.7025	192.7325	732.81, 0, -79.07	
+[00:00:09]: Removing entity on IMPASSABLE	nightmarelight	126.5	378.5	-344, 0, 664	
+[00:00:09]: Removing entity on IMPASSABLE	ruins_rubble_chair	126.905	376	-342.38, 0, 654	
+[00:00:09]: Removing entity on IMPASSABLE	pandoraschest	20.5	370.5	-768, 0, 632	
+[00:00:09]: Removing entity on IMPASSABLE	pandoraschest	20.5	382.5	-768, 0, 680	
+[00:00:09]: Removing entity on IMPASSABLE	pandoraschest	68.5	402.5	-576, 0, 760	
+[00:00:09]: Removing entity on IMPASSABLE	wall_ruins	114.265	344.5	-392.94, 0, 528	
+[00:00:09]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:09]: Checking Required Prefab archive_orchestrina_main has at least 1 instances (1 found).	
+[00:00:09]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:09]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:09]: Checking Required Prefab sacred_chest has at least 1 instances (0 found).	
+[00:00:09]: PANIC: missing required prefab [sacred_chest]! Expected 1, got 0	
+[00:00:09]: An error occured during world gen we will retry! [was 	3	 of 	5	]	
+[00:00:09]: New size:	425	default	
+[00:00:09]: Creating story...	
+[00:00:09]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:09]: [Story Gen] RestrictNodesByKey	
+[00:00:09]: Finding valid start task...	
+[00:00:09]:    ...picked 	CaveExitTask8	
+[00:00:09]: Has start node	RabbitSinkhole	
+[00:00:09]: Adding Background Nodes	
+[00:00:09]: [Story Gen] Adding Cove Nodes	
+[00:00:09]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:09]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:09]: GenerateVoronoiMap [100]:
+[00:00:11]: ...Done.
+[00:00:11]: ... story created	
+[00:00:11]: Baking map...	425	
+[00:00:11]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:11]: [WorldSimActual::ConvertToTileMap]
+[00:00:11]: [ConvertToTileMap]
+[00:00:11]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:11]: [WorldSimActual::SeparateIslands]
+[00:00:11]: [SeparateIslands]
+[00:00:11]: [WorldSimActual::SeparateIslands] complete
+[00:00:11]: Map Baked!	
+[00:00:11]: [WorldSimActual::ForceConnectivity]
+[00:00:11]: [GenerateLandmasses]
+[00:00:11]: [GenerateLandmasses] islands: 7
+[00:00:11]: [MergeConnectedLandmasses] true
+[00:00:11]: [WorldSimActual::ForceConnectivity] complete
+[00:00:11]: Encoding...	
+[00:00:11]: [WorldSimActual::CreateNodeIdTileMap]
+[00:00:11]: Encoding... DONE	
+[00:00:11]: Checking Tags	
+[00:00:11]: Populating voronoi...	
+[00:00:11]: Warning! Could not find a spot for StraightWall2 in node Residential2:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for StraightWall2 in node Residential2:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:11]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:11]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:11]: [ReplaceSingleNonLandTiles] Replaced 32 tiles.
+[00:00:11]: disconnected tiles...	73	
+[00:00:11]: Removing entity on IMPASSABLE	pandoraschest	18.5	100.5	-776, 0, -448	
+[00:00:11]: Removing entity on IMPASSABLE	pandoraschest	18.5	104.5	-776, 0, -432	
+[00:00:11]: Removing entity on IMPASSABLE	wall_ruins	108.265	139.5	-416.94, 0, -292	
+[00:00:11]: Removing entity on IMPASSABLE	wall_ruins	223.5	50.265	44, 0, -648.94	
+[00:00:11]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab archive_orchestrina_main has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab sacred_chest has at least 1 instances (0 found).	
+[00:00:11]: PANIC: missing required prefab [sacred_chest]! Expected 1, got 0	
+[00:00:11]: An error occured during world gen we will retry! [was 	4	 of 	5	]	
+[00:00:11]: New size:	425	default	
+[00:00:11]: Creating story...	
+[00:00:11]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:11]: [Story Gen] RestrictNodesByKey	
+[00:00:11]: Finding valid start task...	
+[00:00:11]:    ...picked 	CaveExitTask1	
+[00:00:11]: Has start node	RabbitArea	
+[00:00:11]: Adding Background Nodes	
+[00:00:11]: [Story Gen] Adding Cove Nodes	
+[00:00:11]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:11]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:11]: GenerateVoronoiMap [100]:
+[00:00:12]: ...Done.
+[00:00:12]: ... story created	
+[00:00:12]: Baking map...	425	
+[00:00:12]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:12]: [WorldSimActual::ConvertToTileMap]
+[00:00:12]: [ConvertToTileMap]
+[00:00:12]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:12]: [WorldSimActual::SeparateIslands]
+[00:00:12]: [SeparateIslands]
+[00:00:12]: [WorldSimActual::SeparateIslands] complete
+[00:00:12]: Map Baked!	
+[00:00:12]: [WorldSimActual::ForceConnectivity]
+[00:00:12]: [GenerateLandmasses]
+[00:00:12]: [GenerateLandmasses] islands: 12
+[00:00:12]: [MergeConnectedLandmasses] true
+[00:00:12]: [WorldSimActual::ForceConnectivity] complete
+[00:00:12]: Encoding...	
+[00:00:12]: [WorldSimActual::CreateNodeIdTileMap]
+[00:00:12]: Encoding... DONE	
+[00:00:12]: Checking Tags	
+[00:00:12]: Populating voronoi...	
+[00:00:12]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:4:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:4:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:12]: Warning! Could not find a spot for GrassySinkhole in node PleasantSinkhole:4:GrasslandSinkhole	
+[00:00:12]: Warning! Could not find a spot for CornerWall in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:12]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:12]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[00:00:12]: Warning! Could not find a spot for GrassySinkhole in node PleasantSinkhole:3:GrasslandSinkhole	
+[00:00:12]: Warning! Could not find a spot for CornerWall in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:12]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:12]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:12]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:12]: [ReplaceSingleNonLandTiles] Replaced 33 tiles.
+[00:00:12]: disconnected tiles...	324	
+[00:00:12]: Removing entity on IMPASSABLE	pandoraschest	229.5	364.5	68, 0, 608	
+[00:00:12]: Removing entity on IMPASSABLE	pandoraschest	223.5	412.5	44, 0, 800	
+[00:00:12]: Removing entity on IMPASSABLE	pandoraschest	203.5	412.5	-36, 0, 800	
+[00:00:12]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:12]: Checking Required Prefab archive_orchestrina_main has at least 1 instances (1 found).	
+[00:00:12]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:12]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:12]: Checking Required Prefab sacred_chest has at least 1 instances (1 found).	
+[00:00:12]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:12]: [ReplaceSingleNonLandTiles] Replaced 0 tiles.
+[00:00:12]: Done cave map gen!	
+[00:00:12]: Checking map...	
+[00:00:12]: Generation complete	
+[00:00:12]: WorldSim::SimThread::Main() complete
+[00:00:12]: Serializing world: session/CCAF4047E796A4C8/0000000002
+[00:00:12]: Auto-enabling encoded user paths
+[00:00:12]: Klump load on boot started.	
+[00:00:12]: Klump files loaded: 	0	
+[00:00:12]: 	Unload FE	
+[00:00:12]: 	Unload FE done	
+[00:00:14]: 	LOAD BE	
+[00:00:17]: 	LOAD BE: done	
+[00:00:17]: Begin Session: CCAF4047E796A4C8
+[00:00:17]: saving to server_temp/server_save	
+[00:00:18]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:18]: Loading 18 new character(s)	
+[00:00:18]: Total 18 character(s) loaded	
+[00:00:20]: Loading Nav Grid	
+[00:00:20]: World generated on build 486838 with save version: 5.09, using seed: 1637511698	
+[00:00:20]: [Shard] Secondary shard is waiting for LUA...
+[00:00:21]: Can't find prefab archive_sound_area	
+[00:00:21]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
+[00:00:21]: Can't find prefab archive_sound_area	
+[00:00:21]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
+[00:00:21]: Can't find prefab archive_sound_area	
+[00:00:21]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
+[00:00:22]: SWITCHING 	false	
+[00:00:22]: Reconstructing topology	
+[00:00:22]: 	...Sorting points	
+[00:00:22]: 	...Sorting edges	
+[00:00:22]: 	...Connecting nodes	
+[00:00:22]: 	...Validating connections	
+[00:00:22]: 	...Housekeeping	
+[00:00:22]: 	...Done!	
+[00:00:22]: 1 uploads added to server. From server_temp
+[00:00:22]: About to start a shard with these settings:
+[00:00:22]:   ShardName: Caves
+[00:00:22]:   ShardID: 3876562405
+[00:00:22]:   ShardRole: SECONDARY
+[00:00:22]:   MasterHost: 127.0.0.1
+[00:00:22]:   MasterBind: (null)
+[00:00:22]:   MasterPort: 10889
+[00:00:22]: [Shard] Connecting to master...
+[00:00:22]: Telling Client our new session identifier: CCAF4047E796A4C8
+[00:00:22]: [Shard] Sending secondary shard information to master...
+[00:00:22]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:00:22]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:00:22]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:00:22]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:00:22]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:00:22]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:00:22]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:00:22]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:00:22]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:00:22]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:22]: Overriding region to Sing
+[00:00:22]: Registering secondary shard in Sing lobby
+[00:00:23]: [Shard] secondary shard is now ready!
+[00:00:23]: World 1 is now connected	
+[00:00:23]: Validating portal[1] <-> 1[1] (active)	
+[00:00:23]: Validating portal[2] <-> 1[2] (active)	
+[00:00:23]: Validating portal[3] <-> 1[3] (active)	
+[00:00:23]: Validating portal[4] <-> 1[4] (active)	
+[00:00:23]: Validating portal[5] <-> 1[5] (active)	
+[00:00:23]: Validating portal[6] <-> 1[6] (active)	
+[00:00:23]: Validating portal[7] <-> 1[7] (active)	
+[00:00:23]: Validating portal[8] <-> 1[8] (active)	
+[00:00:23]: Validating portal[9] <-> 1[9] (active)	
+[00:00:23]: Validating portal[10] <-> 1[10] (active)	
+[00:00:24]: [Shard] secondary shard LUA is now ready!
+[00:00:24]: Sim paused

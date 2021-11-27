@@ -1,0 +1,2388 @@
+[00:00:00]: PersistRootStorage is now /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 487518
+[00:00:00]: Current time: Fri Nov 26 18:37:21 2021
+
+[00:00:00]: Don't Starve Together: 487518 OSX
+[00:00:00]: Build Date: 6457
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 18662 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (13112586240)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:4.76
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (13122121728)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'StreamInput' (13124231168)
+[00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Success)
+[00:00:01]: OnLoadUserIdList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: Token retrieved from: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Darwin
+    version                   21.1.0
+    platformSpecific          
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2400
+    name                      Apple M1
+    manufacturer              Apple M1
+    numCores                  8
+    features                  
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    megsOfRam                 0
+    videoModeDescription      
+    name                      
+    driverVersion             
+    driverDate                
+    refreshRate               224466304
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: SUCCESS: Loaded modoverrides.lua	
+[00:00:03]: modoverrides.lua enabling workshop-928691537	
+[00:00:03]: modoverrides.lua enabling workshop-1416161108	
+[00:00:03]: modoverrides.lua enabling workshop-2477889104	
+[00:00:03]: modoverrides.lua enabling workshop-462372013	
+[00:00:03]: modoverrides.lua enabling workshop-2629184121	
+[00:00:03]: modoverrides.lua enabling workshop-466732225	
+[00:00:03]: modoverrides.lua enabling workshop-1595631294	
+[00:00:03]: modoverrides.lua enabling workshop-2373951100	
+[00:00:03]: modoverrides.lua enabling workshop-666155465	
+[00:00:03]: modoverrides.lua enabling workshop-501385076	
+[00:00:03]: modoverrides.lua enabling workshop-378160973	
+[00:00:03]: modoverrides.lua enabling workshop-1803285852	
+[00:00:03]: modoverrides.lua enabling workshop-1777789373	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:03]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2373951100_CLIENT	
+[00:00:03]: Loading mod: workshop-2373951100 ([DST] [Configurable] Sprinkler) Version:1.3.5	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:03]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:03]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:03]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1777789373_CLIENT	
+[00:00:03]: Loading mod: workshop-1777789373 (Disable World Regrowth) Version:1	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-462372013_CLIENT	
+[00:00:03]: Loading mod: workshop-462372013 (Always fresh) Version:1.2	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-928691537_CLIENT	
+[00:00:03]: Loading mod: workshop-928691537 (Force Reed Trap Set Piece Generation) Version:1.0	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1803285852_CLIENT	
+[00:00:03]: Loading mod: workshop-1803285852 (Auto Stack and Pick Up) Version:0.1.9	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1416161108_CLIENT	
+[00:00:03]: Loading mod: workshop-1416161108 (Camp Security) Version:22.8	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2477889104_CLIENT	
+[00:00:03]: Loading mod: workshop-2477889104 (Beefalo Status Bar) Version:1.2.0	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:03]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2629184121_CLIENT	
+[00:00:03]: Loading mod: workshop-2629184121 (Server Cleaner) Version:1.1.1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-928691537	
+[00:00:03]: Overriding mod workshop-928691537's option _REEDS_override with value 1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1416161108	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option chester_protect with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_protection with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_panel with value 108	
+[00:00:03]: Overriding mod workshop-1416161108's option building_burned_down with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option flingomatic_is_empty with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option language with value En	
+[00:00:03]: Overriding mod workshop-1416161108's option mob_broke with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_protection with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_punishment with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_warning with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option death_annonce with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option egg_deploy with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option test with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option beebox_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_add_to_list_drop with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_add_to_list with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option firehound_propagator with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option warnings_count with value 5	
+[00:00:03]: Overriding mod workshop-1416161108's option punishmentTip with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option vote_kick_time with value 3600	
+[00:00:03]: Overriding mod workshop-1416161108's option builder_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option dont_drop_when_died with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option starcaller with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_drop with value 106	
+[00:00:03]: Overriding mod workshop-1416161108's option read_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_del_from_list_drop with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option protect_wall with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option lavae_protect with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_friend with value 107	
+[00:00:03]: Overriding mod workshop-1416161108's option reeds_cactus with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_container with value 114	
+[00:00:03]: Overriding mod workshop-1416161108's option good_monsters with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option glommer_protect with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option flingomatic_improved with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_warning with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_vote with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_punishment with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_del_from_list with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_vote with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option ban_time with value 1800	
+[00:00:03]: Overriding mod workshop-1416161108's option campfire_propagator with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2477889104	
+[00:00:03]: Overriding mod workshop-2477889104's option HEALTH_BADGE_CLEAR_BG with value false	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_ORNERY with value ORANGE	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetYFine with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_PUDGY with value PURPLE	
+[00:00:03]: Overriding mod workshop-2477889104's option ToggleKey with value KEY_T	
+[00:00:03]: Overriding mod workshop-2477889104's option ClientConfig with value false	
+[00:00:03]: Overriding mod workshop-2477889104's option BADGE_BG_OPACITY with value 100	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_Y with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option ShowByDefault with value true	
+[00:00:03]: Overriding mod workshop-2477889104's option Scale with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option Theme with value TheForge	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetXMult with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_X with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_COLORS with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_GENERAL with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_TIMER with value GREEN	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_OBEDIENCE with value RED	
+[00:00:03]: Overriding mod workshop-2477889104's option GapModifier with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_DEFAULT with value WHITE	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetYMult with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option HungerThreshold with value 10	
+[00:00:03]: Overriding mod workshop-2477889104's option BADGE_BG_BRIGHTNESS with value 60	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetXFine with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option EnableSounds with value false	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetX with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetY with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_SETTINGS with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_RIDER with value BLUE	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-462372013	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2629184121	
+[00:00:03]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option halloween_ornament with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option poop with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_food with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option interval with value 5	
+[00:00:03]: Overriding mod workshop-2629184121's option spoiled_food with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option guano with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option sketch with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option houndstooth with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option stinger with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_ornament_boss with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option custom with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_ornament with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_ornament_light with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option halloweencandy with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option delay with value 200	
+[00:00:03]: Overriding mod workshop-2629184121's option rottenegg with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:03]: Overriding mod workshop-1595631294's option SaltBox with value false	
+[00:00:03]: Overriding mod workshop-1595631294's option BundleItems with value false	
+[00:00:03]: Overriding mod workshop-1595631294's option Digornot with value false	
+[00:00:03]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:03]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:03]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2373951100	
+[00:00:03]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:03]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerProtectionTime with value 30	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerMaxFuelTime with value 250	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerRecipe with value easy	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerWetPlayer with value 	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerTempReduction with value 5	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerRange with value 10	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerProtectionDist with value 2.25	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerFuelBonusMultiplier with value 5	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerExtinguishHeatPercent with value -1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:03]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:03]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:03]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:03]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:03]: Overriding mod workshop-501385076's option quick_pick_cactus with value true	
+[00:00:03]: Overriding mod workshop-501385076's option quick_pick_plant_normal_ground with value true	
+[00:00:03]: Overriding mod workshop-501385076's option quick_cook_on_fire with value true	
+[00:00:03]: Overriding mod workshop-501385076's option quick_harvest with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1803285852	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupEnabled with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackMakeNewStackMainStack with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupRange with value 10	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackEnabled with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackMakeNewStackMainStack with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackTwiggyTreeTwigs with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option SmokePuffOnStacking with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option StackDuringPopulation with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupSeeds with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option PlayerMustHaveOneOfItemToAutoPickup with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupAsh with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackSeeds with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackManuallyDroppedItems with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackAsh with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupPoop with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackPoop with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualDropStackRange with value 5	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackAsh with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackRange with value 20	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackSeeds with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackPoop with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1777789373	
+[00:00:03]: Overriding mod workshop-1777789373's option plantregrowth with value false	
+[00:00:03]: Overriding mod workshop-1777789373's option desolationspawner with value false	
+[00:00:03]: Overriding mod workshop-1777789373's option worldregrowth with value false	
+[00:00:03]: Overriding mod workshop-1777789373's option resourcerenewal with value false	
+[00:00:03]: Mod: workshop-1416161108 (Camp Security)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1416161108 (Camp Security)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1416161108 (Camp Security)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/data/strings.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/lib_fn.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/data/PlayerCache.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/controlpanel.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/friendlist.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/lockedcontainers.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/drop_everything.lua	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:03]: ShowMe version:	0.57	
+[00:00:03]: show_food_units	-1	-1	-1	
+[00:00:03]: show_uses	-1	-1	-1	
+[00:00:03]: Detected language for ShowMe: 	auto		
+[00:00:03]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modmain.lua	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Mod: workshop-2629184121 (Server Cleaner)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2629184121 (Server Cleaner)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2629184121 (Server Cleaner)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering Server mod namespace "workshop-1416161108"
+[00:00:04]: Registering Server mod namespace "showmeshint"
+[00:00:04]: Registering Server mod namespace "workshop-378160973"
+[00:00:04]: Registering Server mod namespace "showme"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: Mod: workshop-1416161108 (Camp Security)	Registering prefabs	
+[00:00:06]: Mod: workshop-1416161108 (Camp Security)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Registering prefabs	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rwys_sprinkler	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    sprinkler	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    reapwhatyousow_sprinkler_placer	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_spray	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
+[00:00:06]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
+[00:00:06]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
+[00:00:06]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
+[00:00:06]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
+[00:00:06]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
+[00:00:06]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
+[00:00:06]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:07]: THREAD - started 'FilesExistAsyncThread' (13127401472)
+[00:00:07]: 	Load FE: done	
+[00:00:07]: FilesExistAsyncThread started (18788 files)...
+[00:00:07]: Check for write access: TRUE
+[00:00:07]: Check for read access: TRUE
+[00:00:07]: Available disk space for save files: 10545826 MB
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:08]: [200] Account Communication Success (6)
+[00:00:08]: Received (KU_hjXTctx_) from TokenPurpose
+[00:00:08]: Starting Dedicated Server Game	
+[00:00:08]: Network tick rate: U=15(2), D=0
+[00:00:08]: About to start a server with the following settings:
+[00:00:08]:   Dedicated: true
+[00:00:08]:   Online: true
+[00:00:08]:   Passworded: true
+[00:00:08]:   ServerPort: 11000
+[00:00:08]:   SteamAuthPort: 8768
+[00:00:08]:   SteamMasterServerPort: 27018
+[00:00:08]:   ClanID: false
+[00:00:08]:   ClanOnly: false
+[00:00:08]:   ClanAdmin: false
+[00:00:08]:   LanOnly: false
+[00:00:08]:   FriendsOnly: false
+[00:00:08]:   EnableAutosaver: true
+[00:00:08]:   EncodeUserPath: true
+[00:00:08]:   PVP: false
+[00:00:08]:   MaxPlayers: 10
+[00:00:08]:   GameMode: endless
+[00:00:08]:   OverridenDNS: 
+[00:00:08]:   PauseWhenEmpty: true
+[00:00:08]:   IdleTimeout: 1800s
+[00:00:08]:   VoteEnabled: true
+[00:00:08]:   InternetBroadcasting: true
+[00:00:08]:   Intent: cooperative
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-462372013	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:08]: Online Server Started on port: 11000
+[00:00:08]: SUCCESS: Loaded modoverrides.lua	
+[00:00:08]: Not applying level data overrides.	
+[00:00:08]: Not applying world gen overrides.	
+[00:00:08]: Collecting garbage...
+[00:00:08]: lua_gc took 0.05 seconds
+[00:00:08]: ~ShardLuaProxy()
+[00:00:08]: ~cEventLeaderboardProxy()
+[00:00:08]: ~ItemServerLuaProxy()
+[00:00:08]: ~InventoryLuaProxy()
+[00:00:08]: ~NetworkLuaProxy()
+[00:00:08]: ~SimLuaProxy()
+[00:00:08]: FilesExistAsyncThread aborted.
+[00:00:08]: ... FilesExistAsyncThread complete
+[00:00:08]: lua_close took 0.06 seconds
+[00:00:08]: ReleaseAll
+[00:00:08]: ReleaseAll Finished
+[00:00:08]: cGame::StartPlaying
+[00:00:08]: AppVersion::GetArchitecture() x64
+[00:00:08]: LOADING LUA
+[00:00:08]: DoLuaFile scripts/main.lua
+[00:00:08]: DoLuaFile loading buffer scripts/main.lua
+[00:00:08]:   taskgrouplist:	default	Together	
+[00:00:08]:   taskgrouplist:	classic	Classic	
+[00:00:08]:   taskgrouplist:	cave_default	Underground	
+[00:00:08]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:08]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:08]: running main.lua
+	
+[00:00:08]: loaded modindex	
+[00:00:08]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:08]: SUCCESS: Loaded modoverrides.lua	
+[00:00:08]: modoverrides.lua enabling workshop-928691537	
+[00:00:08]: modoverrides.lua enabling workshop-1416161108	
+[00:00:08]: modoverrides.lua enabling workshop-2477889104	
+[00:00:08]: modoverrides.lua enabling workshop-462372013	
+[00:00:08]: modoverrides.lua enabling workshop-2629184121	
+[00:00:08]: modoverrides.lua enabling workshop-466732225	
+[00:00:08]: modoverrides.lua enabling workshop-1595631294	
+[00:00:08]: modoverrides.lua enabling workshop-2373951100	
+[00:00:08]: modoverrides.lua enabling workshop-666155465	
+[00:00:08]: modoverrides.lua enabling workshop-501385076	
+[00:00:08]: modoverrides.lua enabling workshop-378160973	
+[00:00:08]: modoverrides.lua enabling workshop-1803285852	
+[00:00:08]: modoverrides.lua enabling workshop-1777789373	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:08]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
+[00:00:08]: Loading mod: workshop-2373951100 ([DST] [Configurable] Sprinkler) Version:1.3.5	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-501385076	
+[00:00:08]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:08]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:08]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1777789373	
+[00:00:08]: Loading mod: workshop-1777789373 (Disable World Regrowth) Version:1	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-462372013	
+[00:00:08]: Loading mod: workshop-462372013 (Always fresh) Version:1.2	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-928691537	
+[00:00:08]: Loading mod: workshop-928691537 (Force Reed Trap Set Piece Generation) Version:1.0	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1803285852	
+[00:00:08]: Loading mod: workshop-1803285852 (Auto Stack and Pick Up) Version:0.1.9	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
+[00:00:08]: Loading mod: workshop-1416161108 (Camp Security) Version:22.8	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
+[00:00:08]: Loading mod: workshop-2477889104 (Beefalo Status Bar) Version:1.2.0	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:08]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2629184121	
+[00:00:08]: Loading mod: workshop-2629184121 (Server Cleaner) Version:1.1.1	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-928691537	
+[00:00:08]: Overriding mod workshop-928691537's option _REEDS_override with value 1	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1416161108	
+[00:00:08]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:08]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:08]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:08]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:08]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:08]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:08]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:08]: Overriding mod workshop-1416161108's option chester_protect with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option fire_protection with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option keybind_panel with value 108	
+[00:00:08]: Overriding mod workshop-1416161108's option building_burned_down with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option flingomatic_is_empty with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option language with value En	
+[00:00:08]: Overriding mod workshop-1416161108's option mob_broke with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option destruction_protection with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option destruction_punishment with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option destruction_warning with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option death_annonce with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option egg_deploy with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option test with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option beebox_radius with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option auto_add_to_list_drop with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option auto_add_to_list with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option fire_radius with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option firehound_propagator with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option warnings_count with value 5	
+[00:00:08]: Overriding mod workshop-1416161108's option punishmentTip with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option vote_kick_time with value 3600	
+[00:00:08]: Overriding mod workshop-1416161108's option builder_radius with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option dont_drop_when_died with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option starcaller with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option keybind_drop with value 106	
+[00:00:08]: Overriding mod workshop-1416161108's option read_radius with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option auto_del_from_list_drop with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option protect_wall with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option lavae_protect with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option keybind_friend with value 107	
+[00:00:08]: Overriding mod workshop-1416161108's option reeds_cactus with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option keybind_container with value 114	
+[00:00:08]: Overriding mod workshop-1416161108's option good_monsters with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option glommer_protect with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option flingomatic_improved with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option fire_warning with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option fire_vote with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option fire_punishment with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option auto_del_from_list with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option destruction_vote with value false	
+[00:00:08]: Overriding mod workshop-1416161108's option ban_time with value 1800	
+[00:00:08]: Overriding mod workshop-1416161108's option campfire_propagator with value false	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-2477889104	
+[00:00:08]: Overriding mod workshop-2477889104's option HEALTH_BADGE_CLEAR_BG with value false	
+[00:00:08]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_ORNERY with value ORANGE	
+[00:00:08]: Overriding mod workshop-2477889104's option OffsetYFine with value 0	
+[00:00:08]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_PUDGY with value PURPLE	
+[00:00:08]: Overriding mod workshop-2477889104's option ToggleKey with value KEY_T	
+[00:00:08]: Overriding mod workshop-2477889104's option ClientConfig with value false	
+[00:00:08]: Overriding mod workshop-2477889104's option BADGE_BG_OPACITY with value 100	
+[00:00:08]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_Y with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option ShowByDefault with value true	
+[00:00:08]: Overriding mod workshop-2477889104's option Scale with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option Theme with value TheForge	
+[00:00:08]: Overriding mod workshop-2477889104's option OffsetXMult with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_X with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_COLORS with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option SEPARATOR_GENERAL with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option COLOR_TIMER with value GREEN	
+[00:00:08]: Overriding mod workshop-2477889104's option COLOR_OBEDIENCE with value RED	
+[00:00:08]: Overriding mod workshop-2477889104's option GapModifier with value 0	
+[00:00:08]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_DEFAULT with value WHITE	
+[00:00:08]: Overriding mod workshop-2477889104's option OffsetYMult with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option HungerThreshold with value 10	
+[00:00:08]: Overriding mod workshop-2477889104's option BADGE_BG_BRIGHTNESS with value 60	
+[00:00:08]: Overriding mod workshop-2477889104's option OffsetXFine with value 0	
+[00:00:08]: Overriding mod workshop-2477889104's option EnableSounds with value false	
+[00:00:08]: Overriding mod workshop-2477889104's option OffsetX with value 0	
+[00:00:08]: Overriding mod workshop-2477889104's option OffsetY with value 0	
+[00:00:08]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_SETTINGS with value 1	
+[00:00:08]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_RIDER with value BLUE	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-462372013	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-2629184121	
+[00:00:08]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:08]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:08]: Overriding mod workshop-2629184121's option halloween_ornament with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option poop with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option winter_food with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option interval with value 5	
+[00:00:08]: Overriding mod workshop-2629184121's option spoiled_food with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option guano with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option sketch with value false	
+[00:00:08]: Overriding mod workshop-2629184121's option houndstooth with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option stinger with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option winter_ornament_boss with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option custom with value false	
+[00:00:08]: Overriding mod workshop-2629184121's option winter_ornament with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option winter_ornament_light with value false	
+[00:00:08]: Overriding mod workshop-2629184121's option halloweencandy with value true	
+[00:00:08]: Overriding mod workshop-2629184121's option delay with value 200	
+[00:00:08]: Overriding mod workshop-2629184121's option rottenegg with value false	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:08]: Overriding mod workshop-1595631294's option SaltBox with value false	
+[00:00:08]: Overriding mod workshop-1595631294's option BundleItems with value false	
+[00:00:08]: Overriding mod workshop-1595631294's option Digornot with value false	
+[00:00:08]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:08]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:08]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-2373951100	
+[00:00:08]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:08]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerProtectionTime with value 30	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerMaxFuelTime with value 250	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerRecipe with value easy	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerWetPlayer with value 	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerTempReduction with value 5	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerRange with value 10	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerProtectionDist with value 2.25	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerFuelBonusMultiplier with value 5	
+[00:00:08]: Overriding mod workshop-2373951100's option SprinklerExtinguishHeatPercent with value -1	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:08]: Overriding mod workshop-501385076's option quick_pick_cactus with value true	
+[00:00:08]: Overriding mod workshop-501385076's option quick_pick_plant_normal_ground with value true	
+[00:00:08]: Overriding mod workshop-501385076's option quick_cook_on_fire with value true	
+[00:00:08]: Overriding mod workshop-501385076's option quick_harvest with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1803285852	
+[00:00:08]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:08]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:08]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:08]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoPickupEnabled with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option ManualStackMakeNewStackMainStack with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoPickupRange with value 10	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackEnabled with value true	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackMakeNewStackMainStack with value true	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackTwiggyTreeTwigs with value true	
+[00:00:08]: Overriding mod workshop-1803285852's option SmokePuffOnStacking with value true	
+[00:00:08]: Overriding mod workshop-1803285852's option StackDuringPopulation with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoPickupSeeds with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option PlayerMustHaveOneOfItemToAutoPickup with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoPickupAsh with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option ManualStackSeeds with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackManuallyDroppedItems with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option ManualStackAsh with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoPickupPoop with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option ManualStackPoop with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option ManualDropStackRange with value 5	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackAsh with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackRange with value 20	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackSeeds with value false	
+[00:00:08]: Overriding mod workshop-1803285852's option AutoStackPoop with value false	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1777789373	
+[00:00:08]: Overriding mod workshop-1777789373's option plantregrowth with value false	
+[00:00:08]: Overriding mod workshop-1777789373's option desolationspawner with value false	
+[00:00:08]: Overriding mod workshop-1777789373's option worldregrowth with value false	
+[00:00:08]: Overriding mod workshop-1777789373's option resourcerenewal with value false	
+[00:00:08]: Mod: workshop-1416161108 (Camp Security)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1416161108 (Camp Security)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1416161108 (Camp Security)	Loading modmain.lua	
+[00:00:08]: modimport: ../mods/workshop-1416161108/data/strings.lua	
+[00:00:08]: modimport: ../mods/workshop-1416161108/lib_fn.lua	
+[00:00:08]: modimport: ../mods/workshop-1416161108/data/PlayerCache.lua	
+[00:00:08]: modimport: ../mods/workshop-1416161108/scripts/patches/controlpanel.lua	
+[00:00:08]: modimport: ../mods/workshop-1416161108/scripts/patches/friendlist.lua	
+[00:00:08]: modimport: ../mods/workshop-1416161108/scripts/patches/lockedcontainers.lua	
+[00:00:08]: modimport: ../mods/workshop-1416161108/scripts/patches/drop_everything.lua	
+[00:00:08]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:08]: ShowMe version:	0.57	
+[00:00:08]: show_food_units	-1	-1	-1	
+[00:00:08]: show_uses	-1	-1	-1	
+[00:00:08]: Detected language for ShowMe: 	auto		
+[00:00:08]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modmain.lua	
+[00:00:08]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:08]: Mod: workshop-2629184121 (Server Cleaner)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-2629184121 (Server Cleaner)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-2629184121 (Server Cleaner)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1777789373 (Disable World Regrowth)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:09]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:12]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:12]: LOADING LUA SUCCESS
+[00:00:12]: Registering Server mod namespace "workshop-1416161108"
+[00:00:12]: Registering Server mod namespace "showmeshint"
+[00:00:12]: Registering Server mod namespace "workshop-378160973"
+[00:00:12]: Registering Server mod namespace "showme"
+[00:00:12]: PlayerDeaths could not load morgue	
+[00:00:12]: PlayerHistory could not load player_history	
+[00:00:12]: ServerPreferences could not load server_preferences	
+[00:00:12]: bloom_enabled	true	
+[00:00:12]: OnFilesLoaded()	
+[00:00:12]: OnUpdatePurchaseStateComplete	
+[00:00:12]: Loading world: session/2CE5390F4C1A6D30/0000000371	
+[00:00:12]: Save file is at version 5.09	
+[00:00:12]: Klump load on boot started.	
+[00:00:12]: Klump files loaded: 	0	
+[00:00:12]: 	Unload FE	
+[00:00:12]: 	Unload FE done	
+[00:00:17]: Mod: workshop-1416161108 (Camp Security)	Registering prefabs	
+[00:00:17]: Mod: workshop-1416161108 (Camp Security)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:17]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Registering prefabs	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rwys_sprinkler	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    sprinkler	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    reapwhatyousow_sprinkler_placer	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_spray	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
+[00:00:17]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
+[00:00:17]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:17]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:17]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
+[00:00:17]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
+[00:00:17]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
+[00:00:17]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
+[00:00:17]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
+[00:00:17]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:17]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:17]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:18]: 	LOAD BE	
+[00:00:24]: 	LOAD BE: done	
+[00:00:24]: Begin Session: 2CE5390F4C1A6D30
+[00:00:24]: saving to server_temp/server_save	
+[00:00:24]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:24]: Loading 18 new character(s)	
+[00:00:25]: Total 18 character(s) loaded	
+[00:00:25]: Loading Nav Grid	
+[00:00:25]: World generated on build 486838 with save version: 5.09, using seed: 1637556338	
+[00:00:25]: setting 	summerlength	15	
+[00:00:25]: setting 	cavemoonphase	new	
+[00:00:25]: setting 	iscavefullmoon	false	
+[00:00:25]: setting 	isnightmaredawn	false	
+[00:00:25]: setting 	elapseddaysinseason	10	
+[00:00:25]: setting 	isfullmoon	false	
+[00:00:25]: setting 	moisture	4460.7514648438	
+[00:00:25]: setting 	cavephase	day	
+[00:00:25]: setting 	iscavewaxingmoon	true	
+[00:00:25]: setting 	isnightmarewild	false	
+[00:00:25]: setting 	nightmaretimeinphase	0	
+[00:00:25]: setting 	precipitationrate	0	
+[00:00:25]: setting 	iswet	false	
+[00:00:25]: setting 	isnewmoon	false	
+[00:00:25]: setting 	precipitation	none	
+[00:00:25]: setting 	israining	false	
+[00:00:25]: setting 	isnightmarewarn	false	
+[00:00:25]: setting 	iswinter	false	
+[00:00:25]: setting 	season	autumn	
+[00:00:25]: setting 	remainingdaysinseason	10	
+[00:00:25]: setting 	winterlength	15	
+[00:00:25]: setting 	iscaveday	true	
+[00:00:25]: setting 	moistureceil	5225.6313476562	
+[00:00:25]: setting 	isday	true	
+[00:00:25]: setting 	springlength	20	
+[00:00:25]: setting 	wetness	0	
+[00:00:25]: setting 	iscavedusk	false	
+[00:00:25]: setting 	isalterawake	false	
+[00:00:25]: setting 	isnightmarecalm	false	
+[00:00:25]: setting 	isnight	false	
+[00:00:25]: setting 	isdusk	false	
+[00:00:25]: setting 	isspring	false	
+[00:00:25]: setting 	isautumn	true	
+[00:00:25]: setting 	issnowing	false	
+[00:00:25]: setting 	iswaxingmoon	true	
+[00:00:25]: setting 	phase	day	
+[00:00:25]: setting 	snowlevel	0	
+[00:00:25]: setting 	issnowcovered	false	
+[00:00:25]: setting 	autumnlength	20	
+[00:00:25]: setting 	pop	0.68973610592841	
+[00:00:25]: setting 	nightmaretime	0	
+[00:00:25]: setting 	seasonprogress	0.5	
+[00:00:25]: setting 	moonphase	new	
+[00:00:25]: setting 	nightmarephase	none	
+[00:00:25]: setting 	cycles	360	
+[00:00:25]: setting 	timeinphase	0.66745071411133	
+[00:00:25]: setting 	iscavenight	false	
+[00:00:25]: setting 	iscavenewmoon	false	
+[00:00:25]: setting 	issummer	false	
+[00:00:25]: setting 	temperature	32.232809320302	
+[00:00:25]: setting 	time	0.33372535705566	
+[00:00:33]: Reconstructing topology	
+[00:00:33]: 	...Sorting points	
+[00:00:33]: 	...Sorting edges	
+[00:00:33]: 	...Connecting nodes	
+[00:00:33]: 	...Validating connections	
+[00:00:34]: 	...Housekeeping	
+[00:00:34]: 	...Done!	
+[00:00:34]: 1 uploads added to server. From server_temp
+[00:00:34]: About to start a shard with these settings:
+[00:00:34]:   ShardName: [SHDMASTER]
+[00:00:34]:   ShardID: 1
+[00:00:34]:   ShardRole: MASTER
+[00:00:34]:   MasterHost: (null)
+[00:00:34]:   MasterBind: 127.0.0.1
+[00:00:34]:   MasterPort: 10889
+[00:00:34]: [Shard] Starting master server
+[00:00:34]: [Shard] Shard server started on port: 10889
+[00:00:34]: Telling Client our new session identifier: 2CE5390F4C1A6D30
+[00:00:34]: Check for write access: TRUE
+[00:00:34]: Check for read access: TRUE
+[00:00:34]: Available disk space for save files: 10281918 MB
+[00:00:34]: ModIndex: Load sequence finished successfully.	
+[00:00:34]: Reset() returning
+[00:00:35]: Validating portal[4] <-> 3876562405[4] (inactive)	
+[00:00:35]: Validating portal[1] <-> 3876562405[1] (inactive)	
+[00:00:35]: Validating portal[6] <-> 3876562405[6] (inactive)	
+[00:00:35]: Validating portal[2] <-> 3876562405[2] (inactive)	
+[00:00:35]: Validating portal[3] <-> 3876562405[3] (inactive)	
+[00:00:35]: Validating portal[9] <-> 3876562405[9] (inactive)	
+[00:00:35]: Validating portal[5] <-> 3876562405[5] (inactive)	
+[00:00:35]: Validating portal[8] <-> 3876562405[8] (inactive)	
+[00:00:35]: Validating portal[10] <-> 3876562405[10] (inactive)	
+[00:00:35]: Validating portal[7] <-> 3876562405[7] (inactive)	
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Sim paused
+[00:00:38]: Best lobby region is aws/Sing (ping 59)
+[00:00:38]: Registering master server in Sing lobby
+[00:00:39]: [Shard] Secondary shar Caves(3876562405) connected: [LAN] 127.0.0.1
+[00:00:40]: [Shard] Secondary Caves(3876562405) ready!
+[00:00:40]: World 3876562405 is now connected	
+[00:00:40]: Validating portal[4] <-> 3876562405[4] (active)	
+[00:00:40]: Validating portal[1] <-> 3876562405[1] (active)	
+[00:00:40]: Validating portal[6] <-> 3876562405[6] (active)	
+[00:00:40]: Validating portal[2] <-> 3876562405[2] (active)	
+[00:00:40]: Validating portal[3] <-> 3876562405[3] (disabled)	
+[00:00:40]: Validating portal[9] <-> 3876562405[9] (active)	
+[00:00:40]: Validating portal[5] <-> 3876562405[5] (active)	
+[00:00:40]: Validating portal[8] <-> 3876562405[8] (active)	
+[00:00:40]: Validating portal[10] <-> 3876562405[10] (disabled)	
+[00:00:40]: Validating portal[7] <-> 3876562405[7] (active)	
+[00:00:48]: Registering master server in Sing lobby
+[00:30:08]: [200] Account Communication Success (6)
+[00:30:08]: Received (KU_hjXTctx_) from TokenPurpose
+[00:42:05]: [P2P] Session request for '76561198860811263'
+[00:42:09]: [P2P] Create session: 132.25.163.98|1 '76561198860811263'
+[00:42:09]: [P2P] Received from 132.25.163.98|1 '76561198860811263'
+[00:42:09]: [P2P] Sent to 132.25.163.98|1 '76561198860811263'
+[00:42:10]: New incoming connection 132.25.163.98|1 <998991863043908812>
+[00:42:10]: Client connected from 132.25.163.98|1 <998991863043908812>
+[00:42:10]: ValidateGameSessionToken pgs-usc^KU_hjXTct1p^DontStarveTogether^OkUPItTqb2N4sQeSLtc0rpfgVJD9KDl7D8UuhZx8m9M= for <998991863043908812>
+[00:42:10]: Client authenticated: (KU_hjXTct1p) UTD
+[00:42:11]: [Steam] SendUserConnectAndAuthenticate for '76561198860811263'
+[00:42:11]: [Steam] Authenticated client '76561198860811263'
+[00:42:13]: There is no active event to validate against.
+[00:42:13]: [Shard] Read save location file for (KU_hjXTct1p)
+[00:42:14]: Registering master server in Sing lobby
+[00:43:05]: Resuming user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000371
+[00:43:06]: Spawning player at: [Load] (-213.46, 0.00, -79.55)	
+[00:43:06]: Sim unpaused
+[00:43:13]: A timer with the name 	salt	 already exists on 	109403 - beefalo	!	
+[00:43:13]: A timer with the name 	salt	 already exists on 	109397 - beefalo	!	
+[00:43:14]: Registering master server in Sing lobby
+[00:43:38]: Could not find anim [dismount] in bank [wilson]
+[00:43:53]: [P2P] Session request for '76561198969291057'
+[00:43:54]: Could not find anim [dismount] in bank [wilson]
+[00:43:58]: [P2P] Create session: 132.25.163.99|1 '76561198969291057'
+[00:43:58]: [P2P] Received from 132.25.163.99|1 '76561198969291057'
+[00:43:58]: [P2P] Sent to 132.25.163.99|1 '76561198969291057'
+[00:43:58]: New incoming connection 132.25.163.99|1 <7429828762601479450>
+[00:43:58]: Client connected from 132.25.163.99|1 <7429828762601479450>
+[00:43:58]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^ODAV1bSXaaKhB7E8eiD0BaoHj1sklYUhqfEHB/c04hQ= for <7429828762601479450>
+[00:43:59]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
+[00:44:00]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
+[00:44:00]: [Steam] Authenticated client '76561198969291057'
+[00:44:02]: There is no active event to validate against.
+[00:44:02]: [Shard] Read save location file for (KU_0vPtVqpO)
+[00:44:02]: Registering master server in Sing lobby
+[00:44:14]: Could not find anim build FROMNUM
+[00:44:19]: Could not find anim build FROMNUM
+[00:44:23]: Could not find anim build FROMNUM
+[00:45:41]: [Steam] SendUserDisconnect for '76561198969291057'
+[00:45:41]: Connection lost to 132.25.163.99|1 <7429828762601479450>
+[00:45:41]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
+[00:45:41]: Registering master server in Sing lobby
+[00:45:45]: Server Autopaused	
+[00:45:45]: Server Unpaused	
+[00:45:58]: Server Autopaused	
+[00:46:04]: [P2P] Received from 132.25.163.99|1 '76561198969291057'
+[00:46:16]: Registering master server in Sing lobby
+[00:46:17]: Server Unpaused	
+[00:46:26]: Registering master server in Sing lobby
+[00:46:38]: Server Autopaused	
+[00:46:39]: Server Unpaused	
+[00:46:40]: Server Autopaused	
+[00:46:40]: Server Unpaused	
+[00:47:33]: [P2P] Session request for '76561199042411347'
+[00:47:37]: [P2P] Create session: 132.25.163.100|1 '76561199042411347'
+[00:47:37]: [P2P] Received from 132.25.163.100|1 '76561199042411347'
+[00:47:37]: [P2P] Sent to 132.25.163.100|1 '76561199042411347'
+[00:47:37]: New incoming connection 132.25.163.100|1 <854446575656740149>
+[00:47:37]: Client connected from 132.25.163.100|1 <854446575656740149>
+[00:47:37]: ValidateGameSessionToken pgs-usc^KU_hjXTctx_^DontStarveTogether^mWz5pNyQheuFGNw4RixWFRa29YrOLVXn3/zqZYOi84Q= for <854446575656740149>
+[00:47:38]: Client authenticated: (KU_hjXTctx_) Momiji
+[00:47:38]: [Steam] Authenticated host '76561199042411347'
+[00:47:39]: Could not find anim build FROMNUM
+[00:47:39]: There is no active event to validate against.
+[00:47:39]: [Shard] Read save location file for (KU_hjXTctx_)
+[00:47:40]: Registering master server in Sing lobby
+[00:47:40]: Could not find anim build FROMNUM
+[00:47:43]: Could not find anim build FROMNUM
+[00:47:46]: Could not find anim build FROMNUM
+[00:47:49]: [P2P] Received from 132.25.163.99|1 '76561198969291057'
+[00:47:49]: [P2P] Sent to 132.25.163.99|1 '76561198969291057'
+[00:47:50]: New incoming connection 132.25.163.99|1 <3165269240677768373>
+[00:47:50]: Client connected from 132.25.163.99|1 <3165269240677768373>
+[00:47:50]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^RUimQJH6uvvbNEoja6OuSw8rwlbDEToDnWxwL7WzKI0= for <3165269240677768373>
+[00:47:50]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
+[00:47:51]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
+[00:47:52]: [Steam] Authenticated client '76561198969291057'
+[00:47:53]: There is no active event to validate against.
+[00:47:53]: [Shard] Read save location file for (KU_0vPtVqpO)
+[00:47:53]: Registering master server in Sing lobby
+[00:47:53]: Could not find anim build FROMNUM
+[00:47:54]: Could not find anim build FROMNUM
+[00:48:00]: Resuming user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000309
+[00:48:00]: Spawning player at: [Load] (-244.82, -0.00, -62.84)	
+[00:48:03]: Registering master server in Sing lobby
+[00:48:06]: Could not find anim build FROMNUM
+[00:48:10]: Could not find anim build FROMNUM
+[00:48:16]: Could not find anim build FROMNUM
+[00:48:19]: Could not find anim build FROMNUM
+[00:48:46]: Registering master server in Sing lobby
+[00:48:47]: Available disk space for save files: 9627716 MB
+[00:48:48]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000372
+[00:48:48]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000372
+[00:48:48]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[00:48:48]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[00:48:48]: Missing reference:	109395 - beef_bell	->	109397	109397 - beefalo	
+[00:48:48]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[00:48:48]: Serializing world: session/2CE5390F4C1A6D30/0000000372
+[00:48:57]: Could not find anim build FROMNUM
+[00:49:01]: Could not find anim build FROMNUM
+[00:49:03]: Could not find anim build FROMNUM
+[00:49:24]: Could not find anim build FROMNUM
+[00:49:47]: Could not find anim build FROMNUM
+[00:49:47]: [Steam] SendUserDisconnect for '76561198969291057'
+[00:49:47]: Connection lost to 132.25.163.99|1 <3165269240677768373>
+[00:49:47]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
+[00:49:47]: Registering master server in Sing lobby
+[00:50:10]: Could not find anim build FROMNUM
+[00:50:19]: [P2P] Received from 132.25.163.99|1 '76561198969291057'
+[00:50:38]: Could not find anim build FROMNUM
+[00:50:38]: Could not find anim build FROMNUM
+[00:50:42]: Could not find anim build FROMNUM
+[00:50:49]: Could not find anim build FROMNUM
+[00:50:51]: Could not find anim build FROMNUM
+[00:50:54]: Could not find anim build FROMNUM
+[00:51:23]: [P2P] Received from 132.25.163.99|1 '76561198969291057'
+[00:51:23]: [P2P] Sent to 132.25.163.99|1 '76561198969291057'
+[00:51:23]: New incoming connection 132.25.163.99|1 <2051783100311874268>
+[00:51:23]: Client connected from 132.25.163.99|1 <2051783100311874268>
+[00:51:23]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^QLHTDok6Y6RBEhgea6BkrJCzl+SLTKy4ARb22zHI0JA= for <2051783100311874268>
+[00:51:24]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
+[00:51:24]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
+[00:51:25]: [Steam] Authenticated client '76561198969291057'
+[00:51:27]: There is no active event to validate against.
+[00:51:27]: [Shard] Read save location file for (KU_0vPtVqpO)
+[00:51:27]: Registering master server in Sing lobby
+[00:52:25]: Resuming user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000370
+[00:52:25]: Spawning player at: [Load] (-193.38, 0.00, -117.31)	
+[00:52:27]: Registering master server in Sing lobby
+[00:52:30]: Could not find anim build FROMNUM
+[00:52:37]: Could not find anim build FROMNUM
+[00:52:50]: Could not find anim [death] in bank [ghost]
+[00:52:50]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000373
+[00:53:05]: Could not find anim build FROMNUM
+[00:53:14]: Could not find anim [idle_loop] in bank [ghost]
+[00:53:17]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000373
+[00:54:15]: Could not find anim build FROMNUM
+[00:54:23]: Could not find anim build FROMNUM
+[00:54:26]: [Steam] SendUserDisconnect for '76561198969291057'
+[00:54:26]: Connection lost to 132.25.163.99|1 <2051783100311874268>
+[00:54:26]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
+[00:54:26]: Registering master server in Sing lobby
+[00:54:27]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000373
+[00:54:33]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000373
+[00:54:33]: Could not find anim build FROMNUM
+[00:54:33]: [Shard] Migration request: (KU_hjXTct1p) to Caves(3876562405)
+[00:54:33]: [Shard] Begin migration #1 for (KU_hjXTct1p)
+[00:54:33]: [Shard] #1 [SHDMASTER](1) -> Caves(3876562405)
+[00:54:33]: [Shard] #1 <- session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000373
+[00:54:33]: [Shard] Writing save location file for (KU_hjXTct1p)
+[00:54:33]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:54:33]: [Steam] SendUserDisconnect for '76561198860811263'
+[00:54:33]: [Shard] (KU_hjXTct1p) disconnected from [SHDMASTER](1)
+[00:54:36]: [P2P] Received from 132.25.163.99|1 '76561198969291057'
+[00:54:44]: [Shard] Completed migration #1 for player (KU_hjXTct1p)
+[00:55:25]: [Shard] Begin migration #2 for (KU_hjXTct1p)
+[00:55:25]: [Shard] #2 Caves(3876562405) -> [SHDMASTER](1)
+[00:55:25]: [Shard] #2 -> session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000373
+[00:55:25]: [Shard] Received migration #2 data for (KU_hjXTct1p)
+[00:55:25]: [Shard] Writing save location file for (KU_hjXTct1p)
+[00:55:25]: [Shard] (KU_hjXTct1p) disconnected from Caves(3876562405)
+[00:55:27]: [P2P] Received from 132.25.163.98|1 '76561198860811263'
+[00:55:27]: [P2P] Sent to 132.25.163.98|1 '76561198860811263'
+[00:55:28]: New incoming connection 132.25.163.98|1 <8204844634757419718>
+[00:55:28]: Client connected from 132.25.163.98|1 <8204844634757419718>
+[00:55:28]: ValidateGameSessionToken pgs-usc^KU_hjXTct1p^DontStarveTogether^dvN1ez7fJT2C6MmjBChutj+jzS5aZ1X289lbSXebsIU= for <8204844634757419718>
+[00:55:29]: Client authenticated: (KU_hjXTct1p) UTD
+[00:55:29]: [Steam] SendUserConnectAndAuthenticate for '76561198860811263'
+[00:55:30]: [Steam] Authenticated client '76561198860811263'
+[00:55:30]: [Shard] Completed incoming migration #2 for (KU_hjXTct1p)
+[00:55:30]: [Shard] Completed migration #2 for player (KU_hjXTct1p)
+[00:55:36]: Resuming user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000373
+[00:55:36]: Player will spawn near (-198.92, 0.00, -112.01)	
+[00:55:36]: Spawning player at: [Load] (-198.12, 0.00, -110.18)	
+[00:56:01]: Could not find anim build FROMNUM
+[00:56:13]: Could not find anim build FROMNUM
+[00:56:27]: Could not find anim build FROMNUM
+[00:56:33]: Could not find anim build FROMNUM
+[00:56:47]: Registering master server in Sing lobby
+[00:56:48]: Available disk space for save files: 9629696 MB
+[00:56:49]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000373
+[00:56:49]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000373
+[00:56:49]: Missing reference:	122144 - beef_bell	->	109115	109115 - beefalo	
+[00:56:49]: Missing reference:	109395 - beef_bell	->	109397	109397 - beefalo	
+[00:56:49]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[00:56:49]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[00:56:49]: Serializing world: session/2CE5390F4C1A6D30/0000000373
+[01:00:08]: [200] Account Communication Success (6)
+[01:00:08]: Received (KU_hjXTctx_) from TokenPurpose
+[01:00:29]: Could not find anim build FROMNUM
+[01:01:04]: Could not find anim build FROMNUM
+[01:01:09]: Could not find anim build FROMNUM
+[01:01:59]: Could not find anim build FROMNUM
+[01:02:16]: Could not find anim build FROMNUM
+[01:02:17]: Could not find anim build FROMNUM
+[01:02:18]: Could not find anim build FROMNUM
+[01:02:21]: Could not find anim build FROMNUM
+[01:02:35]: Could not find anim build FROMNUM
+[01:02:38]: Could not find anim build FROMNUM
+[01:02:40]: Could not find anim build FROMNUM
+[01:02:41]: Could not find anim build FROMNUM
+[01:04:10]: Could not find anim build FROMNUM
+[01:04:20]: Could not find anim build FROMNUM
+[01:04:25]: Could not find anim [death] in bank [ghost]
+[01:04:25]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000374
+[01:04:45]: [P2P] Session timed out for '76561198969291057'
+[01:04:45]: [P2P] Remove session: 132.25.163.99|1 '76561198969291057'
+[01:04:49]: Available disk space for save files: 9364795 MB
+[01:04:51]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000374
+[01:04:51]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000374
+[01:04:51]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[01:04:51]: Missing reference:	109395 - beef_bell	->	109397	109397 - beefalo	
+[01:04:51]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[01:04:51]: Missing reference:	122144 - beef_bell	->	109115	109115 - beefalo	
+[01:04:51]: Serializing world: session/2CE5390F4C1A6D30/0000000374
+[01:04:52]: Registering master server in Sing lobby
+[01:04:56]: [P2P] Session request for '76561199098771275'
+[01:05:16]: Could not find anim [idle_loop] in bank [ghost]
+[01:05:19]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000375
+[01:05:44]: [P2P] Create session: 132.25.163.101|1 '76561199098771275'
+[01:05:44]: [P2P] Received from 132.25.163.101|1 '76561199098771275'
+[01:05:44]: [P2P] Sent to 132.25.163.101|1 '76561199098771275'
+[01:05:44]: New incoming connection 132.25.163.101|1 <3299746789114279845>
+[01:05:46]: Client connected from 132.25.163.101|1 <3299746789114279845>
+[01:05:46]: ValidateGameSessionToken pgs-usc^KU_54sjc_a8^DontStarveTogether^abpVTAO5pXFborxtHaE91BpMJ6MsAR5MqQbIzrNCVRg= for <3299746789114279845>
+[01:05:46]: Client authenticated: (KU_54sjc_a8) UTB
+[01:05:47]: [Steam] SendUserConnectAndAuthenticate for '76561199098771275'
+[01:05:49]: Could not find anim build FROMNUM
+[01:05:51]: [Steam] Authenticated client '76561199098771275'
+[01:05:53]: There is no active event to validate against.
+[01:05:53]: [Shard] Read save location file for (KU_54sjc_a8)
+[01:05:53]: Registering master server in Sing lobby
+[01:07:19]: [Steam] SendUserDisconnect for '76561199098771275'
+[01:07:19]: Connection lost to 132.25.163.101|1 <3299746789114279845>
+[01:07:19]: [Shard] (KU_54sjc_a8) disconnected from [SHDMASTER](1)
+[01:07:19]: Registering master server in Sing lobby
+[01:07:21]: New incoming connection 132.25.163.101|1 <7151254387762049170>
+[01:07:21]: Client connected from 132.25.163.101|1 <7151254387762049170>
+[01:07:21]: ValidateGameSessionToken pgs-usc^KU_54sjc_a8^DontStarveTogether^i3sWrLM7pBIa0ICGNXWc/6QmLkfk3OSiCMe7bICbKaQ= for <7151254387762049170>
+[01:07:21]: Could not find anim [dismount] in bank [wilson]
+[01:07:22]: Client authenticated: (KU_54sjc_a8) UTB
+[01:07:23]: [Steam] SendUserConnectAndAuthenticate for '76561199098771275'
+[01:07:26]: Could not find anim build FROMNUM
+[01:07:28]: [Steam] Authenticated client '76561199098771275'
+[01:07:30]: There is no active event to validate against.
+[01:07:30]: [Shard] Read save location file for (KU_54sjc_a8)
+[01:07:30]: Registering master server in Sing lobby
+[01:07:30]: Could not find anim build FROMNUM
+[01:07:53]: Could not find anim build FROMNUM
+[01:08:29]: Could not find anim build FROMNUM
+[01:08:31]: Resuming user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000340
+[01:08:31]: Spawning player at: [Load] (-197.55, -0.00, -112.72)	
+[01:08:31]: Registering master server in Sing lobby
+[01:08:44]: Could not find anim build FROMNUM
+[01:08:45]: Could not find anim build FROMNUM
+[01:08:46]: Could not find anim build FROMNUM
+[01:08:48]: Could not find anim build FROMNUM
+[01:08:49]: Could not find anim build FROMNUM
+[01:08:51]: Could not find anim build FROMNUM
+[01:08:52]: Could not find anim build FROMNUM
+[01:08:58]: Could not find anim build FROMNUM
+[01:09:05]: Could not find anim build FROMNUM
+[01:12:06]: Could not find anim build FROMNUM
+[01:12:32]: Could not find anim build FROMNUM
+[01:12:36]: Could not find anim build FROMNUM
+[01:12:46]: Could not find anim build FROMNUM
+[01:12:51]: Available disk space for save files: 9359472 MB
+[01:12:52]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000375
+[01:12:52]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000375
+[01:12:52]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000375
+[01:12:52]: Missing reference:	122144 - beef_bell	->	109115	109115 - beefalo	
+[01:12:52]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[01:12:52]: Missing reference:	109395 - beef_bell	->	109397	109397 - beefalo	
+[01:12:52]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[01:12:53]: Serializing world: session/2CE5390F4C1A6D30/0000000375
+[01:12:53]: Registering master server in Sing lobby
+[01:13:01]: Could not find anim build FROMNUM
+[01:13:04]: Could not find anim build FROMNUM
+[01:13:22]: Could not find anim build FROMNUM
+[01:13:28]: Could not find anim build FROMNUM
+[01:13:29]: Could not find anim build FROMNUM
+[01:13:56]: [P2P] Create session: 132.25.163.102|1 '76561198969291057'
+[01:13:56]: [P2P] Received from 132.25.163.102|1 '76561198969291057'
+[01:13:56]: [P2P] Sent to 132.25.163.102|1 '76561198969291057'
+[01:13:56]: New incoming connection 132.25.163.102|1 <4960800552300568671>
+[01:13:56]: Client connected from 132.25.163.102|1 <4960800552300568671>
+[01:13:56]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^cgwG0TtnH2ZKFoMyTzh1uK7gpIWxq5SfzdAc1i7avow= for <4960800552300568671>
+[01:13:57]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
+[01:13:57]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
+[01:13:58]: [Steam] Authenticated client '76561198969291057'
+[01:14:00]: There is no active event to validate against.
+[01:14:00]: [Shard] Read save location file for (KU_0vPtVqpO)
+[01:14:00]: Registering master server in Sing lobby
+[01:14:01]: Could not find anim build FROMNUM
+[01:14:03]: Could not find anim build FROMNUM
+[01:14:04]: Could not find anim build FROMNUM
+[01:14:13]: Could not find anim build FROMNUM
+[01:14:25]: Could not find anim build FROMNUM
+[01:14:36]: Could not find anim build FROMNUM
+[01:14:40]: Could not find anim build FROMNUM
+[01:14:58]: [Steam] SendUserDisconnect for '76561199098771275'
+[01:14:58]: Connection lost to 132.25.163.101|1 <7151254387762049170>
+[01:14:58]: [Shard] (KU_54sjc_a8) disconnected from [SHDMASTER](1)
+[01:14:58]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000376
+[01:15:00]: Registering master server in Sing lobby
+[01:15:08]: Resuming user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000373
+[01:15:08]: Spawning player at: [Load] (-208.07, 0.00, -119.05)	
+[01:15:10]: [P2P] Connection failed for '76561199098771275'
+[01:15:10]: Registering master server in Sing lobby
+[01:15:11]: Could not find anim build FROMNUM
+[01:15:14]: Could not find anim [dismount] in bank [wilson]
+[01:15:55]: Could not find anim build FROMNUM
+[01:15:59]: Could not find anim build FROMNUM
+[01:15:59]: Could not find anim build FROMNUM
+[01:16:01]: Could not find anim build FROMNUM
+[01:16:20]: [Steam] SendUserDisconnect for '76561198969291057'
+[01:16:20]: Connection lost to 132.25.163.102|1 <4960800552300568671>
+[01:16:20]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
+[01:16:20]: Registering master server in Sing lobby
+[01:16:20]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000376
+[01:16:20]: Could not find anim build FROMNUM
+[01:16:34]: [P2P] Connection failed for '76561198969291057'
+[01:16:36]: Could not find anim [dismount] in bank [wilson]
+[01:16:45]: Could not find anim [dismount] in bank [wilson]
+[01:17:00]: Could not find anim [dismount] in bank [wilson]
+[01:17:25]: [P2P] Connection failed for '76561199098771275'
+[01:17:27]: [P2P] Received from 132.25.163.101|1 '76561199098771275'
+[01:17:27]: [P2P] Sent to 132.25.163.101|1 '76561199098771275'
+[01:17:28]: New incoming connection 132.25.163.101|1 <8061549088707836139>
+[01:17:28]: Client connected from 132.25.163.101|1 <8061549088707836139>
+[01:17:28]: ValidateGameSessionToken pgs-usc^KU_54sjc_a8^DontStarveTogether^Wy2lNLAwJfJ6BYdwYSoVtyqrpSaaYGGPjalX4weaCpc= for <8061549088707836139>
+[01:17:29]: Client authenticated: (KU_54sjc_a8) UTB
+[01:17:29]: [Steam] SendUserConnectAndAuthenticate for '76561199098771275'
+[01:17:31]: Could not find anim build FROMNUM
+[01:17:33]: Could not find anim [dismount] in bank [wilson]
+[01:17:36]: [Steam] Authenticated client '76561199098771275'
+[01:17:38]: There is no active event to validate against.
+[01:17:38]: [Shard] Read save location file for (KU_54sjc_a8)
+[01:17:44]: Could not find anim [dismount] in bank [wilson]
+[01:17:45]: Registering master server in Sing lobby
+[01:17:53]: Resuming user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000376
+[01:17:53]: Spawning player at: [Load] (-139.28, -0.00, -153.65)	
+[01:17:55]: Could not find anim [dismount] in bank [wilson]
+[01:17:55]: Registering master server in Sing lobby
+[01:18:42]: [P2P] Connection failed for '76561198969291057'
+[01:18:50]: Could not find anim build FROMNUM
+[01:18:51]: Could not find anim [dismount] in bank [wilson]
+[01:19:06]: Could not find anim [dismount] in bank [wilson]
+[01:19:20]: Could not find anim [dismount] in bank [wilson]
+[01:19:29]: Could not find anim [dismount] in bank [wilson]
+[01:19:41]: Could not find anim [dismount] in bank [wilson]
+[01:19:49]: Could not find anim [dismount] in bank [wilson]
+[01:19:57]: [P2P] Connection failed for '76561198969291057'
+[01:19:58]: [P2P] Received from 132.25.163.102|1 '76561198969291057'
+[01:19:58]: [P2P] Sent to 132.25.163.102|1 '76561198969291057'
+[01:19:59]: New incoming connection 132.25.163.102|1 <3059421668720060350>
+[01:19:59]: Client connected from 132.25.163.102|1 <3059421668720060350>
+[01:19:59]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^l/QtUnSEur5f/d1v/j/IwyiuvqHC0LTq0LI2M+3K9tw= for <3059421668720060350>
+[01:20:00]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
+[01:20:00]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
+[01:20:00]: [Steam] Authenticated client '76561198969291057'
+[01:20:02]: There is no active event to validate against.
+[01:20:02]: [Shard] Read save location file for (KU_0vPtVqpO)
+[01:20:03]: Could not find anim [dismount] in bank [wilson]
+[01:20:10]: Registering master server in Sing lobby
+[01:20:20]: Could not find anim [dismount] in bank [wilson]
+[01:20:30]: Could not find anim [dismount] in bank [wilson]
+[01:20:48]: Could not find anim [dismount] in bank [wilson]
+[01:20:52]: Registering master server in Sing lobby
+[01:20:53]: Available disk space for save files: 9354706 MB
+[01:20:54]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000376
+[01:20:54]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000376
+[01:20:55]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000376
+[01:20:55]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[01:20:55]: Missing reference:	109395 - beef_bell	->	109397	109397 - beefalo	
+[01:20:55]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[01:20:55]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[01:20:55]: Serializing world: session/2CE5390F4C1A6D30/0000000376
+[01:21:08]: Could not find anim [dismount] in bank [wilson]
+[01:21:39]: Could not find anim [dismount] in bank [wilson]
+[01:21:41]: Could not find anim build FROMNUM
+[01:21:44]: Could not find anim build FROMNUM
+[01:21:47]: Could not find anim build FROMNUM
+[01:21:48]: Could not find anim [dismount] in bank [wilson]
+[01:21:53]: Could not find anim build FROMNUM
+[01:21:54]: [Steam] SendUserDisconnect for '76561198969291057'
+[01:21:54]: Connection lost to 132.25.163.102|1 <3059421668720060350>
+[01:21:54]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
+[01:21:54]: Registering master server in Sing lobby
+[01:22:02]: Could not find anim [dismount] in bank [wilson]
+[01:22:04]: Could not find anim build FROMNUM
+[01:22:10]: Could not find anim build FROMNUM
+[01:22:16]: Could not find anim build FROMNUM
+[01:22:21]: Could not find anim build FROMNUM
+[01:23:22]: [P2P] Received from 132.25.163.102|1 '76561198969291057'
+[01:23:22]: [P2P] Sent to 132.25.163.102|1 '76561198969291057'
+[01:23:23]: New incoming connection 132.25.163.102|1 <8497738062686902234>
+[01:23:23]: Client connected from 132.25.163.102|1 <8497738062686902234>
+[01:23:23]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^Rq47Hwdx7MDwoks4L/eqTo8fxMNGUJLHhUsEvqdl8v0= for <8497738062686902234>
+[01:23:24]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
+[01:23:24]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
+[01:23:24]: [Steam] Authenticated client '76561198969291057'
+[01:23:26]: There is no active event to validate against.
+[01:23:26]: [Shard] Read save location file for (KU_0vPtVqpO)
+[01:23:26]: Registering master server in Sing lobby
+[01:23:28]: Could not find anim [dismount] in bank [wilson]
+[01:24:26]: Resuming user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000376
+[01:24:26]: Spawning player at: [Load] (-206.00, 0.00, -108.36)	
+[01:24:26]: Registering master server in Sing lobby
+[01:24:33]: Could not find anim [dismount] in bank [wilson]
+[01:25:01]: Could not find anim build FROMNUM
+[01:25:02]: Could not find anim build FROMNUM
+[01:25:05]: Could not find anim build FROMNUM
+[01:25:23]: Could not find anim build FROMNUM
+[01:26:05]: Could not find anim build FROMNUM
+[01:26:07]: Could not find anim build FROMNUM
+[01:26:16]: Could not find anim build FROMNUM
+[01:26:24]: Could not find anim [dismount] in bank [wilson]
+[01:26:28]: Could not find anim build FROMNUM
+[01:27:21]: Could not find anim build FROMNUM
+[01:27:25]: Could not find anim [dismount] in bank [wilson]
+[01:27:40]: Could not find anim [dismount] in bank [wilson]
+[01:27:50]: Could not find anim [dismount] in bank [wilson]
+[01:28:06]: Could not find anim [dismount] in bank [wilson]
+[01:28:20]: Could not find anim [dismount] in bank [wilson]
+[01:28:25]: Could not find anim build FROMNUM
+[01:28:26]: Could not find anim build FROMNUM
+[01:28:26]: Could not find anim build FROMNUM
+[01:28:27]: Could not find anim build FROMNUM
+[01:28:28]: Could not find anim build FROMNUM
+[01:28:30]: Could not find anim build FROMNUM
+[01:28:37]: Could not find anim [dismount] in bank [wilson]
+[01:28:54]: Could not find anim [dismount] in bank [wilson]
+[01:28:54]: Registering master server in Sing lobby
+[01:28:55]: Available disk space for save files: 9351960 MB
+[01:28:56]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000377
+[01:28:56]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000377
+[01:28:56]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000377
+[01:28:56]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000377
+[01:28:56]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[01:28:56]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[01:28:56]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[01:28:56]: Missing reference:	109395 - beef_bell	->	109397	109397 - beefalo	
+[01:28:56]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[01:28:56]: Serializing world: session/2CE5390F4C1A6D30/0000000377
+[01:29:02]: Could not find anim [dismount] in bank [wilson]
+[01:29:13]: Could not find anim [dismount] in bank [wilson]
+[01:29:43]: Could not find anim build FROMNUM
+[01:29:55]: Could not find anim [dismount] in bank [wilson]
+[01:29:58]: Could not find anim build FROMNUM
+[01:30:08]: [200] Account Communication Success (6)
+[01:30:08]: Received (KU_hjXTctx_) from TokenPurpose
+[01:30:11]: Could not find anim build FROMNUM
+[01:30:13]: Could not find anim build FROMNUM
+[01:30:22]: Could not find anim [dismount] in bank [wilson]
+[01:30:28]: Could not find anim build FROMNUM
+[01:30:32]: Could not find anim build FROMNUM
+[01:30:37]: Could not find anim build FROMNUM
+[01:30:38]: Could not find anim build FROMNUM
+[01:30:40]: Could not find anim build FROMNUM
+[01:30:42]: Could not find anim build FROMNUM
+[01:30:50]: Could not find anim build FROMNUM
+[01:30:58]: Could not find anim build FROMNUM
+[01:31:00]: Could not find anim build FROMNUM
+[01:31:14]: Could not find anim build FROMNUM
+[01:31:18]: Could not find anim build FROMNUM
+[01:31:34]: Could not find anim build FROMNUM
+[01:31:42]: Could not find anim build FROMNUM
+[01:31:54]: Could not find anim build FROMNUM
+[01:32:12]: Could not find anim [dismount] in bank [wilson]
+[01:32:28]: Could not find anim build FROMNUM
+[01:32:49]: Could not find anim [dismount] in bank [wilson]
+[01:33:49]: Could not find anim build FROMNUM
+[01:33:55]: Could not find anim build FROMNUM
+[01:34:02]: Could not find anim build FROMNUM
+[01:34:15]: Could not find anim [buck] in bank [wilson]
+[01:34:41]: Could not find anim [dismount] in bank [wilson]
+[01:36:33]: Could not find anim build FROMNUM
+[01:36:34]: Could not find anim build FROMNUM
+[01:36:36]: Could not find anim [buck] in bank [wilson]
+[01:36:36]: Could not find anim build FROMNUM
+[01:36:38]: Could not find anim build FROMNUM
+[01:36:39]: Could not find anim build FROMNUM
+[01:36:55]: Could not find anim build FROMNUM
+[01:36:56]: Could not find anim build FROMNUM
+[01:36:56]: Available disk space for save files: 9361604 MB
+[01:36:57]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000378
+[01:36:57]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000378
+[01:36:57]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000378
+[01:36:57]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000378
+[01:36:57]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo(LIMBO)	
+[01:36:57]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo(LIMBO)	
+[01:36:57]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[01:36:57]: Missing reference:	109395 - beef_bell	->	109397	109397 - beefalo	
+[01:36:57]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[01:36:57]: Serializing world: session/2CE5390F4C1A6D30/0000000378
+[01:36:58]: Could not find anim build FROMNUM
+[01:37:00]: Could not find anim build FROMNUM
+[01:37:00]: Registering master server in Sing lobby
+[01:37:09]: Could not find anim build FROMNUM
+[01:37:14]: Could not find anim build FROMNUM
+[01:37:21]: Could not find anim [buck] in bank [wilson]
+[01:37:37]: Could not find anim [dismount] in bank [wilson]
+[01:37:45]: Could not find anim [dismount] in bank [wilson]
+[01:37:46]: Deleting user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000379
+[01:37:46]: Registering master server in Sing lobby
+[01:37:47]: Resuming user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000379
+[01:37:56]: Spawn request: waxwell from Momiji
+[01:37:56]: Skin request: (waxwell_magma) (body_waxwell_magma) (hand_waxwell_magma) (legs_waxwell_magma) ()
+[01:37:56]: Spawning player at: [Fixed] (-274.00, 0.00, 18.00)	
+[01:37:56]: Enabling Spawn Protection for 	100029 - world	
+[01:37:56]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000379
+[01:37:56]: Registering master server in Sing lobby
+[01:38:07]: [P2P] Session request for '76561198976383126'
+[01:38:12]: [P2P] Create session: 132.25.163.103|1 '76561198976383126'
+[01:38:12]: [P2P] Received from 132.25.163.103|1 '76561198976383126'
+[01:38:12]: [P2P] Sent to 132.25.163.103|1 '76561198976383126'
+[01:38:14]: New incoming connection 132.25.163.103|1 <6821563651443985078>
+[01:38:14]: Client connected from 132.25.163.103|1 <6821563651443985078>
+[01:38:14]: ValidateGameSessionToken pgs-usc^KU_2duLJbwr^DontStarveTogether^WDWNJZFNm/lKwum8OehtUrSKueJj7pUDhrrz7thoj9w= for <6821563651443985078>
+[01:38:15]: Client authenticated: (KU_2duLJbwr) 󰀉Rosé󰀈
+[01:38:15]: [Steam] SendUserConnectAndAuthenticate for '76561198976383126'
+[01:38:16]: [Steam] Authenticated client '76561198976383126'
+[01:38:17]: There is no active event to validate against.
+[01:38:17]: [Shard] Read save location file for (KU_2duLJbwr)
+[01:38:17]: [Shard] Forwarding player to Caves(3876562405)
+[01:38:17]: [Shard] Begin migration #3 for (KU_2duLJbwr)
+[01:38:17]: [Shard] #3 [SHDMASTER](1) -> Caves(3876562405)
+[01:38:17]: Registering master server in Sing lobby
+[01:38:17]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:38:17]: [Steam] SendUserDisconnect for '76561198976383126'
+[01:38:17]: [Shard] (KU_2duLJbwr) disconnected from [SHDMASTER](1)
+[01:38:41]: [Shard] Completed migration #3 for player (KU_2duLJbwr)
+[01:39:23]: Registering master server in Sing lobby
+[01:39:37]: [Shard] Begin migration #4 for (KU_2duLJbwr)
+[01:39:37]: [Shard] #4 Caves(3876562405) -> [SHDMASTER](1)
+[01:39:37]: [Shard] #4 -> session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000379
+[01:39:37]: [Shard] Received migration #4 data for (KU_2duLJbwr)
+[01:39:37]: [Shard] Writing save location file for (KU_2duLJbwr)
+[01:39:37]: [Shard] (KU_2duLJbwr) disconnected from Caves(3876562405)
+[01:39:39]: Could not find anim [dismount] in bank [wilson]
+[01:39:40]: [P2P] Received from 132.25.163.103|1 '76561198976383126'
+[01:39:40]: [P2P] Sent to 132.25.163.103|1 '76561198976383126'
+[01:39:41]: New incoming connection 132.25.163.103|1 <1797054024749628303>
+[01:39:41]: Client connected from 132.25.163.103|1 <1797054024749628303>
+[01:39:41]: ValidateGameSessionToken pgs-usc^KU_2duLJbwr^DontStarveTogether^I+c1iOIYKCksGXU5QQx3j96l5S8eQSGEiakPa0jCvp4= for <1797054024749628303>
+[01:39:42]: Client authenticated: (KU_2duLJbwr) 󰀉Rosé󰀈
+[01:39:42]: [Steam] SendUserConnectAndAuthenticate for '76561198976383126'
+[01:39:42]: [Steam] Authenticated client '76561198976383126'
+[01:39:42]: [Shard] Completed incoming migration #4 for (KU_2duLJbwr)
+[01:39:42]: [Shard] Completed migration #4 for player (KU_2duLJbwr)
+[01:39:51]: Could not find anim [dismount] in bank [wilson]
+[01:39:51]: Could not find anim build FROMNUM
+[01:39:51]: Resuming user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000379
+[01:39:51]: Player will spawn close to portal #5	
+[01:39:51]: Spawning player at: [Load] (300.74, 0.00, -430.84)	
+[01:39:55]: Could not find anim build FROMNUM
+[01:40:04]: Could not find anim [dismount] in bank [wilson]
+[01:40:12]: Could not find anim [dismount] in bank [wilson]
+[01:40:14]: Could not find anim [dismount] in bank [wilson]
+[01:40:15]: Could not find anim build FROMNUM
+[01:40:24]: Could not find anim [buck] in bank [wilson]
+[01:40:31]: Could not find anim [dismount] in bank [wilson]
+[01:40:40]: Could not find anim build FROMNUM
+[01:40:41]: Could not find anim [dismount] in bank [wilson]
+[01:40:52]: Could not find anim [dismount] in bank [wilson]
+[01:41:01]: Could not find anim [dismount] in bank [wilson]
+[01:41:10]: Could not find anim build FROMNUM
+[01:42:49]: Could not find anim [dismount] in bank [wilson]
+[01:42:54]: Could not find anim build FROMNUM
+[01:42:57]: Could not find anim [buck] in bank [wilson]
+[01:43:16]: Could not find anim build FROMNUM
+[01:43:26]: Could not find anim build FROMNUM
+[01:43:35]: Could not find anim build FROMNUM
+[01:43:37]: Could not find anim build FROMNUM
+[01:43:49]: Could not find anim [dismount] in bank [wilson]
+[01:43:50]: Could not find anim [dismount] in bank [wilson]
+[01:43:59]: Could not find anim [dismount] in bank [wilson]
+[01:44:13]: Could not find anim [dismount] in bank [wilson]
+[01:44:20]: Could not find anim build FROMNUM
+[01:44:21]: Could not find anim build FROMNUM
+[01:44:22]: Could not find anim [dismount] in bank [wilson]
+[01:44:22]: Could not find anim build FROMNUM
+[01:44:23]: Could not find anim build FROMNUM
+[01:44:26]: Could not find anim build FROMNUM
+[01:44:31]: Could not find anim [dismount] in bank [wilson]
+[01:44:35]: Could not find anim build FROMNUM
+[01:44:36]: Could not find anim build FROMNUM
+[01:44:37]: Could not find anim build FROMNUM
+[01:44:38]: Could not find anim build FROMNUM
+[01:44:41]: Could not find anim [dismount] in bank [wilson]
+[01:44:50]: Could not find anim [dismount] in bank [wilson]
+[01:44:54]: Could not find anim build FROMNUM
+[01:44:57]: Available disk space for save files: 9365329 MB
+[01:44:58]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000379
+[01:44:58]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000379
+[01:44:58]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000379
+[01:44:58]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000379
+[01:44:58]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000379
+[01:44:58]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[01:44:58]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[01:44:58]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[01:44:58]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[01:44:58]: Serializing world: session/2CE5390F4C1A6D30/0000000379
+[01:44:59]: Registering master server in Sing lobby
+[01:45:01]: Could not find anim build FROMNUM
+[01:45:01]: Could not find anim build FROMNUM
+[01:45:06]: Could not find anim [death_wanda] in bank [ghost]
+[01:45:06]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000380
+[01:45:28]: Could not find anim build FROMNUM
+[01:45:30]: Could not find anim [dismount] in bank [wilson]
+[01:45:44]: Could not find anim build FROMNUM
+[01:46:10]: Could not find anim [dismount] in bank [wilson]
+[01:46:12]: Could not find anim build FROMNUM
+[01:46:30]: Could not find anim [dismount] in bank [wilson]
+[01:46:30]: Could not find anim build FROMNUM
+[01:46:37]: Could not find anim build FROMNUM
+[01:46:44]: Could not find anim build FROMNUM
+[01:47:14]: Could not find anim build FROMNUM
+[01:47:35]: Could not find anim [dismount] in bank [wilson]
+[01:47:41]: Could not find anim [idle_loop] in bank [ghost]
+[01:47:44]: Could not find anim [transform] in bank [wilson]
+[01:47:45]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000380
+[01:48:30]: Could not find anim [dismount] in bank [wilson]
+[01:48:35]: Could not find anim [dismount] in bank [wilson]
+[01:48:40]: Could not find anim [dismount] in bank [wilson]
+[01:48:50]: Could not find anim [dismount] in bank [wilson]
+[01:48:55]: Could not find anim [dismount] in bank [wilson]
+[01:49:05]: Could not find anim [dismount] in bank [wilson]
+[01:49:14]: Could not find anim [dismount] in bank [wilson]
+[01:49:15]: Could not find anim [dismount] in bank [wilson]
+[01:49:21]: Could not find anim build FROMNUM
+[01:49:24]: Could not find anim [dismount] in bank [wilson]
+[01:49:31]: Could not find anim build FROMNUM
+[01:49:33]: Could not find anim build FROMNUM
+[01:49:37]: Could not find anim [dismount] in bank [wilson]
+[01:49:38]: Could not find anim build FROMNUM
+[01:49:46]: Could not find anim [dismount] in bank [wilson]
+[01:49:49]: Could not find anim build FROMNUM
+[01:49:50]: Could not find anim build FROMNUM
+[01:49:51]: Could not find anim build FROMNUM
+[01:49:54]: Could not find anim build FROMNUM
+[01:49:55]: Could not find anim build FROMNUM
+[01:49:56]: Could not find anim [dismount] in bank [wilson]
+[01:50:22]: Could not find anim build FROMNUM
+[01:50:23]: Could not find anim build FROMNUM
+[01:50:25]: Could not find anim build FROMNUM
+[01:50:26]: Could not find anim build FROMNUM
+[01:50:28]: Could not find anim build FROMNUM
+[01:50:29]: Could not find anim build FROMNUM
+[01:50:31]: Could not find anim [dismount] in bank [wilson]
+[01:51:32]: Could not find anim [dismount] in bank [wilson]
+[01:51:32]: Could not find anim [dismount] in bank [wilson]
+[01:51:35]: Could not find anim [dismount] in bank [wilson]
+[01:51:35]: Could not find anim build FROMNUM
+[01:51:38]: Could not find anim build FROMNUM
+[01:51:45]: Could not find anim build FROMNUM
+[01:51:53]: Could not find anim build FROMNUM
+[01:51:54]: Could not find anim build FROMNUM
+[01:51:56]: Could not find anim build FROMNUM
+[01:52:05]: Could not find anim [dismount] in bank [wilson]
+[01:52:09]: Could not find anim build FROMNUM
+[01:52:23]: Could not find anim build FROMNUM
+[01:52:24]: Could not find anim build FROMNUM
+[01:52:52]: Could not find anim [dismount] in bank [wilson]
+[01:52:59]: Available disk space for save files: 9364401 MB
+[01:52:59]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000380
+[01:52:59]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000380
+[01:52:59]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000380
+[01:52:59]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000380
+[01:52:59]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000380
+[01:52:59]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[01:52:59]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[01:52:59]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[01:52:59]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[01:53:00]: Serializing world: session/2CE5390F4C1A6D30/0000000380
+[01:53:01]: Could not find anim build FROMNUM
+[01:53:04]: Registering master server in Sing lobby
+[01:53:33]: Could not find anim [dismount] in bank [wilson]
+[01:53:36]: Could not find anim build FROMNUM
+[01:53:40]: Could not find anim build FROMNUM
+[01:53:40]: Could not find anim build FROMNUM
+[01:53:44]: Could not find anim build FROMNUM
+[01:53:45]: Could not find anim build FROMNUM
+[01:53:47]: Could not find anim build FROMNUM
+[01:53:49]: Could not find anim build FROMNUM
+[01:54:03]: Could not find anim [dismount] in bank [wilson]
+[01:54:12]: Could not find anim [dismount] in bank [wilson]
+[01:54:30]: Could not find anim [dismount] in bank [wilson]
+[01:54:42]: Could not find anim [dismount] in bank [wilson]
+[01:54:49]: Could not find anim [dismount] in bank [wilson]
+[01:54:59]: Could not find anim [dismount] in bank [wilson]
+[01:55:00]: Could not find anim build FROMNUM
+[01:55:08]: Could not find anim [dismount] in bank [wilson]
+[01:55:18]: Could not find anim [dismount] in bank [wilson]
+[01:55:29]: Could not find anim [dismount] in bank [wilson]
+[01:55:54]: Could not find anim [dismount] in bank [wilson]
+[01:56:08]: Could not find anim [dismount] in bank [wilson]
+[01:56:11]: Could not find anim [dismount] in bank [wilson]
+[01:56:11]: Could not find anim build FROMNUM
+[01:56:16]: Could not find anim build FROMNUM
+[01:56:16]: Could not find anim build FROMNUM
+[01:56:17]: Could not find anim build FROMNUM
+[01:56:20]: Could not find anim build FROMNUM
+[01:56:23]: Could not find anim build FROMNUM
+[01:56:25]: Could not find anim build FROMNUM
+[01:56:35]: Could not find anim [dismount] in bank [wilson]
+[01:56:38]: Could not find anim [dismount] in bank [wilson]
+[01:56:48]: Could not find anim build FROMNUM
+[01:57:01]: Could not find anim build FROMNUM
+[01:57:17]: Could not find anim build FROMNUM
+[01:57:20]: Could not find anim [dismount] in bank [wilson]
+[01:57:25]: Could not find anim [dismount] in bank [wilson]
+[01:57:35]: Could not find anim [dismount] in bank [wilson]
+[01:57:41]: Could not find anim build FROMNUM
+[01:57:57]: Could not find anim [dismount] in bank [wilson]
+[01:58:18]: Could not find anim [dismount] in bank [wilson]
+[01:58:26]: Could not find anim build FROMNUM
+[01:58:26]: Could not find anim build FROMNUM
+[01:58:32]: Could not find anim build FROMNUM
+[01:58:38]: Could not find anim [dismount] in bank [wilson]
+[01:58:58]: Could not find anim [dismount] in bank [wilson]
+[01:59:43]: Could not find anim build FROMNUM
+[01:59:49]: Could not find anim [dismount] in bank [wilson]
+[02:00:04]: Could not find anim build FROMNUM
+[02:00:06]: Could not find anim build FROMNUM
+[02:00:07]: Could not find anim build FROMNUM
+[02:00:08]: [200] Account Communication Success (6)
+[02:00:08]: Received (KU_hjXTctx_) from TokenPurpose
+[02:00:12]: Could not find anim build FROMNUM
+[02:00:14]: Could not find anim build FROMNUM
+[02:00:28]: Could not find anim build FROMNUM
+[02:00:28]: Could not find anim build FROMNUM
+[02:00:29]: Could not find anim build FROMNUM
+[02:00:34]: Could not find anim build FROMNUM
+[02:00:47]: Could not find anim [dismount] in bank [wilson]
+[02:00:59]: Registering master server in Sing lobby
+[02:01:00]: Available disk space for save files: 9288195 MB
+[02:01:00]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000381
+[02:01:00]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000381
+[02:01:00]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000381
+[02:01:00]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000381
+[02:01:00]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000381
+[02:01:00]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:01:00]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[02:01:00]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[02:01:00]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[02:01:01]: Serializing world: session/2CE5390F4C1A6D30/0000000381
+[02:01:11]: Could not find anim build FROMNUM
+[02:01:20]: Could not find anim build FROMNUM
+[02:01:28]: Could not find anim [dismount] in bank [wilson]
+[02:01:35]: Could not find anim build FROMNUM
+[02:01:45]: Could not find anim [dismount] in bank [wilson]
+[02:01:54]: Could not find anim [death] in bank [ghost]
+[02:01:54]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000382
+[02:02:06]: Could not find anim [dismount] in bank [wilson]
+[02:02:17]: Could not find anim [idle_loop] in bank [ghost]
+[02:02:20]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000382
+[02:02:27]: Could not find anim [dismount] in bank [wilson]
+[02:02:38]: Could not find anim build FROMNUM
+[02:02:46]: Could not find anim [dismount] in bank [wilson]
+[02:02:52]: Could not find anim [dismount] in bank [wilson]
+[02:02:54]: Could not find anim [dismount] in bank [wilson]
+[02:03:04]: Could not find anim [dismount] in bank [wilson]
+[02:03:17]: Could not find anim build FROMNUM
+[02:03:17]: Could not find anim build FROMNUM
+[02:03:25]: Could not find anim build FROMNUM
+[02:03:27]: Could not find anim [dismount] in bank [wilson]
+[02:03:31]: Could not find anim build FROMNUM
+[02:03:37]: Could not find anim build FROMNUM
+[02:03:45]: Could not find anim [dismount] in bank [wilson]
+[02:04:14]: Could not find anim [dismount] in bank [wilson]
+[02:04:14]: Could not find anim build FROMNUM
+[02:04:30]: Could not find anim [dismount] in bank [wilson]
+[02:04:36]: Could not find anim build FROMNUM
+[02:04:37]: Could not find anim build FROMNUM
+[02:04:41]: Could not find anim build FROMNUM
+[02:04:43]: Could not find anim [dismount] in bank [wilson]
+[02:04:46]: Could not find anim build FROMNUM
+[02:04:53]: Could not find anim build FROMNUM
+[02:04:55]: Could not find anim build FROMNUM
+[02:05:08]: Could not find anim build FROMNUM
+[02:05:22]: Could not find anim build FROMNUM
+[02:05:22]: Could not find anim [dismount] in bank [wilson]
+[02:05:27]: Could not find anim build FROMNUM
+[02:05:35]: Could not find anim build FROMNUM
+[02:05:39]: Could not find anim build FROMNUM
+[02:05:43]: Could not find anim build FROMNUM
+[02:05:53]: Could not find anim build FROMNUM
+[02:06:03]: Could not find anim [dismount] in bank [wilson]
+[02:06:13]: Could not find anim build FROMNUM
+[02:06:43]: Could not find anim build FROMNUM
+[02:06:51]: Could not find anim build FROMNUM
+[02:07:07]: Could not find anim build FROMNUM
+[02:07:07]: Could not find anim build FROMNUM
+[02:07:09]: Could not find anim build FROMNUM
+[02:07:18]: Could not find anim [dismount] in bank [wilson]
+[02:07:21]: Could not find anim build FROMNUM
+[02:07:44]: Could not find anim build FROMNUM
+[02:08:17]: Could not find anim [dismount] in bank [wilson]
+[02:08:31]: Could not find anim [dismount] in bank [wilson]
+[02:08:38]: Could not find anim build FROMNUM
+[02:09:01]: Available disk space for save files: 9286955 MB
+[02:09:01]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000382
+[02:09:01]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000382
+[02:09:01]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000382
+[02:09:01]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000382
+[02:09:02]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000382
+[02:09:02]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[02:09:02]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo(LIMBO)	
+[02:09:02]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:09:02]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo(LIMBO)	
+[02:09:02]: Serializing world: session/2CE5390F4C1A6D30/0000000382
+[02:09:02]: Could not find anim build FROMNUM
+[02:09:04]: Registering master server in Sing lobby
+[02:09:05]: Could not find anim [dismount] in bank [wilson]
+[02:09:08]: Could not find anim build FROMNUM
+[02:09:20]: Could not find anim build FROMNUM
+[02:09:28]: Could not find anim build FROMNUM
+[02:09:29]: Could not find anim build FROMNUM
+[02:09:33]: Could not find anim build FROMNUM
+[02:09:37]: Could not find anim [dismount] in bank [wilson]
+[02:09:46]: Could not find anim [dismount] in bank [wilson]
+[02:09:50]: Could not find anim build FROMNUM
+[02:09:51]: Could not find anim [dismount] in bank [wilson]
+[02:09:56]: Could not find anim build FROMNUM
+[02:10:04]: Could not find anim build FROMNUM
+[02:10:09]: Could not find anim [dismount] in bank [wilson]
+[02:10:20]: Could not find anim build FROMNUM
+[02:10:21]: Could not find anim build FROMNUM
+[02:10:24]: Could not find anim build FROMNUM
+[02:10:27]: Could not find anim build FROMNUM
+[02:10:32]: Could not find anim build FROMNUM
+[02:10:36]: Could not find anim build FROMNUM
+[02:10:39]: Could not find anim [dismount] in bank [wilson]
+[02:10:39]: Could not find anim build FROMNUM
+[02:10:42]: Could not find anim build FROMNUM
+[02:10:48]: Could not find anim build FROMNUM
+[02:10:52]: Could not find anim build FROMNUM
+[02:11:01]: Could not find anim build FROMNUM
+[02:11:02]: Could not find anim build FROMNUM
+[02:11:02]: Could not find anim build FROMNUM
+[02:11:29]: Could not find anim [dismount] in bank [wilson]
+[02:11:57]: Could not find anim [dismount] in bank [wilson]
+[02:12:01]: Could not find anim build FROMNUM
+[02:12:01]: Could not find anim build FROMNUM
+[02:12:03]: Could not find anim build FROMNUM
+[02:12:27]: Could not find anim build FROMNUM
+[02:12:43]: Could not find anim build FROMNUM
+[02:12:53]: Could not find anim build FROMNUM
+[02:12:59]: Could not find anim build FROMNUM
+[02:13:02]: Could not find anim [dismount] in bank [wilson]
+[02:13:12]: Could not find anim build FROMNUM
+[02:13:15]: Could not find anim [dismount] in bank [wilson]
+[02:13:15]: Activating portal[5] to 3876562405	
+[02:13:16]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000383
+[02:13:16]: [Shard] Migration request: (KU_54sjc_a8) to Caves(3876562405)
+[02:13:16]: [Shard] Begin migration #5 for (KU_54sjc_a8)
+[02:13:16]: [Shard] #5 [SHDMASTER](1) -> Caves(3876562405)
+[02:13:16]: [Shard] #5 <- session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000383
+[02:13:16]: [Shard] Writing save location file for (KU_54sjc_a8)
+[02:13:16]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:13:16]: [Steam] SendUserDisconnect for '76561199098771275'
+[02:13:16]: [Shard] (KU_54sjc_a8) disconnected from [SHDMASTER](1)
+[02:13:21]: Could not find anim build FROMNUM
+[02:13:26]: Could not find anim build FROMNUM
+[02:13:47]: Could not find anim build FROMNUM
+[02:14:23]: [P2P] Received from 132.25.163.101|1 '76561199098771275'
+[02:14:23]: [P2P] Sent to 132.25.163.101|1 '76561199098771275'
+[02:14:23]: New incoming connection 132.25.163.101|1 <8015931123384463955>
+[02:14:23]: Client connected from 132.25.163.101|1 <8015931123384463955>
+[02:14:23]: ValidateGameSessionToken pgs-usc^KU_54sjc_a8^DontStarveTogether^Bw1PAKAzZnWX1P5z2kBE3Lp0FSNJOn20JtLIzwdjNDc= for <8015931123384463955>
+[02:14:24]: Client authenticated: (KU_54sjc_a8) UTB
+[02:14:25]: [Steam] SendUserConnectAndAuthenticate for '76561199098771275'
+[02:14:28]: [Steam] Authenticated client '76561199098771275'
+[02:14:30]: There is no active event to validate against.
+[02:14:30]: [Shard] Cancelling pending migration #5 for (KU_54sjc_a8)
+[02:14:30]: [Shard] Read save location file for (KU_54sjc_a8)
+[02:14:30]: [Shard] Forwarding player to Caves(3876562405)
+[02:14:30]: [Shard] Begin migration #6 for (KU_54sjc_a8)
+[02:14:30]: [Shard] #6 [SHDMASTER](1) -> Caves(3876562405)
+[02:14:30]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:14:30]: [Steam] SendUserDisconnect for '76561199098771275'
+[02:14:30]: [Shard] (KU_54sjc_a8) disconnected from [SHDMASTER](1)
+[02:14:40]: Could not find anim build FROMNUM
+[02:14:41]: Could not find anim [dismount] in bank [wilson]
+[02:14:43]: Could not find anim [dismount] in bank [wilson]
+[02:14:44]: [Shard] Completed migration #6 for player (KU_54sjc_a8)
+[02:14:44]: Registering master server in Sing lobby
+[02:14:49]: Could not find anim build FROMNUM
+[02:15:08]: Registering master server in Sing lobby
+[02:15:09]: Could not find anim build FROMNUM
+[02:15:20]: Could not find anim build FROMNUM
+[02:15:23]: Could not find anim build FROMNUM
+[02:15:23]: Could not find anim build FROMNUM
+[02:15:28]: Could not find anim build FROMNUM
+[02:15:41]: Could not find anim build FROMNUM
+[02:15:42]: Could not find anim build FROMNUM
+[02:15:43]: Could not find anim build FROMNUM
+[02:15:55]: Could not find anim build FROMNUM
+[02:17:01]: Registering master server in Sing lobby
+[02:17:02]: Available disk space for save files: 9284003 MB
+[02:17:03]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000383
+[02:17:03]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000383
+[02:17:03]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000383
+[02:17:03]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000383
+[02:17:03]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[02:17:03]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[02:17:03]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:17:03]: Serializing world: session/2CE5390F4C1A6D30/0000000383
+[02:17:09]: Could not find anim build FROMNUM
+[02:17:47]: Could not find anim build FROMNUM
+[02:17:56]: Could not find anim build FROMNUM
+[02:18:07]: Could not find anim build FROMNUM
+[02:18:12]: Could not find anim build FROMNUM
+[02:18:22]: Could not find anim build FROMNUM
+[02:18:48]: Could not find anim [dismount] in bank [wilson]
+[02:18:57]: Could not find anim [dismount] in bank [wilson]
+[02:19:04]: Could not find anim build FROMNUM
+[02:19:04]: Could not find anim build FROMNUM
+[02:19:25]: Could not find anim [dismount] in bank [wilson]
+[02:19:28]: Could not find anim build FROMNUM
+[02:19:36]: Could not find anim build FROMNUM
+[02:19:42]: Could not find anim [dismount] in bank [wilson]
+[02:20:19]: Could not find anim build FROMNUM
+[02:20:25]: Could not find anim build FROMNUM
+[02:20:40]: Could not find anim [dismount] in bank [wilson]
+[02:20:43]: Could not find anim build FROMNUM
+[02:21:24]: Could not find anim [dismount] in bank [wilson]
+[02:22:05]: [Shard] Begin migration #7 for (KU_54sjc_a8)
+[02:22:05]: [Shard] #7 Caves(3876562405) -> [SHDMASTER](1)
+[02:22:05]: [Shard] #7 -> session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000384
+[02:22:05]: [Shard] Received migration #7 data for (KU_54sjc_a8)
+[02:22:05]: [Shard] Writing save location file for (KU_54sjc_a8)
+[02:22:05]: [Shard] (KU_54sjc_a8) disconnected from Caves(3876562405)
+[02:22:07]: Could not find anim [dismount] in bank [wilson]
+[02:22:22]: Could not find anim build FROMNUM
+[02:22:34]: [P2P] Connection failed for '76561199098771275'
+[02:22:49]: [P2P] Connection failed for '76561199098771275'
+[02:23:04]: [P2P] Received from 132.25.163.101|1 '76561199098771275'
+[02:23:04]: [P2P] Sent to 132.25.163.101|1 '76561199098771275'
+[02:23:05]: New incoming connection 132.25.163.101|1 <8779248362008606038>
+[02:23:05]: Client connected from 132.25.163.101|1 <8779248362008606038>
+[02:23:05]: ValidateGameSessionToken pgs-usc^KU_54sjc_a8^DontStarveTogether^uUdfniwWSCGY3Vth8W7l781ORo3+hTZ2k6pe6343tI4= for <8779248362008606038>
+[02:23:05]: Client authenticated: (KU_54sjc_a8) UTB
+[02:23:06]: [Steam] SendUserConnectAndAuthenticate for '76561199098771275'
+[02:23:15]: Could not find anim build FROMNUM
+[02:23:16]: [Steam] Authenticated client '76561199098771275'
+[02:23:16]: [Shard] Completed incoming migration #7 for (KU_54sjc_a8)
+[02:23:16]: [Shard] Completed migration #7 for player (KU_54sjc_a8)
+[02:23:18]: Could not find anim build FROMNUM
+[02:23:26]: Could not find anim build FROMNUM
+[02:23:32]: Could not find anim build FROMNUM
+[02:23:46]: Could not find anim build FROMNUM
+[02:24:06]: Resuming user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000384
+[02:24:06]: Player will spawn close to portal #5	
+[02:24:06]: Spawning player at: [Load] (301.97, 0.00, -432.60)	
+[02:24:06]: Could not find anim build FROMNUM
+[02:24:18]: Could not find anim build FROMNUM
+[02:24:24]: Could not find anim build FROMNUM
+[02:24:39]: Could not find anim [dismount] in bank [wilson]
+[02:24:46]: Could not find anim build FROMNUM
+[02:24:48]: Could not find anim build FROMNUM
+[02:24:48]: Could not find anim build FROMNUM
+[02:24:50]: Could not find anim build FROMNUM
+[02:24:53]: Could not find anim build FROMNUM
+[02:24:57]: Could not find anim build FROMNUM
+[02:25:02]: Could not find anim build FROMNUM
+[02:25:03]: Available disk space for save files: 9279713 MB
+[02:25:04]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000384
+[02:25:04]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000384
+[02:25:04]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000384
+[02:25:04]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000384
+[02:25:04]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000384
+[02:25:04]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[02:25:04]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[02:25:04]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:25:04]: Serializing world: session/2CE5390F4C1A6D30/0000000384
+[02:25:06]: Registering master server in Sing lobby
+[02:25:10]: Could not find anim build FROMNUM
+[02:25:16]: Could not find anim build FROMNUM
+[02:25:24]: Could not find anim [dismount] in bank [wilson]
+[02:25:38]: Could not find anim build FROMNUM
+[02:25:42]: Could not find anim build FROMNUM
+[02:25:47]: Could not find anim build FROMNUM
+[02:25:58]: Could not find anim build FROMNUM
+[02:26:04]: Could not find anim build FROMNUM
+[02:26:36]: Could not find anim build FROMNUM
+[02:26:58]: Could not find anim build FROMNUM
+[02:27:12]: Could not find anim [dismount] in bank [wilson]
+[02:27:31]: Could not find anim [dismount] in bank [wilson]
+[02:27:44]: Could not find anim build FROMNUM
+[02:27:52]: [Steam] SendUserDisconnect for '76561198976383126'
+[02:27:52]: Connection lost to 132.25.163.103|1 <1797054024749628303>
+[02:27:52]: [Shard] (KU_2duLJbwr) disconnected from [SHDMASTER](1)
+[02:27:52]: Registering master server in Sing lobby
+[02:27:53]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000385
+[02:27:55]: Could not find anim build FROMNUM
+[02:28:13]: Could not find anim build FROMNUM
+[02:28:52]: Could not find anim [dismount] in bank [wilson]
+[02:29:09]: Could not find anim build FROMNUM
+[02:29:20]: Could not find anim [dismount] in bank [wilson]
+[02:29:42]: Could not find anim [dismount] in bank [wilson]
+[02:30:08]: [200] Account Communication Success (6)
+[02:30:08]: Received (KU_hjXTctx_) from TokenPurpose
+[02:30:43]: Could not find anim [dismount] in bank [wilson]
+[02:31:34]: Could not find anim build FROMNUM
+[02:32:14]: Could not find anim [dismount] in bank [wilson]
+[02:32:33]: Could not find anim [dismount] in bank [wilson]
+[02:33:04]: Registering master server in Sing lobby
+[02:33:04]: Available disk space for save files: 9020397 MB
+[02:33:05]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000385
+[02:33:05]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000385
+[02:33:05]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000385
+[02:33:05]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000385
+[02:33:05]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[02:33:05]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:33:05]: Missing reference:	107487 - beefaloherd	->	109115	109115 - beefalo	
+[02:33:05]: Serializing world: session/2CE5390F4C1A6D30/0000000385
+[02:33:19]: Could not find anim [dismount] in bank [wilson]
+[02:34:52]: Could not find anim [fall_off] in bank [wilson]
+[02:34:54]: Could not find anim [death] in bank [ghost]
+[02:34:54]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000386
+[02:35:02]: Could not find anim [dismount] in bank [wilson]
+[02:35:32]: Could not find anim [idle_loop] in bank [ghost]
+[02:35:35]: Could not find anim [transform] in bank [wilson]
+[02:35:37]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000386
+[02:35:49]: Could not find anim [dismount] in bank [wilson]
+[02:37:05]: Could not find anim [dismount] in bank [wilson]
+[02:37:07]: Could not find anim [dismount] in bank [wilson]
+[02:37:31]: Could not find anim build FROMNUM
+[02:37:45]: [Steam] SendUserDisconnect for '76561199042411347'
+[02:37:45]: Connection lost to 132.25.163.100|1 <854446575656740149>
+[02:37:45]: [Shard] (KU_hjXTctx_) disconnected from [SHDMASTER](1)
+[02:37:45]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000386
+[02:37:49]: Registering master server in Sing lobby
+[02:37:51]: Could not find anim build FROMNUM
+[02:37:52]: [P2P] Session timed out for '76561198976383126'
+[02:37:52]: [P2P] Remove session: 132.25.163.103|1 '76561198976383126'
+[02:37:59]: Could not find anim build FROMNUM
+[02:38:15]: Could not find anim build FROMNUM
+[02:38:19]: Could not find anim build FROMNUM
+[02:38:21]: Could not find anim build FROMNUM
+[02:38:41]: Could not find anim [dismount] in bank [wilson]
+[02:38:55]: Could not find anim [dismount] in bank [wilson]
+[02:39:29]: Could not find anim build FROMNUM
+[02:39:38]: Could not find anim build FROMNUM
+[02:39:41]: Could not find anim [dismount] in bank [wilson]
+[02:39:46]: Could not find anim [dismount] in bank [wilson]
+[02:39:46]: Could not find anim [dismount] in bank [wilson]
+[02:40:30]: Could not find anim [dismount] in bank [wilson]
+[02:40:30]: Could not find anim [dismount] in bank [wilson]
+[02:40:37]: Could not find anim [dismount] in bank [wilson]
+[02:40:44]: Could not find anim [dismount] in bank [wilson]
+[02:40:50]: Could not find anim [dismount] in bank [wilson]
+[02:41:04]: Registering master server in Sing lobby
+[02:41:05]: Available disk space for save files: 9804905 MB
+[02:41:06]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000386
+[02:41:06]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000386
+[02:41:06]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000386
+[02:41:06]: Missing reference:	139517 - beefaloherd	->	109115	109115 - beefalo	
+[02:41:06]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo(LIMBO)	
+[02:41:06]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[02:41:06]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:41:06]: Serializing world: session/2CE5390F4C1A6D30/0000000386
+[02:41:13]: Could not find anim [dismount] in bank [wilson]
+[02:41:22]: Could not find anim [dismount] in bank [wilson]
+[02:42:57]: Could not find anim [dismount] in bank [wilson]
+[02:44:19]: Could not find anim build FROMNUM
+[02:44:27]: Could not find anim build FROMNUM
+[02:44:29]: Could not find anim build FROMNUM
+[02:44:35]: Could not find anim build FROMNUM
+[02:44:54]: Could not find anim [dismount] in bank [wilson]
+[02:44:58]: Could not find anim [dismount] in bank [wilson]
+[02:45:03]: Could not find anim [dismount] in bank [wilson]
+[02:45:28]: Could not find anim [dismount] in bank [wilson]
+[02:45:59]: Could not find anim [dismount] in bank [wilson]
+[02:46:59]: Could not find anim [dismount] in bank [wilson]
+[02:47:32]: [Steam] SendUserDisconnect for '76561199098771275'
+[02:47:32]: Connection lost to 132.25.163.101|1 <8779248362008606038>
+[02:47:32]: [Shard] (KU_54sjc_a8) disconnected from [SHDMASTER](1)
+[02:47:32]: Registering master server in Sing lobby
+[02:47:32]: Serializing user: session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000387
+[02:47:45]: [P2P] Session timed out for '76561199042411347'
+[02:47:45]: [P2P] Remove session: 132.25.163.100|1 '76561199042411347'
+[02:47:49]: Could not find anim build FROMNUM
+[02:48:19]: [P2P] Connection failed for '76561199098771275'
+[02:48:39]: Could not find anim build FROMNUM
+[02:49:05]: Registering master server in Sing lobby
+[02:49:06]: Available disk space for save files: 10065361 MB
+[02:49:07]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000387
+[02:49:07]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000387
+[02:49:07]: Missing reference:	122144 - beef_bell	->	109115	109115 - beefalo	
+[02:49:07]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:49:07]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[02:49:07]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[02:49:07]: Serializing world: session/2CE5390F4C1A6D30/0000000387
+[02:50:34]: Could not find anim build FROMNUM
+[02:50:46]: Could not find anim build FROMNUM
+[02:50:58]: Could not find anim build FROMNUM
+[02:51:04]: Could not find anim [dismount] in bank [wilson]
+[02:51:33]: Could not find anim build FROMNUM
+[02:51:58]: Could not find anim build FROMNUM
+[02:52:02]: Could not find anim build FROMNUM
+[02:52:02]: Could not find anim build FROMNUM
+[02:52:13]: Could not find anim build FROMNUM
+[02:52:13]: Could not find anim build FROMNUM
+[02:52:37]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(c_gonext"deer_antler") @(-171.67, -119.14)
+[02:52:37]: Finding a 	deer_antler	
+[02:52:37]: Could not find any objects matching 'deer_antler'.	
+[02:52:43]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(c_gonext"deer_antler1") @(-171.61, -115.98)
+[02:52:43]: Finding a 	deer_antler1	
+[02:52:43]: Found 102872 (1/3)	
+[02:52:55]: Could not find anim build FROMNUM
+[02:52:57]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(c_gonext"klaus_sack") @(-292.80, 31.64)
+[02:52:57]: Finding a 	klaus_sack	
+[02:52:57]: Found 182448 (1/1)	
+[02:53:30]: Could not find anim build FROMNUM
+[02:54:21]: Could not find anim [dismount] in bank [wilson]
+[02:54:32]: Could not find anim [dismount] in bank [wilson]
+[02:54:45]: Could not find anim [dismount] in bank [wilson]
+[02:54:54]: Could not find anim [dismount] in bank [wilson]
+[02:55:46]: Could not find anim [dismount] in bank [wilson]
+[02:57:07]: Available disk space for save files: 10065085 MB
+[02:57:07]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000388
+[02:57:07]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000388
+[02:57:07]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[02:57:07]: Missing reference:	121849 - beef_bell	->	121851	121851 - beefalo	
+[02:57:07]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[02:57:07]: Missing reference:	122144 - beef_bell	->	109115	109115 - beefalo	
+[02:57:07]: Serializing world: session/2CE5390F4C1A6D30/0000000388
+[02:57:10]: Registering master server in Sing lobby
+[02:57:32]: [P2P] Session timed out for '76561199098771275'
+[02:57:32]: [P2P] Remove session: 132.25.163.101|1 '76561199098771275'
+[03:00:08]: [200] Account Communication Success (6)
+[03:00:08]: Received (KU_hjXTctx_) from TokenPurpose
+[03:01:16]: Could not find anim [dismount] in bank [wilson]
+[03:02:49]: Could not find anim [dismount] in bank [wilson]
+[03:03:00]: Could not find anim [dismount] in bank [wilson]
+[03:04:34]: Could not find anim [spawn] in bank [squiderp]
+[03:04:35]: Could not find anim [spawn] in bank [squiderp]
+[03:04:36]: Could not find anim [spawn] in bank [squiderp]
+[03:05:04]: Could not find anim build FROMNUM
+[03:05:07]: Available disk space for save files: 10062488 MB
+[03:05:08]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000389
+[03:05:08]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000389
+[03:05:08]: Missing reference:	139517 - beefaloherd	->	139432	139432 - beefalo	
+[03:05:08]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[03:05:08]: Missing reference:	122144 - beef_bell	->	109115	109115 - beefalo	
+[03:05:08]: Serializing world: session/2CE5390F4C1A6D30/0000000389
+[03:05:12]: Could not find anim build FROMNUM
+[03:05:16]: Registering master server in Sing lobby
+[03:06:37]: Could not find anim [dismount] in bank [wilson]
+[03:06:49]: [Steam] SendUserDisconnect for '76561198860811263'
+[03:06:49]: Connection lost to 132.25.163.98|1 <8204844634757419718>
+[03:06:49]: [Shard] (KU_hjXTct1p) disconnected from [SHDMASTER](1)
+[03:06:49]: Registering master server in Sing lobby
+[03:06:49]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000390
+[03:06:49]: Could not find anim build FROMNUM
+[03:07:02]: [P2P] Connection failed for '76561198860811263'
+[03:07:26]: Could not find anim build FROMNUM
+[03:07:40]: Could not find anim build FROMNUM
+[03:07:51]: Could not find anim build FROMNUM
+[03:08:09]: Could not find anim build FROMNUM
+[03:08:59]: [Steam] SendUserDisconnect for '76561198969291057'
+[03:08:59]: Connection lost to 132.25.163.102|1 <8497738062686902234>
+[03:08:59]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
+[03:09:00]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000390
+[03:09:00]: Sim paused
+[03:09:04]: Registering master server in Sing lobby
+[03:09:54]: [P2P] Connection failed for '76561198969291057'
+[03:16:49]: [P2P] Session timed out for '76561198860811263'
+[03:16:49]: [P2P] Remove session: 132.25.163.98|1 '76561198860811263'
+[03:18:59]: [P2P] Session timed out for '76561198969291057'
+[03:18:59]: [P2P] Remove session: 132.25.163.102|1 '76561198969291057'
+[03:30:08]: [200] Account Communication Success (6)
+[03:30:08]: Received (KU_hjXTctx_) from TokenPurpose
+[03:34:08]: Available disk space for save files: 10058383 MB
+[03:34:09]: Missing reference:	139430 - beef_bell	->	139432	139432 - beefalo	
+[03:34:09]: Missing reference:	122144 - beef_bell	->	109115	109115 - beefalo	
+[03:34:09]: Missing reference:	109401 - beef_bell	->	109403	109403 - beefalo	
+[03:34:09]: Serializing world: session/2CE5390F4C1A6D30/0000000390
+[03:34:09]: Truncating to snapshot #390...
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000371
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000376
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000382
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000378
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000379
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000383
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000377
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000370
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000384
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000375
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000381
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000372
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000373
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000380
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000374
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000369
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000367
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000366
+[03:34:09]:  - session/2CE5390F4C1A6D30/0000000368
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000384
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000383
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000382
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000381
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000380
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000379
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000378
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000377
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000376
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000375
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000374
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000373
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000372
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000309
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000384
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000383
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000382
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000381
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000380
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000379
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000378
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000377
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000376
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000375
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000374
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000373
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000372
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000371
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000370
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000369
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000368
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000367
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000366
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000384
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000383
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000382
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000381
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000380
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000379
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000378
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000377
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000376
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000375
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000340
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000384
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000383
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000382
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000381
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000380
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000379
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000356
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000384
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000383
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000382
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000381
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000380
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000379
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000378
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000377
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000376
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000373
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000370
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000369
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000368
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000367
+[03:34:09]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000366
+[03:34:09]:    85 file(s) removed
+[03:34:09]:  > session/2CE5390F4C1A6D30/A7GK9MMPNU88/savelocation
+[03:34:09]:  > session/2CE5390F4C1A6D30/A7GAFOAKSNLL/savelocation
+[03:34:09]:    2 file(s) updated
+[03:34:09]: Removing server from Sing lobby
+[03:34:09]: [Shard] Stopping shard mode
+[03:34:10]: [Steam] SendUserDisconnect for ''
+[03:34:10]: Collecting garbage...
+[03:34:11]: lua_gc took 0.47 seconds
+[03:34:11]: ~ShardLuaProxy()
+[03:34:11]: ~cEventLeaderboardProxy()
+[03:34:11]: ~ItemServerLuaProxy()
+[03:34:11]: ~InventoryLuaProxy()
+[03:34:11]: ~NetworkLuaProxy()
+[03:34:11]: ~SimLuaProxy()
+[03:34:11]: Cancelling LuaQueryCallback handle [1306]
+[03:34:11]: lua_close took 0.44 seconds
+[03:34:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:34:12]: CurlRequestManager::ClientThread::Main() complete
+[03:34:12]: HttpClient2 discarded 0 callbacks.
+[03:34:12]: Shutting down
