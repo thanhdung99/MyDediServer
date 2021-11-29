@@ -1,17 +1,17 @@
 [00:00:00]: PersistRootStorage is now /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 487848
-[00:00:00]: Current time: Mon Nov 29 10:17:15 2021
+[00:00:00]: Current time: Mon Nov 29 12:02:02 2021
 
 [00:00:00]: Don't Starve Together: 487848 OSX
 [00:00:00]: Build Date: 6466
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 3545 -shard Master 
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 4898 -shard Master 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (13127348224)
+[00:00:00]: THREAD - started 'GAClient' (13120974848)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
@@ -24,12 +24,12 @@
 [00:00:01]: [Steam] SteamGameServer_Init success
 [00:00:01]: ProfileIndex:4.78
 [00:00:01]: [Connect] PendingConnection::Reset(true)
-[00:00:01]: THREAD - started 'Ping Job Thread' (13137944576)
+[00:00:01]: THREAD - started 'Ping Job Thread' (13130510336)
 [00:00:01]: Platform: 1
 [00:00:01]: Network tick rate: U=15(2), D=0
 [00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'StreamInput' (13132619776)
 [00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
-[00:00:01]: THREAD - started 'StreamInput' (13140054016)
 [00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Success)
 [00:00:01]: OnLoadUserIdList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
 [00:00:01]: Token retrieved from: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
@@ -54,7 +54,7 @@
     name                      
     driverVersion             
     driverDate                
-    refreshRate               238679424
+    refreshRate               232854912
 
 [00:00:01]: cGame::InitializeOnMainThread
 [00:00:01]: Renderer initialize: Okay
@@ -77,1634 +77,1051 @@
 [00:00:01]: loaded modindex	
 [00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:05]: SUCCESS: Loaded modoverrides.lua	
-[00:00:05]: modoverrides.lua enabling workshop-928691537	
-[00:00:05]: modoverrides.lua enabling workshop-1416161108	
-[00:00:05]: modoverrides.lua enabling workshop-2477889104	
-[00:00:05]: modoverrides.lua enabling workshop-462372013	
-[00:00:05]: modoverrides.lua enabling workshop-2629184121	
-[00:00:05]: modoverrides.lua enabling workshop-466732225	
-[00:00:05]: modoverrides.lua enabling workshop-1595631294	
-[00:00:05]: modoverrides.lua enabling workshop-2373951100	
-[00:00:05]: modoverrides.lua enabling workshop-666155465	
-[00:00:05]: modoverrides.lua enabling workshop-501385076	
-[00:00:05]: modoverrides.lua enabling workshop-378160973	
-[00:00:05]: modoverrides.lua enabling workshop-1803285852	
-[00:00:05]: modoverrides.lua enabling workshop-1777789373	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
-[00:00:05]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2373951100_CLIENT	
-[00:00:05]: Loading mod: workshop-2373951100 ([DST] [Configurable] Sprinkler) Version:1.3.5	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
-[00:00:05]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
-[00:00:05]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
-[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1777789373_CLIENT	
-[00:00:05]: Loading mod: workshop-1777789373 (Disable World Regrowth) Version:1	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-462372013_CLIENT	
-[00:00:05]: Loading mod: workshop-462372013 (Always fresh) Version:1.2	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-928691537_CLIENT	
-[00:00:05]: Loading mod: workshop-928691537 (Force Reed Trap Set Piece Generation) Version:1.0	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1803285852_CLIENT	
-[00:00:05]: Loading mod: workshop-1803285852 (Auto Stack and Pick Up) Version:0.1.9	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1416161108_CLIENT	
-[00:00:05]: Loading mod: workshop-1416161108 (Camp Security) Version:22.8	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2477889104_CLIENT	
-[00:00:05]: Loading mod: workshop-2477889104 (Beefalo Status Bar) Version:1.2.0	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
-[00:00:05]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2629184121_CLIENT	
-[00:00:05]: Loading mod: workshop-2629184121 (Server Cleaner) Version:1.1.1	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-928691537	
-[00:00:05]: Overriding mod workshop-928691537's option _REEDS_override with value 1	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1416161108	
-[00:00:05]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:05]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:05]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:05]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:05]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:05]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:05]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:05]: Overriding mod workshop-1416161108's option chester_protect with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option fire_protection with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option keybind_panel with value 108	
-[00:00:05]: Overriding mod workshop-1416161108's option building_burned_down with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option flingomatic_is_empty with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option language with value En	
-[00:00:05]: Overriding mod workshop-1416161108's option mob_broke with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option destruction_protection with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option destruction_punishment with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option destruction_warning with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option death_annonce with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option egg_deploy with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option test with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option beebox_radius with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option auto_add_to_list_drop with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option auto_add_to_list with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option fire_radius with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option firehound_propagator with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option warnings_count with value 5	
-[00:00:05]: Overriding mod workshop-1416161108's option punishmentTip with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option vote_kick_time with value 3600	
-[00:00:05]: Overriding mod workshop-1416161108's option builder_radius with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option dont_drop_when_died with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option starcaller with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option keybind_drop with value 106	
-[00:00:05]: Overriding mod workshop-1416161108's option read_radius with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option auto_del_from_list_drop with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option protect_wall with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option lavae_protect with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option keybind_friend with value 107	
-[00:00:05]: Overriding mod workshop-1416161108's option reeds_cactus with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option keybind_container with value 114	
-[00:00:05]: Overriding mod workshop-1416161108's option good_monsters with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option glommer_protect with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option flingomatic_improved with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option fire_warning with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option fire_vote with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option fire_punishment with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option auto_del_from_list with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option destruction_vote with value false	
-[00:00:05]: Overriding mod workshop-1416161108's option ban_time with value 1800	
-[00:00:05]: Overriding mod workshop-1416161108's option campfire_propagator with value false	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2477889104	
-[00:00:05]: Overriding mod workshop-2477889104's option HEALTH_BADGE_CLEAR_BG with value false	
-[00:00:05]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_ORNERY with value ORANGE	
-[00:00:05]: Overriding mod workshop-2477889104's option OffsetYFine with value 0	
-[00:00:05]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_PUDGY with value PURPLE	
-[00:00:05]: Overriding mod workshop-2477889104's option ToggleKey with value KEY_T	
-[00:00:05]: Overriding mod workshop-2477889104's option ClientConfig with value false	
-[00:00:05]: Overriding mod workshop-2477889104's option BADGE_BG_OPACITY with value 100	
-[00:00:05]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_Y with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option ShowByDefault with value true	
-[00:00:05]: Overriding mod workshop-2477889104's option Scale with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option Theme with value TheForge	
-[00:00:05]: Overriding mod workshop-2477889104's option OffsetXMult with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_X with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_COLORS with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option SEPARATOR_GENERAL with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option COLOR_TIMER with value GREEN	
-[00:00:05]: Overriding mod workshop-2477889104's option COLOR_OBEDIENCE with value RED	
-[00:00:05]: Overriding mod workshop-2477889104's option GapModifier with value 0	
-[00:00:05]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_DEFAULT with value WHITE	
-[00:00:05]: Overriding mod workshop-2477889104's option OffsetYMult with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option HungerThreshold with value 10	
-[00:00:05]: Overriding mod workshop-2477889104's option BADGE_BG_BRIGHTNESS with value 60	
-[00:00:05]: Overriding mod workshop-2477889104's option OffsetXFine with value 0	
-[00:00:05]: Overriding mod workshop-2477889104's option EnableSounds with value false	
-[00:00:05]: Overriding mod workshop-2477889104's option OffsetX with value 0	
-[00:00:05]: Overriding mod workshop-2477889104's option OffsetY with value 0	
-[00:00:05]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_SETTINGS with value 1	
-[00:00:05]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_RIDER with value BLUE	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-462372013	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2629184121	
-[00:00:05]: Overriding mod workshop-2629184121's option  with value false	
-[00:00:05]: Overriding mod workshop-2629184121's option  with value false	
-[00:00:05]: Overriding mod workshop-2629184121's option halloween_ornament with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option poop with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option winter_food with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option interval with value 5	
-[00:00:05]: Overriding mod workshop-2629184121's option spoiled_food with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option guano with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option sketch with value false	
-[00:00:05]: Overriding mod workshop-2629184121's option houndstooth with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option stinger with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option winter_ornament_boss with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option custom with value false	
-[00:00:05]: Overriding mod workshop-2629184121's option winter_ornament with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option winter_ornament_light with value false	
-[00:00:05]: Overriding mod workshop-2629184121's option halloweencandy with value true	
-[00:00:05]: Overriding mod workshop-2629184121's option delay with value 200	
-[00:00:05]: Overriding mod workshop-2629184121's option rottenegg with value false	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
-[00:00:05]: Overriding mod workshop-1595631294's option SaltBox with value false	
-[00:00:05]: Overriding mod workshop-1595631294's option BundleItems with value false	
-[00:00:05]: Overriding mod workshop-1595631294's option Digornot with value false	
-[00:00:05]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
-[00:00:05]: Overriding mod workshop-1595631294's option Icebox with value true	
-[00:00:05]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2373951100	
-[00:00:05]: Overriding mod workshop-2373951100's option  with value 0	
-[00:00:05]: Overriding mod workshop-2373951100's option  with value 0	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerProtectionTime with value 30	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerMaxFuelTime with value 250	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerRecipe with value easy	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerWetPlayer with value 	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerTempReduction with value 5	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerRange with value 10	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerProtectionDist with value 2.25	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerFuelBonusMultiplier with value 5	
-[00:00:05]: Overriding mod workshop-2373951100's option SprinklerExtinguishHeatPercent with value -1	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:05]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:05]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:05]: Overriding mod workshop-666155465's option display_hp with value -1	
-[00:00:05]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:05]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:05]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:05]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:05]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:05]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:05]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:05]: Overriding mod workshop-501385076's option quick_pick_cactus with value true	
-[00:00:05]: Overriding mod workshop-501385076's option quick_pick_plant_normal_ground with value true	
-[00:00:05]: Overriding mod workshop-501385076's option quick_cook_on_fire with value true	
-[00:00:05]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
-[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1803285852	
-[00:00:05]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:05]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:05]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:05]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoPickupEnabled with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option ManualStackMakeNewStackMainStack with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoPickupRange with value 10	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackEnabled with value true	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackMakeNewStackMainStack with value true	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackTwiggyTreeTwigs with value true	
-[00:00:05]: Overriding mod workshop-1803285852's option SmokePuffOnStacking with value true	
-[00:00:05]: Overriding mod workshop-1803285852's option StackDuringPopulation with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoPickupSeeds with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option PlayerMustHaveOneOfItemToAutoPickup with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoPickupAsh with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option ManualStackSeeds with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackManuallyDroppedItems with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option ManualStackAsh with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoPickupPoop with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option ManualStackPoop with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option ManualDropStackRange with value 5	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackAsh with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackRange with value 20	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackSeeds with value false	
-[00:00:05]: Overriding mod workshop-1803285852's option AutoStackPoop with value false	
-[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1777789373	
-[00:00:05]: Overriding mod workshop-1777789373's option plantregrowth with value false	
-[00:00:05]: Overriding mod workshop-1777789373's option desolationspawner with value false	
-[00:00:05]: Overriding mod workshop-1777789373's option worldregrowth with value false	
-[00:00:05]: Overriding mod workshop-1777789373's option resourcerenewal with value false	
-[00:00:05]: Mod: workshop-1416161108 (Camp Security)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-1416161108 (Camp Security)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-1416161108 (Camp Security)	Loading modmain.lua	
-[00:00:05]: modimport: ../mods/workshop-1416161108/data/strings.lua	
-[00:00:05]: modimport: ../mods/workshop-1416161108/lib_fn.lua	
-[00:00:05]: modimport: ../mods/workshop-1416161108/data/PlayerCache.lua	
-[00:00:05]: modimport: ../mods/workshop-1416161108/scripts/patches/controlpanel.lua	
-[00:00:05]: modimport: ../mods/workshop-1416161108/scripts/patches/friendlist.lua	
-[00:00:05]: modimport: ../mods/workshop-1416161108/scripts/patches/lockedcontainers.lua	
-[00:00:05]: modimport: ../mods/workshop-1416161108/scripts/patches/drop_everything.lua	
-[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
-[00:00:05]: ShowMe version:	0.57	
-[00:00:05]: show_food_units	-1	-1	-1	
-[00:00:05]: show_uses	-1	-1	-1	
-[00:00:05]: Detected language for ShowMe: 	auto		
-[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modmain.lua	
-[00:00:05]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
-[00:00:05]: Mod: workshop-2629184121 (Server Cleaner)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-2629184121 (Server Cleaner)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-2629184121 (Server Cleaner)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-1777789373 (Disable World Regrowth)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
-[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
-[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
-[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
-[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
-[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:06]: LOADING LUA SUCCESS
-[00:00:06]: Registering Server mod namespace "workshop-1416161108"
-[00:00:06]: Registering Server mod namespace "showmeshint"
-[00:00:06]: Registering Server mod namespace "workshop-378160973"
-[00:00:06]: Registering Server mod namespace "showme"
-[00:00:06]: PlayerDeaths could not load morgue	
-[00:00:06]: PlayerHistory could not load player_history	
-[00:00:06]: ServerPreferences could not load server_preferences	
-[00:00:06]: bloom_enabled	true	
-[00:00:06]: OnFilesLoaded()	
-[00:00:06]: OnUpdatePurchaseStateComplete	
-[00:00:06]: Klump load on boot started.	
-[00:00:06]: Klump files loaded: 	0	
-[00:00:07]: Mod: workshop-1416161108 (Camp Security)	Registering prefabs	
-[00:00:07]: Mod: workshop-1416161108 (Camp Security)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
-[00:00:07]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Registering prefabs	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rwys_sprinkler	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    sprinkler	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    reapwhatyousow_sprinkler_placer	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_spray	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
-[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
-[00:00:07]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
-[00:00:07]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
-[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
-[00:00:07]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
-[00:00:07]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
-[00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
-[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
-[00:00:07]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
-[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
-[00:00:07]: 	Load FE	
-[00:00:08]: THREAD - started 'FilesExistAsyncThread' (13143224320)
-[00:00:08]: 	Load FE: done	
-[00:00:08]: FilesExistAsyncThread started (18788 files)...
-[00:00:08]: Check for write access: TRUE
-[00:00:08]: Check for read access: TRUE
-[00:00:08]: Available disk space for save files: 11375719 MB
-[00:00:08]: ModIndex: Load sequence finished successfully.	
-[00:00:08]: Reset() returning
-[00:00:08]: [200] Account Communication Success (6)
-[00:00:08]: Received (KU_hjXTctx_) from TokenPurpose
-[00:00:08]: Starting Dedicated Server Game	
-[00:00:08]: Network tick rate: U=15(2), D=0
-[00:00:08]: About to start a server with the following settings:
-[00:00:08]:   Dedicated: true
-[00:00:08]:   Online: true
-[00:00:08]:   Passworded: true
-[00:00:08]:   ServerPort: 11000
-[00:00:08]:   SteamAuthPort: 8768
-[00:00:08]:   SteamMasterServerPort: 27018
-[00:00:08]:   ClanID: false
-[00:00:08]:   ClanOnly: false
-[00:00:08]:   ClanAdmin: false
-[00:00:08]:   LanOnly: false
-[00:00:08]:   FriendsOnly: false
-[00:00:08]:   EnableAutosaver: true
-[00:00:08]:   EncodeUserPath: true
-[00:00:08]:   PVP: false
-[00:00:08]:   MaxPlayers: 10
-[00:00:08]:   GameMode: endless
-[00:00:08]:   OverridenDNS: 
-[00:00:08]:   PauseWhenEmpty: true
-[00:00:08]:   IdleTimeout: 1800s
-[00:00:08]:   VoteEnabled: true
-[00:00:08]:   InternetBroadcasting: true
-[00:00:08]:   Intent: cooperative
-[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
-[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
-[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-462372013	
-[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
-[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
-[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-666155465	
-[00:00:09]: Online Server Started on port: 11000
-[00:00:09]: SUCCESS: Loaded modoverrides.lua	
-[00:00:09]: Not applying level data overrides.	
-[00:00:09]: Not applying world gen overrides.	
-[00:00:09]: Collecting garbage...
-[00:00:09]: lua_gc took 0.04 seconds
-[00:00:09]: ~ShardLuaProxy()
-[00:00:09]: ~cEventLeaderboardProxy()
-[00:00:09]: ~ItemServerLuaProxy()
-[00:00:09]: ~InventoryLuaProxy()
-[00:00:09]: ~NetworkLuaProxy()
-[00:00:09]: ~SimLuaProxy()
-[00:00:09]: FilesExistAsyncThread aborted.
-[00:00:09]: ... FilesExistAsyncThread complete
-[00:00:09]: lua_close took 0.04 seconds
-[00:00:09]: ReleaseAll
-[00:00:09]: ReleaseAll Finished
-[00:00:09]: cGame::StartPlaying
-[00:00:09]: AppVersion::GetArchitecture() x64
-[00:00:09]: LOADING LUA
-[00:00:09]: DoLuaFile scripts/main.lua
-[00:00:09]: DoLuaFile loading buffer scripts/main.lua
-[00:00:09]:   taskgrouplist:	default	Together	
-[00:00:09]:   taskgrouplist:	classic	Classic	
-[00:00:09]:   taskgrouplist:	cave_default	Underground	
-[00:00:09]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:09]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:09]: running main.lua
+[00:00:03]: SUCCESS: Loaded modoverrides.lua	
+[00:00:03]: modoverrides.lua enabling workshop-928691537	
+[00:00:03]: modoverrides.lua enabling workshop-1416161108	
+[00:00:03]: modoverrides.lua enabling workshop-2477889104	
+[00:00:03]: modoverrides.lua enabling workshop-462372013	
+[00:00:03]: modoverrides.lua enabling workshop-2629184121	
+[00:00:03]: modoverrides.lua enabling workshop-466732225	
+[00:00:03]: modoverrides.lua enabling workshop-1595631294	
+[00:00:03]: modoverrides.lua enabling workshop-2373951100	
+[00:00:03]: modoverrides.lua enabling workshop-666155465	
+[00:00:03]: modoverrides.lua enabling workshop-501385076	
+[00:00:03]: modoverrides.lua enabling workshop-378160973	
+[00:00:03]: modoverrides.lua enabling workshop-1803285852	
+[00:00:03]: modoverrides.lua enabling workshop-1777789373	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:03]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2373951100_CLIENT	
+[00:00:03]: Loading mod: workshop-2373951100 ([DST] [Configurable] Sprinkler) Version:1.3.5	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:03]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:03]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:03]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1777789373_CLIENT	
+[00:00:03]: Loading mod: workshop-1777789373 (Disable World Regrowth) Version:1	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-462372013_CLIENT	
+[00:00:03]: Loading mod: workshop-462372013 (Always fresh) Version:1.2	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-928691537_CLIENT	
+[00:00:03]: Loading mod: workshop-928691537 (Force Reed Trap Set Piece Generation) Version:1.0	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1803285852_CLIENT	
+[00:00:03]: Loading mod: workshop-1803285852 (Auto Stack and Pick Up) Version:0.1.9	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1416161108_CLIENT	
+[00:00:03]: Loading mod: workshop-1416161108 (Camp Security) Version:22.8	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2477889104_CLIENT	
+[00:00:03]: Loading mod: workshop-2477889104 (Beefalo Status Bar) Version:1.2.0	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:03]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2629184121_CLIENT	
+[00:00:03]: Loading mod: workshop-2629184121 (Server Cleaner) Version:1.1.1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-928691537	
+[00:00:03]: Overriding mod workshop-928691537's option _REEDS_override with value 1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1416161108	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:03]: Overriding mod workshop-1416161108's option chester_protect with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_protection with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_panel with value 108	
+[00:00:03]: Overriding mod workshop-1416161108's option building_burned_down with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option flingomatic_is_empty with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option language with value En	
+[00:00:03]: Overriding mod workshop-1416161108's option mob_broke with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_protection with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_punishment with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_warning with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option death_annonce with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option egg_deploy with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option test with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option beebox_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_add_to_list_drop with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_add_to_list with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option firehound_propagator with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option warnings_count with value 5	
+[00:00:03]: Overriding mod workshop-1416161108's option punishmentTip with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option vote_kick_time with value 3600	
+[00:00:03]: Overriding mod workshop-1416161108's option builder_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option dont_drop_when_died with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option starcaller with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_drop with value 106	
+[00:00:03]: Overriding mod workshop-1416161108's option read_radius with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_del_from_list_drop with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option protect_wall with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option lavae_protect with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_friend with value 107	
+[00:00:03]: Overriding mod workshop-1416161108's option reeds_cactus with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option keybind_container with value 114	
+[00:00:03]: Overriding mod workshop-1416161108's option good_monsters with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option glommer_protect with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option flingomatic_improved with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_warning with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_vote with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option fire_punishment with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option auto_del_from_list with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option destruction_vote with value false	
+[00:00:03]: Overriding mod workshop-1416161108's option ban_time with value 1800	
+[00:00:03]: Overriding mod workshop-1416161108's option campfire_propagator with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2477889104	
+[00:00:03]: Overriding mod workshop-2477889104's option HEALTH_BADGE_CLEAR_BG with value false	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_ORNERY with value ORANGE	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetYFine with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_PUDGY with value PURPLE	
+[00:00:03]: Overriding mod workshop-2477889104's option ToggleKey with value KEY_T	
+[00:00:03]: Overriding mod workshop-2477889104's option ClientConfig with value false	
+[00:00:03]: Overriding mod workshop-2477889104's option BADGE_BG_OPACITY with value 100	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_Y with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option ShowByDefault with value true	
+[00:00:03]: Overriding mod workshop-2477889104's option Scale with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option Theme with value TheForge	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetXMult with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_X with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_COLORS with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_GENERAL with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_TIMER with value GREEN	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_OBEDIENCE with value RED	
+[00:00:03]: Overriding mod workshop-2477889104's option GapModifier with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_DEFAULT with value WHITE	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetYMult with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option HungerThreshold with value 10	
+[00:00:03]: Overriding mod workshop-2477889104's option BADGE_BG_BRIGHTNESS with value 60	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetXFine with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option EnableSounds with value false	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetX with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option OffsetY with value 0	
+[00:00:03]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_SETTINGS with value 1	
+[00:00:03]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_RIDER with value BLUE	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-462372013	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2629184121	
+[00:00:03]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option halloween_ornament with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option poop with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_food with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option interval with value 5	
+[00:00:03]: Overriding mod workshop-2629184121's option spoiled_food with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option guano with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option sketch with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option houndstooth with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option stinger with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_ornament_boss with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option custom with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_ornament with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option winter_ornament_light with value false	
+[00:00:03]: Overriding mod workshop-2629184121's option halloweencandy with value true	
+[00:00:03]: Overriding mod workshop-2629184121's option delay with value 200	
+[00:00:03]: Overriding mod workshop-2629184121's option rottenegg with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:03]: Overriding mod workshop-1595631294's option SaltBox with value false	
+[00:00:03]: Overriding mod workshop-1595631294's option BundleItems with value false	
+[00:00:03]: Overriding mod workshop-1595631294's option Digornot with value false	
+[00:00:03]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:03]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:03]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2373951100	
+[00:00:03]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:03]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerProtectionTime with value 30	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerMaxFuelTime with value 250	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerRecipe with value easy	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerWetPlayer with value 	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerTempReduction with value 5	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerRange with value 10	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerProtectionDist with value 2.25	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerFuelBonusMultiplier with value 5	
+[00:00:03]: Overriding mod workshop-2373951100's option SprinklerExtinguishHeatPercent with value -1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:03]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:03]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:03]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:03]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:03]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:03]: Overriding mod workshop-501385076's option quick_pick_cactus with value true	
+[00:00:03]: Overriding mod workshop-501385076's option quick_pick_plant_normal_ground with value true	
+[00:00:03]: Overriding mod workshop-501385076's option quick_cook_on_fire with value true	
+[00:00:03]: Overriding mod workshop-501385076's option quick_harvest with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1803285852	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupEnabled with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackMakeNewStackMainStack with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupRange with value 10	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackEnabled with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackMakeNewStackMainStack with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackTwiggyTreeTwigs with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option SmokePuffOnStacking with value true	
+[00:00:03]: Overriding mod workshop-1803285852's option StackDuringPopulation with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupSeeds with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option PlayerMustHaveOneOfItemToAutoPickup with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupAsh with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackSeeds with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackManuallyDroppedItems with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackAsh with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoPickupPoop with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualStackPoop with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option ManualDropStackRange with value 5	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackAsh with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackRange with value 20	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackSeeds with value false	
+[00:00:03]: Overriding mod workshop-1803285852's option AutoStackPoop with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1777789373	
+[00:00:03]: Overriding mod workshop-1777789373's option plantregrowth with value false	
+[00:00:03]: Overriding mod workshop-1777789373's option desolationspawner with value false	
+[00:00:03]: Overriding mod workshop-1777789373's option worldregrowth with value false	
+[00:00:03]: Overriding mod workshop-1777789373's option resourcerenewal with value false	
+[00:00:03]: Mod: workshop-1416161108 (Camp Security)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1416161108 (Camp Security)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1416161108 (Camp Security)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/data/strings.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/lib_fn.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/data/PlayerCache.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/controlpanel.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/friendlist.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/lockedcontainers.lua	
+[00:00:03]: modimport: ../mods/workshop-1416161108/scripts/patches/drop_everything.lua	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:03]: ShowMe version:	0.57	
+[00:00:03]: show_food_units	-1	-1	-1	
+[00:00:03]: show_uses	-1	-1	-1	
+[00:00:03]: Detected language for ShowMe: 	auto		
+[00:00:03]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modmain.lua	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Mod: workshop-2629184121 (Server Cleaner)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2629184121 (Server Cleaner)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2629184121 (Server Cleaner)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering Server mod namespace "workshop-1416161108"
+[00:00:04]: Registering Server mod namespace "showmeshint"
+[00:00:04]: Registering Server mod namespace "workshop-378160973"
+[00:00:04]: Registering Server mod namespace "showme"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-1416161108 (Camp Security)	Registering prefabs	
+[00:00:05]: Mod: workshop-1416161108 (Camp Security)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Registering prefabs	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rwys_sprinkler	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    sprinkler	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    reapwhatyousow_sprinkler_placer	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_spray	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
+[00:00:05]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
+[00:00:05]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:05]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
+[00:00:05]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
+[00:00:05]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
+[00:00:05]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
+[00:00:05]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
+[00:00:05]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (13135790080)
+[00:00:06]: FilesExistAsyncThread started (18788 files)...
+[00:00:06]: 	Load FE: done	
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 11196107 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: true
+[00:00:06]:   ServerPort: 11000
+[00:00:06]:   SteamAuthPort: 8768
+[00:00:06]:   SteamMasterServerPort: 27018
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   EncodeUserPath: true
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 10
+[00:00:06]:   GameMode: endless
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   IdleTimeout: 1800s
+[00:00:06]:   VoteEnabled: true
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]:   Intent: cooperative
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-462372013	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:06]: Online Server Started on port: 11000
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: Not applying level data overrides.	
+[00:00:07]: Not applying world gen overrides.	
+[00:00:07]: Collecting garbage...
+[00:00:07]: lua_gc took 0.05 seconds
+[00:00:07]: ~ShardLuaProxy()
+[00:00:07]: ~cEventLeaderboardProxy()
+[00:00:07]: ~ItemServerLuaProxy()
+[00:00:07]: ~InventoryLuaProxy()
+[00:00:07]: ~NetworkLuaProxy()
+[00:00:07]: ~SimLuaProxy()
+[00:00:07]: FilesExistAsyncThread aborted.
+[00:00:07]: ... FilesExistAsyncThread complete
+[00:00:07]: lua_close took 0.04 seconds
+[00:00:07]: ReleaseAll
+[00:00:07]: ReleaseAll Finished
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: AppVersion::GetArchitecture() x64
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]:   taskgrouplist:	default	Together	
+[00:00:07]:   taskgrouplist:	classic	Classic	
+[00:00:07]:   taskgrouplist:	cave_default	Underground	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:07]: running main.lua
 	
-[00:00:09]: loaded modindex	
-[00:00:09]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:09]: SUCCESS: Loaded modoverrides.lua	
-[00:00:09]: modoverrides.lua enabling workshop-928691537	
-[00:00:09]: modoverrides.lua enabling workshop-1416161108	
-[00:00:09]: modoverrides.lua enabling workshop-2477889104	
-[00:00:09]: modoverrides.lua enabling workshop-462372013	
-[00:00:09]: modoverrides.lua enabling workshop-2629184121	
-[00:00:09]: modoverrides.lua enabling workshop-466732225	
-[00:00:09]: modoverrides.lua enabling workshop-1595631294	
-[00:00:09]: modoverrides.lua enabling workshop-2373951100	
-[00:00:09]: modoverrides.lua enabling workshop-666155465	
-[00:00:09]: modoverrides.lua enabling workshop-501385076	
-[00:00:09]: modoverrides.lua enabling workshop-378160973	
-[00:00:09]: modoverrides.lua enabling workshop-1803285852	
-[00:00:09]: modoverrides.lua enabling workshop-1777789373	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
-[00:00:09]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
-[00:00:09]: Loading mod: workshop-2373951100 ([DST] [Configurable] Sprinkler) Version:1.3.5	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-501385076	
-[00:00:09]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-466732225	
-[00:00:09]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:09]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1777789373	
-[00:00:09]: Loading mod: workshop-1777789373 (Disable World Regrowth) Version:1	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-462372013	
-[00:00:09]: Loading mod: workshop-462372013 (Always fresh) Version:1.2	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-928691537	
-[00:00:09]: Loading mod: workshop-928691537 (Force Reed Trap Set Piece Generation) Version:1.0	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1803285852	
-[00:00:09]: Loading mod: workshop-1803285852 (Auto Stack and Pick Up) Version:0.1.9	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
-[00:00:09]: Loading mod: workshop-1416161108 (Camp Security) Version:22.8	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
-[00:00:09]: Loading mod: workshop-2477889104 (Beefalo Status Bar) Version:1.2.0	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-666155465	
-[00:00:09]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
-[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-2629184121	
-[00:00:09]: Loading mod: workshop-2629184121 (Server Cleaner) Version:1.1.1	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-928691537	
-[00:00:09]: Overriding mod workshop-928691537's option _REEDS_override with value 1	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1416161108	
-[00:00:09]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:09]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:09]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:09]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:09]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:09]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:09]: Overriding mod workshop-1416161108's option  with value 0	
-[00:00:09]: Overriding mod workshop-1416161108's option chester_protect with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option fire_protection with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option keybind_panel with value 108	
-[00:00:09]: Overriding mod workshop-1416161108's option building_burned_down with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option flingomatic_is_empty with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option language with value En	
-[00:00:09]: Overriding mod workshop-1416161108's option mob_broke with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option destruction_protection with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option destruction_punishment with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option destruction_warning with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option death_annonce with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option egg_deploy with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option test with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option beebox_radius with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option auto_add_to_list_drop with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option auto_add_to_list with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option fire_radius with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option firehound_propagator with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option warnings_count with value 5	
-[00:00:09]: Overriding mod workshop-1416161108's option punishmentTip with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option vote_kick_time with value 3600	
-[00:00:09]: Overriding mod workshop-1416161108's option builder_radius with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option dont_drop_when_died with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option starcaller with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option keybind_drop with value 106	
-[00:00:09]: Overriding mod workshop-1416161108's option read_radius with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option auto_del_from_list_drop with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option protect_wall with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option lavae_protect with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option keybind_friend with value 107	
-[00:00:09]: Overriding mod workshop-1416161108's option reeds_cactus with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option keybind_container with value 114	
-[00:00:09]: Overriding mod workshop-1416161108's option good_monsters with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option glommer_protect with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option flingomatic_improved with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option fire_warning with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option fire_vote with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option fire_punishment with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option auto_del_from_list with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option destruction_vote with value false	
-[00:00:09]: Overriding mod workshop-1416161108's option ban_time with value 1800	
-[00:00:09]: Overriding mod workshop-1416161108's option campfire_propagator with value false	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-2477889104	
-[00:00:09]: Overriding mod workshop-2477889104's option HEALTH_BADGE_CLEAR_BG with value false	
-[00:00:09]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_ORNERY with value ORANGE	
-[00:00:09]: Overriding mod workshop-2477889104's option OffsetYFine with value 0	
-[00:00:09]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_PUDGY with value PURPLE	
-[00:00:09]: Overriding mod workshop-2477889104's option ToggleKey with value KEY_T	
-[00:00:09]: Overriding mod workshop-2477889104's option ClientConfig with value false	
-[00:00:09]: Overriding mod workshop-2477889104's option BADGE_BG_OPACITY with value 100	
-[00:00:09]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_Y with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option ShowByDefault with value true	
-[00:00:09]: Overriding mod workshop-2477889104's option Scale with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option Theme with value TheForge	
-[00:00:09]: Overriding mod workshop-2477889104's option OffsetXMult with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_X with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_COLORS with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option SEPARATOR_GENERAL with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option COLOR_TIMER with value GREEN	
-[00:00:09]: Overriding mod workshop-2477889104's option COLOR_OBEDIENCE with value RED	
-[00:00:09]: Overriding mod workshop-2477889104's option GapModifier with value 0	
-[00:00:09]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_DEFAULT with value WHITE	
-[00:00:09]: Overriding mod workshop-2477889104's option OffsetYMult with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option HungerThreshold with value 10	
-[00:00:09]: Overriding mod workshop-2477889104's option BADGE_BG_BRIGHTNESS with value 60	
-[00:00:09]: Overriding mod workshop-2477889104's option OffsetXFine with value 0	
-[00:00:09]: Overriding mod workshop-2477889104's option EnableSounds with value false	
-[00:00:09]: Overriding mod workshop-2477889104's option OffsetX with value 0	
-[00:00:09]: Overriding mod workshop-2477889104's option OffsetY with value 0	
-[00:00:09]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_SETTINGS with value 1	
-[00:00:09]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_RIDER with value BLUE	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-462372013	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-2629184121	
-[00:00:09]: Overriding mod workshop-2629184121's option  with value false	
-[00:00:09]: Overriding mod workshop-2629184121's option  with value false	
-[00:00:09]: Overriding mod workshop-2629184121's option halloween_ornament with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option poop with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option winter_food with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option interval with value 5	
-[00:00:09]: Overriding mod workshop-2629184121's option spoiled_food with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option guano with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option sketch with value false	
-[00:00:09]: Overriding mod workshop-2629184121's option houndstooth with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option stinger with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option winter_ornament_boss with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option custom with value false	
-[00:00:09]: Overriding mod workshop-2629184121's option winter_ornament with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option winter_ornament_light with value false	
-[00:00:09]: Overriding mod workshop-2629184121's option halloweencandy with value true	
-[00:00:09]: Overriding mod workshop-2629184121's option delay with value 200	
-[00:00:09]: Overriding mod workshop-2629184121's option rottenegg with value false	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
-[00:00:09]: Overriding mod workshop-1595631294's option SaltBox with value false	
-[00:00:09]: Overriding mod workshop-1595631294's option BundleItems with value false	
-[00:00:09]: Overriding mod workshop-1595631294's option Digornot with value false	
-[00:00:09]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
-[00:00:09]: Overriding mod workshop-1595631294's option Icebox with value true	
-[00:00:09]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-2373951100	
-[00:00:09]: Overriding mod workshop-2373951100's option  with value 0	
-[00:00:09]: Overriding mod workshop-2373951100's option  with value 0	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerProtectionTime with value 30	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerMaxFuelTime with value 250	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerRecipe with value easy	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerWetPlayer with value 	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerTempReduction with value 5	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerRange with value 10	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerProtectionDist with value 2.25	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerFuelBonusMultiplier with value 5	
-[00:00:09]: Overriding mod workshop-2373951100's option SprinklerExtinguishHeatPercent with value -1	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:09]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:09]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:09]: Overriding mod workshop-666155465's option display_hp with value -1	
-[00:00:09]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:09]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:09]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:09]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:09]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:09]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:09]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:09]: Overriding mod workshop-501385076's option quick_pick_cactus with value true	
-[00:00:09]: Overriding mod workshop-501385076's option quick_pick_plant_normal_ground with value true	
-[00:00:09]: Overriding mod workshop-501385076's option quick_cook_on_fire with value true	
-[00:00:09]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
-[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1803285852	
-[00:00:09]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:09]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:09]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:09]: Overriding mod workshop-1803285852's option  with value 0	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoPickupEnabled with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option ManualStackMakeNewStackMainStack with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoPickupRange with value 10	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackEnabled with value true	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackMakeNewStackMainStack with value true	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackTwiggyTreeTwigs with value true	
-[00:00:09]: Overriding mod workshop-1803285852's option SmokePuffOnStacking with value true	
-[00:00:09]: Overriding mod workshop-1803285852's option StackDuringPopulation with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoPickupSeeds with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option PlayerMustHaveOneOfItemToAutoPickup with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoPickupAsh with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option ManualStackSeeds with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackManuallyDroppedItems with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option ManualStackAsh with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoPickupPoop with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option ManualStackPoop with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option ManualDropStackRange with value 5	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackAsh with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackRange with value 20	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackSeeds with value false	
-[00:00:09]: Overriding mod workshop-1803285852's option AutoStackPoop with value false	
-[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1777789373	
-[00:00:09]: Overriding mod workshop-1777789373's option plantregrowth with value false	
-[00:00:09]: Overriding mod workshop-1777789373's option desolationspawner with value false	
-[00:00:09]: Overriding mod workshop-1777789373's option worldregrowth with value false	
-[00:00:09]: Overriding mod workshop-1777789373's option resourcerenewal with value false	
-[00:00:09]: Mod: workshop-1416161108 (Camp Security)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-1416161108 (Camp Security)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-1416161108 (Camp Security)	Loading modmain.lua	
-[00:00:09]: modimport: ../mods/workshop-1416161108/data/strings.lua	
-[00:00:09]: modimport: ../mods/workshop-1416161108/lib_fn.lua	
-[00:00:09]: modimport: ../mods/workshop-1416161108/data/PlayerCache.lua	
-[00:00:09]: modimport: ../mods/workshop-1416161108/scripts/patches/controlpanel.lua	
-[00:00:09]: modimport: ../mods/workshop-1416161108/scripts/patches/friendlist.lua	
-[00:00:09]: modimport: ../mods/workshop-1416161108/scripts/patches/lockedcontainers.lua	
-[00:00:09]: modimport: ../mods/workshop-1416161108/scripts/patches/drop_everything.lua	
-[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
-[00:00:09]: ShowMe version:	0.57	
-[00:00:09]: show_food_units	-1	-1	-1	
-[00:00:09]: show_uses	-1	-1	-1	
-[00:00:09]: Detected language for ShowMe: 	auto		
-[00:00:09]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modmain.lua	
-[00:00:09]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
-[00:00:09]: Mod: workshop-2629184121 (Server Cleaner)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-2629184121 (Server Cleaner)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-2629184121 (Server Cleaner)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-1777789373 (Disable World Regrowth)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
-[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
-[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
-[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
-[00:00:09]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
-[00:00:09]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:09]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
-[00:00:11]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:12]: LOADING LUA SUCCESS
-[00:00:12]: Registering Server mod namespace "workshop-1416161108"
-[00:00:12]: Registering Server mod namespace "showmeshint"
-[00:00:12]: Registering Server mod namespace "workshop-378160973"
-[00:00:12]: Registering Server mod namespace "showme"
-[00:00:12]: PlayerDeaths could not load morgue	
-[00:00:12]: PlayerHistory could not load player_history	
-[00:00:12]: ServerPreferences could not load server_preferences	
-[00:00:12]: bloom_enabled	true	
-[00:00:12]: OnFilesLoaded()	
-[00:00:12]: OnUpdatePurchaseStateComplete	
-[00:00:12]: Loading world: session/2CE5390F4C1A6D30/0000000457	
-[00:00:12]: Save file is at version 5.09	
-[00:00:12]: Klump load on boot started.	
-[00:00:12]: Klump files loaded: 	0	
-[00:00:12]: 	Unload FE	
-[00:00:12]: 	Unload FE done	
-[00:00:16]: Mod: workshop-1416161108 (Camp Security)	Registering prefabs	
-[00:00:16]: Mod: workshop-1416161108 (Camp Security)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
-[00:00:16]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Registering prefabs	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rwys_sprinkler	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    sprinkler	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    reapwhatyousow_sprinkler_placer	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_spray	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
-[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
-[00:00:16]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
-[00:00:16]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
-[00:00:16]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
-[00:00:16]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
-[00:00:16]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
-[00:00:16]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
-[00:00:16]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
-[00:00:16]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:16]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
-[00:00:16]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
-[00:00:16]: 	LOAD BE	
-[00:00:22]: 	LOAD BE: done	
-[00:00:22]: Begin Session: 2CE5390F4C1A6D30
-[00:00:22]: saving to server_temp/server_save	
-[00:00:22]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:00:22]: Loading 18 new character(s)	
-[00:00:23]: Total 18 character(s) loaded	
-[00:00:23]: Loading Nav Grid	
-[00:00:23]: World generated on build 486838 with save version: 5.09, using seed: 1637556338	
-[00:00:23]: setting 	summerlength	15	
-[00:00:23]: setting 	cavemoonphase	quarter	
-[00:00:23]: setting 	iscavefullmoon	false	
-[00:00:23]: setting 	isnightmaredawn	false	
-[00:00:23]: setting 	elapseddaysinseason	2	
-[00:00:23]: setting 	isfullmoon	false	
-[00:00:23]: setting 	moisture	6012.955078125	
-[00:00:23]: setting 	cavephase	night	
-[00:00:23]: setting 	iscavewaxingmoon	true	
-[00:00:23]: setting 	isnightmarewild	false	
-[00:00:23]: setting 	nightmaretimeinphase	0	
-[00:00:23]: setting 	precipitationrate	0.54555118083954	
-[00:00:23]: setting 	iswet	false	
-[00:00:23]: setting 	isnewmoon	false	
-[00:00:23]: setting 	precipitation	snow	
-[00:00:23]: setting 	israining	false	
-[00:00:23]: setting 	isnightmarewarn	false	
-[00:00:23]: setting 	iswinter	true	
-[00:00:23]: setting 	season	winter	
-[00:00:23]: setting 	remainingdaysinseason	13	
-[00:00:23]: setting 	winterlength	15	
-[00:00:23]: setting 	iscaveday	false	
-[00:00:23]: setting 	moistureceil	7026.6733398438	
-[00:00:23]: setting 	isday	false	
-[00:00:23]: setting 	springlength	20	
-[00:00:23]: setting 	wetness	0	
-[00:00:23]: setting 	iscavedusk	false	
-[00:00:23]: setting 	isalterawake	false	
-[00:00:23]: setting 	isnightmarecalm	false	
-[00:00:23]: setting 	isnight	true	
-[00:00:23]: setting 	isdusk	false	
-[00:00:23]: setting 	isspring	false	
-[00:00:23]: setting 	isautumn	false	
-[00:00:23]: setting 	issnowing	true	
-[00:00:23]: setting 	iswaxingmoon	true	
-[00:00:23]: setting 	phase	night	
-[00:00:23]: setting 	snowlevel	0.33807146549225	
-[00:00:23]: setting 	issnowcovered	true	
-[00:00:23]: setting 	autumnlength	20	
-[00:00:23]: setting 	pop	1	
-[00:00:23]: setting 	nightmaretime	0	
-[00:00:23]: setting 	seasonprogress	0.13333333333333	
-[00:00:23]: setting 	moonphase	quarter	
-[00:00:23]: setting 	nightmarephase	none	
-[00:00:23]: setting 	cycles	442	
-[00:00:23]: setting 	timeinphase	0.20628423055013	
-[00:00:23]: setting 	iscavenight	true	
-[00:00:23]: setting 	iscavenewmoon	false	
-[00:00:23]: setting 	issummer	false	
-[00:00:23]: setting 	temperature	-6.8216265706067	
-[00:00:23]: setting 	time	0.75196382204692	
-[00:00:31]: Reconstructing topology	
-[00:00:31]: 	...Sorting points	
-[00:00:32]: 	...Sorting edges	
-[00:00:32]: 	...Connecting nodes	
-[00:00:32]: 	...Validating connections	
-[00:00:32]: 	...Housekeeping	
-[00:00:32]: 	...Done!	
-[00:00:32]: 1 uploads added to server. From server_temp
-[00:00:32]: About to start a shard with these settings:
-[00:00:32]:   ShardName: [SHDMASTER]
-[00:00:32]:   ShardID: 1
-[00:00:32]:   ShardRole: MASTER
-[00:00:32]:   MasterHost: (null)
-[00:00:32]:   MasterBind: 127.0.0.1
-[00:00:32]:   MasterPort: 10889
-[00:00:32]: [Shard] Starting master server
-[00:00:32]: [Shard] Shard server started on port: 10889
-[00:00:32]: Telling Client our new session identifier: 2CE5390F4C1A6D30
-[00:00:32]: Check for write access: TRUE
-[00:00:32]: Check for read access: TRUE
-[00:00:32]: Available disk space for save files: 11374736 MB
-[00:00:32]: ModIndex: Load sequence finished successfully.	
-[00:00:32]: Reset() returning
-[00:00:33]: Validating portal[2] <-> 3876562405[2] (inactive)	
-[00:00:33]: Validating portal[6] <-> 3876562405[6] (inactive)	
-[00:00:33]: Validating portal[5] <-> 3876562405[5] (inactive)	
-[00:00:33]: Validating portal[9] <-> 3876562405[9] (inactive)	
-[00:00:33]: Validating portal[8] <-> 3876562405[8] (inactive)	
-[00:00:33]: Retrofitting for Return Of Them: Turn of Tides - completed hermit house 1, 2, 3 friendship tasks.	
-[00:00:33]: Validating portal[4] <-> 3876562405[4] (inactive)	
-[00:00:33]: Validating portal[7] <-> 3876562405[7] (inactive)	
-[00:00:33]: Validating portal[3] <-> 3876562405[3] (inactive)	
-[00:00:33]: Validating portal[10] <-> 3876562405[10] (inactive)	
-[00:00:33]: Validating portal[1] <-> 3876562405[1] (inactive)	
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Could not find anim build FROMNUM
-[00:00:33]: Sim paused
-[00:00:36]: Best lobby region is aws/Sing (ping 67)
-[00:00:36]: Registering master server in Sing lobby
-[00:00:37]: [Shard] Secondary shar Caves(3876562405) connected: [LAN] 127.0.0.1
-[00:00:37]: [Shard] Secondary Caves(3876562405) ready!
-[00:00:37]: World 3876562405 is now connected	
-[00:00:37]: Validating portal[2] <-> 3876562405[2] (active)	
-[00:00:37]: Validating portal[6] <-> 3876562405[6] (active)	
-[00:00:37]: Validating portal[5] <-> 3876562405[5] (active)	
-[00:00:37]: Validating portal[9] <-> 3876562405[9] (active)	
-[00:00:37]: Validating portal[8] <-> 3876562405[8] (active)	
-[00:00:37]: Validating portal[4] <-> 3876562405[4] (active)	
-[00:00:37]: Validating portal[7] <-> 3876562405[7] (active)	
-[00:00:37]: Validating portal[3] <-> 3876562405[3] (disabled)	
-[00:00:37]: Validating portal[10] <-> 3876562405[10] (disabled)	
-[00:00:37]: Validating portal[1] <-> 3876562405[1] (active)	
-[00:00:46]: Registering master server in Sing lobby
-[00:01:33]: [P2P] Session request for '76561198124190713'
-[00:01:39]: [P2P] Create session: 225.44.28.1|1 '76561198124190713'
-[00:01:39]: [P2P] Received from 225.44.28.1|1 '76561198124190713'
-[00:01:39]: [P2P] Sent to 225.44.28.1|1 '76561198124190713'
-[00:01:40]: New incoming connection 225.44.28.1|1 <7670513185690160489>
-[00:01:40]: Client connected from 225.44.28.1|1 <7670513185690160489>
-[00:01:40]: ValidateGameSessionToken pgs-usc^KU_PPgpTBQq^DontStarveTogether^bP5TVheiSOru+Jvo8yT3Bbt7LbkGyFUpaTkqzH3yASM= for <7670513185690160489>
-[00:01:41]: Client authenticated: (KU_PPgpTBQq) Momun
-[00:01:42]: [Steam] SendUserConnectAndAuthenticate for '76561198124190713'
-[00:01:42]: [Steam] Authenticated client '76561198124190713'
-[00:01:44]: There is no active event to validate against.
-[00:01:44]: [Shard] Read save location file for (KU_PPgpTBQq)
-[00:01:46]: Registering master server in Sing lobby
-[00:02:17]: Resuming user: session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000457
-[00:02:17]: Spawning player at: [Load] (-179.10, 0.00, -92.52)	
-[00:02:17]: Sim unpaused
-[00:02:21]: Registering master server in Sing lobby
-[00:02:24]: A timer with the name 	salt	 already exists on 	102678 - beefalo	!	
-[00:02:30]: Could not find anim build FROMNUM
-[00:02:32]: Could not find anim build FROMNUM
-[00:02:34]: Could not find anim build FROMNUM
-[00:02:50]: Could not find anim build FROMNUM
-[00:02:52]: Could not find anim build FROMNUM
-[00:02:56]: Could not find anim build FROMNUM
-[00:02:57]: Could not find anim build FROMNUM
-[00:03:01]: Could not find anim build FROMNUM
-[00:03:02]: Could not find anim build FROMNUM
-[00:03:03]: Could not find anim build FROMNUM
-[00:03:05]: Could not find anim build FROMNUM
-[00:03:06]: Could not find anim build FROMNUM
-[00:03:08]: Could not find anim build FROMNUM
-[00:03:09]: Could not find anim build FROMNUM
-[00:03:10]: Could not find anim build FROMNUM
-[00:03:12]: Could not find anim build FROMNUM
-[00:03:13]: Could not find anim build FROMNUM
-[00:03:13]: [P2P] Session request for '76561198969291057'
-[00:03:14]: Could not find anim build FROMNUM
-[00:03:15]: Could not find anim build FROMNUM
-[00:03:16]: Could not find anim build FROMNUM
-[00:03:18]: [P2P] Create session: 225.44.28.2|1 '76561198969291057'
-[00:03:18]: [P2P] Received from 225.44.28.2|1 '76561198969291057'
-[00:03:18]: [P2P] Sent to 225.44.28.2|1 '76561198969291057'
-[00:03:19]: New incoming connection 225.44.28.2|1 <9098207478692846587>
-[00:03:19]: Client connected from 225.44.28.2|1 <9098207478692846587>
-[00:03:19]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^jSe/ci6em/CLdWKdlEhffXn+K58xphIJxp7N3+gATBk= for <9098207478692846587>
-[00:03:20]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
-[00:03:21]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
-[00:03:21]: [Steam] Authenticated client '76561198969291057'
-[00:03:23]: There is no active event to validate against.
-[00:03:23]: [Shard] Read save location file for (KU_0vPtVqpO)
-[00:03:23]: Registering master server in Sing lobby
-[00:04:17]: Available disk space for save files: 11373105 MB
-[00:04:18]: Serializing user: session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000458
-[00:04:18]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[00:04:18]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[00:04:18]: Serializing world: session/2CE5390F4C1A6D30/0000000458
-[00:04:23]: Registering master server in Sing lobby
-[00:04:49]: Could not find anim build FROMNUM
-[00:05:01]: Resuming user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000457
-[00:05:01]: Spawning player at: [Load] (-182.51, 0.00, -96.58)	
-[00:05:01]: Registering master server in Sing lobby
-[00:05:54]: Could not find anim build FROMNUM
-[00:05:59]: Could not find anim build FROMNUM
-[00:06:00]: Could not find anim build FROMNUM
-[00:06:01]: Could not find anim build FROMNUM
-[00:06:03]: Could not find anim build FROMNUM
-[00:06:04]: Could not find anim build FROMNUM
-[00:06:06]: Could not find anim build FROMNUM
-[00:06:06]: [Steam] SendUserDisconnect for '76561198969291057'
-[00:06:06]: Connection lost to 225.44.28.2|1 <9098207478692846587>
-[00:06:06]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
-[00:06:06]: Registering master server in Sing lobby
-[00:06:06]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000459
-[00:06:06]: Could not find anim build FROMNUM
-[00:06:08]: Could not find anim build FROMNUM
-[00:06:09]: Could not find anim build FROMNUM
-[00:06:10]: Could not find anim build FROMNUM
-[00:06:12]: Could not find anim build FROMNUM
-[00:06:15]: Could not find anim build FROMNUM
-[00:06:17]: Could not find anim build FROMNUM
-[00:06:18]: Could not find anim build FROMNUM
-[00:06:20]: Could not find anim build FROMNUM
-[00:06:22]: Could not find anim build FROMNUM
-[00:06:24]: Could not find anim build FROMNUM
-[00:06:25]: Could not find anim build FROMNUM
-[00:06:26]: Could not find anim build FROMNUM
-[00:06:28]: Could not find anim build FROMNUM
-[00:06:33]: Could not find anim build FROMNUM
-[00:06:38]: [P2P] Received from 225.44.28.2|1 '76561198969291057'
-[00:06:39]: Could not find anim build FROMNUM
-[00:07:54]: [P2P] Received from 225.44.28.2|1 '76561198969291057'
-[00:07:54]: [P2P] Sent to 225.44.28.2|1 '76561198969291057'
-[00:07:55]: New incoming connection 225.44.28.2|1 <4287463585339133533>
-[00:07:55]: Client connected from 225.44.28.2|1 <4287463585339133533>
-[00:07:55]: ValidateGameSessionToken pgs-usc^KU_0vPtVqpO^DontStarveTogether^FmIEGZt86Xmz7Sq4GdCjErZayJRDQeeJ0qZLp763sto= for <4287463585339133533>
-[00:07:56]: Client authenticated: (KU_0vPtVqpO) 󰀉Potato󰀉
-[00:07:56]: [Steam] SendUserConnectAndAuthenticate for '76561198969291057'
-[00:07:57]: [Steam] Authenticated client '76561198969291057'
-[00:07:59]: There is no active event to validate against.
-[00:07:59]: [Shard] Read save location file for (KU_0vPtVqpO)
-[00:07:59]: Registering master server in Sing lobby
-[00:08:20]: Could not find anim build FROMNUM
-[00:08:41]: Could not find anim build FROMNUM
-[00:09:02]: Resuming user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000459
-[00:09:03]: Spawning player at: [Load] (-213.85, 0.00, -125.53)	
-[00:09:03]: Registering master server in Sing lobby
-[00:09:32]: Could not find anim build FROMNUM
-[00:09:33]: Could not find anim build FROMNUM
-[00:09:34]: Could not find anim build FROMNUM
-[00:09:44]: Could not find anim build FROMNUM
-[00:09:52]: Could not find anim build FROMNUM
-[00:10:11]: Could not find anim build FROMNUM
-[00:10:12]: Could not find anim build FROMNUM
-[00:11:16]: Could not find anim build FROMNUM
-[00:11:27]: Could not find anim build FROMNUM
-[00:11:30]: Could not find anim build FROMNUM
-[00:11:31]: Could not find anim build FROMNUM
-[00:11:33]: Could not find anim build FROMNUM
-[00:11:34]: Could not find anim build FROMNUM
-[00:11:50]: Could not find anim build FROMNUM
-[00:12:17]: Registering master server in Sing lobby
-[00:12:18]: Available disk space for save files: 11373594 MB
-[00:12:18]: Serializing user: session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000459
-[00:12:18]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000459
-[00:12:18]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[00:12:18]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[00:12:18]: Serializing world: session/2CE5390F4C1A6D30/0000000459
-[00:12:24]: [Steam] SendUserDisconnect for '76561198969291057'
-[00:12:24]: Connection lost to 225.44.28.2|1 <4287463585339133533>
-[00:12:24]: [Shard] (KU_0vPtVqpO) disconnected from [SHDMASTER](1)
-[00:12:25]: Serializing user: session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000460
-[00:12:27]: Registering master server in Sing lobby
-[00:12:41]: [P2P] Received from 225.44.28.2|1 '76561198969291057'
-[00:13:06]: [P2P] Session request for '76561198860811263'
-[00:13:11]: [P2P] Create session: 225.44.28.3|1 '76561198860811263'
-[00:13:11]: [P2P] Received from 225.44.28.3|1 '76561198860811263'
-[00:13:11]: [P2P] Sent to 225.44.28.3|1 '76561198860811263'
-[00:13:11]: New incoming connection 225.44.28.3|1 <6525508402380478700>
-[00:13:11]: Client connected from 225.44.28.3|1 <6525508402380478700>
-[00:13:11]: ValidateGameSessionToken pgs-usc^KU_hjXTct1p^DontStarveTogether^CNBC0/jsi8sUKkD9KS++J5bPV6E8PKEnK/0DwvQ2nn4= for <6525508402380478700>
-[00:13:12]: Client authenticated: (KU_hjXTct1p) UTD
-[00:13:12]: [Steam] SendUserConnectAndAuthenticate for '76561198860811263'
-[00:13:12]: [Steam] Authenticated client '76561198860811263'
-[00:13:14]: There is no active event to validate against.
-[00:13:14]: [Shard] Read save location file for (KU_hjXTct1p)
-[00:13:14]: Registering master server in Sing lobby
-[00:13:52]: [Steam] SendUserDisconnect for '76561198124190713'
-[00:13:52]: Connection lost to 225.44.28.1|1 <7670513185690160489>
-[00:13:52]: [Shard] (KU_PPgpTBQq) disconnected from [SHDMASTER](1)
-[00:13:52]: Registering master server in Sing lobby
-[00:13:52]: Serializing user: session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000460
-[00:13:52]: Sim paused
-[00:13:58]: [P2P] Session request for '76561198976383126'
-[00:14:01]: [P2P] Create session: 225.44.28.4|1 '76561198976383126'
-[00:14:01]: [P2P] Received from 225.44.28.4|1 '76561198976383126'
-[00:14:01]: [P2P] Sent to 225.44.28.4|1 '76561198976383126'
-[00:14:02]: New incoming connection 225.44.28.4|1 <7035776779745172705>
-[00:14:02]: Client connected from 225.44.28.4|1 <7035776779745172705>
-[00:14:02]: ValidateGameSessionToken pgs-usc^KU_2duLJbwr^DontStarveTogether^QT7ZAevkNb+JJhzB02mBoesZwyF8BGhF0HExYv+FggM= for <7035776779745172705>
-[00:14:03]: Client authenticated: (KU_2duLJbwr) 󰀉Rosé󰀈
-[00:14:03]: [Steam] SendUserConnectAndAuthenticate for '76561198976383126'
-[00:14:04]: [Steam] Authenticated client '76561198976383126'
-[00:14:05]: There is no active event to validate against.
-[00:14:05]: [Shard] Read save location file for (KU_2duLJbwr)
-[00:14:05]: Registering master server in Sing lobby
-[00:14:30]: Resuming user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000442
-[00:14:30]: Spawning player at: [Load] (-181.19, 0.00, -112.63)	
-[00:14:30]: Sim unpaused
-[00:14:30]: Registering master server in Sing lobby
-[00:14:31]: [P2P] Connection failed for '76561198124190713'
-[00:14:42]: Resuming user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000456
-[00:14:42]: Spawning player at: [Load] (-189.60, 0.00, -121.73)	
-[00:14:42]: Registering master server in Sing lobby
-[00:14:52]: Could not find anim build FROMNUM
-[00:15:02]: Could not find anim build FROMNUM
-[00:15:11]: Could not find anim build FROMNUM
-[00:15:16]: Could not find anim build FROMNUM
-[00:15:23]: Could not find anim [dismount] in bank [wilson]
-[00:15:35]: Could not find anim build FROMNUM
-[00:16:04]: Could not find anim build FROMNUM
-[00:16:04]: Could not find anim [dismount] in bank [wilson]
-[00:17:31]: Could not find anim [dismount] in bank [wilson]
-[00:17:34]: Could not find anim [dismount] in bank [wilson]
-[00:17:58]: Could not find anim [dismount] in bank [wilson]
-[00:18:00]: Could not find anim build FROMNUM
-[00:18:01]: Could not find anim build FROMNUM
-[00:18:06]: Could not find anim build FROMNUM
-[00:18:14]: Could not find anim build FROMNUM
-[00:18:14]: Could not find anim build FROMNUM
-[00:18:19]: Could not find anim [dismount] in bank [wilson]
-[00:18:22]: Could not find anim build FROMNUM
-[00:18:23]: Could not find anim build FROMNUM
-[00:18:24]: Could not find anim build FROMNUM
-[00:18:25]: Could not find anim build FROMNUM
-[00:18:25]: Could not find anim build FROMNUM
-[00:18:26]: Could not find anim build FROMNUM
-[00:18:28]: Could not find anim build FROMNUM
-[00:18:35]: Could not find anim [dismount] in bank [wilson]
-[00:18:57]: Could not find anim build FROMNUM
-[00:19:06]: Could not find anim build FROMNUM
-[00:19:09]: Could not find anim build FROMNUM
-[00:19:13]: Could not find anim build FROMNUM
-[00:19:19]: Could not find anim build FROMNUM
-[00:19:20]: Could not find anim build FROMNUM
-[00:19:24]: Could not find anim build FROMNUM
-[00:19:31]: Could not find anim build FROMNUM
-[00:19:36]: Could not find anim build FROMNUM
-[00:19:49]: Could not find anim [dismount] in bank [wilson]
-[00:19:52]: Could not find anim build FROMNUM
-[00:20:36]: Could not find anim [dismount] in bank [wilson]
-[00:20:55]: Registering master server in Sing lobby
-[00:20:56]: Available disk space for save files: 11113324 MB
-[00:20:56]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000460
-[00:20:56]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000460
-[00:20:56]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[00:20:56]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[00:20:56]: Missing reference:	123677 - beef_bell	->	123679	123679 - beefalo	
-[00:20:57]: Serializing world: session/2CE5390F4C1A6D30/0000000460
-[00:22:34]: Could not find anim [dismount] in bank [wilson]
-[00:22:45]: Could not find anim [dismount] in bank [wilson]
-[00:22:48]: Could not find anim build FROMNUM
-[00:22:49]: [P2P] Session timed out for '76561198969291057'
-[00:22:49]: [P2P] Remove session: 225.44.28.2|1 '76561198969291057'
-[00:23:00]: Could not find anim [dismount] in bank [wilson]
-[00:23:07]: Could not find anim build FROMNUM
-[00:23:16]: Could not find anim build FROMNUM
-[00:23:29]: Could not find anim [dismount] in bank [wilson]
-[00:23:51]: [P2P] Session timed out for '76561198124190713'
-[00:23:51]: [P2P] Remove session: 225.44.28.1|1 '76561198124190713'
-[00:24:10]: Could not find anim build FROMNUM
-[00:24:13]: Could not find anim build FROMNUM
-[00:24:17]: Could not find anim build FROMNUM
-[00:24:21]: Could not find anim build FROMNUM
-[00:24:29]: Could not find anim build FROMNUM
-[00:24:34]: Could not find anim build FROMNUM
-[00:24:38]: Could not find anim build FROMNUM
-[00:24:52]: Could not find anim build FROMNUM
-[00:24:58]: Could not find anim build FROMNUM
-[00:25:02]: Could not find anim [dismount] in bank [wilson]
-[00:25:05]: Could not find anim build FROMNUM
-[00:25:06]: Could not find anim [dismount] in bank [wilson]
-[00:25:06]: Could not find anim build FROMNUM
-[00:25:09]: Could not find anim build FROMNUM
-[00:25:13]: Could not find anim build FROMNUM
-[00:25:14]: Could not find anim build FROMNUM
-[00:25:17]: Could not find anim build FROMNUM
-[00:25:23]: Could not find anim [dismount] in bank [wilson]
-[00:25:30]: Could not find anim build FROMNUM
-[00:25:31]: Could not find anim build FROMNUM
-[00:25:39]: Could not find anim build FROMNUM
-[00:25:39]: Could not find anim build FROMNUM
-[00:25:40]: Could not find anim build FROMNUM
-[00:25:41]: Could not find anim build FROMNUM
-[00:25:42]: Could not find anim build FROMNUM
-[00:25:42]: Could not find anim build FROMNUM
-[00:25:43]: Could not find anim build FROMNUM
-[00:25:46]: Could not find anim build FROMNUM
-[00:25:47]: Could not find anim build FROMNUM
-[00:25:48]: Could not find anim build FROMNUM
-[00:25:49]: Could not find anim build FROMNUM
-[00:25:54]: Could not find anim build FROMNUM
-[00:28:23]: Could not find anim [dismount] in bank [wilson]
-[00:28:34]: Could not find anim build FROMNUM
-[00:28:39]: Could not find anim build FROMNUM
-[00:28:45]: Could not find anim build FROMNUM
-[00:28:57]: Available disk space for save files: 11109495 MB
-[00:28:57]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000461
-[00:28:57]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000461
-[00:28:57]: Missing reference:	123677 - beef_bell	->	123679	123679 - beefalo	
-[00:28:57]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[00:28:57]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[00:28:57]: Serializing world: session/2CE5390F4C1A6D30/0000000461
-[00:29:00]: Registering master server in Sing lobby
-[00:29:00]: Could not find anim build FROMNUM
-[00:29:08]: Could not find anim build FROMNUM
-[00:29:25]: Could not find anim build FROMNUM
-[00:29:28]: Could not find anim build FROMNUM
-[00:29:33]: Could not find anim build FROMNUM
-[00:29:38]: Could not find anim build FROMNUM
-[00:29:57]: Could not find anim build FROMNUM
-[00:30:06]: Could not find anim build FROMNUM
-[00:30:08]: [200] Account Communication Success (6)
-[00:30:08]: Received (KU_hjXTctx_) from TokenPurpose
-[00:30:10]: Could not find anim build FROMNUM
-[00:30:34]: Could not find anim build FROMNUM
-[00:32:03]: Could not find anim build FROMNUM
-[00:32:16]: Could not find anim build FROMNUM
-[00:32:17]: Could not find anim build FROMNUM
-[00:34:11]: Could not find anim [FROMNUM] in bank [eyeofterror]
-[00:34:11]: Could not find anim [FROMNUM] in bank [eyeofterror]
-[00:36:53]: Could not find anim [death_wanda] in bank [ghost]
-[00:36:53]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000462
-[00:36:57]: Available disk space for save files: 11112465 MB
-[00:36:58]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000462
-[00:36:58]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000462
-[00:36:58]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[00:36:58]: Missing reference:	123677 - beef_bell	->	123679	123679 - beefalo	
-[00:36:58]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[00:36:58]: Missing reference:	123781 - beef_bell	->	123783	123783 - beefalo	
-[00:36:58]: Serializing world: session/2CE5390F4C1A6D30/0000000462
-[00:36:59]: Could not find anim [idle_loop] in bank [ghost]
-[00:37:03]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000463
-[00:37:06]: Registering master server in Sing lobby
-[00:38:30]: Could not find anim build FROMNUM
-[00:38:40]: Could not find anim build FROMNUM
-[00:38:45]: Could not find anim build FROMNUM
-[00:38:50]: Could not find anim build FROMNUM
-[00:38:51]: Could not find anim build FROMNUM
-[00:38:54]: Could not find anim build FROMNUM
-[00:39:01]: Could not find anim build FROMNUM
-[00:39:02]: Could not find anim build FROMNUM
-[00:39:08]: Could not find anim build FROMNUM
-[00:39:14]: Could not find anim build FROMNUM
-[00:39:15]: Could not find anim build FROMNUM
-[00:39:15]: Could not find anim build FROMNUM
-[00:39:18]: Could not find anim build FROMNUM
-[00:39:20]: Could not find anim build FROMNUM
-[00:39:22]: Could not find anim build FROMNUM
-[00:39:24]: Could not find anim build FROMNUM
-[00:39:27]: Could not find anim build FROMNUM
-[00:39:35]: Could not find anim build FROMNUM
-[00:39:41]: Could not find anim build FROMNUM
-[00:42:34]: Could not find anim [death_wanda] in bank [ghost]
-[00:42:34]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000463
-[00:42:41]: Could not find anim [idle_loop] in bank [ghost]
-[00:42:44]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000463
-[00:42:58]: Could not find anim [death_wanda] in bank [ghost]
-[00:42:58]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000463
-[00:43:56]: Could not find anim [idle_loop] in bank [ghost]
-[00:43:58]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000463
-[00:44:57]: Registering master server in Sing lobby
-[00:44:58]: Available disk space for save files: 11109163 MB
-[00:44:58]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000463
-[00:44:58]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000463
-[00:44:58]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[00:44:58]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[00:44:58]: Missing reference:	123677 - beef_bell	->	123679	123679 - beefalo	
-[00:44:58]: Missing reference:	111847 - terrarium	->	132234	nil	
-[00:44:59]: Serializing world: session/2CE5390F4C1A6D30/0000000463
-[00:45:21]: Could not find anim [dismount] in bank [wilson]
-[00:45:28]: Could not find anim build FROMNUM
-[00:45:32]: Could not find anim build FROMNUM
-[00:45:39]: Could not find anim build FROMNUM
-[00:45:41]: Could not find anim build FROMNUM
-[00:45:48]: Could not find anim build FROMNUM
-[00:45:51]: Could not find anim build FROMNUM
-[00:45:59]: Could not find anim build FROMNUM
-[00:46:07]: Could not find anim build FROMNUM
-[00:46:27]: Could not find anim build FROMNUM
-[00:46:55]: Could not find anim [dismount] in bank [wilson]
-[00:47:00]: Could not find anim build FROMNUM
-[00:47:15]: Could not find anim build FROMNUM
-[00:47:16]: Could not find anim build FROMNUM
-[00:47:17]: Could not find anim build FROMNUM
-[00:47:24]: Could not find anim build FROMNUM
-[00:47:25]: Could not find anim build FROMNUM
-[00:47:28]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(local player = UserToPlayer('KU_hjXTct1p') if player == nil then UserToPlayer("KU_hjXTct1p").components.talker:Say("Command not work because the player isn't in the same world with you!") end local function onturnon(inst) if inst._stage == 3 then if inst.AnimState:IsCurrentAnimation("proximity_pre") or inst.AnimState:IsCurrentAnimation("proximity_loop") or inst.AnimState:IsCurrentAnimation("place3") then inst.AnimState:PushAnimation("proximity_pre") else inst.AnimState:PlayAnimation("proximity_pre") end inst.AnimState:PushAnimation("proximity_loop", true) end end local function onturnoff(inst) if inst._stage == 3 then inst.AnimState:PlayAnimation("proximity_pst") inst.AnimState:PushAnimation("idle3", false) end end if player ~= nil and player.Transform then	if "wormlight" == "klaus" then	local pos = player:GetPosition() local minplayers = math.huge local spawnx, spawnz FindWalkableOffset(pos,	math.random() * 2 * PI, 33, 16, true, true, function(pt) local count = #FindPlayersInRangeSq(pt.x, pt.y, pt.z, 625) if count < minplayers then minplayers = count spawnx, spawnz = pt.x, pt.z return count <= 0 end return false end) if spawnx == nil then local offset = FindWalkableOffset(pos, math.random() * 2 * PI, 3, 8, false, true) if offset ~= nil then spawnx, spawnz = pos.x + offset.x, pos.z + offset.z end end local klaus = SpawnPrefab("klaus") klaus.Transform:SetPosition(spawnx or pos.x, 0, spawnz or pos.z) klaus:SpawnDeer() klaus.components.knownlocations:RememberLocation("spawnpoint", pos, false) klaus.components.spawnfader:FadeIn() else local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab("wormlight", "wormlight", nil, "KU_hjXTct1p") if inst ~= nil and inst.components then	if inst.components.skinner ~= nil and IsRestrictedCharacter(inst.prefab) then inst.components.skinner:SetSkinMode("normal_skin") end if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end	else inst.Transform:SetPosition(x,y,z) if "wormlight" == "deciduoustree" then inst:StartMonster(true) end end if not inst.components.health then if inst.components.perishable then inst.components.perishable:SetPercent(1)	end	if inst.components.finiteuses then inst.components.finiteuses:SetPercent(1) end if inst.components.fueled then inst.components.fueled:SetPercent(1) end if inst.components.temperature then	inst.components.temperature:SetTemperature(25) end if 1 ~= 1 and inst.components.follower then inst.components.follower:SetLeader(player) end if "wormlight" == "moon_altar" then inst._stage =3 inst.AnimState:PlayAnimation("idle3")	inst:AddComponent("prototyper") inst.components.prototyper.trees = TUNING.PROTOTYPER_TREES.MOON_ALTAR_FULL inst.components.prototyper.onturnon = onturnon inst.components.prototyper.onturnoff = onturnoff inst.components.lootdropper:SetLoot({ "moon_altar_idol", "moon_altar_glass", "moon_altar_seed" }) end	end	end end	end	end) @(-209.59, -120.62)
-[00:47:30]: Could not find anim build FROMNUM
-[00:47:31]: Could not find anim build FROMNUM
-[00:47:38]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(local player = UserToPlayer('KU_hjXTct1p') if player == nil then UserToPlayer("KU_hjXTct1p").components.talker:Say("Command not work because the player isn't in the same world with you!") end local function onturnon(inst) if inst._stage == 3 then if inst.AnimState:IsCurrentAnimation("proximity_pre") or inst.AnimState:IsCurrentAnimation("proximity_loop") or inst.AnimState:IsCurrentAnimation("place3") then inst.AnimState:PushAnimation("proximity_pre") else inst.AnimState:PlayAnimation("proximity_pre") end inst.AnimState:PushAnimation("proximity_loop", true) end end local function onturnoff(inst) if inst._stage == 3 then inst.AnimState:PlayAnimation("proximity_pst") inst.AnimState:PushAnimation("idle3", false) end end if player ~= nil and player.Transform then	if "wormlight" == "klaus" then	local pos = player:GetPosition() local minplayers = math.huge local spawnx, spawnz FindWalkableOffset(pos,	math.random() * 2 * PI, 33, 16, true, true, function(pt) local count = #FindPlayersInRangeSq(pt.x, pt.y, pt.z, 625) if count < minplayers then minplayers = count spawnx, spawnz = pt.x, pt.z return count <= 0 end return false end) if spawnx == nil then local offset = FindWalkableOffset(pos, math.random() * 2 * PI, 3, 8, false, true) if offset ~= nil then spawnx, spawnz = pos.x + offset.x, pos.z + offset.z end end local klaus = SpawnPrefab("klaus") klaus.Transform:SetPosition(spawnx or pos.x, 0, spawnz or pos.z) klaus:SpawnDeer() klaus.components.knownlocations:RememberLocation("spawnpoint", pos, false) klaus.components.spawnfader:FadeIn() else local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab("wormlight", "wormlight", nil, "KU_hjXTct1p") if inst ~= nil and inst.components then	if inst.components.skinner ~= nil and IsRestrictedCharacter(inst.prefab) then inst.components.skinner:SetSkinMode("normal_skin") end if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end	else inst.Transform:SetPosition(x,y,z) if "wormlight" == "deciduoustree" then inst:StartMonster(true) end end if not inst.components.health then if inst.components.perishable then inst.components.perishable:SetPercent(1)	end	if inst.components.finiteuses then inst.components.finiteuses:SetPercent(1) end if inst.components.fueled then inst.components.fueled:SetPercent(1) end if inst.components.temperature then	inst.components.temperature:SetTemperature(25) end if 1 ~= 1 and inst.components.follower then inst.components.follower:SetLeader(player) end if "wormlight" == "moon_altar" then inst._stage =3 inst.AnimState:PlayAnimation("idle3")	inst:AddComponent("prototyper") inst.components.prototyper.trees = TUNING.PROTOTYPER_TREES.MOON_ALTAR_FULL inst.components.prototyper.onturnon = onturnon inst.components.prototyper.onturnoff = onturnoff inst.components.lootdropper:SetLoot({ "moon_altar_idol", "moon_altar_glass", "moon_altar_seed" }) end	end	end end	end	end) @(-206.68, -121.85)
-[00:47:45]: [(KU_2duLJbwr) 󰀉Rosé󰀈] ReceiveRemoteExecute() @(-203.07, -118.86)
-[00:47:46]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(local player = UserToPlayer('KU_hjXTct1p') if player == nil then UserToPlayer("KU_hjXTct1p").components.talker:Say("Command not work because the player isn't in the same world with you!") end local function onturnon(inst) if inst._stage == 3 then if inst.AnimState:IsCurrentAnimation("proximity_pre") or inst.AnimState:IsCurrentAnimation("proximity_loop") or inst.AnimState:IsCurrentAnimation("place3") then inst.AnimState:PushAnimation("proximity_pre") else inst.AnimState:PlayAnimation("proximity_pre") end inst.AnimState:PushAnimation("proximity_loop", true) end end local function onturnoff(inst) if inst._stage == 3 then inst.AnimState:PlayAnimation("proximity_pst") inst.AnimState:PushAnimation("idle3", false) end end if player ~= nil and player.Transform then	if "wormlight" == "klaus" then	local pos = player:GetPosition() local minplayers = math.huge local spawnx, spawnz FindWalkableOffset(pos,	math.random() * 2 * PI, 33, 16, true, true, function(pt) local count = #FindPlayersInRangeSq(pt.x, pt.y, pt.z, 625) if count < minplayers then minplayers = count spawnx, spawnz = pt.x, pt.z return count <= 0 end return false end) if spawnx == nil then local offset = FindWalkableOffset(pos, math.random() * 2 * PI, 3, 8, false, true) if offset ~= nil then spawnx, spawnz = pos.x + offset.x, pos.z + offset.z end end local klaus = SpawnPrefab("klaus") klaus.Transform:SetPosition(spawnx or pos.x, 0, spawnz or pos.z) klaus:SpawnDeer() klaus.components.knownlocations:RememberLocation("spawnpoint", pos, false) klaus.components.spawnfader:FadeIn() else local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab("wormlight", "wormlight", nil, "KU_hjXTct1p") if inst ~= nil and inst.components then	if inst.components.skinner ~= nil and IsRestrictedCharacter(inst.prefab) then inst.components.skinner:SetSkinMode("normal_skin") end if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end	else inst.Transform:SetPosition(x,y,z) if "wormlight" == "deciduoustree" then inst:StartMonster(true) end end if not inst.components.health then if inst.components.perishable then inst.components.perishable:SetPercent(1)	end	if inst.components.finiteuses then inst.components.finiteuses:SetPercent(1) end if inst.components.fueled then inst.components.fueled:SetPercent(1) end if inst.components.temperature then	inst.components.temperature:SetTemperature(25) end if 1 ~= 1 and inst.components.follower then inst.components.follower:SetLeader(player) end if "wormlight" == "moon_altar" then inst._stage =3 inst.AnimState:PlayAnimation("idle3")	inst:AddComponent("prototyper") inst.components.prototyper.trees = TUNING.PROTOTYPER_TREES.MOON_ALTAR_FULL inst.components.prototyper.onturnon = onturnon inst.components.prototyper.onturnoff = onturnoff inst.components.lootdropper:SetLoot({ "moon_altar_idol", "moon_altar_glass", "moon_altar_seed" }) end	end	end end	end	end) @(-204.09, -119.41)
-[00:47:59]: Could not find anim build FROMNUM
-[00:48:00]: Could not find anim build FROMNUM
-[00:48:09]: Could not find anim build FROMNUM
-[00:48:11]: Could not find anim build FROMNUM
-[00:48:16]: Could not find anim build FROMNUM
-[00:48:29]: Could not find anim build FROMNUM
-[00:48:38]: Could not find anim build FROMNUM
-[00:49:32]: Could not find anim build FROMNUM
-[00:49:37]: Could not find anim build FROMNUM
-[00:50:05]: Could not find anim build FROMNUM
-[00:50:12]: Could not find anim build FROMNUM
-[00:50:16]: Could not find anim build FROMNUM
-[00:50:17]: Could not find anim build FROMNUM
-[00:50:20]: Could not find anim build FROMNUM
-[00:50:22]: Could not find anim build FROMNUM
-[00:50:24]: Could not find anim build FROMNUM
-[00:50:25]: Could not find anim build FROMNUM
-[00:51:05]: Could not find anim build FROMNUM
-[00:51:06]: Could not find anim build FROMNUM
-[00:51:14]: Could not find anim build FROMNUM
-[00:51:18]: Could not find anim build FROMNUM
-[00:51:24]: Could not find anim build FROMNUM
-[00:51:25]: Could not find anim build FROMNUM
-[00:51:33]: Could not find anim build FROMNUM
-[00:51:41]: Could not find anim build FROMNUM
-[00:51:54]: Could not find anim build FROMNUM
-[00:51:56]: Could not find anim build FROMNUM
-[00:52:19]: Could not find anim build FROMNUM
-[00:52:34]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute() @(-182.74, -103.22)
-[00:52:59]: Available disk space for save files: 11111459 MB
-[00:52:59]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000464
-[00:52:59]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000464
-[00:52:59]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[00:52:59]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[00:52:59]: Missing reference:	123677 - beef_bell	->	123679	123679 - beefalo	
-[00:52:59]: Missing reference:	111847 - terrarium	->	132234	nil	
-[00:52:59]: Serializing world: session/2CE5390F4C1A6D30/0000000464
-[00:53:02]: Registering master server in Sing lobby
-[00:53:16]: Could not find anim build FROMNUM
-[00:53:22]: Could not find anim build FROMNUM
-[00:53:25]: Could not find anim build FROMNUM
-[00:53:26]: Could not find anim build FROMNUM
-[00:53:26]: Could not find anim build FROMNUM
-[00:53:31]: Could not find anim build FROMNUM
-[00:53:32]: Could not find anim build FROMNUM
-[00:53:40]: Could not find anim build FROMNUM
-[00:53:46]: Could not find anim build FROMNUM
-[00:53:53]: Could not find anim build FROMNUM
-[00:54:39]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute() @(-181.22, -112.88)
-[00:55:05]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(c_gonext"hermitcrab") @(-205.39, -107.18)
-[00:55:05]: Finding a 	hermitcrab	
-[00:55:05]: Found 103772 (1/1)	
-[00:55:11]: Could not find anim [dismount] in bank [wilson]
-[00:55:19]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(local player = LookupPlayerInstByUserID('KU_2duLJbwr') if player then if ThePlayer.Physics then ThePlayer.Physics:Teleport(player.Transform:GetWorldPosition()) else ThePlayer.Transform:SetPosition(player.Transform:GetWorldPosition()) end else local cave = GetClosestInstWithTag('migrator', ThePlayer, 1000) c_goto(cave) end) @(706.13, -426.38)
-[00:55:40]: Could not find anim [dismount] in bank [wilson]
-[00:56:20]: Could not find anim [dismount] in bank [wilson]
-[00:56:27]: Could not find anim build FROMNUM
-[00:56:44]: Could not find anim [dismount] in bank [wilson]
-[00:59:28]: Could not find anim [dismount] in bank [wilson]
-[00:59:29]: Could not find anim [dismount] in bank [wilson]
-[00:59:37]: Could not find anim build FROMNUM
-[00:59:41]: Could not find anim build FROMNUM
-[01:00:08]: [200] Account Communication Success (6)
-[01:00:08]: Received (KU_hjXTctx_) from TokenPurpose
-[01:00:19]: Could not find anim build FROMNUM
-[01:00:27]: Could not find anim build FROMNUM
-[01:00:59]: Available disk space for save files: 11110598 MB
-[01:00:59]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000465
-[01:00:59]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000465
-[01:00:59]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[01:00:59]: Missing reference:	111847 - terrarium	->	132234	nil	
-[01:00:59]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[01:01:00]: Serializing world: session/2CE5390F4C1A6D30/0000000465
-[01:01:06]: [(KU_hjXTct1p) UTD] ReceiveRemoteExecute(c_removeall"eyeofterror_sinkhole") @(-175.11, -135.54)
-[01:01:06]: removed	1	
-[01:01:07]: Registering master server in Sing lobby
-[01:01:15]: Could not find anim build FROMNUM
-[01:01:15]: Could not find anim build FROMNUM
-[01:01:18]: Could not find anim build FROMNUM
-[01:01:40]: Could not find anim [dismount] in bank [wilson]
-[01:01:41]: Could not find anim [dismount] in bank [wilson]
-[01:01:44]: Could not find anim build FROMNUM
-[01:02:43]: Could not find anim [dismount] in bank [wilson]
-[01:04:16]: Could not find anim build FROMNUM
-[01:04:59]: Could not find anim build FROMNUM
-[01:05:00]: Could not find anim build FROMNUM
-[01:05:01]: Could not find anim build FROMNUM
-[01:05:02]: Could not find anim build FROMNUM
-[01:05:06]: Could not find anim build FROMNUM
-[01:05:07]: Could not find anim build FROMNUM
-[01:05:13]: Could not find anim build FROMNUM
-[01:05:24]: Could not find anim build FROMNUM
-[01:05:32]: Could not find anim build FROMNUM
-[01:05:44]: Could not find anim build FROMNUM
-[01:06:02]: Could not find anim [dismount] in bank [wilson]
-[01:08:11]: Could not find anim [dismount] in bank [wilson]
-[01:08:12]: Could not find anim [dismount] in bank [wilson]
-[01:08:21]: Could not find anim build FROMNUM
-[01:08:34]: Could not find anim build FROMNUM
-[01:08:59]: Registering master server in Sing lobby
-[01:09:00]: Available disk space for save files: 11108564 MB
-[01:09:00]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000466
-[01:09:00]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000466
-[01:09:00]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[01:09:00]: Missing reference:	111847 - terrarium	->	132234	nil	
-[01:09:00]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[01:09:00]: Serializing world: session/2CE5390F4C1A6D30/0000000466
-[01:09:27]: Could not find anim build FROMNUM
-[01:10:20]: Could not find anim build FROMNUM
-[01:10:33]: Could not find anim build FROMNUM
-[01:10:43]: Could not find anim build FROMNUM
-[01:10:45]: Could not find anim build FROMNUM
-[01:11:00]: Could not find anim build FROMNUM
-[01:11:16]: Could not find anim build FROMNUM
-[01:11:27]: Could not find anim build FROMNUM
-[01:11:32]: Could not find anim build FROMNUM
-[01:11:36]: Could not find anim build FROMNUM
-[01:12:14]: Could not find anim build FROMNUM
-[01:13:09]: Could not find anim build FROMNUM
-[01:13:12]: Could not find anim build FROMNUM
-[01:13:17]: Could not find anim build FROMNUM
-[01:13:21]: Could not find anim build FROMNUM
-[01:13:23]: Could not find anim build FROMNUM
-[01:13:28]: Could not find anim build FROMNUM
-[01:13:33]: Could not find anim build FROMNUM
-[01:13:52]: Could not find anim build FROMNUM
-[01:14:13]: Could not find anim build FROMNUM
-[01:14:14]: [Steam] SendUserDisconnect for '76561198976383126'
-[01:14:14]: Connection lost to 225.44.28.4|1 <7035776779745172705>
-[01:14:14]: [Shard] (KU_2duLJbwr) disconnected from [SHDMASTER](1)
-[01:14:14]: Registering master server in Sing lobby
-[01:14:14]: Serializing user: session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000467
-[01:14:21]: Server Autopaused	
-[01:14:21]: Server Unpaused	
-[01:14:22]: Server Autopaused	
-[01:14:23]: Server Unpaused	
-[01:14:42]: Could not find anim [dismount] in bank [wilson]
-[01:14:45]: Could not find anim build FROMNUM
-[01:16:52]: Server Autopaused	
-[01:16:52]: Server Unpaused	
-[01:17:01]: Registering master server in Sing lobby
-[01:17:01]: Available disk space for save files: 11108021 MB
-[01:17:02]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000467
-[01:17:02]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[01:17:02]: Missing reference:	111847 - terrarium	->	132234	nil	
-[01:17:02]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[01:17:02]: Serializing world: session/2CE5390F4C1A6D30/0000000467
-[01:17:28]: [Steam] SendUserDisconnect for '76561198860811263'
-[01:17:28]: Connection lost to 225.44.28.3|1 <6525508402380478700>
-[01:17:28]: [Shard] (KU_hjXTct1p) disconnected from [SHDMASTER](1)
-[01:17:28]: Serializing user: session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000468
-[01:17:28]: Sim paused
-[01:17:36]: Registering master server in Sing lobby
-[01:17:40]: [P2P] Connection failed for '76561198860811263'
-[01:20:14]: [P2P] Session request for '76561199204848077'
-[01:20:20]: [P2P] Create session: 225.44.28.5|1 '76561199204848077'
-[01:20:20]: [P2P] Received from 225.44.28.5|1 '76561199204848077'
-[01:20:20]: [P2P] Sent to 225.44.28.5|1 '76561199204848077'
-[01:20:21]: New incoming connection 225.44.28.5|1 <8975141485147856618>
-[01:20:22]: Client connected from 225.44.28.5|1 <8975141485147856618>
-[01:20:22]: ValidateGameSessionToken pgs-usc^KU_LI3oE69O^DontStarveTogether^/7RLivaJwVXp3Z/3FVBQ00x9qj3AsqRNwJvrqfZC+wU= for <8975141485147856618>
-[01:20:22]: Client authenticated: (KU_LI3oE69O) Thỏ Nâu
-[01:20:23]: [Steam] SendUserConnectAndAuthenticate for '76561199204848077'
-[01:20:24]: [Steam] Authenticated client '76561199204848077'
-[01:20:25]: There is no active event to validate against.
-[01:20:25]: [Shard] Read save location file for (KU_LI3oE69O)
-[01:20:25]: Registering master server in Sing lobby
-[01:22:16]: [Steam] SendUserDisconnect for '76561199204848077'
-[01:22:16]: Connection lost to 225.44.28.5|1 <8975141485147856618>
-[01:22:16]: [Shard] (KU_LI3oE69O) disconnected from [SHDMASTER](1)
-[01:22:16]: Registering master server in Sing lobby
-[01:22:30]: [P2P] Received from 225.44.28.5|1 '76561199204848077'
-[01:24:14]: [P2P] Session timed out for '76561198976383126'
-[01:24:14]: [P2P] Remove session: 225.44.28.4|1 '76561198976383126'
-[01:27:28]: [P2P] Session timed out for '76561198860811263'
-[01:27:28]: [P2P] Remove session: 225.44.28.3|1 '76561198860811263'
-[01:30:09]: [200] Account Communication Success (6)
-[01:30:09]: Received (KU_hjXTctx_) from TokenPurpose
-[01:32:38]: [P2P] Session timed out for '76561199204848077'
-[01:32:38]: [P2P] Remove session: 225.44.28.5|1 '76561199204848077'
-[01:40:32]: Available disk space for save files: 11105855 MB
-[01:40:32]: Missing reference:	122466 - beefaloherd	->	102678	102678 - beefalo	
-[01:40:32]: Missing reference:	102670 - beef_bell	->	102672	102672 - beefalo	
-[01:40:32]: Missing reference:	111847 - terrarium	->	132234	nil	
-[01:40:32]: Serializing world: session/2CE5390F4C1A6D30/0000000468
-[01:40:32]: Truncating to snapshot #468...
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000454
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000453
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000462
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000452
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000455
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000457
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000461
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000459
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000458
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000460
-[01:40:32]:  - session/2CE5390F4C1A6D30/0000000456
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000459
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000458
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000457
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000456
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000455
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7J5JAPN9DLK/0000000454
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7LER1EPMVNV/0000000452
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000462
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000461
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000460
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000442
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000455
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000454
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000453
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GK9MMPNU88/0000000452
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000462
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000461
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000460
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000456
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000455
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000454
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000453
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000451
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000459
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000457
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000456
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000455
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000454
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000453
-[01:40:32]:  - session/2CE5390F4C1A6D30/A7G3IPRNUJ6O/0000000452
-[01:40:32]:    41 file(s) removed
-[01:40:32]: Removing server from Sing lobby
-[01:40:32]: [Shard] Stopping shard mode
-[01:40:32]: [Steam] SendUserDisconnect for ''
-[01:40:33]: Collecting garbage...
-[01:40:33]: lua_gc took 0.32 seconds
-[01:40:33]: ~ShardLuaProxy()
-[01:40:33]: ~cEventLeaderboardProxy()
-[01:40:33]: ~ItemServerLuaProxy()
-[01:40:33]: ~InventoryLuaProxy()
-[01:40:33]: ~NetworkLuaProxy()
-[01:40:33]: ~SimLuaProxy()
-[01:40:33]: Cancelling LuaQueryCallback handle [265]
-[01:40:33]: Cancelling LuaQueryCallback handle [266]
-[01:40:34]: lua_close took 0.32 seconds
-[01:40:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[01:40:34]: CurlRequestManager::ClientThread::Main() complete
-[01:40:34]: HttpClient2 discarded 1 callbacks.
-[01:40:34]: Shutting down
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: modoverrides.lua enabling workshop-928691537	
+[00:00:07]: modoverrides.lua enabling workshop-1416161108	
+[00:00:07]: modoverrides.lua enabling workshop-2477889104	
+[00:00:07]: modoverrides.lua enabling workshop-462372013	
+[00:00:07]: modoverrides.lua enabling workshop-2629184121	
+[00:00:07]: modoverrides.lua enabling workshop-466732225	
+[00:00:07]: modoverrides.lua enabling workshop-1595631294	
+[00:00:07]: modoverrides.lua enabling workshop-2373951100	
+[00:00:07]: modoverrides.lua enabling workshop-666155465	
+[00:00:07]: modoverrides.lua enabling workshop-501385076	
+[00:00:07]: modoverrides.lua enabling workshop-378160973	
+[00:00:07]: modoverrides.lua enabling workshop-1803285852	
+[00:00:07]: modoverrides.lua enabling workshop-1777789373	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:07]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
+[00:00:07]: Loading mod: workshop-2373951100 ([DST] [Configurable] Sprinkler) Version:1.3.5	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-501385076	
+[00:00:07]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:07]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1777789373	
+[00:00:07]: Loading mod: workshop-1777789373 (Disable World Regrowth) Version:1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-462372013	
+[00:00:07]: Loading mod: workshop-462372013 (Always fresh) Version:1.2	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-928691537	
+[00:00:07]: Loading mod: workshop-928691537 (Force Reed Trap Set Piece Generation) Version:1.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1803285852	
+[00:00:07]: Loading mod: workshop-1803285852 (Auto Stack and Pick Up) Version:0.1.9	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
+[00:00:07]: Loading mod: workshop-1416161108 (Camp Security) Version:22.8	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
+[00:00:07]: Loading mod: workshop-2477889104 (Beefalo Status Bar) Version:1.2.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:07]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2629184121	
+[00:00:07]: Loading mod: workshop-2629184121 (Server Cleaner) Version:1.1.1	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-928691537	
+[00:00:07]: Overriding mod workshop-928691537's option _REEDS_override with value 1	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1416161108	
+[00:00:07]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:07]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:07]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:07]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:07]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:07]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:07]: Overriding mod workshop-1416161108's option  with value 0	
+[00:00:07]: Overriding mod workshop-1416161108's option chester_protect with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option fire_protection with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option keybind_panel with value 108	
+[00:00:07]: Overriding mod workshop-1416161108's option building_burned_down with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option flingomatic_is_empty with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option language with value En	
+[00:00:07]: Overriding mod workshop-1416161108's option mob_broke with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option destruction_protection with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option destruction_punishment with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option destruction_warning with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option death_annonce with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option egg_deploy with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option test with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option beebox_radius with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option auto_add_to_list_drop with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option auto_add_to_list with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option fire_radius with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option firehound_propagator with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option warnings_count with value 5	
+[00:00:07]: Overriding mod workshop-1416161108's option punishmentTip with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option vote_kick_time with value 3600	
+[00:00:07]: Overriding mod workshop-1416161108's option builder_radius with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option dont_drop_when_died with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option starcaller with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option keybind_drop with value 106	
+[00:00:07]: Overriding mod workshop-1416161108's option read_radius with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option auto_del_from_list_drop with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option protect_wall with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option lavae_protect with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option keybind_friend with value 107	
+[00:00:07]: Overriding mod workshop-1416161108's option reeds_cactus with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option keybind_container with value 114	
+[00:00:07]: Overriding mod workshop-1416161108's option good_monsters with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option glommer_protect with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option flingomatic_improved with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option fire_warning with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option fire_vote with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option fire_punishment with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option auto_del_from_list with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option destruction_vote with value false	
+[00:00:07]: Overriding mod workshop-1416161108's option ban_time with value 1800	
+[00:00:07]: Overriding mod workshop-1416161108's option campfire_propagator with value false	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2477889104	
+[00:00:07]: Overriding mod workshop-2477889104's option HEALTH_BADGE_CLEAR_BG with value false	
+[00:00:07]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_ORNERY with value ORANGE	
+[00:00:07]: Overriding mod workshop-2477889104's option OffsetYFine with value 0	
+[00:00:07]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_PUDGY with value PURPLE	
+[00:00:07]: Overriding mod workshop-2477889104's option ToggleKey with value KEY_T	
+[00:00:07]: Overriding mod workshop-2477889104's option ClientConfig with value false	
+[00:00:07]: Overriding mod workshop-2477889104's option BADGE_BG_OPACITY with value 100	
+[00:00:07]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_Y with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option ShowByDefault with value true	
+[00:00:07]: Overriding mod workshop-2477889104's option Scale with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option Theme with value TheForge	
+[00:00:07]: Overriding mod workshop-2477889104's option OffsetXMult with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_X with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_COLORS with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option SEPARATOR_GENERAL with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option COLOR_TIMER with value GREEN	
+[00:00:07]: Overriding mod workshop-2477889104's option COLOR_OBEDIENCE with value RED	
+[00:00:07]: Overriding mod workshop-2477889104's option GapModifier with value 0	
+[00:00:07]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_DEFAULT with value WHITE	
+[00:00:07]: Overriding mod workshop-2477889104's option OffsetYMult with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option HungerThreshold with value 10	
+[00:00:07]: Overriding mod workshop-2477889104's option BADGE_BG_BRIGHTNESS with value 60	
+[00:00:07]: Overriding mod workshop-2477889104's option OffsetXFine with value 0	
+[00:00:07]: Overriding mod workshop-2477889104's option EnableSounds with value false	
+[00:00:07]: Overriding mod workshop-2477889104's option OffsetX with value 0	
+[00:00:07]: Overriding mod workshop-2477889104's option OffsetY with value 0	
+[00:00:07]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_SETTINGS with value 1	
+[00:00:07]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_RIDER with value BLUE	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-462372013	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2629184121	
+[00:00:07]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:07]: Overriding mod workshop-2629184121's option  with value false	
+[00:00:07]: Overriding mod workshop-2629184121's option halloween_ornament with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option poop with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option winter_food with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option interval with value 5	
+[00:00:07]: Overriding mod workshop-2629184121's option spoiled_food with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option guano with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option sketch with value false	
+[00:00:07]: Overriding mod workshop-2629184121's option houndstooth with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option stinger with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option winter_ornament_boss with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option custom with value false	
+[00:00:07]: Overriding mod workshop-2629184121's option winter_ornament with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option winter_ornament_light with value false	
+[00:00:07]: Overriding mod workshop-2629184121's option halloweencandy with value true	
+[00:00:07]: Overriding mod workshop-2629184121's option delay with value 200	
+[00:00:07]: Overriding mod workshop-2629184121's option rottenegg with value false	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:07]: Overriding mod workshop-1595631294's option SaltBox with value false	
+[00:00:07]: Overriding mod workshop-1595631294's option BundleItems with value false	
+[00:00:07]: Overriding mod workshop-1595631294's option Digornot with value false	
+[00:00:07]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:07]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:07]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2373951100	
+[00:00:07]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:07]: Overriding mod workshop-2373951100's option  with value 0	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerProtectionTime with value 30	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerMaxFuelTime with value 250	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerRecipe with value easy	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerWetPlayer with value 	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerTempReduction with value 5	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerRange with value 10	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerProtectionDist with value 2.25	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerFuelBonusMultiplier with value 5	
+[00:00:07]: Overriding mod workshop-2373951100's option SprinklerExtinguishHeatPercent with value -1	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:07]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:07]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:07]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:07]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:07]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:07]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:07]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:07]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:07]: Overriding mod workshop-501385076's option quick_pick_cactus with value true	
+[00:00:07]: Overriding mod workshop-501385076's option quick_pick_plant_normal_ground with value true	
+[00:00:07]: Overriding mod workshop-501385076's option quick_cook_on_fire with value true	
+[00:00:07]: Overriding mod workshop-501385076's option quick_harvest with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:07]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1803285852	
+[00:00:07]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:07]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:07]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:07]: Overriding mod workshop-1803285852's option  with value 0	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoPickupEnabled with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option ManualStackMakeNewStackMainStack with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoPickupRange with value 10	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackEnabled with value true	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackMakeNewStackMainStack with value true	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackTwiggyTreeTwigs with value true	
+[00:00:07]: Overriding mod workshop-1803285852's option SmokePuffOnStacking with value true	
+[00:00:07]: Overriding mod workshop-1803285852's option StackDuringPopulation with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoPickupSeeds with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option PlayerMustHaveOneOfItemToAutoPickup with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoPickupAsh with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option ManualStackSeeds with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackManuallyDroppedItems with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option ManualStackAsh with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoPickupPoop with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option ManualStackPoop with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option ManualDropStackRange with value 5	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackAsh with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackRange with value 20	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackSeeds with value false	
+[00:00:07]: Overriding mod workshop-1803285852's option AutoStackPoop with value false	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1777789373	
+[00:00:07]: Overriding mod workshop-1777789373's option plantregrowth with value false	
+[00:00:07]: Overriding mod workshop-1777789373's option desolationspawner with value false	
+[00:00:07]: Overriding mod workshop-1777789373's option worldregrowth with value false	
+[00:00:07]: Overriding mod workshop-1777789373's option resourcerenewal with value false	
+[00:00:07]: Mod: workshop-1416161108 (Camp Security)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1416161108 (Camp Security)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1416161108 (Camp Security)	Loading modmain.lua	
+[00:00:07]: modimport: ../mods/workshop-1416161108/data/strings.lua	
+[00:00:07]: modimport: ../mods/workshop-1416161108/lib_fn.lua	
+[00:00:07]: modimport: ../mods/workshop-1416161108/data/PlayerCache.lua	
+[00:00:07]: modimport: ../mods/workshop-1416161108/scripts/patches/controlpanel.lua	
+[00:00:07]: modimport: ../mods/workshop-1416161108/scripts/patches/friendlist.lua	
+[00:00:07]: modimport: ../mods/workshop-1416161108/scripts/patches/lockedcontainers.lua	
+[00:00:07]: modimport: ../mods/workshop-1416161108/scripts/patches/drop_everything.lua	
+[00:00:07]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:07]: ShowMe version:	0.57	
+[00:00:07]: show_food_units	-1	-1	-1	
+[00:00:07]: show_uses	-1	-1	-1	
+[00:00:07]: Detected language for ShowMe: 	auto		
+[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Loading modmain.lua	
+[00:00:07]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:07]: Mod: workshop-2629184121 (Server Cleaner)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2629184121 (Server Cleaner)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2629184121 (Server Cleaner)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1777789373 (Disable World Regrowth)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:09]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:09]: LOADING LUA SUCCESS
+[00:00:09]: Registering Server mod namespace "workshop-1416161108"
+[00:00:09]: Registering Server mod namespace "showmeshint"
+[00:00:09]: Registering Server mod namespace "workshop-378160973"
+[00:00:09]: Registering Server mod namespace "showme"
+[00:00:09]: PlayerDeaths could not load morgue	
+[00:00:09]: PlayerHistory could not load player_history	
+[00:00:09]: ServerPreferences could not load server_preferences	
+[00:00:09]: bloom_enabled	true	
+[00:00:09]: OnFilesLoaded()	
+[00:00:09]: OnUpdatePurchaseStateComplete	
+[00:00:09]: Loading world: session/2CE5390F4C1A6D30/0000000468	
+[00:00:09]: Save file is at version 5.09	
+[00:00:09]: Klump load on boot started.	
+[00:00:09]: Klump files loaded: 	0	
+[00:00:09]: 	Unload FE	
+[00:00:09]: 	Unload FE done	
+[00:00:12]: Mod: workshop-1416161108 (Camp Security)	Registering prefabs	
+[00:00:12]: Mod: workshop-1416161108 (Camp Security)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:12]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	Registering prefabs	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rwys_sprinkler	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    sprinkler	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    reapwhatyousow_sprinkler_placer	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_spray	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
+[00:00:12]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
+[00:00:12]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:12]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:12]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
+[00:00:12]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
+[00:00:12]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
+[00:00:12]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
+[00:00:12]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
+[00:00:12]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:12]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:12]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:12]: 	LOAD BE	
+[00:00:17]: 	LOAD BE: done	
+[00:00:17]: Begin Session: 2CE5390F4C1A6D30
+[00:00:17]: saving to server_temp/server_save	
+[00:00:17]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:17]: Loading 18 new character(s)	
+[00:00:17]: Total 18 character(s) loaded	
+[00:00:18]: Loading Nav Grid	
+[00:00:18]: World generated on build 486838 with save version: 5.09, using seed: 1637556338	
+[00:00:18]: setting 	summerlength	15	
+[00:00:18]: setting 	cavemoonphase	threequarter	
+[00:00:18]: setting 	iscavefullmoon	false	
+[00:00:18]: setting 	isnightmaredawn	false	
+[00:00:18]: setting 	elapseddaysinseason	12	
+[00:00:18]: setting 	isfullmoon	false	
+[00:00:18]: setting 	moisture	1893.2705078125	
+[00:00:18]: setting 	cavephase	day	
+[00:00:18]: setting 	iscavewaxingmoon	false	
+[00:00:18]: setting 	isnightmarewild	false	
+[00:00:18]: setting 	nightmaretimeinphase	0	
+[00:00:18]: setting 	precipitationrate	0	
+[00:00:18]: setting 	iswet	false	
+[00:00:18]: setting 	isnewmoon	false	
+[00:00:18]: setting 	precipitation	none	
+[00:00:18]: setting 	israining	false	
+[00:00:18]: setting 	isnightmarewarn	false	
+[00:00:18]: setting 	iswinter	true	
+[00:00:18]: setting 	season	winter	
+[00:00:18]: setting 	remainingdaysinseason	3	
+[00:00:18]: setting 	winterlength	15	
+[00:00:18]: setting 	iscaveday	true	
+[00:00:18]: setting 	moistureceil	2844.2836914062	
+[00:00:18]: setting 	isday	true	
+[00:00:18]: setting 	springlength	20	
+[00:00:18]: setting 	wetness	0	
+[00:00:18]: setting 	iscavedusk	false	
+[00:00:18]: setting 	isalterawake	false	
+[00:00:18]: setting 	isnightmarecalm	false	
+[00:00:18]: setting 	isnight	false	
+[00:00:18]: setting 	isdusk	false	
+[00:00:18]: setting 	isspring	false	
+[00:00:18]: setting 	isautumn	false	
+[00:00:18]: setting 	issnowing	false	
+[00:00:18]: setting 	iswaxingmoon	false	
+[00:00:18]: setting 	phase	day	
+[00:00:18]: setting 	snowlevel	1	
+[00:00:18]: setting 	issnowcovered	true	
+[00:00:18]: setting 	autumnlength	20	
+[00:00:18]: setting 	pop	0.55761988630547	
+[00:00:18]: setting 	nightmaretime	0	
+[00:00:18]: setting 	seasonprogress	0.8	
+[00:00:18]: setting 	moonphase	threequarter	
+[00:00:18]: setting 	nightmarephase	none	
+[00:00:18]: setting 	cycles	452	
+[00:00:18]: setting 	timeinphase	0.18079986572266	
+[00:00:18]: setting 	iscavenight	false	
+[00:00:18]: setting 	iscavenewmoon	false	
+[00:00:18]: setting 	issummer	false	
+[00:00:18]: setting 	temperature	-8.4198738144567	
+[00:00:18]: setting 	time	0.05649995803833	
+[00:00:25]: Reconstructing topology	
+[00:00:25]: 	...Sorting points	
+[00:00:25]: 	...Sorting edges	
+[00:00:25]: 	...Connecting nodes	
+[00:00:25]: 	...Validating connections	
+[00:00:25]: 	...Housekeeping	
+[00:00:25]: 	...Done!	
+[00:00:25]: 1 uploads added to server. From server_temp
+[00:00:25]: About to start a shard with these settings:
+[00:00:25]:   ShardName: [SHDMASTER]
+[00:00:25]:   ShardID: 1
+[00:00:25]:   ShardRole: MASTER
+[00:00:25]:   MasterHost: (null)
+[00:00:25]:   MasterBind: 127.0.0.1
+[00:00:25]:   MasterPort: 10889
+[00:00:25]: [Shard] Starting master server
+[00:00:25]: [Shard] Shard server started on port: 10889
+[00:00:25]: Telling Client our new session identifier: 2CE5390F4C1A6D30
+[00:00:25]: Check for write access: TRUE
+[00:00:25]: Check for read access: TRUE
+[00:00:25]: Available disk space for save files: 11120373 MB
+[00:00:25]: ModIndex: Load sequence finished successfully.	
+[00:00:26]: Reset() returning
+[00:00:26]: Validating portal[7] <-> 3876562405[7] (inactive)	
+[00:00:26]: Retrofitting for Return Of Them: Turn of Tides - completed hermit house 1, 2, 3 friendship tasks.	
+[00:00:26]: Validating portal[4] <-> 3876562405[4] (inactive)	
+[00:00:26]: Validating portal[1] <-> 3876562405[1] (inactive)	
+[00:00:26]: Validating portal[6] <-> 3876562405[6] (inactive)	
+[00:00:26]: Validating portal[2] <-> 3876562405[2] (inactive)	
+[00:00:26]: Validating portal[10] <-> 3876562405[10] (inactive)	
+[00:00:26]: Validating portal[3] <-> 3876562405[3] (inactive)	
+[00:00:26]: Validating portal[5] <-> 3876562405[5] (inactive)	
+[00:00:27]: Validating portal[9] <-> 3876562405[9] (inactive)	
+[00:00:27]: Validating portal[8] <-> 3876562405[8] (inactive)	
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: A timer with the name 	salt	 already exists on 	102814 - beefalo	!	
+[00:00:27]: Sim paused
+[00:00:30]: Best lobby region is aws/Sing (ping 53)
+[00:00:30]: Registering master server in Sing lobby
+[00:00:30]: [Shard] Secondary shar Caves(3876562405) connected: [LAN] 127.0.0.1
+[00:00:31]: [Shard] Secondary Caves(3876562405) ready!
+[00:00:31]: World 3876562405 is now connected	
+[00:00:31]: Validating portal[7] <-> 3876562405[7] (active)	
+[00:00:31]: Validating portal[4] <-> 3876562405[4] (active)	
+[00:00:31]: Validating portal[1] <-> 3876562405[1] (active)	
+[00:00:31]: Validating portal[6] <-> 3876562405[6] (active)	
+[00:00:31]: Validating portal[2] <-> 3876562405[2] (active)	
+[00:00:31]: Validating portal[10] <-> 3876562405[10] (disabled)	
+[00:00:31]: Validating portal[3] <-> 3876562405[3] (disabled)	
+[00:00:31]: Validating portal[5] <-> 3876562405[5] (active)	
+[00:00:31]: Validating portal[9] <-> 3876562405[9] (active)	
+[00:00:31]: Validating portal[8] <-> 3876562405[8] (active)	
+[00:00:40]: Registering master server in Sing lobby
+[00:01:25]: Available disk space for save files: 10858482 MB
+[00:01:25]: Missing reference:	102812 - beef_bell	->	102814	102814 - beefalo	
+[00:01:25]: Missing reference:	102818 - beef_bell	->	102820	102820 - beefalo	
+[00:01:25]: Serializing world: session/2CE5390F4C1A6D30/0000000469
+[00:01:25]: Truncating to snapshot #469...
+[00:01:25]:  - session/2CE5390F4C1A6D30/0000000463
+[00:01:25]:  - session/2CE5390F4C1A6D30/A7LER1EPMS3J/0000000463
+[00:01:25]:  - session/2CE5390F4C1A6D30/A7GAFOAKSNLL/0000000463
+[00:01:25]:    3 file(s) removed
+[00:01:25]: Removing server from Sing lobby
+[00:01:25]: [Shard] Stopping shard mode
+[00:01:25]: [Steam] SendUserDisconnect for ''
+[00:01:26]: Collecting garbage...
+[00:01:26]: lua_gc took 0.35 seconds
+[00:01:26]: ~ShardLuaProxy()
+[00:01:26]: ~cEventLeaderboardProxy()
+[00:01:26]: ~ItemServerLuaProxy()
+[00:01:26]: ~InventoryLuaProxy()
+[00:01:26]: ~NetworkLuaProxy()
+[00:01:26]: ~SimLuaProxy()
+[00:01:27]: lua_close took 0.32 seconds
+[00:01:27]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:27]: CurlRequestManager::ClientThread::Main() complete
+[00:01:27]: HttpClient2 discarded 1 callbacks.
+[00:01:27]: Shutting down
