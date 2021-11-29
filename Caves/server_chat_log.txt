@@ -1,25 +1,83 @@
-[00:02:55]: [Join Announcement] Momiji
-[00:13:38]: [Join Announcement] UTD
-[00:14:38]: [Say] (KU_hjXTct1p) UTD: bò m nè
-[00:15:28]: [Say] (KU_hjXTct1p) UTD: cho ăn xong cưỡi
-[00:16:09]: [Say] (KU_hjXTct1p) UTD: khùng à ba
-[00:16:18]: [Say] (KU_hjXTct1p) UTD: bò chiến mỗi lần cưỡi phải cho ăn
-[00:16:24]: [Say] (KU_hjXTct1p) UTD: obie nó tụt lẹ
-[00:17:11]: [Say] (KU_hjXTct1p) UTD: chou làm cháy hết berries r
-[00:21:55]: [Say] (KU_hjXTctx_) Momiji: lót sàn đầu
-[00:24:10]: [Say] (KU_hjXTctx_) Momiji: chỗ làm lót đâu
-[00:24:15]: [Say] (KU_hjXTct1p) UTD: chưa xây ba
-[00:25:52]: [Say] (KU_hjXTctx_) Momiji: hết đá rồi
-[00:26:32]: [Say] (KU_hjXTct1p) UTD:  I have 71 rocks.
-[00:31:07]: [Say] (KU_hjXTctx_) Momiji: cháy
-[00:31:15]: [Say] (KU_hjXTct1p) UTD: ?
-[00:31:29]: [Default Announcement] Fires near UTD were extinguished
-[00:31:31]: [Default Announcement] Burnt structures near UTD have been repaired
-[00:31:41]: [Say] (KU_hjXTct1p) UTD: cất vô lại đi
-[00:31:46]: [Say] (KU_hjXTct1p) UTD: chứ m đốt cái qq gì v
-[00:35:24]: [Say] (KU_hjXTct1p) UTD: chó
-[00:40:04]: [Leave Announcement] UTD
-[00:42:50]: [Announcement] 30s until server clean
-[00:43:01]: [Announcement] 30s until server clean
-[00:45:03]: [Death Announcement] Momiji was killed by Bearger. He became a spooky ghost!
-[00:48:37]: [Leave Announcement] Momiji
+[00:02:15]: [Join Announcement] Momun
+[00:04:50]: [Join Announcement] 󰀉Potato󰀉
+[00:05:38]: [Say] (KU_PPgpTBQq) Momun:  I have 4 green caps, and this one has 95% freshness.
+[00:06:05]: [Leave Announcement] 󰀉Potato󰀉
+[00:08:56]: [Join Announcement] 󰀉Potato󰀉
+[00:10:08]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: grass ngoai kia kia`
+[00:10:24]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cho ti lam map cho
+[00:10:33]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉:  I have a map scroll.
+[00:10:40]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: map ne
+[00:10:50]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =)))
+[00:11:00]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: team em dong lam
+[00:11:07]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: tam 6 7 nguoi gi do
+[00:11:11]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: hoac 8
+[00:11:42]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: mu~ ne`
+[00:11:55]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cam di
+[00:12:13]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: grass ngoai nay
+[00:12:17]: [Say] (KU_PPgpTBQq) Momun:  I have 33 cut grass.
+[00:12:23]: [Leave Announcement] 󰀉Potato󰀉
+[00:13:51]: [Leave Announcement] Momun
+[00:14:24]: [Join Announcement] UTD
+[00:14:35]: [Join Announcement] 󰀉Rosé󰀈
+[00:15:03]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: vắng tanh z
+[00:16:23]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: yee
+[00:17:43]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nó đẹp lúc nó sang thoii
+[00:17:45]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: sáng
+[00:19:08]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈:  I have a star caller's staff with 35% durability.
+[00:19:10]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em còn
+[00:19:36]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈:  I have a deer antler.
+[00:19:46]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chưa
+[00:22:35]: [Say] (KU_hjXTct1p) UTD:  I have an alarming clock with  0% durability.
+[00:22:51]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nhà hết nf luôn r
+[00:23:14]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: còn 10nf nè
+[00:23:27]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chắc còn lâu
+[00:24:33]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: bị cháy thêm 1 máy nữa ha gì r
+[00:25:53]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em đi hái sậy đã
+[00:26:01]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: làm sáo
+[00:26:11]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đủ sài khumd
+[00:28:36]: [Say] (KU_hjXTct1p) UTD:  I have 31 nightmare fuels.
+[00:28:54]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈:  We have 2 pan flutes in this chest, and this one has 10% durability.
+[00:28:58]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: rã ra khumm
+[00:34:00]: [Announcement] This is going to be a terrible night...
+[00:34:10]: [Announcement] The Twins turn their gaze toward 󰀉Rosé󰀈
+[00:36:52]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[00:36:59]: [Resurrect Announcement] UTD was resurrected by Life Giving Amulet.
+[00:39:05]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: khỏi sáo hỏ
+[00:42:01]: [Announcement] This is going to be a terrible night...
+[00:42:11]: [Announcement] The Twins turn their gaze toward UTD
+[00:42:33]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[00:42:40]: [Resurrect Announcement] UTD was resurrected by Life Giving Amulet.
+[00:42:48]: [Announcement] 30s until server clean
+[00:42:57]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[00:42:57]: [Announcement] 30s until server clean
+[00:43:08]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: kh co dem ;wd
+[00:43:55]: [Resurrect Announcement] UTD was resurrected by Second Chance Watch.
+[00:44:39]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cd này bi khum` hẻe
+[00:44:46]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: uỉ lắm thế ;
+[00:45:03]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: muốn chếc luôn con bò
+[00:45:11]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 250
+[00:46:49]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: phakè
+[00:47:49]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hay cái nón mới dc
+[00:48:35]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: HA định test để tên team ở góc tên ha gì kìaa
+[00:48:42]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nhìn phen` ;
+[00:48:57]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: giống 4 mũ 2 đồ á
+[00:49:03]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nó nhỏ nhỏ ở tên
+[00:49:14]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: teamchat á
+[00:49:19]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chou gửi
+[00:50:31]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đi ẩn sĩ xúc nền dđ
+[00:50:38]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 20 cái nền vỏ ốc
+[00:51:15]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đồng hồ này tele đi âu á
+[00:55:13]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hermit home gì á
+[00:59:54]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: xóa luôn i cho đep.
+[01:00:08]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: mà có ai chịu chạy ra đó đâu ;
+[01:00:17]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: gần base mà mn còn hông chịu chạy raa
+[01:01:30]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đi ẩn sĩ hoi anh
+[01:01:37]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈:  I have a pitchfork with 100% durability.
+[01:01:48]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cho sángg
+[01:04:49]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đi lấy nền nấm đii
+[01:04:58]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: xịn hơn mà
+[01:05:02]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nấm mt
+[01:11:07]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: lên lấy thêm ii
+[01:11:23]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: 2 bên dđây luônn
+[01:14:13]: [Leave Announcement] 󰀉Rosé󰀈
+[01:17:27]: [Leave Announcement] UTD

@@ -1,0 +1,25 @@
+[00:02:55]: [Join Announcement] Momiji
+[00:13:38]: [Join Announcement] UTD
+[00:14:38]: [Say] (KU_hjXTct1p) UTD: bò m nè
+[00:15:28]: [Say] (KU_hjXTct1p) UTD: cho ăn xong cưỡi
+[00:16:09]: [Say] (KU_hjXTct1p) UTD: khùng à ba
+[00:16:18]: [Say] (KU_hjXTct1p) UTD: bò chiến mỗi lần cưỡi phải cho ăn
+[00:16:24]: [Say] (KU_hjXTct1p) UTD: obie nó tụt lẹ
+[00:17:11]: [Say] (KU_hjXTct1p) UTD: chou làm cháy hết berries r
+[00:21:55]: [Say] (KU_hjXTctx_) Momiji: lót sàn đầu
+[00:24:10]: [Say] (KU_hjXTctx_) Momiji: chỗ làm lót đâu
+[00:24:15]: [Say] (KU_hjXTct1p) UTD: chưa xây ba
+[00:25:52]: [Say] (KU_hjXTctx_) Momiji: hết đá rồi
+[00:26:32]: [Say] (KU_hjXTct1p) UTD:  I have 71 rocks.
+[00:31:07]: [Say] (KU_hjXTctx_) Momiji: cháy
+[00:31:15]: [Say] (KU_hjXTct1p) UTD: ?
+[00:31:29]: [Default Announcement] Fires near UTD were extinguished
+[00:31:31]: [Default Announcement] Burnt structures near UTD have been repaired
+[00:31:41]: [Say] (KU_hjXTct1p) UTD: cất vô lại đi
+[00:31:46]: [Say] (KU_hjXTct1p) UTD: chứ m đốt cái qq gì v
+[00:35:24]: [Say] (KU_hjXTct1p) UTD: chó
+[00:40:04]: [Leave Announcement] UTD
+[00:42:50]: [Announcement] 30s until server clean
+[00:43:01]: [Announcement] 30s until server clean
+[00:45:03]: [Death Announcement] Momiji was killed by Bearger. He became a spooky ghost!
+[00:48:37]: [Leave Announcement] Momiji
