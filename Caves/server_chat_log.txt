@@ -265,3 +265,215 @@
 [03:30:23]: [Leave Announcement] Momiji
 [03:31:27]: [Join Announcement] 󰀉Potato󰀉
 [03:32:04]: [Leave Announcement] 󰀉Potato󰀉
+[03:35:15]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chờ đii
+[03:37:13]: [Say] (KU_hjXTct1p) UTD:  There are 1 days left in Spring.
+[03:38:49]: [Say] (KU_LI3oE69O) Thỏ Nâu: het xuan dc 50%
+[03:38:53]: [Say] (KU_LI3oE69O) Thỏ Nâu: ói
+[03:45:04]: [Announcement] 30s until server clean
+[03:45:09]: [Announcement] 30s until server clean
+[03:49:38]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: em out xiíu
+[03:49:50]: [Leave Announcement] 󰀉Rosé󰀈
+[03:51:20]: [Leave Announcement] Thỏ Nâu
+[03:53:14]: [Join Announcement] 󰀉Rosé󰀈
+[03:53:39]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: em sắp học onl ùi
+[03:53:47]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: yee
+[03:53:55]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: hãa
+[03:54:02]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: học thêm
+[03:54:11]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: hỏi chii
+[03:55:04]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: anh đi craft gậy àa
+[03:55:26]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: whut
+[03:56:49]: [Whisper] (KU_2duLJbwr) 󰀉Rosé󰀈: em off âyy
+[03:57:07]: [Leave Announcement] 󰀉Rosé󰀈
+[03:57:16]: [Leave Announcement] UTD
+[05:09:28]: [Join Announcement] Thỏ Nâu
+[05:10:17]: [Join Announcement] Momiji
+[05:16:12]: [Leave Announcement] Thỏ Nâu
+[05:16:59]: [Death Announcement] Momiji was killed by Red Hound. He became a spooky ghost!
+[05:29:38]: [Leave Announcement] Momiji
+[05:32:53]: [Death Announcement] Thỏ Nâu was killed by Depths Worm. She became a spooky ghost!
+[05:37:05]: [Join Announcement] Momiji
+[05:37:18]: [Say] (KU_hjXTctx_) Momiji: roll á
+[05:37:33]: [Say] (KU_LI3oE69O) Thỏ Nâu: da
+[05:37:43]: [Say] (KU_LI3oE69O) Thỏ Nâu: em chet con bo r
+[05:38:17]: [Leave Announcement] Momiji
+[05:45:42]: [Death Announcement] Thỏ Nâu was killed by Fire. She became a spooky ghost!
+[05:48:37]: [Leave Announcement] Thỏ Nâu
+[05:52:23]: [Join Announcement] Thỏ Nâu
+[05:55:53]: [Join Announcement] Momiji
+[05:58:33]: [Say] (KU_hjXTctx_) Momiji: roll  được không ?
+[05:58:45]: [Say] (KU_LI3oE69O) Thỏ Nâu: da dc roi, em cam on momi
+[06:00:51]: [Leave Announcement] Momiji
+[06:04:31]: [Death Announcement] Thỏ Nâu was killed by Depths Worm. She became a spooky ghost!
+[06:05:08]: [Resurrect Announcement] Thỏ Nâu was resurrected by Life Giving Amulet.
+[06:05:16]: [Death Announcement] Thỏ Nâu was killed by Depths Worm. She became a spooky ghost!
+[06:12:56]: [Leave Announcement] Thỏ Nâu
+[07:27:13]: [Leave Announcement] Thỏ Nâu
+[07:27:36]: [Join Announcement] UTD
+[07:29:54]: [Leave Announcement] Thỏ Nâu
+[07:45:56]: [Leave Announcement] Thỏ Nâu
+[07:48:40]: [Join Announcement] Thỏ Nâu
+[07:48:47]: [Death Announcement] Thỏ Nâu was killed by Shenanigans. She became a spooky ghost!
+[07:49:04]: [Resurrect Announcement] Thỏ Nâu was resurrected by Second Chance Watch.
+[07:49:13]: [Death Announcement] Thỏ Nâu was killed by Darkness. She became a spooky ghost!
+[07:49:23]: [Say] (KU_hjXTct1p) UTD: vl
+[07:49:30]: [Say] (KU_hjXTct1p) UTD: chết đâu ngoài đó v
+[07:49:31]: [Say] (KU_hjXTct1p) UTD: ._.
+[07:49:34]: [Say] (KU_LI3oE69O) Thỏ Nâu: van chet bo ma oi
+[07:49:40]: [Say] (KU_hjXTct1p) UTD: bò đây nè má
+[07:50:01]: [Say] (KU_hjXTct1p) UTD: chịu khó bay về i =)))
+[07:50:05]: [Say] (KU_LI3oE69O) Thỏ Nâu: ok
+[07:50:16]: [Say] (KU_hjXTct1p) UTD: có lược k
+[07:50:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: em k
+[07:50:51]: [Say] (KU_hjXTct1p) UTD: về hs
+[07:50:54]: [Say] (KU_hjXTct1p) UTD: =))) bò em nè
+[07:51:29]: [Say] (KU_hjXTct1p) UTD: bò em mới xấu xí như này đó
+[07:51:33]: [Say] (KU_hjXTct1p) UTD: bò anh sao xấu v được
+[07:51:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: cm anh
+[07:51:38]: [Say] (KU_hjXTct1p) UTD: =)))
+[07:51:51]: [Say] (KU_hjXTct1p) UTD: cứu nó còn đúng 120 máu
+[07:53:16]: [Say] (KU_hjXTct1p) UTD: bùa kìa
+[07:53:18]: [Resurrect Announcement] Thỏ Nâu was resurrected by Life Giving Amulet.
+[07:56:46]: [Say] (KU_hjXTct1p) UTD: cà chua nướng nè
+[07:56:49]: [Say] (KU_hjXTct1p) UTD: dùng mà tame bò
+[07:56:53]: [Say] (KU_hjXTct1p) UTD: với em ăn cũng heal đó
+[07:58:02]: [Say] (KU_hjXTct1p) UTD: anh đi craft gậy gọi sao tí
+[07:58:08]: [Say] (KU_hjXTct1p) UTD: em ở base tame bo` di
+[08:03:41]: [Say] (KU_hjXTct1p) UTD: cho ăn vô tr
+[08:03:46]: [Say] (KU_LI3oE69O) Thỏ Nâu: no ngu r
+[08:03:56]: [Say] (KU_LI3oE69O) Thỏ Nâu: dm sao danh em be nai
+[08:04:04]: [Say] (KU_hjXTct1p) UTD: gọi dậy
+[08:04:07]: [Say] (KU_hjXTct1p) UTD: dánh đâu
+[08:04:39]: [Say] (KU_hjXTct1p) UTD: lên 80%
+[08:04:41]: [Say] (KU_hjXTct1p) UTD: kêu anh chỉ
+[08:17:44]: [Say] (KU_LI3oE69O) Thỏ Nâu: a lam gi zay~
+[08:17:50]: [Say] (KU_hjXTct1p) UTD: anh đi tìm dưa hấu
+[08:17:55]: [Say] (KU_hjXTct1p) UTD: :v
+[08:17:59]: [Say] (KU_hjXTct1p) UTD: cứ tame bò i
+[08:18:13]: [Say] (KU_LI3oE69O) Thỏ Nâu: cdl ăn lắm
+[08:18:18]: [Say] (KU_LI3oE69O) Thỏ Nâu: tốn cà chua
+[08:18:43]: [Say] (KU_hjXTct1p) UTD: clm
+[08:18:43]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[08:18:46]: [Say] (KU_hjXTct1p) UTD: khóc
+[08:18:54]: [Say] (KU_hjXTct1p) UTD: mới lên dơi cắn chết
+[08:18:59]: [Resurrect Announcement] UTD was resurrected by Second Chance Watch.
+[08:19:59]: [Announcement] 30s until server clean
+[08:20:10]: [Announcement] 30s until server clean
+[08:23:04]: [Say] (KU_hjXTct1p) UTD:  We have 16 melonsicles in this ice box, and this one has 95% freshness.
+[08:23:06]: [Say] (KU_hjXTct1p) UTD:  We have 20 watermelons in this ice box, and this one has 91% freshness.
+[08:23:15]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhieu z
+[08:23:16]: [Say] (KU_hjXTct1p) UTD: mũ nè
+[08:23:41]: [Say] (KU_hjXTct1p) UTD: đội làm mát
+[08:24:10]: [Say] (KU_hjXTct1p) UTD: cho bò ăn cái đó
+[08:24:17]: [Say] (KU_hjXTct1p) UTD: 80% roi`
+[08:24:18]: [Say] (KU_hjXTct1p) UTD: theo anh
+[08:24:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: mat me cai den long r
+[08:24:31]: [Say] (KU_hjXTct1p) UTD: cho ne`
+[08:24:35]: [Say] (KU_LI3oE69O) Thỏ Nâu: kk
+[08:24:58]: [Say] (KU_hjXTct1p) UTD: anh mượn con bò xíu
+[08:25:07]: [Say] (KU_hjXTct1p) UTD: chuông
+[08:25:34]: [Say] (KU_LI3oE69O) Thỏ Nâu: j z ba noi
+[08:25:39]: [Say] (KU_hjXTct1p) UTD: k có gì để đánh
+[08:25:44]: [Say] (KU_hjXTct1p) UTD: con này đang thiếu cái đánh nhau
+[08:25:48]: [Say] (KU_hjXTct1p) UTD: nó dg là rider
+[08:25:53]: [Say] (KU_hjXTct1p) UTD: anh đang tìm thứ để đánh
+[08:26:01]: [Say] (KU_hjXTct1p) UTD: cho nó trung hòa về bò thuờng
+[08:26:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: rider cung dc ma
+[08:26:20]: [Say] (KU_hjXTct1p) UTD: dame 25
+[08:26:23]: [Say] (KU_hjXTct1p) UTD: yếu nhớt à
+[08:26:24]: [Say] (KU_LI3oE69O) Thỏ Nâu: = )))))))))))))
+[08:26:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: z di danh nhau
+[08:26:47]: [Say] (KU_hjXTct1p) UTD: để đi đánh nhện
+[08:28:06]: [Say] (KU_hjXTct1p) UTD: oke r
+[08:28:17]: [Say] (KU_hjXTct1p) UTD: giờ cho ăn
+[08:28:21]: [Say] (KU_hjXTct1p) UTD: lên 100 hunger
+[08:28:27]: [Say] (KU_hjXTct1p) UTD: ko cuỡi vs đánh nhau nữa
+[08:29:00]: [Say] (KU_hjXTct1p) UTD: nhẽ ra là chải lông nữa
+[08:29:02]: [Say] (KU_hjXTct1p) UTD: mới lẹ
+[08:29:10]: [Say] (KU_LI3oE69O) Thỏ Nâu: mat me cai luoc r
+[08:29:16]: [Say] (KU_hjXTct1p) UTD: cho ne`
+[08:29:38]: [Say] (KU_hjXTct1p) UTD: tame i ne`
+[08:29:46]: [Say] (KU_hjXTct1p) UTD: lược với chuông đó
+[08:29:49]: [Say] (KU_hjXTct1p) UTD: cứ canh cho ăn
+[08:29:52]: [Say] (KU_hjXTct1p) UTD: rồi chải lông
+[08:30:08]: [Say] (KU_hjXTct1p) UTD: dc r
+[08:30:12]: [Say] (KU_hjXTct1p) UTD: đừng cho quá 150
+[08:30:55]: [Say] (KU_hjXTct1p) UTD: tame bò thuờng mà biết tame r cũng dễ òm à
+[08:33:43]: [Say] (KU_hjXTct1p) UTD: 88 r ne`
+[08:33:44]: [Say] (KU_hjXTct1p) UTD: nhanh k
+[08:34:07]: [Say] (KU_hjXTct1p) UTD: 1 bánh thanh long nấu = 1 thanh long
+[08:34:11]: [Say] (KU_hjXTct1p) UTD: so ra là rẻ nhất rồi
+[08:34:17]: [Say] (KU_LI3oE69O) Thỏ Nâu: kk em biet nau banh thanh long r
+[08:34:26]: [Say] (KU_hjXTct1p) UTD: 1 thanh long 3 cành cây
+[08:34:28]: [Say] (KU_hjXTct1p) UTD: còn ra mà
+[08:35:06]: [Say] (KU_hjXTct1p) UTD: 2 ngày nữa xong
+[08:36:03]: [Say] (KU_hjXTct1p) UTD: chết cha
+[08:36:06]: [Say] (KU_hjXTct1p) UTD: nó lại thầy rider r
+[08:36:14]: [Say] (KU_hjXTct1p) UTD: chải lông r anh mượn chuông
+[08:36:56]: [Say] (KU_hjXTct1p) UTD: ok r
+[08:37:17]: [Say] (KU_hjXTct1p) UTD: cưỡi nhiều quá
+[08:37:20]: [Say] (KU_hjXTct1p) UTD: nên dễ bị rider
+[08:38:02]: [Say] (KU_LI3oE69O) Thỏ Nâu: dit me mua he
+[08:38:06]: [Say] (KU_LI3oE69O) Thỏ Nâu: het he chua anh
+[08:38:08]: [Say] (KU_hjXTct1p) UTD:  There are 5 days left in Summer.
+[08:38:23]: [Say] (KU_hjXTct1p) UTD: em để chuột vô cái đồng ồ ghi chữ summer
+[08:38:26]: [Say] (KU_hjXTct1p) UTD: nó hiển thị mà
+[08:38:57]: [Say] (KU_LI3oE69O) Thỏ Nâu: k coa'
+[08:39:01]: [Say] (KU_LI3oE69O) Thỏ Nâu: dm
+[08:39:05]: [Say] (KU_LI3oE69O) Thỏ Nâu: worm
+[08:39:48]: [Say] (KU_hjXTct1p) UTD: đừng đánh
+[08:39:58]: [Say] (KU_hjXTct1p) UTD: nó thanh` bò chiến bây h
+[08:40:05]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[08:40:05]: [Say] (KU_LI3oE69O) Thỏ Nâu: danh nhau luon
+[08:40:06]: [Say] (KU_hjXTct1p) UTD: yclm
+[08:40:08]: [Say] (KU_LI3oE69O) Thỏ Nâu: = )))
+[08:40:10]: [Say] (KU_hjXTct1p) UTD: cứu anh lên i
+[08:40:20]: [Say] (KU_hjXTct1p) UTD: đánh con ma đó đi
+[08:40:33]: [Resurrect Announcement] UTD was resurrected by Life Giving Amulet.
+[08:40:39]: [Say] (KU_LI3oE69O) Thỏ Nâu: sanity thap qua
+[08:40:45]: [Say] (KU_LI3oE69O) Thỏ Nâu: len r kk
+[08:40:46]: [Say] (KU_LI3oE69O) Thỏ Nâu:  (Sanity: 104/200) My thoughts are feverish...
+[08:41:13]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[08:41:17]: [Say] (KU_hjXTct1p) UTD: -_- đứng yên tr ơi
+[08:41:20]: [Say] (KU_LI3oE69O) Thỏ Nâu: clm j zay
+[08:41:28]: [Say] (KU_hjXTct1p) UTD: chạy linh tinh nó đổi target
+[08:41:34]: [Resurrect Announcement] UTD was resurrected by TMIP Console.
+[08:41:41]: [Say] (KU_LI3oE69O) Thỏ Nâu: = ))))))))))))))
+[08:42:34]: [Say] (KU_hjXTct1p) UTD: oke
+[08:42:36]: [Say] (KU_hjXTct1p) UTD: xong r
+[08:44:19]: [Say] (KU_hjXTct1p) UTD: đừng cuỡi nữa má ơi
+[08:44:43]: [Say] (KU_hjXTct1p) UTD: chải lông chưa
+[08:45:00]: [Say] (KU_hjXTct1p) UTD: đợi tí nó lên
+[08:45:57]: [Say] (KU_hjXTct1p) UTD: đợi tí
+[08:46:07]: [Say] (KU_hjXTct1p) UTD: lại vứt lược -.-
+[08:46:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: em vut cho anh ma
+[08:46:15]: [Say] (KU_hjXTct1p) UTD: clm xong
+[08:46:22]: [Say] (KU_hjXTct1p) UTD: rider mẹ r
+[08:46:28]: [Say] (KU_hjXTct1p) UTD: đánh nó 1 cái đi
+[08:46:33]: [Say] (KU_hjXTct1p) UTD: ctrl đánh cái r chạy
+[08:46:51]: [Say] (KU_hjXTct1p) UTD: chạy xa ra
+[08:46:53]: [Say] (KU_hjXTct1p) UTD: -_-
+[08:47:01]: [Death Announcement] Thỏ Nâu was killed by Beefalo. She became a spooky ghost!
+[08:47:04]: [Say] (KU_hjXTct1p) UTD: ơ
+[08:47:08]: [Say] (KU_LI3oE69O) Thỏ Nâu: lag ma oi
+[08:47:46]: [Say] (KU_hjXTct1p) UTD: rider me r
+[08:47:51]: [Say] (KU_hjXTct1p) UTD: haiz
+[08:48:05]: [Resurrect Announcement] Thỏ Nâu was resurrected by Second Chance Watch.
+[08:49:28]: [Say] (KU_hjXTct1p) UTD: yđoạn 80% phải thật hạn chế cuỡi
+[08:49:33]: [Say] (KU_hjXTct1p) UTD: mà em cuỡi quá
+[08:49:37]: [Say] (KU_hjXTct1p) UTD: nó chuyển lại rider r
+[08:49:39]: [Say] (KU_hjXTct1p) UTD: >.<
+[08:49:42]: [Say] (KU_hjXTct1p) UTD: xu
+[08:49:48]: [Say] (KU_LI3oE69O) Thỏ Nâu: thoi ke i hok sao
+[08:50:01]: [Say] (KU_LI3oE69O) Thỏ Nâu: game mat tieng r, sui ti'
+[08:50:05]: [Say] (KU_hjXTct1p) UTD: oke
+[08:50:09]: [Say] (KU_hjXTct1p) UTD: anh đi tắm cái
+[08:50:31]: [Leave Announcement] UTD
+[08:50:35]: [Leave Announcement] Thỏ Nâu
+[09:18:26]: [Join Announcement] Thỏ Nâu
+[09:18:51]: [Leave Announcement] Thỏ Nâu
+[09:22:50]: [Join Announcement] Thỏ Nâu
+[09:23:52]: [Leave Announcement] Thỏ Nâu
+[09:27:03]: [Join Announcement] Thỏ Nâu
+[09:27:46]: [Announcement] 30s until server clean
+[09:27:55]: [Announcement] 30s until server clean
+[09:37:13]: [Leave Announcement] Thỏ Nâu
