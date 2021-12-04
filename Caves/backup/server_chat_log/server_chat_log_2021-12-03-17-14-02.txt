@@ -1,0 +1,214 @@
+[00:03:30]: [Join Announcement] 󰀉Potato󰀉
+[00:04:14]: [Leave Announcement] 󰀉Potato󰀉
+[00:04:39]: [Join Announcement] Thỏ Nâu
+[00:06:12]: [Leave Announcement] Thỏ Nâu
+[00:07:34]: [Join Announcement] 󰀉Potato󰀉
+[00:07:58]: [Join Announcement] Thỏ Nâu
+[00:09:08]: [Resurrect Announcement] Thỏ Nâu was resurrected by Life Giving Amulet.
+[00:22:08]: [Say] (KU_LI3oE69O) Thỏ Nâu: khoi oi he thi doi mu gi
+[00:22:14]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: mua thu r ma :v
+[00:22:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: ua z ha
+[00:22:22]: [Say] (KU_LI3oE69O) Thỏ Nâu: = ))))))0
+[00:28:07]: [Join Announcement] 󰀉Rosé󰀈
+[00:28:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko rau iu
+[00:28:31]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: hekko rose iuu
+[00:28:33]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hé nhuu chou iuuu, khoai iuuu
+[00:39:03]: [Say] (KU_LI3oE69O) Thỏ Nâu:  I have 224 logs.
+[00:39:08]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ghe z
+[00:39:18]: [Say] (KU_LI3oE69O) Thỏ Nâu: di nhat ma = )))))))))))))))
+[00:42:20]: [Announcement] 30s until server clean
+[00:42:28]: [Announcement] 30s until server clean
+[00:52:58]: [Leave Announcement] 󰀉Potato󰀉
+[00:52:58]: [Leave Announcement] 󰀉Rosé󰀈
+[00:52:58]: [Leave Announcement] Thỏ Nâu
+[00:57:44]: [Join Announcement] 󰀉Rosé󰀈
+[00:58:14]: [Join Announcement] Thỏ Nâu
+[01:03:41]: [Join Announcement] UTD
+[01:03:47]: [Join Announcement] 󰀉Potato󰀉
+[01:04:28]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j dang choi cai tu nhien sap host ngang
+[01:05:16]: [Say] (KU_hjXTct1p) UTD: u la tr
+[01:05:24]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j
+[01:05:27]: [Say] (KU_LI3oE69O) Thỏ Nâu: j
+[01:05:28]: [Say] (KU_hjXTct1p) UTD: lag
+[01:05:36]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: co le nao
+[01:05:39]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: da toi luc
+[01:05:42]: [Say] (KU_LI3oE69O) Thỏ Nâu: momi lag r
+[01:05:53]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: da toi luc cai host nay phaii ra di r?
+[01:05:54]: [Say] (KU_hjXTct1p) UTD: chắc ip sai r
+[01:06:07]: [Say] (KU_hjXTct1p) UTD: có khi nào momi fake ip xem phim rồi quên chỉnh lại k ta
+[01:06:09]: [Say] (KU_LI3oE69O) Thỏ Nâu: 4 nguoi do het r
+[01:06:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: ? = )))))))))))))))))
+[01:06:15]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: gi v trùii ;
+[01:06:25]: [Say] (KU_LI3oE69O) Thỏ Nâu: anh tuong ai cung nhu anh ha
+[01:06:38]: [Say] (KU_hjXTct1p) UTD: ko anh có fake ip bao giờ đâu
+[01:06:42]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: anh rãnh khômm
+[01:06:48]: [Say] (KU_hjXTct1p) UTD: anh cóa
+[01:06:57]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: ra lụm đồ dề đi anhh
+[01:06:59]: [Leave Announcement] 󰀉Potato󰀉
+[01:07:04]: [Say] (KU_hjXTct1p) UTD: đợi anh đã
+[01:07:07]: [Say] (KU_hjXTct1p) UTD: đổi nv
+[01:08:21]: [Say] (KU_hjXTct1p) UTD: nhặt gì bên đó á
+[01:08:28]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: gỗ đá đồ nèe
+[01:08:35]: [Say] (KU_LI3oE69O) Thỏ Nâu: de chou sang nhat kk
+[01:09:45]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: base mình cần nitre hong anhh
+[01:09:53]: [Say] (KU_LI3oE69O) Thỏ Nâu: sap hec
+[01:09:56]: [Say] (KU_hjXTct1p) UTD: lấy làm muối liếm hoi
+[01:10:00]: [Say] (KU_hjXTct1p) UTD: với thuốc nổ
+[01:10:05]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: okii
+[01:10:06]: [Say] (KU_LI3oE69O) Thỏ Nâu: muoi liem het sach cmnl
+[01:10:08]: [Join Announcement] 󰀉Potato󰀉
+[01:10:59]: [Join Announcement] Nai
+[01:11:05]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko ngu iu
+[01:11:18]: [Say] (KU_QSHhEiJ2) Nai: hi Thỏ iu
+[01:11:22]: [Say] (KU_QSHhEiJ2) Nai: chào mọi người
+[01:11:29]: [Say] (KU_LI3oE69O) Thỏ Nâu: ko chao
+[01:11:30]: [Say] (KU_hjXTct1p) UTD: sữa ơi
+[01:11:35]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: sao áa
+[01:11:36]: [Say] (KU_hjXTct1p) UTD: em mang hạt ra chỗ anh ping đi
+[01:11:42]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: okii
+[01:11:43]: [Say] (KU_hjXTct1p) UTD: trồng chỗ đó
+[01:11:48]: [Say] (KU_hjXTct1p) UTD: anh dụ bearger về farm
+[01:12:38]: [Say] (KU_QSHhEiJ2) Nai: abigail lên
+[01:12:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: chỗ này bẩn vl
+[01:13:10]: [Say] (KU_QSHhEiJ2) Nai: nuôi voi hay thịt đây. :v
+[01:13:24]: [Say] (KU_LI3oE69O) Thỏ Nâu: danh chet cdm no roi moi hoi
+[01:13:32]: [Say] (KU_QSHhEiJ2) Nai: abi của em đánh mà
+[01:13:36]: [Say] (KU_QSHhEiJ2) Nai: .-.
+[01:14:01]: [Say] (KU_QSHhEiJ2) Nai: hoi đi nuôi con khác. :v
+[01:14:15]: [Say] (KU_QSHhEiJ2) Nai: lam gi
+[01:14:25]: [Say] (KU_LI3oE69O) Thỏ Nâu: ai bic, dang di loot do
+[01:14:35]: [Say] (KU_LI3oE69O) Thỏ Nâu:  I have 315 logs.
+[01:15:54]: [Say] (KU_LI3oE69O) Thỏ Nâu: momi nt mng oi
+[01:16:01]: [Say] (KU_hjXTct1p) UTD: sao v
+[01:16:02]: [Say] (KU_LI3oE69O) Thỏ Nâu: ra rep i
+[01:16:06]: [Say] (KU_LI3oE69O) Thỏ Nâu: momi hoi la
+[01:16:10]: [Say] (KU_LI3oE69O) Thỏ Nâu: ygame lag lam ha
+[01:16:15]: [Say] (KU_hjXTct1p) UTD: =)))
+[01:16:30]: [Skin Announcement] 󰀉Potato󰀉 feet_sneakers_orange_carrot
+[01:16:53]: [Say] (KU_LI3oE69O) Thỏ Nâu: luc nao cung do nen mien binh luan
+[01:19:29]: [Say] (KU_hjXTct1p) UTD: xây chest farm momi
+[01:19:34]: [Say] (KU_hjXTct1p) UTD: :v
+[01:21:04]: [Leave Announcement] Nai
+[01:21:18]: [Death Announcement] 󰀉Potato󰀉 was killed by Darkness. He became a spooky ghost!
+[01:21:21]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: cmn
+[01:21:23]: [Say] (KU_LI3oE69O) Thỏ Nâu: = ))))))))
+[01:21:23]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: =)))
+[01:21:38]: [Resurrect Announcement] 󰀉Potato󰀉 was resurrected by Life Giving Amulet.
+[01:21:43]: [Say] (KU_LI3oE69O) Thỏ Nâu: lac duong r, rau oi ping cho luc nay di
+[01:22:06]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nhà còn moonrock khum anhh
+[01:22:14]: [Join Announcement] Nai
+[01:23:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: dung z
+[01:23:38]: [Say] (KU_LI3oE69O) Thỏ Nâu: 2 con bo met thay me r
+[01:24:31]: [Say] (KU_LI3oE69O) Thỏ Nâu: ua chet cdm n goi`
+[01:24:50]: [Say] (KU_LI3oE69O) Thỏ Nâu: = ))))))))))))))))))))))))))))))))))
+[01:24:59]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j z
+[01:26:45]: [Say] (KU_LI3oE69O) Thỏ Nâu: hoa tang hã
+[01:26:50]: [Say] (KU_QSHhEiJ2) Nai: uh
+[01:26:57]: [Say] (KU_QSHhEiJ2) Nai: no do
+[01:27:09]: [Announcement] 30s until server clean
+[01:27:18]: [Announcement] 30s until server clean
+[01:27:36]: [Say] (KU_QSHhEiJ2) Nai: thay k
+[01:28:18]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: j duma mat quyen sach r
+[01:28:26]: [Say] (KU_LI3oE69O) Thỏ Nâu: cuon sach o farm momi
+[01:28:33]: [Say] (KU_LI3oE69O) Thỏ Nâu: em thay 2 cuon o do
+[01:28:34]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: ua z ha
+[01:28:38]: [Say] (KU_0vPtVqpO) 󰀉Potato󰀉: an cap 1 cuon
+[01:28:50]: [Say] (KU_LI3oE69O) Thỏ Nâu: 1 cai o farm, 1 cai ai lam rot trong khu go~
+[01:29:19]: [Say] (KU_QSHhEiJ2) Nai:  I have 7 mourning glorys.
+[01:29:22]: [Say] (KU_LI3oE69O) Thỏ Nâu: oe
+[01:30:29]: [Say] (KU_QSHhEiJ2) Nai: chay di
+[01:31:46]: [Say] (KU_QSHhEiJ2) Nai: @@
+[01:33:14]: [Leave Announcement] 󰀉Potato󰀉
+[01:33:17]: [Say] (KU_QSHhEiJ2) Nai: hôm nay đường truyền kém nhỉ :)))
+[01:34:04]: [Say] (KU_QSHhEiJ2) Nai: mọi người có bị lag k
+[01:34:17]: [Skin Announcement] 󰀉Rosé󰀈 hand_wilson_victorian
+[01:34:17]: [Say] (KU_LI3oE69O) Thỏ Nâu: ong i' phat bang 4g ma = ))))))))0
+[01:34:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: ai cung lag
+[01:34:45]: [Leave Announcement] Nai
+[01:39:55]: [Say] (KU_hjXTct1p) UTD: k xây dc tr
+[01:40:03]: [Say] (KU_LI3oE69O) Thỏ Nâu: lag oi
+[01:43:53]: [Say] (KU_hjXTct1p) UTD: con bearger dau r
+[01:44:01]: [Say] (KU_LI3oE69O) Thỏ Nâu: o cho luc nay do
+[01:46:27]: [Say] (KU_hjXTct1p) UTD: huhu lag
+[01:46:43]: [Leave Announcement] UTD
+[01:48:56]: [Join Announcement] UTD
+[01:49:35]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[01:49:38]: [Say] (KU_hjXTct1p) UTD: -_- lag xỉu
+[01:49:39]: [Say] (KU_LI3oE69O) Thỏ Nâu: dua
+[01:49:44]: [Say] (KU_hjXTct1p) UTD: k backstep dc
+[01:49:45]: [Resurrect Announcement] UTD was resurrected by 󰀉Rosé󰀈.
+[01:50:22]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[01:50:24]: [Say] (KU_hjXTct1p) UTD: -.-
+[01:50:25]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: gidzay ;
+[01:50:27]: [Say] (KU_hjXTct1p) UTD: giờ sao ta
+[01:50:28]: [Say] (KU_LI3oE69O) Thỏ Nâu: = )))))))))))0
+[01:50:32]: [Say] (KU_hjXTct1p) UTD: hit and run k dc
+[01:50:35]: [Say] (KU_hjXTct1p) UTD: khóc luôn á
+[01:50:50]: [Say] (KU_LI3oE69O) Thỏ Nâu: choi lag quen roi nen van on
+[01:50:53]: [Say] (KU_LI3oE69O) Thỏ Nâu: = )))))))))))
+[01:51:12]: [Skin Announcement] Thỏ Nâu body_buttons_green_laurel
+[01:51:13]: [Resurrect Announcement] UTD was resurrected by 󰀉Rosé󰀈.
+[01:57:18]: [Leave Announcement] 󰀉Rosé󰀈
+[02:03:47]: [Skin Announcement] UTD legs_pinstripe_pants_brown_chocolate
+[02:03:48]: [Join Announcement] 󰀉Rosé󰀈
+[02:07:11]: [Announcement] 30s until server clean
+[02:07:20]: [Announcement] 30s until server clean
+[02:10:57]: [Say] (KU_hjXTct1p) UTD: em
+[02:11:01]: [Say] (KU_hjXTct1p) UTD: tối anh đánh twin
+[02:11:05]: [Say] (KU_hjXTct1p) UTD: k biết lag k ta
+[02:11:12]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chắc khongg đâuu
+[02:11:26]: [Say] (KU_hjXTct1p) UTD: dọn bên này
+[02:11:28]: [Say] (KU_hjXTct1p) UTD: lót nền
+[02:11:39]: [Say] (KU_hjXTct1p) UTD: để dành def boss
+[02:13:59]: [Join Announcement] Nai
+[02:14:12]: [Say] (KU_hjXTct1p) UTD: eiu
+[02:14:18]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: sao áa
+[02:14:28]: [Say] (KU_hjXTct1p) UTD: mang ván gỗ sang đây giúp anh nha
+[02:14:39]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: okii
+[02:16:12]: [Say] (KU_LI3oE69O) Thỏ Nâu:  (Sanity: 44/200) Do you see them, Abigail? These demons may let me join you, soon.
+[02:17:07]: [Say] (KU_LI3oE69O) Thỏ Nâu: nhà nhiều xưn rong` lémmmm
+[02:17:20]: [Say] (KU_hjXTct1p) UTD: hoa xnươg rồng mới ngon
+[02:17:23]: [Say] (KU_QSHhEiJ2) Nai: nướng lên ăn cho đỡ tụt não
+[02:17:30]: [Say] (KU_hjXTct1p) UTD: chứ cái xương rồng có gì đâu
+[02:17:47]: [Say] (KU_LI3oE69O) Thỏ Nâu: cj utd nhiều chiện ?
+[02:17:57]: [Say] (KU_QSHhEiJ2) Nai: qua nhieu chienn
+[02:18:54]: [Say] (KU_LI3oE69O) Thỏ Nâu: vai l cuu
+[02:18:56]: [Say] (KU_QSHhEiJ2) Nai:  We have 10 cooked cactus fleshs in this ice box, and this one has 79% freshness.
+[02:19:48]: [Say] (KU_QSHhEiJ2) Nai: tắt abi đi
+[02:19:54]: [Say] (KU_QSHhEiJ2) Nai: lấy bông hoa chuột trái vào abi
+[02:20:21]: [Say] (KU_LI3oE69O) Thỏ Nâu: con nyc nhu bi ngu v
+[02:20:50]: [Say] (KU_QSHhEiJ2) Nai: buổi sáng hok đi bắt bướm. xong buổi chiêề đợi =))
+[02:20:59]: [Say] (KU_LI3oE69O) Thỏ Nâu: anh y kien ?
+[02:21:13]: [Say] (KU_QSHhEiJ2) Nai: hok dám = )))
+[02:21:16]: [Leave Announcement] 󰀉Rosé󰀈
+[02:22:14]: [Say] (KU_LI3oE69O) Thỏ Nâu: may cd ong kiem chuyen z
+[02:22:19]: [Say] (KU_LI3oE69O) Thỏ Nâu: d bat nua
+[02:22:32]: [Say] (KU_QSHhEiJ2) Nai: ec
+[02:22:48]: [Say] (KU_QSHhEiJ2) Nai: tàn sát ong lun
+[02:23:07]: [Join Announcement] 󰀉Rosé󰀈
+[02:23:07]: [Say] (KU_LI3oE69O) Thỏ Nâu: ý anh kêu em phá hoại hả
+[02:24:25]: [Say] (KU_LI3oE69O) Thỏ Nâu: vl cho
+[02:24:45]: [Say] (KU_QSHhEiJ2) Nai: cứ dụ cho cho abi đánh là đc
+[02:26:08]: [Skin Announcement] Nai body_polo_blue_denim
+[02:26:15]: [Say] (KU_hjXTct1p) UTD: di hoi
+[02:26:23]: [Say] (KU_LI3oE69O) Thỏ Nâu: 2 ng di dau zay
+[02:26:29]: [Say] (KU_hjXTct1p) UTD: xúc nền
+[02:26:30]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đi đảo mtt
+[02:28:18]: [Say] (KU_QSHhEiJ2) Nai:  I have 7 mourning glorys.
+[02:29:36]: [Say] (KU_QSHhEiJ2) Nai: đ hiểu kiểu gì def sói xong lòi ra 1 con đang cắn máy bắn đá =))
+[02:29:46]: [Say] (KU_LI3oE69O) Thỏ Nâu: = )))
+[02:29:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: tat ca la tai nai
+[02:31:03]: [Say] (KU_LI3oE69O) Thỏ Nâu: vl xao mình xúc nhiều bezzy thế nhỉ
+[02:31:37]: [Say] (KU_LI3oE69O) Thỏ Nâu: qua khen
+[02:33:39]: [Say] (KU_LI3oE69O) Thỏ Nâu: ngiu hok di ang com ha
+[02:35:16]: [Skin Announcement] 󰀉Rosé󰀈 feet_ankleboot_brown_beaver
+[02:42:01]: [Leave Announcement] Thỏ Nâu
+[02:43:02]: [Say] (KU_hjXTct1p) UTD:  I have 60 boards.
+[02:47:13]: [Announcement] 30s until server clean
+[02:47:23]: [Announcement] 30s until server clean
+[02:49:28]: [Leave Announcement] 󰀉Rosé󰀈
+[02:49:51]: [Say] (KU_QSHhEiJ2) Nai: Nai nghỉ đây
+[02:49:53]: [Say] (KU_QSHhEiJ2) Nai: bai UTD
+[02:49:55]: [Say] (KU_hjXTct1p) UTD: bai nai
+[02:50:20]: [Leave Announcement] Nai
+[02:53:23]: [Leave Announcement] UTD
