@@ -1,0 +1,55 @@
+[00:26:47]: [Join Announcement] Thỏ Nâu
+[00:34:58]: [Join Announcement] Momiji
+[00:35:04]: [Say] (KU_hjXTctx_) Momiji: hi
+[00:35:10]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko momi iu
+[00:38:57]: [Join Announcement] UTD
+[00:39:38]: [Say] (KU_hjXTct1p) UTD: cứu anh i chou ơi >.<
+[00:39:43]: [Say] (KU_LI3oE69O) Thỏ Nâu: kieu gi
+[00:39:49]: [Say] (KU_hjXTct1p) UTD: làm tim qua đây cứu nà
+[00:40:04]: [Say] (KU_LI3oE69O) Thỏ Nâu: em lay amulet dc k
+[00:40:08]: [Say] (KU_hjXTct1p) UTD: dc >.<
+[00:40:12]: [Say] (KU_LI3oE69O) Thỏ Nâu: dang
+[00:40:14]: [Say] (KU_hjXTctx_) Momiji:  I have a belt of hunger with 100% durability.
+[00:40:38]: [Say] (KU_hjXTctx_) Momiji: dói
+[00:40:42]: [Say] (KU_hjXTct1p) UTD: worm đây k nhảy má ơi
+[00:40:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: nguoi thanh cong co loi di rieng
+[00:41:03]: [Say] (KU_hjXTct1p) UTD: =))) thế em thành công chưa
+[00:41:13]: [Say] (KU_LI3oE69O) Thỏ Nâu: noi tieng nua cho chet luon bh
+[00:41:18]: [Say] (KU_hjXTct1p) UTD: huhu
+[00:41:29]: [Resurrect Announcement] UTD was resurrected by Life Giving Amulet.
+[00:41:49]: [Say] (KU_hjXTctx_) Momiji: kiếm cái gậy đi bộ với
+[00:41:53]: [Leave Announcement] Thỏ Nâu
+[00:45:55]: [Say] (KU_hjXTct1p) UTD: ne`
+[00:46:07]: [Say] (KU_hjXTct1p) UTD: đổi nv hả
+[00:46:14]: [Say] (KU_hjXTctx_) Momiji: đổi ty
+[00:46:14]: [Say] (KU_hjXTct1p) UTD: đợi t triệu hồi twin đã
+[00:46:39]: [Say] (KU_hjXTctx_) Momiji: khi nào xong nói t vào
+[00:46:43]: [Say] (KU_hjXTct1p) UTD: ok
+[00:47:11]: [Say] (KU_hjXTct1p) UTD: clm sao cooldown r
+[00:47:14]: [Say] (KU_hjXTct1p) UTD: vô đi
+[00:47:16]: [Say] (KU_hjXTct1p) UTD: nó lỗi r
+[00:53:01]: [Say] (KU_hjXTct1p) UTD: thôi t off cho bạn mượn máy
+[00:53:13]: [Say] (KU_hjXTctx_) Momiji: t tắt server luôn
+[00:53:30]: [Say] (KU_hjXTct1p) UTD: chó
+[00:53:48]: [Say] (KU_hjXTct1p) UTD: mỗi lần nai chơi
+[00:53:56]: [Say] (KU_hjXTct1p) UTD: là cái khu def của t lại hư
+[00:54:08]: [Say] (KU_hjXTctx_) Momiji: cái mob queue mới ngon thật sự
+[00:54:11]: [Join Announcement] Thỏ Nâu
+[00:54:16]: [Say] (KU_hjXTctx_) Momiji: trồng cây đỡ khổ
+[00:54:25]: [Say] (KU_hjXTct1p) UTD: t chưa add nữa
+[00:54:38]: [Leave Announcement] UTD
+[00:54:46]: [Say] (KU_hjXTctx_) Momiji: thôi để server thỏ chơi nha
+[00:55:04]: [Say] (KU_LI3oE69O) Thỏ Nâu: then kiu momii
+[00:55:20]: [Leave Announcement] Momiji
+[00:57:20]: [Skin Announcement] Thỏ Nâu feet_buckle_shoe_black_jet
+[01:00:34]: [Join Announcement] Momiji
+[01:06:43]: [Announcement] 30s until server clean
+[01:06:59]: [Announcement] 30s until server clean
+[01:38:48]: [Say] (KU_LI3oE69O) Thỏ Nâu: deer thi lam gi momi
+[01:41:24]: [Leave Announcement] Thỏ Nâu
+[01:43:26]: [Death Announcement] Momiji was killed by Starvation. He became a spooky ghost!
+[01:46:47]: [Announcement] 30s until server clean
+[01:47:05]: [Announcement] 30s until server clean
+[01:47:24]: [Resurrect Announcement] Momiji was resurrected by Celestial Portal.
+[01:48:13]: [Skin Announcement] Momiji shovel_invisible
+[01:52:39]: [Leave Announcement] Momiji

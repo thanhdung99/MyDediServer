@@ -1,55 +1,137 @@
-[00:26:47]: [Join Announcement] Thỏ Nâu
-[00:34:58]: [Join Announcement] Momiji
-[00:35:04]: [Say] (KU_hjXTctx_) Momiji: hi
-[00:35:10]: [Say] (KU_LI3oE69O) Thỏ Nâu: hekko momi iu
-[00:38:57]: [Join Announcement] UTD
-[00:39:38]: [Say] (KU_hjXTct1p) UTD: cứu anh i chou ơi >.<
-[00:39:43]: [Say] (KU_LI3oE69O) Thỏ Nâu: kieu gi
-[00:39:49]: [Say] (KU_hjXTct1p) UTD: làm tim qua đây cứu nà
-[00:40:04]: [Say] (KU_LI3oE69O) Thỏ Nâu: em lay amulet dc k
-[00:40:08]: [Say] (KU_hjXTct1p) UTD: dc >.<
-[00:40:12]: [Say] (KU_LI3oE69O) Thỏ Nâu: dang
-[00:40:14]: [Say] (KU_hjXTctx_) Momiji:  I have a belt of hunger with 100% durability.
-[00:40:38]: [Say] (KU_hjXTctx_) Momiji: dói
-[00:40:42]: [Say] (KU_hjXTct1p) UTD: worm đây k nhảy má ơi
-[00:40:51]: [Say] (KU_LI3oE69O) Thỏ Nâu: nguoi thanh cong co loi di rieng
-[00:41:03]: [Say] (KU_hjXTct1p) UTD: =))) thế em thành công chưa
-[00:41:13]: [Say] (KU_LI3oE69O) Thỏ Nâu: noi tieng nua cho chet luon bh
-[00:41:18]: [Say] (KU_hjXTct1p) UTD: huhu
-[00:41:29]: [Resurrect Announcement] UTD was resurrected by Life Giving Amulet.
-[00:41:49]: [Say] (KU_hjXTctx_) Momiji: kiếm cái gậy đi bộ với
-[00:41:53]: [Leave Announcement] Thỏ Nâu
-[00:45:55]: [Say] (KU_hjXTct1p) UTD: ne`
-[00:46:07]: [Say] (KU_hjXTct1p) UTD: đổi nv hả
-[00:46:14]: [Say] (KU_hjXTctx_) Momiji: đổi ty
-[00:46:14]: [Say] (KU_hjXTct1p) UTD: đợi t triệu hồi twin đã
-[00:46:39]: [Say] (KU_hjXTctx_) Momiji: khi nào xong nói t vào
-[00:46:43]: [Say] (KU_hjXTct1p) UTD: ok
-[00:47:11]: [Say] (KU_hjXTct1p) UTD: clm sao cooldown r
-[00:47:14]: [Say] (KU_hjXTct1p) UTD: vô đi
-[00:47:16]: [Say] (KU_hjXTct1p) UTD: nó lỗi r
-[00:53:01]: [Say] (KU_hjXTct1p) UTD: thôi t off cho bạn mượn máy
-[00:53:13]: [Say] (KU_hjXTctx_) Momiji: t tắt server luôn
-[00:53:30]: [Say] (KU_hjXTct1p) UTD: chó
-[00:53:48]: [Say] (KU_hjXTct1p) UTD: mỗi lần nai chơi
-[00:53:56]: [Say] (KU_hjXTct1p) UTD: là cái khu def của t lại hư
-[00:54:08]: [Say] (KU_hjXTctx_) Momiji: cái mob queue mới ngon thật sự
-[00:54:11]: [Join Announcement] Thỏ Nâu
-[00:54:16]: [Say] (KU_hjXTctx_) Momiji: trồng cây đỡ khổ
-[00:54:25]: [Say] (KU_hjXTct1p) UTD: t chưa add nữa
-[00:54:38]: [Leave Announcement] UTD
-[00:54:46]: [Say] (KU_hjXTctx_) Momiji: thôi để server thỏ chơi nha
-[00:55:04]: [Say] (KU_LI3oE69O) Thỏ Nâu: then kiu momii
-[00:55:20]: [Leave Announcement] Momiji
-[00:57:20]: [Skin Announcement] Thỏ Nâu feet_buckle_shoe_black_jet
-[01:00:34]: [Join Announcement] Momiji
-[01:06:43]: [Announcement] 30s until server clean
-[01:06:59]: [Announcement] 30s until server clean
-[01:38:48]: [Say] (KU_LI3oE69O) Thỏ Nâu: deer thi lam gi momi
-[01:41:24]: [Leave Announcement] Thỏ Nâu
-[01:43:26]: [Death Announcement] Momiji was killed by Starvation. He became a spooky ghost!
-[01:46:47]: [Announcement] 30s until server clean
-[01:47:05]: [Announcement] 30s until server clean
-[01:47:24]: [Resurrect Announcement] Momiji was resurrected by Celestial Portal.
-[01:48:13]: [Skin Announcement] Momiji shovel_invisible
-[01:52:39]: [Leave Announcement] Momiji
+[06:08:18]: [Join Announcement] 󰀉Rosé󰀈
+[06:13:18]: [Join Announcement] UTD
+[06:13:27]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hiíi
+[06:13:31]: [Say] (KU_hjXTct1p) UTD: as
+[06:13:38]: [Say] (KU_hjXTct1p) UTD: his eiu
+[06:13:42]: [Say] (KU_hjXTct1p) UTD: eiu xem nè
+[06:13:47]: [Say] (KU_hjXTct1p) UTD: ._.
+[06:13:55]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hãaa
+[06:14:03]: [Say] (KU_hjXTct1p) UTD: cái khu def chó
+[06:14:09]: [Say] (KU_hjXTct1p) UTD: ai đập vỡ hết r
+[06:14:13]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: whutt ;
+[06:14:17]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈:  I have 88 moon rocks.
+[06:14:43]: [Say] (KU_hjXTct1p) UTD: ảo chưa
+[06:14:50]: [Say] (KU_hjXTct1p) UTD: đập nát hết luôn á
+[06:15:30]: [Say] (KU_hjXTct1p) UTD: cho chồng ít mrocks
+[06:15:37]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nghi mưa ếch quá z ;
+[06:15:41]: [Say] (KU_hjXTct1p) UTD:  There are 20 days left in Spring.
+[06:15:44]: [Say] (KU_hjXTct1p) UTD: mới xuân mà
+[06:15:55]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: qua anh có chơi hongg
+[06:16:02]: [Say] (KU_hjXTct1p) UTD: anh vô tí
+[06:16:06]: [Say] (KU_hjXTct1p) UTD: rồi out
+[06:16:11]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chắc bị từ qua ùi
+[06:16:12]: [Say] (KU_hjXTct1p) UTD: ne`
+[06:16:16]: [Say] (KU_hjXTct1p) UTD: coi ne`
+[06:16:31]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: chắc deer ùi
+[06:16:32]: [Say] (KU_hjXTct1p) UTD: deer mịa r
+[06:16:36]: [Say] (KU_hjXTct1p) UTD: roll k
+[06:16:38]: [Say] (KU_hjXTct1p) UTD: >.<
+[06:16:45]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: roll mấy ngàyy
+[06:16:46]: [Say] (KU_hjXTct1p) UTD: uổng mắt deer
+[06:17:33]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[06:17:36]: [Say] (KU_hjXTct1p) UTD: á đù
+[06:18:50]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: cho em ít nf i
+[06:18:53]: [Say] (KU_hjXTct1p) UTD:  I have 19 nightmare fuels.
+[06:18:57]: [Say] (KU_hjXTct1p) UTD: để anh farm
+[06:20:50]: [Say] (KU_hjXTct1p) UTD: tối deer ra
+[06:21:59]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: tối nay hãa
+[06:22:02]: [Say] (KU_hjXTct1p) UTD: ye
+[06:24:10]: [Default Announcement] Fires near 󰀉Rosé󰀈 were extinguished
+[06:24:19]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hỏa hoạn quá z
+[06:24:27]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: xóa sao giùm em ii
+[06:24:51]: [Default Announcement] Fires near 󰀉Rosé󰀈 were extinguished
+[06:24:57]: [Say] (KU_hjXTct1p) UTD: deer
+[06:26:32]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[06:26:41]: [Say] (KU_hjXTct1p) UTD: backstep lỗi ùi
+[06:26:57]: [Default Announcement] Burnt structures near 󰀉Rosé󰀈 have been repaired
+[06:27:02]: [Default Announcement] Burnt structures near UTD have been repaired
+[06:27:32]: [Say] (KU_hjXTct1p) UTD: ye
+[06:27:38]: [Resurrect Announcement] UTD was resurrected by 󰀉Rosé󰀈.
+[06:27:54]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: nó đập cái lò rr
+[06:28:02]: [Say] (KU_hjXTct1p) UTD: >.<
+[06:29:43]: [Say] (KU_hjXTct1p) UTD: tí vợ khiêng lại nha
+[06:29:47]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: okii
+[06:30:46]: [Say] (KU_hjXTct1p) UTD: oki r
+[06:30:49]: [Say] (KU_hjXTct1p) UTD: vợ xếp i
+[06:30:52]: [Say] (KU_hjXTct1p) UTD: anh farm cho
+[06:31:34]: [Say] (KU_hjXTct1p) UTD: cần giáp hơm
+[06:31:39]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hơmm
+[06:35:38]: [Say] (KU_hjXTct1p) UTD: anh farm tusk
+[06:35:50]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: đi iii
+[06:35:59]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: mà base mình đủ tusk ùi màa
+[06:36:48]: [Say] (KU_hjXTct1p) UTD: làm thêm tele wanda
+[06:37:30]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: em đang đọc tc ;
+[06:37:49]: [Join Announcement] Momiji
+[06:39:01]: [Say] (KU_hjXTct1p) UTD: eiu
+[06:39:04]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hãaa
+[06:39:08]: [Say] (KU_hjXTct1p) UTD: tí về
+[06:39:16]: [Say] (KU_hjXTct1p) UTD: xây 1 ô bé bé
+[06:39:21]: [Say] (KU_hjXTct1p) UTD: nhốt cầu thiên thể
+[06:39:29]: [Say] (KU_hjXTct1p) UTD: với làm chest bỏ đá mt nhỉ
+[06:39:31]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: ô dìi
+[06:39:32]: [Say] (KU_hjXTct1p) UTD: :v cho đẹp
+[06:39:36]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: okii
+[06:39:47]: [Say] (KU_hjXTct1p) UTD: dựng tượng lên á
+[06:40:04]: [Say] (KU_hjXTct1p) UTD: đập lò nhiệt giữa base ha
+[06:51:21]: [Skin Announcement] UTD body_flannel_orange_lumberjack
+[06:58:06]: [Announcement] 30s until server clean
+[06:58:08]: [Announcement] 30s until server clean
+[07:08:40]: [Say] (KU_hjXTct1p) UTD: oki
+[07:12:35]: [Say] (KU_hjXTct1p) UTD: có r
+[07:12:56]: [Say] (KU_hjXTctx_) Momiji: t làm collection
+[07:13:06]: [Say] (KU_hjXTct1p) UTD: có sầu riêng r ba
+[07:13:16]: [Say] (KU_hjXTct1p) UTD: rởm
+[07:13:20]: [Say] (KU_hjXTct1p) UTD: dăm ba quả bé
+[07:13:23]: [Say] (KU_hjXTct1p) UTD: đòi solo :v
+[07:15:00]: [Skin Announcement] 󰀉Rosé󰀈 feet_wx78_ice
+[07:16:19]: [Say] (KU_hjXTct1p) UTD:  I have 17 meats, and this one has 100% freshness.
+[07:16:42]: [Say] (KU_hjXTctx_) Momiji: w
+[07:16:53]: [Say] (KU_hjXTct1p) UTD: eiu
+[07:16:58]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: sao áa
+[07:17:01]: [Say] (KU_hjXTct1p) UTD: thu stone fruit i
+[07:17:08]: [Say] (KU_hjXTct1p) UTD: xây thêm nhà heo
+[07:17:12]: [Say] (KU_hjXTctx_) Momiji: dang định hoàn thành cái collectiong
+[07:17:27]: [Say] (KU_hjXTct1p) UTD: trồng đi
+[07:17:33]: [Say] (KU_hjXTct1p) UTD: dg mùa xuân kìa
+[07:17:45]: [Say] (KU_hjXTctx_) Momiji: vấn đề không có quả to hơn
+[07:17:57]: [Say] (KU_hjXTct1p) UTD: quả to làm gì
+[07:18:15]: [Say] (KU_hjXTctx_) Momiji: chụp ảnh trong phần collection ấy
+[07:18:21]: [Say] (KU_hjXTct1p) UTD: vl
+[07:18:24]: [Say] (KU_hjXTct1p) UTD: rảnh v
+[07:20:20]: [Say] (KU_hjXTctx_) Momiji: roll được hem
+[07:20:30]: [Say] (KU_hjXTctx_) Momiji: cho bỏ quả lên cái
+[07:21:33]: [Say] (KU_hjXTctx_) Momiji: chu ki sau cũng khó có quả lớn hơn cái của m
+[07:21:52]: [Say] (KU_hjXTctx_) Momiji: hay xây giúp cái cân riêng đi
+[07:22:00]: [Say] (KU_hjXTctx_) Momiji: làm xong rồi đập
+[07:23:56]: [Say] (KU_hjXTct1p) UTD: em
+[07:24:00]: [Say] (KU_hjXTct1p) UTD: lấy anh cái búa i
+[07:24:04]: [Say] (KU_hjXTct1p) UTD: với ván gỗ
+[07:27:09]: [Say] (KU_hjXTct1p) UTD: em
+[07:27:10]: [Say] (KU_hjXTct1p) UTD: :((
+[07:27:13]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: sao áa
+[07:27:15]: [Say] (KU_hjXTct1p) UTD: sang đây anh nói này
+[07:27:20]: [Say] (KU_hjXTct1p) UTD: mang theo ván gỗ
+[07:27:22]: [Say] (KU_hjXTct1p) UTD: đá
+[07:27:28]: [Say] (KU_hjXTct1p) UTD: gỗ thuờng nữa
+[07:27:34]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: anh dang ở âu áa
+[07:27:39]: [Say] (KU_hjXTct1p) UTD: df
+[07:27:43]: [Say] (KU_hjXTct1p) UTD: à
+[07:27:46]: [Say] (KU_hjXTctx_) Momiji: đdủ rồi hem cần nữa
+[07:27:50]: [Say] (KU_hjXTct1p) UTD: mang theo dây nữa
+[07:28:25]: [Say] (KU_2duLJbwr) 󰀉Rosé󰀈: hnhu hếc đá ùi
+[07:28:32]: [Say] (KU_hjXTct1p) UTD: khỏi cũng dc
+[07:28:42]: [Say] (KU_hjXTct1p) UTD: 2 stack logs
+[07:28:51]: [Say] (KU_hjXTct1p) UTD: với dây thừng
+[07:28:54]: [Say] (KU_hjXTct1p) UTD: 4 dyâ
+[07:32:26]: [Say] (KU_hjXTct1p) UTD:  I need 2 more cut grass to make a hammer.
+[07:33:32]: [Death Announcement] Momiji was killed by Freezing. He became a spooky ghost!
+[07:34:44]: [Resurrect Announcement] Momiji was resurrected by Life Giving Amulet.
+[07:36:01]: [Say] (KU_hjXTct1p) UTD:  We have 10 moon shards in this chest.
+[07:38:08]: [Announcement] 30s until server clean
+[07:38:11]: [Announcement] 30s until server clean
+[07:39:47]: [Leave Announcement] Momiji
+[07:41:52]: [Leave Announcement] 󰀉Rosé󰀈
+[07:41:52]: [Leave Announcement] UTD
+[07:49:59]: [Join Announcement] Momiji
+[08:02:29]: [Skin Announcement] Momiji legs_wurt_shadow
+[08:14:51]: [Leave Announcement] Momiji
