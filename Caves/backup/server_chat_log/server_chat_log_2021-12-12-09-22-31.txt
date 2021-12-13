@@ -1,0 +1,20 @@
+[00:37:17]: [Join Announcement] 󰀉Potato󰀉
+[00:37:48]: [Leave Announcement] 󰀉Potato󰀉
+[00:42:36]: [Join Announcement] 󰀉Potato󰀉
+[00:43:41]: [Leave Announcement] 󰀉Potato󰀉
+[01:23:13]: [Join Announcement] 󰀉Potato󰀉
+[01:23:55]: [Leave Announcement] 󰀉Potato󰀉
+[01:31:29]: [Join Announcement] 󰀉Potato󰀉
+[01:31:54]: [Leave Announcement] 󰀉Potato󰀉
+[01:35:31]: [Join Announcement] 󰀉Potato󰀉
+[01:35:45]: [Death Announcement] 󰀉Potato󰀉 was killed by Crawling Horror. He became a spooky ghost!
+[01:35:56]: [Leave Announcement] 󰀉Potato󰀉
+[01:39:32]: [Join Announcement] 󰀉Potato󰀉
+[01:40:47]: [Resurrect Announcement] 󰀉Potato󰀉 was resurrected by Life Giving Amulet.
+[01:41:24]: [Leave Announcement] 󰀉Potato󰀉
+[01:44:43]: [Join Announcement] 󰀉Potato󰀉
+[01:44:57]: [Death Announcement] 󰀉Potato󰀉 was killed by Frog. He became a spooky ghost!
+[01:45:28]: [Resurrect Announcement] 󰀉Potato󰀉 was resurrected by Life Giving Amulet.
+[02:20:15]: [Announcement] 30s until server clean
+[02:20:21]: [Announcement] 30s until server clean
+[02:20:56]: [Leave Announcement] 󰀉Potato󰀉

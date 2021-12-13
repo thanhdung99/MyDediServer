@@ -1,17 +1,17 @@
 [00:00:00]: PersistRootStorage is now /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/Caves/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 487848
-[00:00:00]: Current time: Sun Dec 12 09:22:30 2021
+[00:00:00]: Current time: Sun Dec  5 07:29:43 2021
 
 [00:00:00]: Don't Starve Together: 487848 OSX
 [00:00:00]: Build Date: 6466
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 2717 -shard Caves 
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 1909 -shard Caves 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (12993277952)
+[00:00:00]: THREAD - started 'GAClient' (13109506048)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
@@ -22,13 +22,13 @@
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
 [00:00:00]: [Steam] SteamGameServer_Init(11001, 27019)
 [00:00:01]: [Steam] SteamGameServer_Init success
-[00:00:01]: ProfileIndex:4.88
+[00:00:01]: ProfileIndex:4.67
 [00:00:01]: [Connect] PendingConnection::Reset(true)
-[00:00:01]: THREAD - started 'Ping Job Thread' (13002813440)
+[00:00:01]: THREAD - started 'Ping Job Thread' (13119041536)
 [00:00:01]: Platform: 1
 [00:00:01]: Network tick rate: U=15(2), D=0
 [00:00:01]: Network tick rate: U=15(2), D=0
-[00:00:01]: THREAD - started 'StreamInput' (13004922880)
+[00:00:01]: THREAD - started 'StreamInput' (13121150976)
 [00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
 [00:00:01]: OnLoadPermissionList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Success)
 [00:00:01]: OnLoadUserIdList: /Users/dungmacbook/Documents/Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
@@ -54,7 +54,7 @@
     name                      
     driverVersion             
     driverDate                
-    refreshRate               105158016
+    refreshRate               220829056
 
 [00:00:01]: cGame::InitializeOnMainThread
 [00:00:01]: Renderer initialize: Okay
@@ -333,10 +333,10 @@
 [00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
 [00:00:02]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
 [00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modworldgenmain.lua	
 [00:00:03]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Loading modmain.lua	
 [00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	Loading modworldgenmain.lua	
 [00:00:03]: Mod: workshop-1777789373 (Disable World Regrowth)	  Mod had no modworldgenmain.lua. Skipping.	
@@ -433,54 +433,54 @@
 [00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
 [00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
 [00:00:05]: 	Load FE	
-[00:00:06]: THREAD - started 'FilesExistAsyncThread' (13008093184)
 [00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (13124321280)
 [00:00:06]: FilesExistAsyncThread started (18788 files)...
 [00:00:06]: Check for write access: TRUE
 [00:00:06]: Check for read access: TRUE
-[00:00:06]: Available disk space for save files: 10207969 MB
+[00:00:06]: Available disk space for save files: 11407332 MB
 [00:00:06]: ModIndex: Load sequence finished successfully.	
 [00:00:06]: Reset() returning
-[00:00:06]: [200] Account Communication Success (6)
-[00:00:06]: Received (KU_hjXTctx_) from TokenPurpose
-[00:00:06]: Starting Dedicated Server Game	
-[00:00:06]: Network tick rate: U=15(2), D=0
-[00:00:06]: About to start a server with the following settings:
-[00:00:06]:   Dedicated: true
-[00:00:06]:   Online: true
-[00:00:06]:   Passworded: true
-[00:00:06]:   ServerPort: 11001
-[00:00:06]:   SteamAuthPort: 8769
-[00:00:06]:   SteamMasterServerPort: 27019
-[00:00:06]:   ClanID: false
-[00:00:06]:   ClanOnly: false
-[00:00:06]:   ClanAdmin: false
-[00:00:06]:   LanOnly: false
-[00:00:06]:   FriendsOnly: false
-[00:00:06]:   EnableAutosaver: true
-[00:00:06]:   EncodeUserPath: true
-[00:00:06]:   PVP: false
-[00:00:06]:   MaxPlayers: 10
-[00:00:06]:   GameMode: endless
-[00:00:06]:   OverridenDNS: 
-[00:00:06]:   PauseWhenEmpty: true
-[00:00:06]:   IdleTimeout: 1800s
-[00:00:06]:   VoteEnabled: true
-[00:00:06]:   InternetBroadcasting: true
-[00:00:06]:   Intent: cooperative
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-462372013	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:07]: [200] Account Communication Success (6)
+[00:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[00:00:07]: Starting Dedicated Server Game	
+[00:00:07]: Network tick rate: U=15(2), D=0
+[00:00:07]: About to start a server with the following settings:
+[00:00:07]:   Dedicated: true
+[00:00:07]:   Online: true
+[00:00:07]:   Passworded: true
+[00:00:07]:   ServerPort: 11001
+[00:00:07]:   SteamAuthPort: 8769
+[00:00:07]:   SteamMasterServerPort: 27019
+[00:00:07]:   ClanID: false
+[00:00:07]:   ClanOnly: false
+[00:00:07]:   ClanAdmin: false
+[00:00:07]:   LanOnly: false
+[00:00:07]:   FriendsOnly: false
+[00:00:07]:   EnableAutosaver: true
+[00:00:07]:   EncodeUserPath: true
+[00:00:07]:   PVP: false
+[00:00:07]:   MaxPlayers: 10
+[00:00:07]:   GameMode: endless
+[00:00:07]:   OverridenDNS: 
+[00:00:07]:   PauseWhenEmpty: true
+[00:00:07]:   IdleTimeout: 1800s
+[00:00:07]:   VoteEnabled: true
+[00:00:07]:   InternetBroadcasting: true
+[00:00:07]:   Intent: cooperative
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2477889104	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1416161108	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-462372013	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2373951100	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-666155465	
 [00:00:07]: Online Server Started on port: 11001
 [00:00:07]: SUCCESS: Loaded modoverrides.lua	
 [00:00:07]: Not applying level data overrides.	
 [00:00:07]: Found a worldgen override file with these contents:	
 [00:00:07]: 	K: 	override_enabled	 V: 	true	
-[00:00:07]: 	K: 	overrides	 V: 	table: 0x600004b74f00	
+[00:00:07]: 	K: 	overrides	 V: 	table: 0x6000012d86c0	
 [00:00:07]: 	K: 	settings_preset	 V: 	DST_CAVE	
 [00:00:07]: 	K: 	worldgen_preset	 V: 	DST_CAVE	
 [00:00:07]:   sanity-checking worldgenoverride.lua...	
@@ -489,7 +489,7 @@
 [00:00:07]:   contained settings preset DST_CAVE, loading...	
 [00:00:07]: Overwriting savedata with override file.	
 [00:00:07]: Collecting garbage...
-[00:00:07]: lua_gc took 0.03 seconds
+[00:00:07]: lua_gc took 0.04 seconds
 [00:00:07]: ~ShardLuaProxy()
 [00:00:07]: ~cEventLeaderboardProxy()
 [00:00:07]: ~ItemServerLuaProxy()
@@ -498,7 +498,7 @@
 [00:00:07]: ~SimLuaProxy()
 [00:00:07]: FilesExistAsyncThread aborted.
 [00:00:07]: ... FilesExistAsyncThread complete
-[00:00:07]: lua_close took 0.04 seconds
+[00:00:07]: lua_close took 0.05 seconds
 [00:00:07]: ReleaseAll
 [00:00:07]: ReleaseAll Finished
 [00:00:07]: cGame::StartPlaying
@@ -783,31 +783,31 @@
 [00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
 [00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
 [00:00:07]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
-[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
-[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:07]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
-[00:00:07]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
-[00:00:07]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:07]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
-[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
-[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
-[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
-[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
-[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
-[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
-[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-462372013 (Always fresh)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-462372013 (Always fresh)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-462372013 (Always fresh)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373951100	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1777789373	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462372013	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-928691537	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1803285852	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1416161108	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2629184121	
+[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
 [00:00:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
 [00:00:10]: LOADING LUA SUCCESS
 [00:00:10]: Registering Server mod namespace "workshop-1416161108"
@@ -820,7 +820,7 @@
 [00:00:10]: bloom_enabled	true	
 [00:00:10]: OnFilesLoaded()	
 [00:00:10]: OnUpdatePurchaseStateComplete	
-[00:00:10]: Loading world: session/A3B1C5ED4C617339/0000000708	
+[00:00:10]: Loading world: session/A3B1C5ED4C617339/0000000702	
 [00:00:10]: Save file is at version 5.09	
 [00:00:10]: Klump load on boot started.	
 [00:00:10]: Klump files loaded: 	0	
@@ -835,84 +835,84 @@
 [00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    sprinkler	
 [00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    reapwhatyousow_sprinkler_placer	
 [00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_spray	
-[00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
-[00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
-[00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
-[00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
-[00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
-[00:00:15]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
-[00:00:15]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
-[00:00:15]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
-[00:00:15]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
-[00:00:15]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
-[00:00:15]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
-[00:00:15]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
-[00:00:15]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
-[00:00:15]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:15]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
-[00:00:15]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
-[00:00:15]: 	LOAD BE	
+[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_spray	
+[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/water_pipe	
+[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    water_pipe	
+[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering prefab file: prefabs/rain_drop	
+[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	    rain_drop	
+[00:00:16]: Mod: workshop-2373951100 ([DST] [Configurable] Sprinkler)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-2629184121 (Server Cleaner)	Registering prefabs	
+[00:00:16]: Mod: workshop-2629184121 (Server Cleaner)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:16]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:16]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	Registering prefabs	
+[00:00:16]: Mod: workshop-928691537 (Force Reed Trap Set Piece Generation)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-1777789373 (Disable World Regrowth)	Registering prefabs	
+[00:00:16]: Mod: workshop-1777789373 (Disable World Regrowth)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
+[00:00:16]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	Registering prefabs	
+[00:00:16]: Mod: workshop-1803285852 (Auto Stack and Pick Up)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-462372013 (Always fresh)	Registering prefabs	
+[00:00:16]: Mod: workshop-462372013 (Always fresh)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:16]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:16]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:16]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:16]: 	LOAD BE	
 [00:00:21]: 	LOAD BE: done	
 [00:00:21]: Begin Session: A3B1C5ED4C617339
-[00:00:21]: saving to server_temp/server_save	
-[00:00:21]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:00:21]: Loading 18 new character(s)	
+[00:00:22]: saving to server_temp/server_save	
+[00:00:22]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:22]: Loading 18 new character(s)	
 [00:00:22]: Total 18 character(s) loaded	
 [00:00:25]: Loading Nav Grid	
 [00:00:25]: World generated on build 486838 with save version: 5.09, using seed: 1637556338	
 [00:00:25]: setting 	summerlength	15	
-[00:00:25]: setting 	cavemoonphase	quarter	
+[00:00:25]: setting 	cavemoonphase	half	
 [00:00:25]: setting 	iscavefullmoon	false	
 [00:00:25]: setting 	isnightmaredawn	false	
-[00:00:25]: setting 	elapseddaysinseason	15	
+[00:00:25]: setting 	elapseddaysinseason	10	
 [00:00:25]: setting 	isfullmoon	false	
-[00:00:25]: setting 	moisture	881.50109863281	
+[00:00:25]: setting 	moisture	907.96252441406	
 [00:00:25]: setting 	cavephase	dusk	
-[00:00:25]: setting 	iscavewaxingmoon	true	
-[00:00:25]: setting 	isnightmarewild	false	
-[00:00:25]: setting 	nightmaretimeinphase	0.57451040191164	
-[00:00:25]: setting 	precipitationrate	0.42054139809683	
+[00:00:25]: setting 	iscavewaxingmoon	false	
+[00:00:25]: setting 	isnightmarewild	true	
+[00:00:25]: setting 	nightmaretimeinphase	0.26942878328967	
+[00:00:25]: setting 	precipitationrate	0.73847907781601	
 [00:00:25]: setting 	iswet	true	
 [00:00:25]: setting 	isnewmoon	false	
 [00:00:25]: setting 	precipitation	rain	
 [00:00:25]: setting 	israining	true	
-[00:00:25]: setting 	isnightmarewarn	true	
+[00:00:25]: setting 	isnightmarewarn	false	
 [00:00:25]: setting 	iswinter	false	
 [00:00:25]: setting 	season	spring	
-[00:00:25]: setting 	remainingdaysinseason	5	
+[00:00:25]: setting 	remainingdaysinseason	10	
 [00:00:25]: setting 	winterlength	15	
 [00:00:25]: setting 	iscaveday	false	
-[00:00:25]: setting 	moistureceil	4876.0712890625	
+[00:00:25]: setting 	moistureceil	2716.7397460938	
 [00:00:25]: setting 	isday	false	
 [00:00:25]: setting 	springlength	20	
 [00:00:25]: setting 	wetness	100	
@@ -930,24 +930,24 @@
 [00:00:25]: setting 	issnowcovered	false	
 [00:00:25]: setting 	autumnlength	20	
 [00:00:25]: setting 	pop	1	
-[00:00:25]: setting 	nightmaretime	411.70593617205	
-[00:00:25]: setting 	seasonprogress	0.75	
+[00:00:25]: setting 	nightmaretime	490.41431749345	
+[00:00:25]: setting 	seasonprogress	0.5	
 [00:00:25]: setting 	moonphase	new	
-[00:00:25]: setting 	nightmarephase	warn	
-[00:00:25]: setting 	cycles	680	
-[00:00:25]: setting 	timeinphase	0.51964409237816	
+[00:00:25]: setting 	nightmarephase	wild	
+[00:00:25]: setting 	cycles	675	
+[00:00:25]: setting 	timeinphase	0.43375911712646	
 [00:00:25]: setting 	iscavenight	false	
 [00:00:25]: setting 	iscavenewmoon	false	
 [00:00:25]: setting 	issummer	false	
-[00:00:25]: setting 	temperature	25.5	
-[00:00:25]: setting 	time	0.60234429041545	
+[00:00:25]: setting 	temperature	16.994850515376	
+[00:00:25]: setting 	time	0.52937955856323	
 [00:00:25]: [Shard] Secondary shard is waiting for LUA...
-[00:00:29]: SWITCHING 	false	
-[00:00:29]: Reconstructing topology	
-[00:00:29]: 	...Sorting points	
-[00:00:29]: 	...Sorting edges	
-[00:00:29]: 	...Connecting nodes	
-[00:00:29]: 	...Validating connections	
+[00:00:30]: SWITCHING 	false	
+[00:00:30]: Reconstructing topology	
+[00:00:30]: 	...Sorting points	
+[00:00:30]: 	...Sorting edges	
+[00:00:30]: 	...Connecting nodes	
+[00:00:30]: 	...Validating connections	
 [00:00:30]: 	...Housekeeping	
 [00:00:30]: 	...Done!	
 [00:00:30]: 1 uploads added to server. From server_temp
@@ -962,20 +962,20 @@
 [00:00:30]: Telling Client our new session identifier: A3B1C5ED4C617339
 [00:00:30]: Check for write access: TRUE
 [00:00:30]: Check for read access: TRUE
-[00:00:30]: Available disk space for save files: 9943666 MB
+[00:00:30]: Available disk space for save files: 11141263 MB
 [00:00:30]: ModIndex: Load sequence finished successfully.	
 [00:00:30]: Reset() returning
 [00:00:30]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:31]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:31]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:31]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:31]: Validating portal[2] <-> 1[2] (inactive)	
 [00:00:31]: Validating portal[4] <-> 1[4] (inactive)	
 [00:00:31]: Validating portal[5] <-> 1[5] (inactive)	
 [00:00:31]: Validating portal[9] <-> 1[9] (inactive)	
 [00:00:31]: Validating portal[6] <-> 1[6] (inactive)	
-[00:00:31]: Validating portal[3] <-> 1[3] (inactive)	
-[00:00:31]: Validating portal[8] <-> 1[8] (inactive)	
-[00:00:31]: Validating portal[10] <-> 1[10] (inactive)	
-[00:00:31]: Validating portal[7] <-> 1[7] (inactive)	
-[00:00:31]: Validating portal[2] <-> 1[2] (inactive)	
 [00:00:31]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:31]: Validating portal[10] <-> 1[10] (inactive)	
 [00:00:31]: Could not find anim build FROMNUM
 [00:00:31]: Could not find anim build FROMNUM
 [00:00:31]: Could not find anim build FROMNUM
@@ -1000,127 +1000,441 @@
 [00:00:35]:   MasterPort: 10889
 [00:00:35]: [Shard] Connecting to master...
 [00:00:35]: [Shard] Sending secondary shard information to master...
-[00:00:36]: Overriding region to Sing
-[00:00:36]: Registering secondary shard in Sing lobby
-[00:00:37]: [Shard] secondary shard is now ready!
-[00:00:37]: World 1 is now connected	
-[00:00:37]: Validating portal[4] <-> 1[4] (active)	
-[00:00:37]: Validating portal[5] <-> 1[5] (active)	
-[00:00:37]: Validating portal[9] <-> 1[9] (active)	
-[00:00:37]: Validating portal[6] <-> 1[6] (active)	
-[00:00:37]: Validating portal[3] <-> 1[3] (active)	
-[00:00:37]: Validating portal[8] <-> 1[8] (active)	
-[00:00:37]: Validating portal[10] <-> 1[10] (active)	
-[00:00:37]: Validating portal[7] <-> 1[7] (active)	
-[00:00:37]: Validating portal[2] <-> 1[2] (active)	
-[00:00:37]: Validating portal[1] <-> 1[1] (active)	
-[00:00:38]: [Shard] secondary shard LUA is now ready!
-[00:00:38]: Sim paused
-[00:05:37]: Registering secondary shard in Sing lobby
-[00:10:37]: Registering secondary shard in Sing lobby
-[00:15:37]: Registering secondary shard in Sing lobby
-[00:20:37]: Registering secondary shard in Sing lobby
-[00:25:37]: Registering secondary shard in Sing lobby
+[00:00:35]: Overriding region to Sing
+[00:00:35]: Registering secondary shard in Sing lobby
+[00:00:36]: [Shard] secondary shard is now ready!
+[00:00:36]: World 1 is now connected	
+[00:00:36]: Validating portal[7] <-> 1[7] (active)	
+[00:00:36]: Validating portal[3] <-> 1[3] (active)	
+[00:00:36]: Validating portal[8] <-> 1[8] (active)	
+[00:00:36]: Validating portal[2] <-> 1[2] (active)	
+[00:00:36]: Validating portal[4] <-> 1[4] (active)	
+[00:00:36]: Validating portal[5] <-> 1[5] (active)	
+[00:00:36]: Validating portal[9] <-> 1[9] (active)	
+[00:00:36]: Validating portal[6] <-> 1[6] (active)	
+[00:00:36]: Validating portal[1] <-> 1[1] (active)	
+[00:00:36]: Validating portal[10] <-> 1[10] (active)	
+[00:00:37]: [Shard] secondary shard LUA is now ready!
+[00:00:37]: Sim paused
+[00:05:35]: Registering secondary shard in Sing lobby
+[00:10:35]: Registering secondary shard in Sing lobby
+[00:15:35]: Registering secondary shard in Sing lobby
+[00:20:35]: Registering secondary shard in Sing lobby
+[00:25:35]: Registering secondary shard in Sing lobby
 [00:30:07]: [200] Account Communication Success (6)
 [00:30:07]: Received (KU_hjXTctx_) from TokenPurpose
-[00:30:37]: Registering secondary shard in Sing lobby
-[00:35:37]: Registering secondary shard in Sing lobby
-[00:40:37]: Registering secondary shard in Sing lobby
-[00:45:37]: Registering secondary shard in Sing lobby
-[00:50:37]: Registering secondary shard in Sing lobby
-[00:55:37]: Registering secondary shard in Sing lobby
+[00:30:35]: Registering secondary shard in Sing lobby
+[00:35:35]: Registering secondary shard in Sing lobby
+[00:37:25]: Sim unpaused
+[00:37:49]: Sim paused
+[00:40:35]: Registering secondary shard in Sing lobby
+[00:42:46]: Sim unpaused
+[00:43:42]: Sim paused
+[00:45:35]: Registering secondary shard in Sing lobby
+[00:50:35]: Registering secondary shard in Sing lobby
+[00:55:35]: Registering secondary shard in Sing lobby
 [01:00:07]: [200] Account Communication Success (6)
 [01:00:07]: Received (KU_hjXTctx_) from TokenPurpose
-[01:00:37]: Registering secondary shard in Sing lobby
-[01:05:37]: Registering secondary shard in Sing lobby
-[01:10:37]: Registering secondary shard in Sing lobby
-[01:15:37]: Registering secondary shard in Sing lobby
-[01:20:37]: Registering secondary shard in Sing lobby
-[01:25:37]: Registering secondary shard in Sing lobby
-[01:30:06]: [200] Account Communication Success (6)
-[01:30:06]: Received (KU_hjXTctx_) from TokenPurpose
-[01:30:37]: Registering secondary shard in Sing lobby
-[01:35:37]: Registering secondary shard in Sing lobby
-[01:40:37]: Registering secondary shard in Sing lobby
-[01:45:37]: Registering secondary shard in Sing lobby
-[01:50:37]: Registering secondary shard in Sing lobby
-[01:55:37]: Registering secondary shard in Sing lobby
+[01:00:35]: Registering secondary shard in Sing lobby
+[01:05:36]: Registering secondary shard in Sing lobby
+[01:10:36]: Registering secondary shard in Sing lobby
+[01:15:36]: Registering secondary shard in Sing lobby
+[01:20:36]: Registering secondary shard in Sing lobby
+[01:23:19]: Sim unpaused
+[01:23:56]: Sim paused
+[01:25:36]: Registering secondary shard in Sing lobby
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[01:30:36]: Registering secondary shard in Sing lobby
+[01:31:35]: Sim unpaused
+[01:31:56]: Sim paused
+[01:35:36]: Registering secondary shard in Sing lobby
+[01:35:37]: Sim unpaused
+[01:35:58]: Sim paused
+[01:39:37]: Sim unpaused
+[01:40:36]: Registering secondary shard in Sing lobby
+[01:40:44]: Available disk space for save files: 10607966 MB
+[01:40:44]: Serializing world: session/A3B1C5ED4C617339/0000000703
+[01:40:44]: Truncating to snapshot #703...
+[01:40:44]:  - session/A3B1C5ED4C617339/0000000697
+[01:40:44]:    1 file(s) removed
+[01:41:25]: Sim paused
+[01:44:48]: Sim unpaused
+[01:45:36]: Registering secondary shard in Sing lobby
+[01:50:36]: Registering secondary shard in Sing lobby
+[01:52:08]: Available disk space for save files: 10615524 MB
+[01:52:08]: Serializing world: session/A3B1C5ED4C617339/0000000704
+[01:52:08]: Truncating to snapshot #704...
+[01:52:08]:  - session/A3B1C5ED4C617339/0000000698
+[01:52:08]:    1 file(s) removed
+[01:55:36]: Registering secondary shard in Sing lobby
 [02:00:07]: [200] Account Communication Success (6)
 [02:00:07]: Received (KU_hjXTctx_) from TokenPurpose
-[02:00:37]: Registering secondary shard in Sing lobby
-[02:05:37]: Registering secondary shard in Sing lobby
-[02:10:37]: Registering secondary shard in Sing lobby
-[02:15:37]: Registering secondary shard in Sing lobby
-[02:20:37]: Registering secondary shard in Sing lobby
-[02:25:37]: Registering secondary shard in Sing lobby
-[02:30:06]: [200] Account Communication Success (6)
-[02:30:06]: Received (KU_hjXTctx_) from TokenPurpose
-[02:30:37]: Registering secondary shard in Sing lobby
-[02:35:37]: Registering secondary shard in Sing lobby
-[02:40:37]: Registering secondary shard in Sing lobby
-[02:45:37]: Registering secondary shard in Sing lobby
-[02:50:37]: Registering secondary shard in Sing lobby
-[02:55:37]: Registering secondary shard in Sing lobby
-[03:00:06]: [200] Account Communication Success (6)
-[03:00:06]: Received (KU_hjXTctx_) from TokenPurpose
-[03:00:37]: Registering secondary shard in Sing lobby
-[03:05:37]: Registering secondary shard in Sing lobby
-[03:10:37]: Registering secondary shard in Sing lobby
-[03:15:37]: Registering secondary shard in Sing lobby
-[03:20:37]: Registering secondary shard in Sing lobby
-[03:25:37]: Registering secondary shard in Sing lobby
-[03:30:06]: [200] Account Communication Success (6)
-[03:30:06]: Received (KU_hjXTctx_) from TokenPurpose
-[03:30:37]: Registering secondary shard in Sing lobby
-[03:35:37]: Registering secondary shard in Sing lobby
-[03:40:37]: Registering secondary shard in Sing lobby
-[03:45:37]: Registering secondary shard in Sing lobby
-[03:50:37]: Registering secondary shard in Sing lobby
-[03:55:37]: Registering secondary shard in Sing lobby
-[04:00:06]: [200] Account Communication Success (6)
-[04:00:06]: Received (KU_hjXTctx_) from TokenPurpose
-[04:00:37]: Registering secondary shard in Sing lobby
-[04:05:37]: Registering secondary shard in Sing lobby
-[04:10:37]: Registering secondary shard in Sing lobby
-[04:15:37]: Registering secondary shard in Sing lobby
-[04:20:37]: Registering secondary shard in Sing lobby
-[04:25:37]: Registering secondary shard in Sing lobby
-[04:30:06]: [200] Account Communication Success (6)
-[04:30:06]: Received (KU_hjXTctx_) from TokenPurpose
-[04:30:37]: Registering secondary shard in Sing lobby
-[04:35:37]: Registering secondary shard in Sing lobby
-[04:40:37]: Registering secondary shard in Sing lobby
-[04:45:37]: Registering secondary shard in Sing lobby
-[04:50:37]: Registering secondary shard in Sing lobby
-[04:55:37]: Registering secondary shard in Sing lobby
+[02:00:08]: Available disk space for save files: 10612686 MB
+[02:00:08]: Serializing world: session/A3B1C5ED4C617339/0000000705
+[02:00:08]: Truncating to snapshot #705...
+[02:00:08]:  - session/A3B1C5ED4C617339/0000000699
+[02:00:08]:    1 file(s) removed
+[02:00:36]: Registering secondary shard in Sing lobby
+[02:05:36]: Registering secondary shard in Sing lobby
+[02:08:09]: Available disk space for save files: 10610839 MB
+[02:08:09]: Serializing world: session/A3B1C5ED4C617339/0000000706
+[02:08:09]: Truncating to snapshot #706...
+[02:08:09]:  - session/A3B1C5ED4C617339/0000000700
+[02:08:09]:    1 file(s) removed
+[02:10:36]: Registering secondary shard in Sing lobby
+[02:15:36]: Registering secondary shard in Sing lobby
+[02:16:09]: Available disk space for save files: 10608641 MB
+[02:16:09]: Serializing world: session/A3B1C5ED4C617339/0000000707
+[02:16:09]: Truncating to snapshot #707...
+[02:16:09]:  - session/A3B1C5ED4C617339/0000000701
+[02:16:09]:    1 file(s) removed
+[02:20:36]: Registering secondary shard in Sing lobby
+[02:20:57]: Sim paused
+[02:25:36]: Registering secondary shard in Sing lobby
+[02:30:07]: [200] Account Communication Success (6)
+[02:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[02:30:36]: Registering secondary shard in Sing lobby
+[02:35:36]: Registering secondary shard in Sing lobby
+[02:40:36]: Registering secondary shard in Sing lobby
+[02:45:36]: Registering secondary shard in Sing lobby
+[02:50:36]: Registering secondary shard in Sing lobby
+[02:55:36]: Registering secondary shard in Sing lobby
+[03:00:07]: [200] Account Communication Success (6)
+[03:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[03:00:36]: Registering secondary shard in Sing lobby
+[03:05:36]: Registering secondary shard in Sing lobby
+[03:10:36]: Registering secondary shard in Sing lobby
+[03:15:36]: Registering secondary shard in Sing lobby
+[03:20:36]: Registering secondary shard in Sing lobby
+[03:25:36]: Registering secondary shard in Sing lobby
+[03:30:07]: [200] Account Communication Success (6)
+[03:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[03:30:36]: Registering secondary shard in Sing lobby
+[03:35:36]: Registering secondary shard in Sing lobby
+[03:40:36]: Registering secondary shard in Sing lobby
+[03:45:36]: Registering secondary shard in Sing lobby
+[03:50:36]: Registering secondary shard in Sing lobby
+[03:55:36]: Registering secondary shard in Sing lobby
+[04:00:07]: [200] Account Communication Success (6)
+[04:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[04:00:36]: Registering secondary shard in Sing lobby
+[04:05:36]: Registering secondary shard in Sing lobby
+[04:10:36]: Registering secondary shard in Sing lobby
+[04:15:36]: Registering secondary shard in Sing lobby
+[04:20:36]: Registering secondary shard in Sing lobby
+[04:25:36]: Registering secondary shard in Sing lobby
+[04:30:07]: [200] Account Communication Success (6)
+[04:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[04:30:36]: Registering secondary shard in Sing lobby
+[04:35:36]: Registering secondary shard in Sing lobby
+[04:40:36]: Registering secondary shard in Sing lobby
+[04:45:36]: Registering secondary shard in Sing lobby
+[04:50:36]: Registering secondary shard in Sing lobby
+[04:55:36]: Registering secondary shard in Sing lobby
 [05:00:07]: [200] Account Communication Success (6)
 [05:00:07]: Received (KU_hjXTctx_) from TokenPurpose
-[05:00:37]: Registering secondary shard in Sing lobby
-[05:05:37]: Registering secondary shard in Sing lobby
-[05:10:37]: Registering secondary shard in Sing lobby
-[05:15:37]: Registering secondary shard in Sing lobby
-[05:20:37]: Registering secondary shard in Sing lobby
-[05:25:37]: Registering secondary shard in Sing lobby
-[05:30:06]: [200] Account Communication Success (6)
-[05:30:06]: Received (KU_hjXTctx_) from TokenPurpose
-[05:30:37]: Registering secondary shard in Sing lobby
-[05:32:47]: Available disk space for save files: 9643343 MB
-[05:32:48]: Serializing world: session/A3B1C5ED4C617339/0000000709
-[05:32:48]: Truncating to snapshot #709...
-[05:32:48]:  - session/A3B1C5ED4C617339/0000000703
-[05:32:48]:    1 file(s) removed
-[05:32:48]: [Shard] Stopping shard mode
-[05:32:48]: [Steam] SendUserDisconnect for ''
-[05:32:48]: Collecting garbage...
-[05:32:48]: lua_gc took 0.15 seconds
-[05:32:48]: ~ShardLuaProxy()
-[05:32:48]: ~cEventLeaderboardProxy()
-[05:32:48]: ~ItemServerLuaProxy()
-[05:32:48]: ~InventoryLuaProxy()
-[05:32:48]: ~NetworkLuaProxy()
-[05:32:48]: ~SimLuaProxy()
-[05:32:49]: lua_close took 0.24 seconds
-[05:32:49]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[05:32:49]: CurlRequestManager::ClientThread::Main() complete
-[05:32:49]: HttpClient2 discarded 0 callbacks.
-[05:32:49]: Shutting down
+[05:00:36]: Registering secondary shard in Sing lobby
+[05:05:36]: Registering secondary shard in Sing lobby
+[05:10:36]: Registering secondary shard in Sing lobby
+[05:15:36]: Registering secondary shard in Sing lobby
+[05:20:36]: Registering secondary shard in Sing lobby
+[05:25:36]: Registering secondary shard in Sing lobby
+[05:30:07]: [200] Account Communication Success (6)
+[05:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[05:30:36]: Registering secondary shard in Sing lobby
+[05:35:36]: Registering secondary shard in Sing lobby
+[05:40:36]: Registering secondary shard in Sing lobby
+[05:45:36]: Registering secondary shard in Sing lobby
+[05:50:36]: Registering secondary shard in Sing lobby
+[05:55:36]: Registering secondary shard in Sing lobby
+[06:00:07]: [200] Account Communication Success (6)
+[06:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[06:00:36]: Registering secondary shard in Sing lobby
+[06:05:36]: Registering secondary shard in Sing lobby
+[06:10:36]: Registering secondary shard in Sing lobby
+[06:15:36]: Registering secondary shard in Sing lobby
+[06:20:36]: Registering secondary shard in Sing lobby
+[06:25:36]: Registering secondary shard in Sing lobby
+[06:30:07]: [200] Account Communication Success (6)
+[06:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[06:30:36]: Registering secondary shard in Sing lobby
+[06:35:36]: Registering secondary shard in Sing lobby
+[06:40:36]: Registering secondary shard in Sing lobby
+[06:45:36]: Registering secondary shard in Sing lobby
+[06:50:36]: Registering secondary shard in Sing lobby
+[06:55:36]: Registering secondary shard in Sing lobby
+[07:00:07]: [200] Account Communication Success (6)
+[07:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[07:00:36]: Registering secondary shard in Sing lobby
+[07:05:36]: Registering secondary shard in Sing lobby
+[07:10:36]: Registering secondary shard in Sing lobby
+[07:15:36]: Registering secondary shard in Sing lobby
+[07:20:36]: Registering secondary shard in Sing lobby
+[07:25:36]: Registering secondary shard in Sing lobby
+[07:30:07]: [200] Account Communication Success (6)
+[07:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[07:30:36]: Registering secondary shard in Sing lobby
+[07:35:36]: Registering secondary shard in Sing lobby
+[07:40:36]: Registering secondary shard in Sing lobby
+[07:45:36]: Registering secondary shard in Sing lobby
+[07:50:36]: Registering secondary shard in Sing lobby
+[07:55:36]: Registering secondary shard in Sing lobby
+[08:00:07]: [200] Account Communication Success (6)
+[08:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[08:00:36]: Registering secondary shard in Sing lobby
+[08:05:36]: Registering secondary shard in Sing lobby
+[08:10:36]: Registering secondary shard in Sing lobby
+[08:15:36]: Registering secondary shard in Sing lobby
+[08:20:36]: Registering secondary shard in Sing lobby
+[08:25:36]: Registering secondary shard in Sing lobby
+[08:30:07]: [200] Account Communication Success (6)
+[08:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[08:30:36]: Registering secondary shard in Sing lobby
+[08:35:36]: Registering secondary shard in Sing lobby
+[08:40:36]: Registering secondary shard in Sing lobby
+[08:45:36]: Registering secondary shard in Sing lobby
+[08:50:36]: Registering secondary shard in Sing lobby
+[08:55:36]: Registering secondary shard in Sing lobby
+[09:00:07]: [200] Account Communication Success (6)
+[09:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[09:00:36]: Registering secondary shard in Sing lobby
+[09:05:36]: Registering secondary shard in Sing lobby
+[09:10:36]: Registering secondary shard in Sing lobby
+[09:15:36]: Registering secondary shard in Sing lobby
+[09:20:36]: Registering secondary shard in Sing lobby
+[09:25:36]: Registering secondary shard in Sing lobby
+[09:30:07]: [200] Account Communication Success (6)
+[09:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[09:30:36]: Registering secondary shard in Sing lobby
+[09:35:36]: Registering secondary shard in Sing lobby
+[09:40:36]: Registering secondary shard in Sing lobby
+[09:45:36]: Registering secondary shard in Sing lobby
+[09:50:36]: Registering secondary shard in Sing lobby
+[09:55:36]: Registering secondary shard in Sing lobby
+[10:00:07]: [200] Account Communication Success (6)
+[10:00:07]: Received (KU_hjXTctx_) from TokenPurpose
+[10:00:36]: Registering secondary shard in Sing lobby
+[10:05:36]: Registering secondary shard in Sing lobby
+[10:10:36]: Registering secondary shard in Sing lobby
+[10:15:36]: Registering secondary shard in Sing lobby
+[10:20:36]: Registering secondary shard in Sing lobby
+[10:25:36]: Registering secondary shard in Sing lobby
+[10:30:06]: [200] Account Communication Success (6)
+[10:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[10:30:36]: Registering secondary shard in Sing lobby
+[10:35:36]: Registering secondary shard in Sing lobby
+[10:40:36]: Registering secondary shard in Sing lobby
+[10:45:36]: Registering secondary shard in Sing lobby
+[10:50:36]: Registering secondary shard in Sing lobby
+[10:55:36]: Registering secondary shard in Sing lobby
+[11:00:06]: [200] Account Communication Success (6)
+[11:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[11:00:36]: Registering secondary shard in Sing lobby
+[11:05:36]: Registering secondary shard in Sing lobby
+[11:10:36]: Registering secondary shard in Sing lobby
+[11:15:36]: Registering secondary shard in Sing lobby
+[11:20:36]: Registering secondary shard in Sing lobby
+[11:25:36]: Registering secondary shard in Sing lobby
+[11:30:06]: [200] Account Communication Success (6)
+[11:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[11:30:36]: Registering secondary shard in Sing lobby
+[11:35:36]: Registering secondary shard in Sing lobby
+[11:40:36]: Registering secondary shard in Sing lobby
+[11:45:36]: Registering secondary shard in Sing lobby
+[11:50:36]: Registering secondary shard in Sing lobby
+[11:55:36]: Registering secondary shard in Sing lobby
+[12:00:06]: [200] Account Communication Success (6)
+[12:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[12:00:36]: Registering secondary shard in Sing lobby
+[12:05:36]: Registering secondary shard in Sing lobby
+[12:10:36]: Registering secondary shard in Sing lobby
+[12:15:36]: Registering secondary shard in Sing lobby
+[12:20:36]: Registering secondary shard in Sing lobby
+[12:25:36]: Registering secondary shard in Sing lobby
+[12:30:07]: [200] Account Communication Success (6)
+[12:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[12:30:36]: Registering secondary shard in Sing lobby
+[12:35:36]: Registering secondary shard in Sing lobby
+[12:40:36]: Registering secondary shard in Sing lobby
+[12:45:36]: Registering secondary shard in Sing lobby
+[12:50:36]: Registering secondary shard in Sing lobby
+[12:55:36]: Registering secondary shard in Sing lobby
+[13:00:06]: [200] Account Communication Success (6)
+[13:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[13:00:36]: Registering secondary shard in Sing lobby
+[13:05:36]: Registering secondary shard in Sing lobby
+[13:10:36]: Registering secondary shard in Sing lobby
+[13:15:36]: Registering secondary shard in Sing lobby
+[13:20:36]: Registering secondary shard in Sing lobby
+[13:25:36]: Registering secondary shard in Sing lobby
+[13:30:06]: [200] Account Communication Success (6)
+[13:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[13:30:36]: Registering secondary shard in Sing lobby
+[13:35:36]: Registering secondary shard in Sing lobby
+[13:40:36]: Registering secondary shard in Sing lobby
+[13:45:36]: Registering secondary shard in Sing lobby
+[13:50:36]: Registering secondary shard in Sing lobby
+[13:55:36]: Registering secondary shard in Sing lobby
+[14:00:06]: [200] Account Communication Success (6)
+[14:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[14:00:36]: Registering secondary shard in Sing lobby
+[14:05:36]: Registering secondary shard in Sing lobby
+[14:10:36]: Registering secondary shard in Sing lobby
+[14:15:36]: Registering secondary shard in Sing lobby
+[14:20:36]: Registering secondary shard in Sing lobby
+[14:25:36]: Registering secondary shard in Sing lobby
+[14:30:07]: [200] Account Communication Success (6)
+[14:30:07]: Received (KU_hjXTctx_) from TokenPurpose
+[14:30:36]: Registering secondary shard in Sing lobby
+[14:35:36]: Registering secondary shard in Sing lobby
+[14:40:36]: Registering secondary shard in Sing lobby
+[14:45:36]: Registering secondary shard in Sing lobby
+[14:50:36]: Registering secondary shard in Sing lobby
+[14:55:36]: Registering secondary shard in Sing lobby
+[15:00:06]: [200] Account Communication Success (6)
+[15:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[15:00:36]: Registering secondary shard in Sing lobby
+[15:05:36]: Registering secondary shard in Sing lobby
+[15:10:36]: Registering secondary shard in Sing lobby
+[15:15:36]: Registering secondary shard in Sing lobby
+[15:20:36]: Registering secondary shard in Sing lobby
+[15:25:36]: Registering secondary shard in Sing lobby
+[15:30:06]: [200] Account Communication Success (6)
+[15:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[15:30:36]: Registering secondary shard in Sing lobby
+[15:35:36]: Registering secondary shard in Sing lobby
+[15:40:36]: Registering secondary shard in Sing lobby
+[15:45:36]: Registering secondary shard in Sing lobby
+[15:50:36]: Registering secondary shard in Sing lobby
+[15:55:36]: Registering secondary shard in Sing lobby
+[16:00:06]: [200] Account Communication Success (6)
+[16:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[16:00:36]: Registering secondary shard in Sing lobby
+[16:05:36]: Registering secondary shard in Sing lobby
+[16:10:36]: Registering secondary shard in Sing lobby
+[16:15:37]: Registering secondary shard in Sing lobby
+[16:20:37]: Registering secondary shard in Sing lobby
+[16:25:37]: Registering secondary shard in Sing lobby
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[16:30:36]: Registering secondary shard in Sing lobby
+[16:35:36]: Registering secondary shard in Sing lobby
+[16:40:36]: Registering secondary shard in Sing lobby
+[16:45:36]: Registering secondary shard in Sing lobby
+[16:50:36]: Registering secondary shard in Sing lobby
+[16:55:36]: Registering secondary shard in Sing lobby
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[17:00:36]: Registering secondary shard in Sing lobby
+[17:05:36]: Registering secondary shard in Sing lobby
+[17:10:36]: Registering secondary shard in Sing lobby
+[17:15:37]: Registering secondary shard in Sing lobby
+[17:20:37]: Registering secondary shard in Sing lobby
+[17:25:37]: Registering secondary shard in Sing lobby
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[17:30:37]: Registering secondary shard in Sing lobby
+[17:35:37]: Registering secondary shard in Sing lobby
+[17:40:37]: Registering secondary shard in Sing lobby
+[17:45:37]: Registering secondary shard in Sing lobby
+[17:50:37]: Registering secondary shard in Sing lobby
+[17:55:37]: Registering secondary shard in Sing lobby
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[18:00:37]: Registering secondary shard in Sing lobby
+[18:05:37]: Registering secondary shard in Sing lobby
+[18:10:37]: Registering secondary shard in Sing lobby
+[18:15:37]: Registering secondary shard in Sing lobby
+[18:20:37]: Registering secondary shard in Sing lobby
+[18:25:37]: Registering secondary shard in Sing lobby
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[18:30:37]: Registering secondary shard in Sing lobby
+[18:35:37]: Registering secondary shard in Sing lobby
+[18:40:37]: Registering secondary shard in Sing lobby
+[18:45:37]: Registering secondary shard in Sing lobby
+[18:50:37]: Registering secondary shard in Sing lobby
+[18:55:37]: Registering secondary shard in Sing lobby
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[19:00:37]: Registering secondary shard in Sing lobby
+[19:05:37]: Registering secondary shard in Sing lobby
+[19:10:37]: Registering secondary shard in Sing lobby
+[19:15:37]: Registering secondary shard in Sing lobby
+[19:20:37]: Registering secondary shard in Sing lobby
+[19:25:37]: Registering secondary shard in Sing lobby
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[19:30:37]: Registering secondary shard in Sing lobby
+[19:35:37]: Registering secondary shard in Sing lobby
+[19:40:37]: Registering secondary shard in Sing lobby
+[19:45:37]: Registering secondary shard in Sing lobby
+[19:50:37]: Registering secondary shard in Sing lobby
+[19:55:37]: Registering secondary shard in Sing lobby
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[20:00:37]: Registering secondary shard in Sing lobby
+[20:05:37]: Registering secondary shard in Sing lobby
+[20:10:37]: Registering secondary shard in Sing lobby
+[20:15:37]: Registering secondary shard in Sing lobby
+[20:20:37]: Registering secondary shard in Sing lobby
+[20:25:37]: Registering secondary shard in Sing lobby
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[20:30:37]: Registering secondary shard in Sing lobby
+[20:35:37]: Registering secondary shard in Sing lobby
+[20:40:37]: Registering secondary shard in Sing lobby
+[20:45:37]: Registering secondary shard in Sing lobby
+[20:50:37]: Registering secondary shard in Sing lobby
+[20:55:37]: Registering secondary shard in Sing lobby
+[21:00:06]: [200] Account Communication Success (6)
+[21:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[21:00:37]: Registering secondary shard in Sing lobby
+[21:05:37]: Registering secondary shard in Sing lobby
+[21:10:37]: Registering secondary shard in Sing lobby
+[21:15:37]: Registering secondary shard in Sing lobby
+[21:20:37]: Registering secondary shard in Sing lobby
+[21:25:37]: Registering secondary shard in Sing lobby
+[21:30:06]: [200] Account Communication Success (6)
+[21:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[21:30:37]: Registering secondary shard in Sing lobby
+[21:35:37]: Registering secondary shard in Sing lobby
+[21:40:37]: Registering secondary shard in Sing lobby
+[21:45:37]: Registering secondary shard in Sing lobby
+[21:50:37]: Registering secondary shard in Sing lobby
+[21:55:37]: Registering secondary shard in Sing lobby
+[22:00:06]: [200] Account Communication Success (6)
+[22:00:06]: Received (KU_hjXTctx_) from TokenPurpose
+[22:00:37]: Registering secondary shard in Sing lobby
+[22:05:37]: Registering secondary shard in Sing lobby
+[22:10:37]: Registering secondary shard in Sing lobby
+[22:15:37]: Registering secondary shard in Sing lobby
+[22:20:37]: Registering secondary shard in Sing lobby
+[22:25:37]: Registering secondary shard in Sing lobby
+[22:30:06]: [200] Account Communication Success (6)
+[22:30:06]: Received (KU_hjXTctx_) from TokenPurpose
+[22:30:37]: Registering secondary shard in Sing lobby
+[22:35:37]: Registering secondary shard in Sing lobby
+[22:40:37]: Registering secondary shard in Sing lobby
+[22:45:37]: Registering secondary shard in Sing lobby
+[22:46:03]: Available disk space for save files: 9966427 MB
+[22:46:04]: Serializing world: session/A3B1C5ED4C617339/0000000708
+[22:46:04]: Truncating to snapshot #708...
+[22:46:04]:  - session/A3B1C5ED4C617339/0000000702
+[22:46:04]:    1 file(s) removed
+[22:46:04]: [Shard] Stopping shard mode
+[22:46:04]: [Steam] SendUserDisconnect for ''
+[22:46:04]: Collecting garbage...
+[22:46:04]: lua_gc took 0.19 seconds
+[22:46:04]: ~ShardLuaProxy()
+[22:46:04]: ~cEventLeaderboardProxy()
+[22:46:04]: ~ItemServerLuaProxy()
+[22:46:04]: ~InventoryLuaProxy()
+[22:46:04]: ~NetworkLuaProxy()
+[22:46:04]: ~SimLuaProxy()
+[22:46:05]: lua_close took 0.25 seconds
+[22:46:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[22:46:05]: CurlRequestManager::ClientThread::Main() complete
+[22:46:05]: HttpClient2 discarded 0 callbacks.
+[22:46:06]: Shutting down
