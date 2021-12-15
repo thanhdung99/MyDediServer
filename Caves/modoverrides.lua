@@ -1,4 +1,17 @@
 return {
+  ["workshop-1185229307"]={
+    configuration_options={
+      [""]="",
+      DAMAGE_NUMBERS=true,
+      DAMAGE_RESISTANCE=true,
+      FRAME_PHASES=true,
+      HORIZONTAL_OFFSET=0,
+      NOEPIC=false,
+      NONOEPIC=false,
+      WETNESS_METER=false 
+    },
+    enabled=true 
+  },
   ["workshop-1416161108"]={
     configuration_options={
       [""]=0,
@@ -47,23 +60,15 @@ return {
     },
     enabled=true 
   },
+  ["workshop-1581242057"]={ configuration_options={ durab="easy" }, enabled=true },
   ["workshop-1595631294"]={
     configuration_options={
       BundleItems=false,
       ChangeSkin=true,
       Digornot=false,
-      DragonflyChest=true,
+      DragonflyChest=false,
       Icebox=true,
       SaltBox=false 
-    },
-    enabled=true 
-  },
-  ["workshop-1777789373"]={
-    configuration_options={
-      desolationspawner=false,
-      plantregrowth=false,
-      resourcerenewal=false,
-      worldregrowth=false 
     },
     enabled=true 
   },
@@ -91,6 +96,22 @@ return {
       PlayerMustHaveOneOfItemToAutoPickup=false,
       SmokePuffOnStacking=true,
       StackDuringPopulation=false 
+    },
+    enabled=true 
+  },
+  ["workshop-1836974133"]={
+    configuration_options={ wagstaff=true, warbucks=true, wheeler=true, wilba=true },
+    enabled=true 
+  },
+  ["workshop-2074508776"]={
+    configuration_options={ handmake=20, onlyclose=false, range=2.3 },
+    enabled=true 
+  },
+  ["workshop-2326208689"]={
+    configuration_options={
+      FARM_PLANT_NEEDS_CTRL=true,
+      FARM_PLANT_NEEDS_LANGUAGE="english",
+      FARM_PLANT_NEEDS_TILEINFO=true 
     },
     enabled=true 
   },
@@ -164,6 +185,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-363112314"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
     configuration_options={
       ENABLEPINGS=true,
@@ -202,5 +224,43 @@ return {
     },
     enabled=true 
   },
-  ["workshop-928691537"]={ configuration_options={ _REEDS_override=1 }, enabled=true } 
+  ["workshop-697356989"]={
+    configuration_options={
+      enable_legacywarly=false,
+      pondsurfer=false,
+      surfboard_Difficulty="petals",
+      walani_drying=0.3,
+      walani_sanity=0.9,
+      walani_speed=2,
+      wilburpoopdmg=10,
+      wilburrun="y",
+      wilburthrow="y",
+      woodlegs_luck=6,
+      woodlegs_sanity=-0.08 
+    },
+    enabled=true 
+  },
+  ["workshop-804108151"]={
+    configuration_options={
+      bunnyman=true,
+      butterfly=true,
+      catcoon=true,
+      deer=true,
+      frog=true,
+      grassgekko=true,
+      lightninggoat=true,
+      merm=true,
+      monkey=true,
+      perd=true,
+      pigguard=true,
+      pigman=true,
+      rabbit=true 
+    },
+    enabled=true 
+  },
+  ["workshop-850494968"]={
+    configuration_options={ _POI_override=3, _PR_override=3, _REEDS_override=1, _TR_override=3 },
+    enabled=true 
+  },
+  ["workshop-885426046"]={ configuration_options={  }, enabled=true } 
 }

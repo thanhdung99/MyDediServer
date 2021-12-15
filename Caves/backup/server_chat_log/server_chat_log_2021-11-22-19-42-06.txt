@@ -1,5 +1,0 @@
-[00:01:26]: [Join Announcement] Momiji
-[00:02:09]: [Leave Announcement] Momiji
-[00:03:41]: [Join Announcement] UTD
-[00:18:39]: [Default Announcement] UTD was rerolled
-[00:34:27]: [Leave Announcement] UTD
