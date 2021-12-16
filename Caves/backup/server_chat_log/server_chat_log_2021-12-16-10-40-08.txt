@@ -1,0 +1,126 @@
+[02:13:47]: [Join Announcement] UTP
+[02:14:42]: [Join Announcement] UTD
+[02:15:00]: [Say] (KU_hjXTct1p) UTD: ben
+[02:15:06]: [Say] (KU_hjXTct1p) UTD: farm gium` go~
+[02:15:22]: [Say] (KU_vCuBS0S4) UTP: ruong co a
+[02:15:34]: [Say] (KU_hjXTct1p) UTD: t di danh' klaus
+[02:20:08]: [Say] (KU_hjXTct1p) UTD: sao dm
+[02:20:12]: [Say] (KU_hjXTct1p) UTD: ko co' con deer nao`
+[02:20:17]: [Say] (KU_hjXTct1p) UTD: gonext ko dc luon
+[02:20:18]: [Say] (KU_hjXTct1p) UTD: vl
+[02:20:18]: [Say] (KU_vCuBS0S4) UTP: =)))))))))
+[02:20:22]: [Say] (KU_hjXTct1p) UTD: sao co' key?
+[02:20:31]: [Say] (KU_hjXTct1p) UTD: vl
+[02:20:35]: [Say] (KU_hjXTct1p) UTD: ao ma
+[02:20:42]: [Say] (KU_vCuBS0S4) UTP: yworld loi nua roi =))))
+[02:23:50]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[02:23:50]: [Say] (KU_hjXTct1p) UTD: clm
+[02:23:54]: [Say] (KU_vCuBS0S4) UTP: y=))))))))))
+[02:23:55]: [Say] (KU_hjXTct1p) UTD: ben
+[02:24:00]: [Say] (KU_hjXTct1p) UTD: cứu lẹ
+[02:24:04]: [Say] (KU_hjXTct1p) UTD: no' heal
+[02:24:07]: [Say] (KU_vCuBS0S4) UTP: lam cai du da
+[02:24:13]: [Say] (KU_hjXTct1p) UTD: nhanh cmm len
+[02:24:16]: [Say] (KU_hjXTct1p) UTD: xong lam` sao
+[02:24:19]: [Say] (KU_hjXTct1p) UTD: sau
+[02:24:23]: [Say] (KU_hjXTct1p) UTD: clm
+[02:25:15]: [Say] (KU_hjXTct1p) UTD: đường đéo nào mà qua
+[02:25:20]: [Say] (KU_hjXTct1p) UTD: ???
+[02:25:24]: [Say] (KU_hjXTct1p) UTD: ngao' a`
+[02:25:35]: [Say] (KU_hjXTct1p) UTD: 8k hp phase 2 cmnr
+[02:26:06]: [Say] (KU_vCuBS0S4) UTP: co gi cuu do khong
+[02:26:09]: [Say] (KU_hjXTct1p) UTD: lấy sáo thổi
+[02:26:11]: [Say] (KU_vCuBS0S4) UTP: hach nhen
+[02:26:18]: [Say] (KU_hjXTct1p) UTD: thổi đi dm
+[02:26:20]: [Say] (KU_hjXTct1p) UTD: ???
+[02:26:22]: [Say] (KU_hjXTct1p) UTD: ngu a`
+[02:26:26]: [Say] (KU_hjXTct1p) UTD: ???
+[02:26:29]: [Say] (KU_hjXTct1p) UTD: ngu lz a`
+[02:26:33]: [Say] (KU_vCuBS0S4) UTP: chu sao
+[02:26:35]: [Say] (KU_hjXTct1p) UTD: lại gần đụ mẹ
+[02:26:49]: [Say] (KU_hjXTct1p) UTD: thoi
+[02:26:54]: [Say] (KU_hjXTct1p) UTD: thổi
+[02:27:01]: [Say] (KU_hjXTct1p) UTD: Ngu vl
+[02:27:06]: [Say] (KU_hjXTct1p) UTD: balo t
+[02:27:06]: [Say] (KU_vCuBS0S4) UTP: co biet dau
+[02:27:16]: [Say] (KU_hjXTct1p) UTD: lay dh drop ra
+[02:27:19]: [Say] (KU_hjXTct1p) UTD: ngu vc
+[02:27:20]: [Death Announcement] UTP was killed by Klaus. He became a spooky ghost!
+[02:32:32]: [Say] (KU_hjXTct1p) UTD:  I have 2 deerclops eyeballs.
+[02:32:49]: [Say] (KU_hjXTct1p) UTD: tìm cành cây
+[02:32:53]: [Say] (KU_hjXTct1p) UTD: t làm nón mắt
+[02:33:04]: [Say] (KU_hjXTct1p) UTD:  I have 10 twigs.
+[02:33:12]: [Say] (KU_hjXTct1p) UTD: 6 cai nua~
+[02:33:25]: [Say] (KU_hjXTct1p) UTD:  I need 4 more twigs to make an eyebrella.
+[02:34:08]: [Join Announcement] Momiji
+[02:34:26]: [Say] (KU_hjXTct1p) UTD: làm bùa đi ben
+[02:34:30]: [Say] (KU_hjXTct1p) UTD: biến vịt
+[02:34:39]: [Say] (KU_vCuBS0S4) UTP: dang tim hat giong
+[02:35:34]: [Say] (KU_hjXTctx_) Momiji: còn cành cây khong
+[02:35:39]: [Say] (KU_hjXTct1p) UTD: ko
+[02:37:16]: [Say] (KU_vCuBS0S4) UTP: cho em xin 2 hat giong thuong
+[02:37:24]: [Say] (KU_hjXTctx_) Momiji: không có
+[02:38:30]: [Say] (KU_hjXTct1p) UTD: ben check cho~ t ping nha
+[02:38:42]: [Say] (KU_hjXTct1p) UTD:  I have a terrarium.
+[02:40:59]: [Say] (KU_vCuBS0S4) UTP: khong co
+[02:41:10]: [Say] (KU_hjXTct1p) UTD: canh dạo quanh xem
+[02:41:19]: [Say] (KU_vCuBS0S4) UTP: cua
+[02:41:20]: [Say] (KU_hjXTct1p) UTD: về đi bên t mới ping xem
+[02:41:27]: [Say] (KU_vCuBS0S4) UTP: ben day co cua
+[02:41:36]: [Say] (KU_hjXTct1p) UTD: ok
+[02:41:40]: [Say] (KU_hjXTct1p) UTD: về đi
+[02:41:43]: [Say] (KU_hjXTct1p) UTD: qua bên t ms ping
+[02:41:45]: [Say] (KU_hjXTct1p) UTD: đi xem
+[02:42:06]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[02:42:08]: [Say] (KU_hjXTct1p) UTD: vl
+[02:42:11]: [Say] (KU_hjXTctx_) Momiji: :))
+[02:42:12]: [Say] (KU_hjXTct1p) UTD: dg chat
+[02:42:14]: [Say] (KU_hjXTct1p) UTD: =)))
+[02:42:41]: [Say] (KU_hjXTct1p) UTD: qua bên t ping đê
+[02:42:49]: [Say] (KU_vCuBS0S4) UTP: thieu 1 thit quai nua
+[02:42:52]: [Say] (KU_hjXTct1p) UTD: vl
+[02:43:08]: [Say] (KU_vCuBS0S4) UTP: sang mai di
+[02:43:49]: [Say] (KU_hjXTctx_) Momiji: thịt nay
+[02:43:51]: [Resurrect Announcement] UTD was resurrected by Florid Postern.
+[02:44:14]: [Say] (KU_hjXTct1p) UTD: di di
+[02:45:41]: [Say] (KU_vCuBS0S4) UTP: ngong
+[02:45:59]: [Say] (KU_vCuBS0S4) UTP: con ngong
+[02:46:02]: [Say] (KU_vCuBS0S4) UTP: 2 con
+[02:47:22]: [Say] (KU_hjXTct1p) UTD: bơi 1 vòng như t ping nha
+[02:47:33]: [Say] (KU_vCuBS0S4) UTP: yok
+[02:51:23]: [Say] (KU_vCuBS0S4) UTP: con 2 cho chua di duoc
+[02:51:36]: [Say] (KU_vCuBS0S4) UTP: dang boi cai bi lanh
+[02:51:50]: [Leave Announcement] UTD
+[02:53:28]: [Leave Announcement] UTD
+[02:53:31]: [Death Announcement] Momiji was killed by Crawling Horror. She became a spooky ghost!
+[02:53:44]: [Resurrect Announcement] Momiji was resurrected by Florid Postern.
+[02:54:32]: [Say] (KU_hjXTctx_) Momiji: hết da heo rồi á
+[02:55:47]: [Death Announcement] Momiji was killed by Hound. She became a spooky ghost!
+[02:56:32]: [Resurrect Announcement] Momiji was resurrected by Florid Postern.
+[02:58:36]: [Leave Announcement] UTD
+[03:01:47]: [Leave Announcement] UTD
+[03:04:29]: [Death Announcement] Momiji was killed by Lord of the Fruit Flies. She became a spooky ghost!
+[03:04:29]: [Say] (KU_vCuBS0S4) UTP: anh dung oi
+[03:04:31]: [Say] (KU_hjXTctx_) Momiji: giúp cái
+[03:04:32]: [Say] (KU_vCuBS0S4) UTP: cuu em voi
+[03:04:38]: [Say] (KU_vCuBS0S4) UTP: nau gium em 1 noi thit
+[03:04:43]: [Say] (KU_vCuBS0S4) UTP: em sap chet roi
+[03:04:53]: [Say] (KU_hjXTctx_) Momiji: anh chêt luong rồi
+[03:05:00]: [Resurrect Announcement] Momiji was resurrected by Life Giving Amulet.
+[03:05:10]: [Say] (KU_hjXTctx_) Momiji: đánh giúp con ruồi
+[03:05:30]: [Say] (KU_vCuBS0S4) UTP: em ngu hoi mau da
+[03:06:59]: [Say] (KU_vCuBS0S4) UTP: sang danh
+[03:08:37]: [Death Announcement] Momiji was killed by Fruit Fly. She became a spooky ghost!
+[03:08:47]: [Resurrect Announcement] Momiji was resurrected by Florid Postern.
+[03:09:12]: [Leave Announcement] UTD
+[03:10:05]: [Say] (KU_vCuBS0S4) UTP: anh dung oi
+[03:10:09]: [Say] (KU_vCuBS0S4) UTP: tat host xong mo lai
+[03:10:15]: [Say] (KU_vCuBS0S4) UTP: cho anh dat vo voi
+[03:10:26]: [Say] (KU_vCuBS0S4) UTP: anh dat bi sao roi
+[03:10:31]: [Say] (KU_vCuBS0S4) UTP: khong vo duoc
+[03:10:54]: [Say] (KU_hjXTctx_) Momiji: gì á
+[03:11:04]: [Say] (KU_vCuBS0S4) UTP: tat host mo lai
+[03:11:10]: [Say] (KU_vCuBS0S4) UTP: anh dat bi sao roi
+[03:11:15]: [Say] (KU_vCuBS0S4) UTP: khong vo duoc sever
+[03:11:32]: [Leave Announcement] UTP
+[03:11:46]: [Leave Announcement] Momiji
