@@ -49,7 +49,7 @@ return {
     flint="default",
     flowers="default",
     flowers_regrowth="default",
-    frograin="default",
+    frograin="rare",
     frogs="default",
     fruitfly="default",
     gnarwail="default",
