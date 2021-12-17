@@ -73,6 +73,15 @@ KLEI     1 return {
       },
       enabled=true 
     },
+    ["workshop-1777789373"]={
+      configuration_options={
+        desolationspawner=false,
+        plantregrowth=false,
+        resourcerenewal=false,
+        worldregrowth=false 
+      },
+      enabled=true 
+    },
     ["workshop-1803285852"]={
       configuration_options={
         [""]=0,

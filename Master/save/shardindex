@@ -73,6 +73,15 @@ KLEI     1 return {
       },
       enabled=true 
     },
+    ["workshop-1777789373"]={
+      configuration_options={
+        desolationspawner=false,
+        plantregrowth=false,
+        resourcerenewal=false,
+        worldregrowth=false 
+      },
+      enabled=true 
+    },
     ["workshop-1803285852"]={
       configuration_options={
         [""]=0,
@@ -333,7 +342,7 @@ KLEI     1 return {
         flint="default",
         flowers="default",
         flowers_regrowth="default",
-        frograin="default",
+        frograin="rare",
         frogs="default",
         fruitfly="default",
         gnarwail="default",

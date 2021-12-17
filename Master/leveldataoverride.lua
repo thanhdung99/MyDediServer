@@ -144,7 +144,7 @@ return {
     walrus_setting="default",
     wasps="default",
     weather="default",
-    wildfires="default",
+    wildfires="rare",
     winter="default",
     wobsters="default",
     world_size="default",
