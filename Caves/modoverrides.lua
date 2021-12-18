@@ -60,7 +60,6 @@ return {
     },
     enabled=true 
   },
-  ["workshop-1581242057"]={ configuration_options={ durab="easy" }, enabled=true },
   ["workshop-1595631294"]={
     configuration_options={
       BundleItems=false,
@@ -106,10 +105,6 @@ return {
       SmokePuffOnStacking=true,
       StackDuringPopulation=false 
     },
-    enabled=true 
-  },
-  ["workshop-1836974133"]={
-    configuration_options={ wagstaff=true, warbucks=true, wheeler=true, wilba=true },
     enabled=true 
   },
   ["workshop-2074508776"]={
