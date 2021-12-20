@@ -1,2 +1,4 @@
-[00:47:13]: [Join Announcement] UTD
-[00:54:39]: [Leave Announcement] UTD
+[00:03:47]: [Join Announcement] UTD
+[00:05:02]: [Join Announcement] Momiji
+[00:06:02]: [Leave Announcement] UTD
+[00:08:22]: [Leave Announcement] Momiji

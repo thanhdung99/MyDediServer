@@ -228,23 +228,6 @@ return {
     },
     enabled=true 
   },
-  ["workshop-697356989"]={
-    configuration_options={
-      enable_legacywarly=false,
-      pondsurfer=false,
-      surfboard_Difficulty="petals",
-      walani_drying=0.3,
-      walani_sanity=0.9,
-      walani_speed=2,
-      wilburpoopdmg=10,
-      wilburrun="y",
-      wilburthrow="y",
-      woodlegs_luck=6,
-      woodlegs_sanity=-0.08 
-    },
-    enabled=true 
-  },
-  
   ["workshop-850494968"]={
     configuration_options={ _POI_override=3, _PR_override=3, _REEDS_override=1, _TR_override=3 },
     enabled=true 
