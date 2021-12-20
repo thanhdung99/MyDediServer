@@ -245,24 +245,6 @@ KLEI     1 return {
       },
       enabled=true 
     },
-    ["workshop-804108151"]={
-      configuration_options={
-        bunnyman=true,
-        butterfly=true,
-        catcoon=true,
-        deer=true,
-        frog=true,
-        grassgekko=true,
-        lightninggoat=true,
-        merm=true,
-        monkey=true,
-        perd=true,
-        pigguard=true,
-        pigman=true,
-        rabbit=true 
-      },
-      enabled=true 
-    },
     ["workshop-850494968"]={
       configuration_options={ _POI_override=3, _PR_override=3, _REEDS_override=1, _TR_override=3 },
       enabled=true 
