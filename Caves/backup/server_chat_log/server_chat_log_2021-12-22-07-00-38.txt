@@ -1,0 +1,333 @@
+[00:57:34]: [Join Announcement] UTD
+[01:38:10]: [Announcement] 30s until server clean
+[01:38:21]: [Announcement] 30s until server clean
+[02:18:47]: [Leave Announcement] UTD
+[07:11:34]: [Join Announcement] Momiji
+[07:18:57]: [Death Announcement] Momiji was killed by Overheating. He became a spooky ghost!
+[07:19:26]: [Resurrect Announcement] Momiji was resurrected by Celestial Portal.
+[07:20:13]: [Death Announcement] Momiji was killed by Overheating. He became a spooky ghost!
+[07:20:21]: [Resurrect Announcement] Momiji was resurrected by Celestial Portal.
+[07:27:02]: [Join Announcement] UTD
+[07:27:19]: [Say] (KU_hjXTctx_) Momiji: m dau
+[07:27:22]: [Say] (KU_hjXTct1p) UTD: day
+[07:28:22]: [Say] (KU_hjXTct1p) UTD: đợi tí
+[07:28:36]: [Say] (KU_hjXTctx_) Momiji: ra biển kiếm cây trồng được không
+[07:28:44]: [Say] (KU_hjXTctx_) Momiji: nắng chỗ nhà quá
+[07:29:03]: [Say] (KU_hjXTct1p) UTD: hết mùa đã
+[07:29:18]: [Say] (KU_hjXTctx_) Momiji: hết mùa t trồng bí rồi
+[07:29:34]: [Say] (KU_hjXTct1p) UTD: t di 1 minh` cung~ dc
+[07:29:46]: [Say] (KU_hjXTct1p) UTD: đâu trên này này
+[07:34:14]: [Say] (KU_hjXTct1p) UTD: m dauq
+[07:34:20]: [Say] (KU_hjXTctx_) Momiji: chỗ m ping là gì vậy
+[07:34:28]: [Say] (KU_hjXTct1p) UTD: rừng ngập mặn
+[07:43:17]: [Announcement] 30s until server clean
+[07:43:19]: [Announcement] 30s until server clean
+[07:47:29]: [Say] (KU_hjXTct1p) UTD:  We have a magnificent adornment in this hutch.
+[07:48:18]: [Say] (KU_hjXTctx_) Momiji: xây mật cho ai ăn ma lăm vậy
+[07:48:26]: [Say] (KU_hjXTct1p) UTD: =)))
+[07:48:30]: [Say] (KU_hjXTct1p) UTD: cho sướng cái nư
+[07:49:00]: [Say] (KU_hjXTctx_) Momiji: thôi làm đi biển cái
+[07:49:21]: [Say] (KU_hjXTctx_) Momiji:  I have 12 boat patchs.
+[07:49:33]: [Say] (KU_hjXTctx_) Momiji: xuong dưới ngủ lấy quà đi
+[07:49:49]: [Say] (KU_hjXTct1p) UTD: het chiu'
+[07:50:04]: [Say] (KU_hjXTctx_) Momiji: dưới này có lều ma
+[07:50:15]: [Say] (KU_hjXTctx_) Momiji: chỗ này
+[07:51:09]: [Say] (KU_hjXTctx_) Momiji: mai đi biển nha
+[07:51:12]: [Say] (KU_hjXTct1p) UTD: ok
+[07:51:21]: [Say] (KU_hjXTctx_) Momiji: còn tận 4 ngày
+[07:51:39]: [Say] (KU_hjXTct1p) UTD: vl
+[07:51:41]: [Say] (KU_hjXTct1p) UTD: ảo ma
+[07:51:48]: [Say] (KU_hjXTct1p) UTD: xài nền rồng mà cháy hết
+[07:52:00]: [Say] (KU_hjXTctx_) Momiji: ???
+[07:52:02]: [Default Announcement] Burnt structures near UTD have been repaired
+[07:52:50]: [Say] (KU_hjXTctx_) Momiji:  I have 12 boat patchs.
+[07:52:54]: [Say] (KU_hjXTct1p) UTD:  I have a boat kit.
+[07:52:57]: [Say] (KU_hjXTctx_) Momiji: di bằng thuey62 �
+[07:52:58]: [Say] (KU_hjXTct1p) UTD: di
+[07:53:04]: [Say] (KU_hjXTct1p) UTD:  I have a malbatross bill with 100% durability.
+[07:53:41]: [Say] (KU_hjXTctx_) Momiji: vl nhanh vậy
+[07:53:48]: [Say] (KU_hjXTct1p) UTD: mỏ mal mà
+[07:54:16]: [Say] (KU_hjXTct1p) UTD: king crab
+[07:56:47]: [Say] (KU_hjXTctx_) Momiji: maba tor
+[07:56:52]: [Say] (KU_hjXTct1p) UTD: dau?
+[07:57:01]: [Say] (KU_hjXTctx_) Momiji: gần dây
+[07:57:21]: [Say] (KU_hjXTct1p) UTD: sao biet
+[07:57:56]: [Say] (KU_hjXTctx_) Momiji: ủa sao không thấy runf72
+[07:58:12]: [Say] (KU_hjXTct1p) UTD: bữa utp check đâu đoạn này
+[08:00:58]: [Say] (KU_hjXTctx_) Momiji: :))
+[08:01:01]: [Say] (KU_hjXTct1p) UTD: vl
+[08:01:14]: [Death Announcement] Momiji was killed by Fire. He became a spooky ghost!
+[08:01:34]: [Say] (KU_hjXTct1p) UTD: clm
+[08:01:38]: [Say] (KU_hjXTct1p) UTD: k mang dong` ho`
+[08:01:56]: [Say] (KU_hjXTct1p) UTD: hs di
+[08:01:57]: [Resurrect Announcement] Momiji was resurrected by Life Giving Amulet.
+[08:03:54]: [Say] (KU_hjXTctx_) Momiji: :))
+[08:04:06]: [Say] (KU_hjXTct1p) UTD: -.-
+[08:04:09]: [Say] (KU_hjXTctx_) Momiji: t trồng bì
+[08:04:12]: [Say] (KU_hjXTct1p) UTD:  There are 3 days left in Summer.
+[08:04:25]: [Say] (KU_hjXTctx_) Momiji: cần nhiều a
+[08:06:05]: [Say] (KU_hjXTct1p) UTD: đổi woodie dạo quá =))
+[08:06:56]: [Say] (KU_hjXTctx_) Momiji: ơ kìa :))
+[08:07:29]: [Say] (KU_hjXTct1p) UTD: tin t
+[08:07:31]: [Say] (KU_hjXTct1p) UTD: =)))
+[08:07:40]: [Say] (KU_hjXTct1p) UTD: đưa t gỗ mục
+[08:07:41]: [Say] (KU_hjXTct1p) UTD:  I have a malbatross bill with  3% durability.
+[08:08:55]: [Say] (KU_hjXTctx_) Momiji: làm t 1 cái với
+[08:11:21]: [Say] (KU_hjXTct1p) UTD: day r
+[08:12:45]: [Say] (KU_hjXTctx_) Momiji: nó rơi bên kia
+[08:12:47]: [Say] (KU_hjXTct1p) UTD: cá éo gì đây
+[08:12:52]: [Say] (KU_hjXTct1p) UTD: câu
+[08:13:43]: [Say] (KU_hjXTctx_) Momiji: khó câu vl
+[08:14:05]: [Say] (KU_hjXTct1p) UTD: cá đầu buồi gì thế nhỉ
+[08:14:28]: [Say] (KU_hjXTctx_) Momiji: nó khong ăn mối
+[08:14:35]: [Say] (KU_hjXTct1p) UTD: đưa t thử
+[08:14:38]: [Say] (KU_hjXTctx_) Momiji: có thối không
+[08:14:41]: [Say] (KU_hjXTct1p) UTD: ko
+[08:15:14]: [Say] (KU_hjXTct1p) UTD: k có móc đào
+[08:15:18]: [Say] (KU_hjXTct1p) UTD: sao lấy hạt
+[08:15:40]: [Say] (KU_hjXTctx_) Momiji: spawm ra
+[08:15:52]: [Say] (KU_hjXTctx_) Momiji: bên nay
+[08:17:49]: [Say] (KU_hjXTctx_) Momiji: 2 thôi
+[08:17:59]: [Say] (KU_hjXTctx_) Momiji: đi lấy làm phần
+[08:18:04]: [Say] (KU_hjXTct1p) UTD: ok
+[08:18:04]: [Say] (KU_hjXTctx_) Momiji:  I have 2 figs, and this one has 95% freshness.
+[08:20:50]: [Say] (KU_hjXTctx_) Momiji:  I have 9 figs, and this one has 96% freshness.
+[08:21:09]: [Say] (KU_hjXTct1p) UTD: dc r
+[08:22:11]: [Say] (KU_hjXTct1p) UTD: h sao
+[08:22:32]: [Say] (KU_hjXTctx_) Momiji: lái tới gần nhà đi
+[08:22:38]: [Say] (KU_hjXTct1p) UTD:  I have 4 backtrek watchs, and this one has 100% charge.
+[08:22:41]: [Say] (KU_hjXTct1p) UTD: t tele dc
+[08:22:46]: [Say] (KU_hjXTct1p) UTD: nhưng còn balo
+[08:23:20]: [Announcement] 30s until server clean
+[08:23:24]: [Announcement] 30s until server clean
+[08:23:50]: [Say] (KU_hjXTctx_) Momiji: nãy chõ nào ấy
+[08:24:01]: [Say] (KU_hjXTct1p) UTD: ping
+[08:29:27]: [Say] (KU_hjXTctx_) Momiji: đánh chua
+[08:29:46]: [Say] (KU_hjXTct1p) UTD: đánh gì
+[08:31:48]: [Say] (KU_hjXTctx_) Momiji: khong đánh klaus �
+[08:31:58]: [Say] (KU_hjXTct1p) UTD: lười
+[08:32:01]: [Say] (KU_hjXTct1p) UTD: t dọn mbase
+[08:32:05]: [Say] (KU_hjXTct1p) UTD: cây cối đầy
+[08:32:08]: [Say] (KU_hjXTct1p) UTD: dg cần gỗ nữa
+[08:36:56]: [Say] (KU_hjXTct1p) UTD: mới vài cây
+[08:36:59]: [Say] (KU_hjXTct1p) UTD: lên thần rừng
+[08:37:00]: [Say] (KU_hjXTct1p) UTD: :))
+[08:41:28]: [Say] (KU_hjXTct1p) UTD: woodie vs con nay`
+[08:41:32]: [Say] (KU_hjXTct1p) UTD: con nao` farm nhanh hon
+[08:41:52]: [Say] (KU_hjXTct1p) UTD: con này farm lên thần rừng quá
+[08:43:08]: [Say] (KU_hjXTctx_) Momiji: nè
+[08:43:12]: [Say] (KU_hjXTct1p) UTD: đừng trồng ô giữa
+[08:44:20]: [Say] (KU_hjXTctx_) Momiji: t thấy 1 con nay
+[08:44:32]: [Say] (KU_hjXTctx_) Momiji: chạy mất tiêu
+[08:44:36]: [Say] (KU_hjXTct1p) UTD: con gi`
+[08:47:30]: [Say] (KU_hjXTct1p) UTD: check xem có hụt phân k
+[08:48:01]: [Say] (KU_hjXTctx_) Momiji: bón giúp đi
+[08:48:08]: [Say] (KU_hjXTct1p) UTD: dg đi chặt gỗ ba ơi
+[08:49:31]: [Say] (KU_hjXTctx_) Momiji: bón phân sao ny
+[08:49:40]: [Say] (KU_hjXTct1p) UTD: làm phân
+[08:50:00]: [Say] (KU_hjXTctx_) Momiji: hoa như thê nào ây
+[08:50:01]: [Say] (KU_hjXTct1p) UTD: yvl
+[08:50:17]: [Say] (KU_hjXTctx_) Momiji: roll khong
+[08:50:20]: [Say] (KU_hjXTct1p) UTD: ko
+[08:50:28]: [Say] (KU_hjXTct1p) UTD:  I need 1 more glommer's goop to make a tree jam.
+[08:50:41]: [Say] (KU_hjXTct1p) UTD: cứt glom đâu r
+[08:50:54]: [Say] (KU_hjXTctx_) Momiji: có đâu
+[08:51:45]: [Death Announcement] Momiji was killed by Fire. He became a spooky ghost!
+[08:51:52]: [Say] (KU_hjXTctx_) Momiji: roll đi
+[08:51:52]: [Say] (KU_hjXTct1p) UTD: hết tgian lại bón
+[08:51:58]: [Say] (KU_hjXTct1p) UTD: vl
+[08:54:47]: [Say] (KU_hjXTct1p) UTD: 26ph
+[08:54:50]: [Say] (KU_hjXTct1p) UTD: bón lại
+[09:04:01]: [Say] (KU_hjXTct1p) UTD: bearger
+[09:04:20]: [Say] (KU_hjXTct1p) UTD: bearger momi
+[09:05:30]: [Say] (KU_hjXTct1p) UTD: chó
+[09:05:53]: [Death Announcement] Momiji was killed by Hound. He became a spooky ghost!
+[09:06:05]: [Say] (KU_hjXTctx_) Momiji: roll không khong
+[09:06:08]: [Say] (KU_hjXTct1p) UTD: vl
+[09:06:12]: [Say] (KU_hjXTct1p) UTD: t mới chặt gỗ
+[09:06:41]: [Say] (KU_hjXTctx_) Momiji: mùa sau t chặt cho
+[09:06:51]: [Say] (KU_hjXTct1p) UTD: roll chi
+[09:07:00]: [Say] (KU_hjXTct1p) UTD: amulet ne`
+[09:07:38]: [Say] (KU_hjXTctx_) Momiji: vừa bear vừa ruồi vừa chó
+[09:07:41]: [Say] (KU_hjXTctx_) Momiji: nhọ vl
+[09:07:54]: [Resurrect Announcement] Momiji was resurrected by Life Giving Amulet.
+[09:22:14]: [Join Announcement] UTB
+[09:23:03]: [Say] (KU_hjXTctx_) Momiji: qua hoa bear cạp cái
+[09:23:10]: [Say] (KU_hjXTct1p) UTD: ?
+[09:23:21]: [Say] (KU_hjXTct1p) UTD: đợi tí
+[09:23:25]: [Say] (KU_hjXTct1p) UTD: đang biến hình
+[09:23:26]: [Say] (KU_hjXTct1p) UTD: utb
+[09:23:29]: [Say] (KU_hjXTct1p) UTD: qua mbase
+[09:23:45]: [Say] (KU_hjXTct1p) UTD: mang chester luon
+[09:32:37]: [Announcement] 30s until server clean
+[09:32:41]: [Announcement] 30s until server clean
+[09:32:45]: [Say] (KU_hjXTct1p) UTD: lấy quả vô nè momi
+[09:36:51]: [Say] (KU_hjXTct1p) UTD: lấy mấy bụi sapling luôn nha utb
+[09:42:27]: [Say] (KU_hjXTct1p) UTD: dc nhiều gỗ k utb
+[09:42:33]: [Say] (KU_54sjc_a8) UTB: it' =)))
+[09:42:44]: [Say] (KU_hjXTct1p) UTD: khu này nó rời quá
+[09:46:38]: [Skin Announcement] UTB wormhole_lureplant
+[09:46:47]: [Say] (KU_hjXTct1p) UTD: cai gi` v
+[09:46:53]: [Say] (KU_hjXTct1p) UTD: skin hố worm hé
+[09:46:57]: [Say] (KU_54sjc_a8) UTB: cai' skin worm
+[09:47:01]: [Say] (KU_hjXTct1p) UTD: skin nào
+[09:47:08]: [Say] (KU_hjXTct1p) UTD: màu gì
+[09:47:09]: [Say] (KU_54sjc_a8) UTB: skin cay an thit
+[09:47:16]: [Say] (KU_hjXTct1p) UTD: o`
+[09:50:50]: [Say] (KU_54sjc_a8) UTB:  I have 314 honeys, and this one has 100% freshness.
+[09:50:55]: [Say] (KU_hjXTct1p) UTD: =))
+[09:51:09]: [Say] (KU_hjXTct1p) UTD: vậy ăn mới đã
+[09:52:33]: [Say] (KU_hjXTct1p) UTD: gỗ nữa nè utb
+[09:52:46]: [Say] (KU_hjXTct1p) UTD: làm ván gỗ luôn
+[09:52:57]: [Say] (KU_hjXTct1p) UTD: sau ra làm nền farm mật =))
+[09:54:04]: [Say] (KU_hjXTctx_) Momiji: HEO
+[09:54:12]: [Say] (KU_hjXTct1p) UTD: bắt glom nữa
+[09:55:10]: [Say] (KU_hjXTctx_) Momiji: hết heo roia
+[09:55:58]: [Say] (KU_hjXTctx_) Momiji: khong lam bánh ngô
+[09:56:24]: [Say] (KU_54sjc_a8) UTB: be? tuong` no' an het' cut' gloom o trong r
+[09:56:28]: [Say] (KU_hjXTct1p) UTD: vl
+[09:56:30]: [Say] (KU_hjXTct1p) UTD: =))
+[09:56:32]: [Say] (KU_hjXTct1p) UTD: kệ đi
+[09:56:36]: [Say] (KU_hjXTct1p) UTD: sau chuyển chỗ mới
+[09:56:57]: [Say] (KU_hjXTct1p) UTD: ychỗ đó gần def chó quá
+[09:57:08]: [Say] (KU_hjXTctx_) Momiji: đánh heo giúp cai
+[09:57:14]: [Say] (KU_hjXTctx_) Momiji:  (󰀍 8/150) Help, friends!
+[10:01:45]: [Say] (KU_hjXTctx_) Momiji: xin ít gỗ quy
+[10:01:48]: [Say] (KU_hjXTct1p) UTD:  I have 12 living logs.
+[10:01:59]: [Say] (KU_hjXTct1p) UTD: chest
+[10:02:32]: [Say] (KU_hjXTct1p) UTD:  We have 32 living logs in this chest.
+[10:03:22]: [Say] (KU_hjXTct1p) UTD: chest nay`
+[10:04:49]: [Leave Announcement] UTD
+[10:06:29]: [Join Announcement] UTD
+[10:09:10]: [Say] (KU_hjXTct1p) UTD: m lại đi farm khỉ à utb
+[10:09:14]: [Say] (KU_54sjc_a8) UTB:  I have 177 light bulbs, and this one has 100% freshness.
+[10:12:42]: [Announcement] 30s until server clean
+[10:12:44]: [Announcement] 30s until server clean
+[10:15:01]: [Say] (KU_hjXTct1p) UTD: thêm ván gỗ đi utb
+[10:15:06]: [Say] (KU_hjXTct1p) UTD:  I have 180 boards.
+[10:17:48]: [Say] (KU_54sjc_a8) UTB:  We have 90 boards in this chest.
+[10:17:55]: [Say] (KU_hjXTct1p) UTD: ship ra day i
+[10:18:03]: [Say] (KU_hjXTct1p) UTD:  I have 88 cobblestones.
+[10:19:57]: [Say] (KU_hjXTct1p) UTD: lót i
+[10:20:00]: [Say] (KU_hjXTct1p) UTD: t làm cho
+[10:21:38]: [Say] (KU_hjXTct1p) UTD: có 2 miếng lỗi
+[10:21:47]: [Say] (KU_hjXTct1p) UTD: đâu ra chỗ t ping
+[10:21:50]: [Say] (KU_hjXTct1p) UTD: có cái xúc nền
+[10:21:54]: [Say] (KU_hjXTct1p) UTD: xúc lại giúp t
+[10:22:48]: [Say] (KU_54sjc_a8) UTB: mua` xuan ra day la` toi' cuc. cut' luon =))
+[10:31:32]: [Say] (KU_hjXTct1p) UTD: bạn
+[10:31:37]: [Say] (KU_hjXTct1p) UTD: khử mấy con ong i
+[10:31:45]: [Say] (KU_54sjc_a8) UTB: =))
+[10:31:48]: [Say] (KU_hjXTct1p) UTD: rile up
+[10:31:52]: [Say] (KU_hjXTctx_) Momiji: còn xáp ong khong
+[10:31:57]: [Say] (KU_hjXTct1p) UTD: bay lung tung quá
+[10:32:04]: [Say] (KU_hjXTct1p) UTD: sáp ong t bỏ duới AF r
+[10:36:58]: [Say] (KU_hjXTct1p) UTD: tới cục cứt nữa r
+[10:42:20]: [Say] (KU_hjXTct1p) UTD:  I have 233 honeys, and this one has 100% freshness.
+[10:42:45]: [Say] (KU_hjXTct1p) UTD: ăn mật tới cục cứt luôn
+[10:42:49]: [Say] (KU_54sjc_a8) UTB: =))
+[10:44:01]: [Say] (KU_hjXTctx_) Momiji: làm giúp mấy cái cân :))
+[10:44:08]: [Say] (KU_hjXTct1p) UTD: vl
+[10:44:13]: [Say] (KU_hjXTct1p) UTD: làm ở đâu
+[10:44:22]: [Say] (KU_hjXTct1p) UTD:  We have 62 cobblestones in this chester.
+[10:44:48]: [Say] (KU_hjXTct1p) UTD: chó
+[10:45:37]: [Default Announcement] Fires near UTB were extinguished
+[10:45:41]: [Default Announcement] Fires near UTD were extinguished
+[10:47:06]: [Say] (KU_hjXTctx_) Momiji: qua cạp giúp với
+[10:47:17]: [Say] (KU_hjXTct1p) UTD: yhết ngày đã
+[10:47:34]: [Skin Announcement] UTB wilson_beard_magma
+[10:49:39]: [Say] (KU_hjXTctx_) Momiji: ê cây sắp lớn roio26
+[10:49:57]: [Say] (KU_hjXTctx_) Momiji: qua lấy cây còn lại
+[10:50:14]: [Say] (KU_hjXTct1p) UTD: -.-
+[10:50:16]: [Say] (KU_hjXTct1p) UTD: mai iđ
+[10:50:22]: [Say] (KU_hjXTct1p) UTD: sắp off ma`
+[10:50:28]: [Say] (KU_hjXTct1p) UTD: chăm sao nổi
+[10:52:47]: [Announcement] 30s until server clean
+[10:52:47]: [Announcement] 30s until server clean
+[10:53:10]: [Say] (KU_hjXTctx_) Momiji: xử lý giúp với
+[10:53:57]: [Death Announcement] Momiji was killed by Merm. He became a spooky ghost!
+[10:54:48]: [Resurrect Announcement] Momiji was resurrected by Celestial Portal.
+[10:55:34]: [Death Announcement] UTB was killed by Splumonkey. She became a spooky ghost!
+[10:55:38]: [Resurrect Announcement] UTB was resurrected by Life Giving Amulet.
+[10:55:39]: [Say] (KU_hjXTctx_) Momiji: :))))
+[10:55:41]: [Say] (KU_hjXTct1p) UTD: ._.
+[10:55:49]: [Death Announcement] UTB was killed by Splumonkey. She became a spooky ghost!
+[10:55:51]: [Say] (KU_54sjc_a8) UTB: wwtffff
+[10:55:55]: [Say] (KU_54sjc_a8) UTB: con me no' lag
+[10:56:04]: [Say] (KU_54sjc_a8) UTB: roll i =)))
+[10:56:09]: [Say] (KU_hjXTct1p) UTD: ơ kìa
+[10:56:23]: [Say] (KU_54sjc_a8) UTB: the` dang chay. lag cai' car bay` can' lon
+[11:00:48]: [Say] (KU_hjXTctx_) Momiji: có 2 nhà chỗ này nha
+[11:00:53]: [Say] (KU_hjXTctx_) Momiji: cầm búa ra
+[11:01:10]: [Say] (KU_hjXTctx_) Momiji: túi kalus ngay chỗ này luon
+[11:06:15]: [Say] (KU_hjXTctx_) Momiji: bỏ đâu
+[11:06:20]: [Say] (KU_hjXTct1p) UTD: trên bè
+[11:06:28]: [Say] (KU_hjXTct1p) UTD: trong` dau?
+[11:11:58]: [Leave Announcement] Momiji
+[11:12:47]: [Join Announcement] Momiji
+[11:14:38]: [Say] (KU_hjXTctx_) Momiji: xay6 nha heo giup voi1
+[11:14:43]: [Say] (KU_hjXTct1p) UTD: xay r
+[11:16:13]: [Say] (KU_54sjc_a8) UTB: wtf?
+[11:16:22]: [Say] (KU_hjXTct1p) UTD: ?
+[11:16:28]: [Say] (KU_54sjc_a8) UTB: danh' con nho? co' ra mu~ ko?
+[11:16:34]: [Say] (KU_hjXTct1p) UTD: con gi`
+[11:16:38]: [Say] (KU_54sjc_a8) UTB: tusk
+[11:16:41]: [Say] (KU_hjXTct1p) UTD: yko
+[11:16:43]: [Say] (KU_54sjc_a8) UTB:  I have 3 tam o' shanters, and this one has 100% durability.
+[11:16:52]: [Say] (KU_54sjc_a8) UTB: moi' danh' 1 nha` o` mo`
+[11:16:58]: [Say] (KU_hjXTct1p) UTD: =)))
+[11:17:12]: [Say] (KU_54sjc_a8) UTB: ruot. theo con bu.
+[11:17:22]: [Say] (KU_54sjc_a8) UTB: quay lai. thay' co' 1 mu~ nua~
+[11:19:39]: [Death Announcement] Momiji was killed by Freezing. She became a spooky ghost!
+[11:19:56]: [Resurrect Announcement] Momiji was resurrected by Life Giving Amulet.
+[11:21:16]: [Say] (KU_54sjc_a8) UTB: cam` 2 dien da' nhiet mo` mau lanh. the'
+[11:22:18]: [Say] (KU_hjXTctx_) Momiji: kiem 1 da heo giup voi
+[11:22:24]: [Say] (KU_hjXTct1p) UTD: chest
+[11:23:46]: [Death Announcement] Momiji was killed by Freezing. She became a spooky ghost!
+[11:24:29]: [Resurrect Announcement] Momiji was resurrected by Celestial Portal.
+[11:24:41]: [Say] (KU_hjXTct1p) UTD: nice :))
+[11:25:12]: [Say] (KU_hjXTct1p) UTD: deer
+[11:26:21]: [Death Announcement] UTD was killed by the passage of time. She became a spooky ghost!
+[11:26:26]: [Say] (KU_hjXTct1p) UTD: utb
+[11:26:28]: [Say] (KU_hjXTct1p) UTD: cuu vs
+[11:26:34]: [Resurrect Announcement] UTD was resurrected by Life Giving Amulet.
+[11:27:37]: [Say] (KU_hjXTctx_) Momiji: gi2 vay65 tro72i
+[11:27:54]: [Say] (KU_hjXTct1p) UTD:  (1�) I'm almost freezing!
+[11:28:21]: [Say] (KU_hjXTct1p) UTD: clm
+[11:28:24]: [Say] (KU_hjXTct1p) UTD: nhà heo của t
+[11:31:19]: [Say] (KU_hjXTct1p) UTD: utb
+[11:31:24]: [Say] (KU_54sjc_a8) UTB: hu?
+[11:31:25]: [Say] (KU_hjXTct1p) UTD: ra lấy thịt vô i
+[11:31:27]: [Say] (KU_hjXTct1p) UTD: heo ăn
+[11:32:18]: [Say] (KU_54sjc_a8) UTB: de? do' cho dep =))))
+[11:32:21]: [Say] (KU_54sjc_a8) UTB: o kia`
+[11:32:42]: [Say] (KU_54sjc_a8) UTB: cai' nao` ngon thi` mo? ra lay' thau
+[11:33:33]: [Say] (KU_hjXTct1p) UTD:  I have 20 meats, and this one has 85% freshness.
+[11:34:15]: [Say] (KU_54sjc_a8) UTB: krampus sack la` balo dung' ko =))
+[11:34:28]: [Say] (KU_hjXTct1p) UTD: đưa t
+[11:34:30]: [Say] (KU_hjXTct1p) UTD: ơ kìa
+[11:35:10]: [Say] (KU_54sjc_a8) UTB: may' cai' hop. qua` sida ko can` dung`
+[11:35:17]: [Say] (KU_54sjc_a8) UTB: cu' bo? du' goc' cay a'
+[11:35:24]: [Say] (KU_54sjc_a8) UTB: cho ra dang' noel =))
+[11:35:25]: [Say] (KU_hjXTctx_) Momiji: lam2 sao trong cai cay thu 2
+[11:35:27]: [Say] (KU_hjXTct1p) UTD: =)))
+[11:36:47]: [Announcement] 30s until server clean
+[11:36:57]: [Announcement] 30s until server clean
+[11:37:42]: [Say] (KU_hjXTctx_) Momiji: làm giúp cái trục vớt  đi
+[11:37:54]: [Say] (KU_hjXTct1p) UTD: trong` o dauw
+[11:38:11]: [Say] (KU_hjXTct1p) UTD: 1 cay dc r
+[11:38:24]: [Say] (KU_hjXTct1p) UTD: trồng giữa hồ t ping nè
+[11:38:53]: [Say] (KU_hjXTct1p) UTD: khiêng hạt tới
+[11:39:08]: [Say] (KU_hjXTct1p) UTD: đứng im
+[11:39:39]: [Say] (KU_hjXTct1p) UTD: nhanh Hơn =))
+[11:41:33]: [Say] (KU_hjXTctx_) Momiji: rồi sao bón phan
+[11:41:44]: [Say] (KU_hjXTct1p) UTD: cau` kia`
+[11:41:49]: [Say] (KU_hjXTct1p) UTD: ne`
+[11:42:20]: [Death Announcement] Momiji was killed by Starvation. She became a spooky ghost!
+[11:43:50]: [Say] (KU_hjXTct1p) UTD: ơ kìa amulet
+[11:44:13]: [Resurrect Announcement] Momiji was resurrected by Life Giving Amulet.
+[11:44:32]: [Say] (KU_hjXTct1p) UTD: thâu off =))
+[11:44:39]: [Say] (KU_hjXTct1p) UTD: mai chơi
+[11:44:54]: [Leave Announcement] UTD
+[11:45:24]: [Leave Announcement] UTB
+[11:46:53]: [Leave Announcement] Momiji
